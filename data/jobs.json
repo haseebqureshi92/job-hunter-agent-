@@ -3759,5 +3759,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-05T02:09:56.892837+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+    "source": "WeWorkRemotely",
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+    "description": "Headquarters:  Australia\n     URL:   http://yooli.co \n \n\n Job description \n \n We are seeking a highly skilled  Senior Software Engineer  to join our team and contribute to the transformative tech evolution in healthcare.\u00a0 \n This critical role involves developing, integrating, and optimising our backend and database systems.\u00a0 \n You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. \n \n \u00a0 \n Your Role: \n \n Develop and maintain robust backend services using  NestJS  and  Node.js , ensuring top-tier performance and security. \n Design and manage efficient  REST API  endpoints to optimise interactions with our SQL database. \n Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance. \n Ensure the scalability, security, and responsiveness of backend services. \n Uphold rigorous data protection standards and implement industry-leading security measures. \n Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team. \n \n \u00a0 \n What Youll Bring: \n Essential Skills & Experience: \n \n At least  7 years of experience  with: \n React \n React Vite \n REST API development \n Strong knowledge and hands-on experience with  SQL . \n Proficiency in  Prisma  for database management. \n A minimum of  5 years of experience  in  REST API development  using the  NestJS framework . \n Expertise in backend development, specifically with  NestJS ,  Node.js ,  REST APIs , and  PostgreSQL . \n Experience in developing single-page applications using  ReactJS . \n Strong understanding of  TypeScript  and  Object-Oriented Programming (OOP)  principles. \n Solid grasp of commonly used  data structures . \n Proven experience with  cloud hosting services  (preferably AWS) and integrating them into development workflows. \n Exceptional problem-solving skills and meticulous attention to",
+    "posted": "Wed, 05 Aug 2026 05:52:46 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-05T08:30:31.480710+00:00"
   }
 }
