@@ -2964,5 +2964,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-07T00:07:58.371311+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/descript-engineering-manager-agent": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/descript-engineering-manager-agent",
+    "source": "WeWorkRemotely",
+    "title": "Descript: Engineering Manager, Agent",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/descript-engineering-manager-agent",
+    "description": "Headquarters:  San Francisco, CA or Remote, US\n \n\n About the Role \n Descript is revolutionizing how traditional editing methodologies and AI technologies come together in every part of the creation process (recording, transcribing, editing, and sharing) to make it faster and easier than ever to create high quality content. \n We are hiring an\u00a0 Engineering Manager \u00a0to lead our Agent team, focused on building the world\u2019s best Agentic Video Editor, Underlord. This is a rapidly changing landscape, and there are many unique technical challenges that come with building high quality, cost-effective Agents for handling the multimodal nature of video. You will manage a team of 5-6 software engineers, report to the VP of Engineering and partner closely with others across engineering, product, design, and AI research teams. \n Agent-driven editing is a major company focus and this role requires strong product thinking and strategic partnership skills as the team continues to develop novel, high-quality experiences around Agentic Video Editing. \n About the team: \n Descript's Agent Underlord launched in July 2025. Since then, we've been working on improving the user experience for chat-based editing, adding more capabilities into our agent, and improving our agent infrastructure to continue to scale as models get better and better. The Agent team partners very closely with our AI Research team, in order to achieve our mission to make video editing accessible to anyone. Your management peers and direct reports will be based in San Francisco, New York, and distributed across the US and Canada. \n This is the role for you if you are excited about driving progress in the following areas: \n \n Building a best-in-class product experience for agentic video editing interactions (eg. tuning prompt templates and other key user workflows, addressing user feedback, building key product capabilities like chat history, etc) \n Setting the standard as a player-coach who builds with the team and def",
+    "posted": "Fri, 07 Aug 2026 07:31:06 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-07T13:15:44.691084+00:00"
   }
 }
