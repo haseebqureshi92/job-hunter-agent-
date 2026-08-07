@@ -2980,5 +2980,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-07T13:15:44.691084+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Stibo Sr. Architect/Platform Owner for Global Fortune 500",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
+    "description": "Headquarters:  \n \n\n Within the client's Global Information Services (GIS) organization is a team of dedicated resources to build a digital center of excellence. This team is made up of diverse skillsets, roles and unique perspectives that allow us to research, design, build and experiment with tools that we hope customers and our internal employees will find useful, usable, and delightful. These digital offerings connect our customers and partners to our products, services, solutions, and talent, making it simple and easy for the customer to choose OC \u2013 driving an increase in engagement, loyalty, retention, and sales. The Stibo Platform Architect will work closely with our digital center of excellence, integration architects, enterprise architects, IT product owners, business digital product managers and partners to develop a deep understanding of our business strategies and our user journeys Leveraging this understanding, the Platform Owner \u2013 Stibo is responsible for establishing a common framework to build and run the product data, asset management, syndication of data, and product visualization tools supporting the company\u2019s initiatives across our market facing, digital worker and manufacturing digital portfolios. This role will set the vision and strategy needed to ensure rapid, iterative development and global deployment of industry best features for each of these critical areas. Specifically ensuring we have a comprehensive, nimble, modern, secure, modular, and scalable platform that we can leverage across businesses and global regions. This role will also promote education and drive consensus in setting our platform standards and direction across the GIS organization and with our key partners. Reports to : GIS Product Leader \u2013 MDM Product, Program, and Practice Span of Control : Individual Contributor Job Responsibilities Knowing Our Businesses and their Strategies Build relationships within the organization, cross-functionally, and with key business stakehol",
+    "posted": "Fri, 07 Aug 2026 15:54:26 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-07T19:04:25.626631+00:00"
   }
 }
