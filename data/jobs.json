@@ -3044,5 +3044,32 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-08T12:59:01.856863+00:00"
+  },
+  "remoteok-1136299": {
+    "id": "remoteok-1136299",
+    "source": "RemoteOK",
+    "title": "Senior React Full stack Developer",
+    "company": "Lemon.io",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
+    "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u00e2\u0080\u0094 the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates \u00e2\u0080\u0094 let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It\u00e2\u0080\u0099s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several open positions for Full-Stack React.js Developers - please see the details below. We also have some backend positions; the full list is included below as well. Requirements for the Senior React & Python Position: 4+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Requirements for the Senior Ruby & React Position: 5+ years of software development experience React.js 2+ years and Ruby/Ruby on Rails 5+ years OR React.js 5+ years and Ruby/Ruby on Rails 2+ years Experience with AWS, GCP, or Azure is required. Requirements for the Senior Node & React Position: 5+ years of software development experi",
+    "posted": "2026-08-07T13:08:19+00:00",
+    "tags": [
+      "dev",
+      "engineer",
+      "senior",
+      "full time",
+      "python",
+      "aws",
+      "gcp",
+      "javascript",
+      "react",
+      "node",
+      "ruby",
+      "typescript"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-08T18:45:33.357982+00:00"
   }
 }
