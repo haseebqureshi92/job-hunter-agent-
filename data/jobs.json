@@ -2996,5 +2996,53 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-07T19:04:25.626631+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
+    "source": "WeWorkRemotely",
+    "title": "Lattice: Engineering Manager, AI",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
+    "description": "Headquarters:  Remote - Canada\n \n\n Location Requirement: This role is open to candidates located in British Columbia or Ontario, Canada. At this time, we are only able to hire employees residing in these provinces. \n This is Engineering at Lattice \n Lattice's Engineering team is dedicated to building cutting-edge solutions that empower people and organizations to thrive. As AI becomes fundamental to every product experience, ensuring those systems are trustworthy, measurable, and continuously improving is one of the company's most important engineering challenges. \n The AI Intelligence Quality (IQ) team owns that challenge. We build the AI Platform that enables every AI team at Lattice to measure quality, detect regressions, run experiments, and continuously improve AI performance with confidence. The platform you lead won't power a single product\u2014it will shape the quality of every AI experience we deliver, becoming a foundational capability for how AI is built at Lattice. \n What You Will Do \n \n Lead, coach, and grow a high-performing team of AI and software engineers, developing them into strong technical leaders while fostering a culture of ownership, technical excellence, experimentation, and continuous learning. \n Own the execution and delivery of the AI Platform roadmap, balancing near-term product impact with long-term platform investments. \n Partner closely with Product, Applied AI, Data Science, and engineering leaders to define how AI quality is measured, evaluated, and continuously improved across Lattice. \n Lead the development of AI evaluation infrastructure, quality metrics, experimentation capabilities, observability, and developer tooling that enable every AI product team to confidently build, evaluate, and ship AI experiences. \n Drive technical and organizational decisions that improve the scalability, reliability, and adoption of the AI Platform, empowering engineers to own architecture and technical solutions. \n Build strong cross-functional partne",
+    "posted": "Sat, 08 Aug 2026 07:30:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-08T12:59:01.373984+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/gemini-director-fraud": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/gemini-director-fraud",
+    "source": "WeWorkRemotely",
+    "title": "Gemini: Director, Fraud",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/gemini-director-fraud",
+    "description": "Headquarters:  New York, New York; Miami, Florida; Remote (USA)\n \n\n About the Company \n Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all \u2014 bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. \n The Department: Fraud Operations \n The Role: Director, Fraud \n At Gemini, Trust is our Product. We are seeking an experienced and strategic Director\u00a0of Fraud - Ops and Policy to lead our efforts in maintaining platform integrity, ensuring\u00a0user safety, and upholding compliance standards. This role is pivotal in shaping and executing strategies that protect our users and the broader crypto ecosystem. \n Responsibilities: \n \n Work with stakeholders to develop and implement a comprehensive fraud risk\u00a0strategy to mitigate losses while minimizing impact to good customers across a\u00a0variety of products \n Own Fraud Key Performance Indicators (KPIs) end-to-end \u2014 define metrics,\u00a0manage operational capacity and queue health, and deliver regular performance\u00a0reporting to executive leadership and, where applicable, board-level risk\u00a0committees \n Lead cross-functional teams in identifying, assessing, and responding to fraud incidents and mitigating them quickly \n Lead structured root cause analyses on fraud events, platform abuse patterns,\u00a0and operational failures; translate findings into data-backed recommendations\u00a0and sustainable systemic fixes rather than purely",
+    "posted": "Sat, 08 Aug 2026 07:30:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-08T12:59:01.607313+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai",
+    "source": "WeWorkRemotely",
+    "title": "Lattice: Engineering Manager, AI",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai",
+    "description": "Headquarters:  Remote - US\n \n\n This is Engineering at Lattice \n Lattice's Engineering team is dedicated to building cutting-edge solutions that empower people and organizations to thrive. As AI becomes fundamental to every product experience, ensuring those systems are trustworthy, measurable, and continuously improving is one of the company's most important engineering challenges. \n The AI Intelligence Quality (IQ) team owns that challenge. We build the AI Platform that enables every AI team at Lattice to measure quality, detect regressions, run experiments, and continuously improve AI performance with confidence. The platform you lead won't power a single product\u2014it will shape the quality of every AI experience we deliver, becoming a foundational capability for how AI is built at Lattice. \n What You Will Do \n \n Lead, coach, and grow a high-performing team of AI and software engineers, developing them into strong technical leaders while fostering a culture of ownership, technical excellence, experimentation, and continuous learning. \n Own the execution and delivery of the AI Platform roadmap, balancing near-term product impact with long-term platform investments. \n Partner closely with Product, Applied AI, Data Science, and engineering leaders to define how AI quality is measured, evaluated, and continuously improved across Lattice. \n Lead the development of AI evaluation infrastructure, quality metrics, experimentation capabilities, observability, and developer tooling that enable every AI product team to confidently build, evaluate, and ship AI experiences. \n Drive technical and organizational decisions that improve the scalability, reliability, and adoption of the AI Platform, empowering engineers to own architecture and technical solutions. \n Build strong cross-functional partnerships and influence engineering strategy to establish AI evaluations as a foundational capability that accelerates AI development across Lattice. \n \n What You Will Bring to the Table \n ",
+    "posted": "Sat, 08 Aug 2026 07:30:46 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-08T12:59:01.856863+00:00"
   }
 }
