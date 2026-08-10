@@ -3103,5 +3103,53 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-09T13:01:54.761700+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Software Engineer, Treasury",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 We are hiring for our Treasury team  Software Engineers at various levels (II and Senior)  who are curious and willing to dive deep and understand our technology and domain in order to solve interesting and hard problems. The Treasury team maintains and builds the backend services that manage the flow of funds between Lithic and third parties. This includes our ledger, ACH and wire infrastructure, and associated reconciliation. The systems we maintain have high standards of reliability and correctness. You will become an expert in the card payments space. The Treasury team primarily uses Python for their tech stack. \n The Treasury team builds the mission-critical backend services that orchestrate the flow of funds between Lithic and external financial institutions. This includes engineering our core ledger, ACH and wire infrastructure, and high-precision reconciliation systems. As we handle the movement of money, we build our systems to the highest standards of reliability and correctness",
+    "posted": "Mon, 10 Aug 2026 07:30:58 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-10T07:51:08.845859+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-data-scientist-algorithms-community-support": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-data-scientist-algorithms-community-support",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Data Scientist - Algorithms, Community Support",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-data-scientist-algorithms-community-support",
+    "description": "Headquarters:  Remote - USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  \n Airbnb is a mission-driven company dedicated to creating a world where anyone can belong anywhere. Our Community Support (CS) team is at the heart of that mission\u2014delivering seamless, 10-star customer service experiences complemented by world-class, personalized human support that empowers hosts and guests at every step of their journey. \n As a Data Scientist working on Algorithms in CS, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operation agents to enable personalized, fair and exceptional experience for guests & hosts using advanced LLM/ML modeling for Community Support. \n The Difference You Will Make: \n We're looking for a talented Data Scientist with LLM/ML expertise to join the Community Support Data Science team. In this role, you'll partner closely with the tech lead to tackle significant components of high-impact projects with a direct opportunity to shape and influence our AI-powered products, differentiated service experiences, and operational optimization strategies. \n The ideal candidate combines deep technical fluency in LLM/ML with a bias toward action and impact, comfort with ambiguity, and a passion for building scalable, scientific solutions. You\u2019ll work on high-impact projects like: \n \n Implement advanced techniques to automate the LLM evaluation process with high efficiency and quality. \n Scale the high-quality synthetic datasets curation across various CS domains for training and evaluating LLM. \n Build LLM/ML models to understand customer issues based on diverse",
+    "posted": "Mon, 10 Aug 2026 07:30:55 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-10T07:51:09.091163+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Senior Dispute Analyst",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others. \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City. \n Our Risk & Compliance team is hir",
+    "posted": "Mon, 10 Aug 2026 07:30:55 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-10T07:51:09.334561+00:00"
   }
 }
