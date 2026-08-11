@@ -3151,5 +3151,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-10T07:51:09.334561+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
+    "description": "Headquarters:  \n \n\n Summary We are looking for a Tech Lead to take ownership of a delivery portfolio within a Manufacturing Engineering group that builds the data products the plant depends on. This is a hands-on leadership role focused on shipping and operating manufacturing data products in a validated production environment, while applying AI with sound judgment in a regulated context. General information This group builds manufacturing data products including real-time batch progression monitoring, process anomaly detection, and analytics that drive yield and throughput improvement. The team owns the data pipelines, cloud platform, environments, and delivery, and works closely with data science colleagues to define problems, provide data, and run the infrastructure required for production use. The role leads a small, senior, multi-disciplinary team and carries accountability for what is shipped, when it is shipped, and how it performs in operation. The environment requires disciplined promotion from DEV to QA to PROD, with validation, change control, traceability, and documentation handled rigorously. Tasks and Deliverables - Own delivery of a portfolio of manufacturing data products from concept through validated production use. - Lead a small, senior, multi-disciplinary team of data engineers, warehouse engineers, and full-stack developers. - Solve technical issues that stall the team, including pipeline failures, warehouse performance and cost, data quality, integration with plant systems, and production incidents. - Supervise progression from DEV to QA to PROD, ensuring validation, change control, traceability, and documentation are properly met. - Partner with data science to frame solvable problems, provide well-understood data and environments, and assess whether models are fit for intended production use. - Evaluate and introduce AI-assisted approaches to development, testing, documentation, and monitoring, with clear judgment on regulated-context limita",
+    "posted": "Tue, 11 Aug 2026 12:58:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-11T13:17:22.940272+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Data Scientist for Top Cosmetic firm",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
+    "description": "Headquarters:  \n \n\n Summary We are seeking a Data Scientist to analyze anonymized consumer interaction data and uncover patterns in unstructured language across call center and cross-channel conversations. The primary goal is to identify intent, surface trends, and turn language into structured insights that can inform content strategy and web experiences. General information This engagement focuses on a large historical dataset collected over 10 years across consumer information and interaction touchpoints. The data includes call center and cross-channel interactions, with existing KPI reporting around areas such as conflict types and call duration, but limited analysis of the underlying unstructured language. The data sits in a homegrown database and Azure environment, with an anonymized semantic layer. The initial phase will be exploratory and somewhat open-ended, starting with manual exports of conversation data before more connected pipelines are established. This role will work closely with a Program Manager supporting the broader effort. Tasks and Deliverables - Analyze anonymized consumer interaction and call center conversation data. - Review exported conversation data across channels, brands, and interaction types. - Identify intent patterns within unstructured language and conversation content. - Spot trends in customer language not captured by existing KPI reporting. - Convert unstructured language into structured insights and usable analysis frameworks. - Develop recommendations on how findings can inform content strategy. - Explore how LLM-era language analysis can support web content decisions. - Collaborate closely with the paired Program Manager on analysis priorities and outputs. Required experience - Proven experience as a Data Scientist working with large-scale datasets. - Strong experience analyzing unstructured text or language-based data. - Experience identifying trends, patterns, and intent signals from customer interactions. - Ability to tra",
+    "posted": "Tue, 11 Aug 2026 12:40:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-11T13:17:23.222782+00:00"
   }
 }
