@@ -3990,5 +3990,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-14T02:25:55.080497+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+    "source": "WeWorkRemotely",
+    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+    "description": "Headquarters:  Sweden\n     URL:   http://career.proxify.io \n \n\n The Role: \n \u00a0 \n We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. \n \u00a0 \n What we are looking for: \n \u00a0 \n \n \n 5+ years experience as a Fullstack Developer. \n \n \n Backend experience with: \n \n \n \n Node.js \n \n \n Microservices architecture \n \n \n \n Database experience with: \n \n \n \n SQL \n \n \n MongoDB \n \n \n \n Intermediate-advanced English \n \n \n \u00a0 \n Nice-to-have:\u00a0 \n \n \n Located in CET timezone (+/- 3 hours). \n \n \n Database Architecture knowledge. \n \n \n \u00a0 \n Responsibilities: \n \n \n Ability to build libraries and frameworks of reusable efficient code. \n \n \n Competence in designing and implementing low-latency, stable and performing applications. \n \n \n Capacity to effectively collaborate with other team members and stakeholders remotely. \n \n \n Ability to implement data protection systems. \n \n \n Competence in data storage solutions. \n \n \n \u00a0 \n What we offer: \n \u00a0 \n Get paid, not played \n No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. \n Predictable project hours \n Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. \n Flex days, so you can recharge \n Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. \n Career-accelerating positions at cutting-edge companies \n Discover exclusive long-term remote positions at the world's most exciting companies. \n Hand-picked opportunities just for you \n Skip the typical recruitment roadblocks and biases with personally matched positions. \n One seamless process, multiple opportunities \n A one-time contracting process for endless opportunities, with no extra assessments. \n Compensation \n Enjoy the same pay, every month with positions landed through Proxify. \n\n To app",
+    "posted": "Fri, 14 Aug 2026 10:14:53 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 9,
+    "pitch": "I am a Senior Full-Stack Engineer with over 6 years of experience building scalable web applications using React.js, Node.js, and microservices architectures. I specialize in designing high-performance REST and GraphQL APIs, managing robust SQL and MongoDB data layers, and creating reusable component libraries. Having engineered low-latency backends and secure cloud architectures for distributed teams, I can seamlessly step into your client's projects and deliver clean, reliable code from day one. I work within the CET timezone overlap and look forward to contributing to your network of senior talent.",
+    "status": "new",
+    "found_at": "2026-08-14T13:18:16.149702+00:00"
   }
 }
