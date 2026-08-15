@@ -4046,5 +4046,21 @@
     "pitch": "I help AI-powered document intelligence platforms scale their web and mobile applications with robust full-stack architecture and optimized LLM integrations. For AskYourPDF, I can help refine your document processing pipelines, enhance retrieval-augmented generation (RAG) for accurate cited summaries, and build or scale responsive web and native Android clients. Having built high-throughput AI interfaces and document-parsing workflows, I focus on low-latency streaming, reliable vector search, and clean, intuitive user experiences across devices. Let's connect to discuss how I can accelerate your product roadmap and improve user retention.",
     "status": "new",
     "found_at": "2026-08-15T06:47:50.539509+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+    "source": "WeWorkRemotely",
+    "title": "ZoomInfo Technologies LLC: Principal Business Intelligence Analyst",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+    "description": "Headquarters:  Remote\n \n\n ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen\u2013fast. Overview \n We are seeking a Principal Product Analyst to own ZoomInfo's PLG measurement system - the framework that defines how the company evaluates customer adoption, monetization, retention, and growth across its product portfolio. \n \u00a0 \n This is not a traditional reporting or dashboarding role. It is a strategic leadership role responsible for defining how the organization measures PLG success, identifying the behaviors that drive business outcomes, and generating the insights that shape product investments and growth strategy. \n \u00a0 \n The ideal candidate combines strong analytical depth with operational rigor and a builder mentality. They are comfortable operating in ambiguity, leading investigations from scratch, and influencing decisions across Product, Engineering, Go-To-Market, and Leadership teams. They also embrace AI-native ways of working, leveraging automation and emerging technologies to fundamentally improve how analytics is performed and scaled. PLG experience is a plus but not required.\u00a0 \n \u00a0 \n What You'll Do \n Product Growth Measurement & Operating System \n \n Define and own the measurement framework for ZoomInfo\u2019s PLG motion, including acquisition, activation, engagement, monetization, retention, and expansion. \n Establish the company\u2019s source of truth for PLG performance, including KPI definitions, scorecards, executive reporting, and performance benchmarks. \n Define leading indicators that predict customer activation, product adoption, conversion, retention, and expansion outcomes. \n Ensure measurement consistency across products, teams, and business units, enabling a unified view of cu",
+    "posted": "Sat, 15 Aug 2026 07:31:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "Hi, I saw your opening for the Principal Product Analyst role driving ZoomInfo's PLG measurement framework. While my core background is as a full-stack engineer, I specialize in building AI-native analytics pipelines and data instrumentation frameworks that turn raw product events into actionable growth drivers. I have hands-on experience integrating telemetry across web and mobile platforms and using automated AI workflows to surface deep behavioral insights. I can bridge the gap between engineering implementation and strategic PLG metrics to help scale your product measurement system.",
+    "status": "new",
+    "found_at": "2026-08-15T12:47:29.727812+00:00"
   }
 }
