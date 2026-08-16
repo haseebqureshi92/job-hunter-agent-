@@ -4062,5 +4062,37 @@
     "pitch": "Hi, I saw your opening for the Principal Product Analyst role driving ZoomInfo's PLG measurement framework. While my core background is as a full-stack engineer, I specialize in building AI-native analytics pipelines and data instrumentation frameworks that turn raw product events into actionable growth drivers. I have hands-on experience integrating telemetry across web and mobile platforms and using automated AI workflows to surface deep behavioral insights. I can bridge the gap between engineering implementation and strategic PLG metrics to help scale your product measurement system.",
     "status": "new",
     "found_at": "2026-08-15T12:47:29.727812+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+    "source": "WeWorkRemotely",
+    "title": "Vercel: Member of the Technical Staff, Internal Agent",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+    "description": "Headquarters:  Remote - United States\n \n\n About Vercel: \n Vercel is the agentic infrastructure company. We free people and agents to ship what\u2019s next. \n For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. \n Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. \n We are building the platform for that future, trusted by companies like\u00a0 OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you\u2019re building our products, supporting our customers, growing our community, or shaping our story, you\u2019ll help define what comes next. About Vercel: \n Vercel is the agentic infrastructure company. We free people and agents to ship what\u2019s next. \n For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. \n Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. \n We are building the platform for that future, trusted by companies like\u00a0 OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you\u2019re building our products, supporting our customers, growing our community, or shaping our story, you\u2019ll help define what comes next. \n What You Will Do: \n \n Design and build V as the primary agentic interface for getting work done across Vercel, from answering questions and analyzing data to executing complex, multi-system workflows. \n Build the agent architecture that allows V to understand intent, plan work, select the right skills and tools, recover from failures, and complete long-runni",
+    "posted": "Sun, 16 Aug 2026 07:30:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 9,
+    "pitch": "I have spent the last several years building at the intersection of full-stack engineering and agentic AI systems, leveraging Next.js, the Vercel AI SDK, and autonomous workflows in production. Designing internal agents that orchestrate complex tasks, interface reliably with external APIs, and enhance team velocity is directly aligned with my experience. I understand how to create robust, self-healing agent pipelines with low latency and tight tool-calling integration. I would love to bring my hands-on background in full-stack architecture and LLM orchestration to help scale Vercel's internal agent ecosystem.",
+    "status": "new",
+    "found_at": "2026-08-16T12:49:45.425881+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/hightouch-application-security-lead": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
+    "source": "WeWorkRemotely",
+    "title": "Hightouch: Application Security Lead",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
+    "description": "Headquarters:  Remote (North America)\n \n\n About Hightouch \n Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one place, every marketer finally has the power to build and ship end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI marketing that actually works. \n Founded in 2019 and headquartered in San Francisco, Hightouch enables marketing teams to analyze performance, brainstorm ideas, and generate creative at a speed and quality that wasn't previously possible. \n Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Customer Data Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify, Aritzia, Cars.com, Ramp, and PetSmart. \n At Hightouch, our mission is to help our customers leverage data and AI to grow their businesses. The team is ambitious, impact-driven, efficient \u2014 and we believe humility, kindness, and compassion are essential to our success. If you're energized by velocity, obsessed with raising the bar, and want to build alongside people who care deeply about each other and our customers, we'd love to meet you. About   the   Role \n This is our first dedicated security hire, and it's a rare chance to define the function from the ground up. You'll own Hightouch's application security posture end-to-end. We have strong engineering fundamentals and a solid foundation; now you'll shape what security looks like here as we scale from 70 to 140+ engineers. \n This is a hands-on, high-autonomy role. You'll spend most of your time in the codebase, not in meetings. You\u2019ll be solving hard problems at the intersection of security and distributed systems: \n \n Multi-tenant   isolation  on a system running ~1M data syncs per day and ingesting 100K+ events/sec \n Sub-tenant access control  - for multi-team and multi-brand use cases, requiring differentiated access to configuration and data \n Security   architecture ",
+    "posted": "Sun, 16 Aug 2026 07:30:32 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 3,
+    "pitch": "I'm a full-stack engineer with extensive experience building and auditing secure web platforms, agentic AI systems, and complex data integrations. Because Hightouch connects enterprise data pipelines directly into AI marketing workflows, securing customer context against prompt injection, unauthorized data access, and API vulnerabilities is paramount. Having built hardened end-to-end web architectures and implemented robust threat modeling for modern applications, I can help audit your codebases, establish developer-friendly AppSec practices, and secure your platform as you scale. Let's discuss how my full-stack engineering background can fortify Hightouch's security posture.",
+    "status": "new",
+    "found_at": "2026-08-16T12:49:54.337272+00:00"
   }
 }
