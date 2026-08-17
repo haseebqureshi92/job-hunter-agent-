@@ -4131,5 +4131,37 @@
     "pitch": "I am a Senior AI and Full-Stack Engineer with extensive commercial experience designing and deploying practical AI solutions for high-growth startups. My core expertise centers on building end-to-end AI systems in Python, integrating LLMs and custom ML pipelines, and connecting them to robust web and mobile backends. Having worked independently and asynchronously with distributed US and European teams, I thrive in fast-paced startup environments where clean architecture and rapid execution matter. I would love to join the Lemon.io network to help your client startups build scalable, production-ready AI products.",
     "status": "new",
     "found_at": "2026-08-17T12:54:34.451540+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: AI/ML Engineer for an AI-Driven E-Commerce Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
+    "description": "Headquarters:  \n \n\n We are seeking an AI Engineer to develop AI-first applications and integrate custom models and infrastructure into an existing e-commerce platform. The role focuses on building agent-led product experiences, including internal automation, dynamic site customization, and customer-facing conversational commerce workflows. General information This engagement supports an e-commerce startup building a platform around conversational design and intelligent automation. The current objective is to extend the existing product with AI-native capabilities while building on top of the current backend and application stack. The work includes three core initiative areas: an internal AI employee for operational tasks, a fluid site customizer, and a customer-facing commerce agent designed to support one-prompt checkout experiences. The role will involve model integration, infrastructure setup, and product-facing implementation across both backend and UI surfaces. Tasks and Deliverables - Develop AI-first applications for an existing e-commerce platform. - Architect and implement autonomous e-commerce AI agents using open-source and proprietary foundation models. - Establish GPU infrastructure and data pipelines for model fine-tuning and deployment. - Integrate AI workflows with the existing stack, including MongoDB, Node.js, Express, React, and third-party APIs. - Build conversational UI components and backend logic for one-prompt checkouts and dynamic site customization. Required Experience - Strong expertise in AI/ML engineering and LLM integration. - Hands-on experience fine-tuning open-source models such as Llama or Mistral. - Experience building autonomous agents and conversational AI workflows. - Solid background in GPU infrastructure setup and optimization for training or inference. - Full-stack proficiency with MongoDB, Express, React, and Node.js. - Experience integrating REST APIs into production applications. Nice to have: - Familiarity with Stripe, Tw",
+    "posted": "Mon, 17 Aug 2026 14:10:09 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-17T18:47:39.603668+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Samsara: Staff Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+    "description": "Headquarters:  Remote\n     URL:   https://www.samsara.com/ \n \n\n About the role: \n Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next. \n We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from scratch, applying AI and ML to massive real-world datasets, and shipping capabilities that change how organizations maintain equipment, manage fleets, and run day-to-day operations. Most of this work is zero-to-one, at billion-dollar scale. \n We're looking for software engineers who want to define what ships next. Leveling is broad and flexible: we're hiring from Senior through Staff+, across platform and product, and we're open to shaping scope around the right person's strengths and interests. That window won't stay open long. \n This role is remote and open to candidates residing in the US. Relocation assistance will not be provided for this role. \n You should apply if: \n \n You want to impact the industries that run our world. \u00a0The software you build will have real-world stakes: helping keep the lights on, getting food into grocery stores, keeping workers safe. What ships here isn't metrics on a dashboard. It shows up on the loading dock, the job site, and the dispatch floor. \n You want to build, not maintain. \u00a0Samsara is in full growth mode. We're building new systems from scratch, not babysitting old ones. You'd own entire problem spaces end to end, with the a",
+    "posted": "Mon, 17 Aug 2026 13:57:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-17T18:48:05.096225+00:00"
   }
 }
