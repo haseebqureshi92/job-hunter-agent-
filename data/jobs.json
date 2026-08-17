@@ -4094,5 +4094,42 @@
     "pitch": "I'm a full-stack engineer with extensive experience building and auditing secure web platforms, agentic AI systems, and complex data integrations. Because Hightouch connects enterprise data pipelines directly into AI marketing workflows, securing customer context against prompt injection, unauthorized data access, and API vulnerabilities is paramount. Having built hardened end-to-end web architectures and implemented robust threat modeling for modern applications, I can help audit your codebases, establish developer-friendly AppSec practices, and secure your platform as you scale. Let's discuss how my full-stack engineering background can fortify Hightouch's security posture.",
     "status": "new",
     "found_at": "2026-08-16T12:49:54.337272+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Collaboration.Ai: Senior Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+    "description": "Headquarters:  Minneapolis, MN\n     URL:   http://collaboration.ai \n \n\n Who We Are \n Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs that transform industries, empower communities, and create a more sustainable future. We collaborate with organizations across the defense ecosystem, helping them navigate complex challenges and drive transformative change. \n Our Products \n NetworkOS \u2014 NetworkOS is an AI-powered platform that aligns people, purpose, ideas, and expertise in real-time, generating actionable insights to propel movements forward. \n CrowdVector \u2014 CrowdVector is an integrated solution marketplace and innovation management platform that rapidly uncovers new ideas and advances breakthroughs to fuel movements. \n To learn more about us, visit collaboration.ai. \n About the Role \n You'll ship product across the full NetworkOS stack \u2014 Kotlin/Spring Boot microservices through Next.js/React interfaces \u2014 keeping the platform reliable, performant, and architected for 10x growth in regulated enterprise and defense environments. \n This is a hands-on execution seat on a small, senior team. You'll own complete vertical slices from database schema to UI, with no cross-team handoff gaps and no \"not my layer\" excuses. Your code commits move the roadmap \u2014 and your work is visible from day one. \n Whole-stack ownership. Production every week. Code that moves the roadmap. \n What You'll Do \n \n \n Deliver features end-to-end \u2014 own complete vertical slices (PostgreSQL schema, Kotlin service, GraphQL contract, Next.js UI) and ship production features without waiting on handoffs \n \n \n Own core API and service health \u2014 design and maintain GraphQL and REST APIs with clean domain boundaries, keeping latency low and reliability high under growing load \n \n \n Master the data layer \u2014 design PostgreSQL schemas, optimi",
+    "posted": "Mon, 17 Aug 2026 11:51:08 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 9,
+    "pitch": "I saw your opening for a Senior Software Engineer on NetworkOS and wanted to reach out. As a senior full-stack engineer with deep expertise across Kotlin/Spring Boot backends and Next.js/React frontends, I specialize in owning complete vertical slices from database architecture to responsive UI. I regularly build and scale AI-powered platforms engineered for strict enterprise reliability and performance. My background in Kotlin microservices and production full-stack systems allows me to jump straight into your codebase, eliminate handoff friction, and immediately ship reliable features across the entire stack. Let's connect to discuss how I can help accelerate your roadmap.",
+    "status": "new",
+    "found_at": "2026-08-17T12:54:28.960001+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1797731/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1797731/",
+    "source": "WorkingNomads",
+    "title": "Senior AI Engineer",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1797731/",
+    "description": "Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n We have several AI-related roles; here are some of them. \n Requirements - AI Engineer: \n \n 3+ years of commercial experience applying AI to practical technology solutions \n A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus \n Experience with Vector Databases, Pinecone or Weaviate is required \n 2+ years of experience with LangChain is mandatory \n 2+ years of experience with large language models (LLMs) or vLLMs is mandatory \n 2+ years of experience with RAG or OpenAI is required \n \n Requirements - AI Agent Architect: \n \n 3+ years of experience with Python \n 3+ years of experience with LLM \n Experience with Multi-agent systems architecture, AI agent orchestration, AI telemetry is a must. \n \n Requirements - ",
+    "posted": "2026-08-17T07:17:21-04:00",
+    "tags": [
+      "python",
+      "machine learning",
+      "architecture",
+      "software engineering",
+      "startup",
+      "Development"
+    ],
+    "score": 9,
+    "pitch": "I am a Senior AI and Full-Stack Engineer with extensive commercial experience designing and deploying practical AI solutions for high-growth startups. My core expertise centers on building end-to-end AI systems in Python, integrating LLMs and custom ML pipelines, and connecting them to robust web and mobile backends. Having worked independently and asynchronously with distributed US and European teams, I thrive in fast-paced startup environments where clean architecture and rapid execution matter. I would love to join the Lemon.io network to help your client startups build scalable, production-ready AI products.",
+    "status": "new",
+    "found_at": "2026-08-17T12:54:34.451540+00:00"
   }
 }
