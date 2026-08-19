@@ -4984,5 +4984,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-19T01:39:30.849969+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
+    "source": "WeWorkRemotely",
+    "title": "Postscript: Director, Email Deliverability",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
+    "description": "Headquarters:  Remote\n \n\n Postscript is the AI messaging platform trusted by 20,000+ Shopify brands \u2014 including Brooklinen, Ruggable, True Classic, and Dr. Squatch.\u00a0 \n With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.\u00a0 \n Backed by Greylock and Y Combinator, fully remote since 2018. Director, Email Deliverability \n Postscript is the AI messaging platform trusted by 20,000+ Shopify brands \u2014 including Brooklinen, Ruggable, True Classic, and Dr. Squatch. \n We built the best-in-class SMS marketing platform and the revenue-driving AI features no other platform offers \u2014 and now we're bringing that same obsession to email. As we expand into a true multi-channel platform for high-growth DTC brands, getting every message to the inbox is mission-critical. \n Backed by Greylock and Y Combinator, fully remote since 2018. \n Job Description \n As the  Director, Email Deliverability  at Postscript, you'll own the strategy, infrastructure, and sender reputation that get our customers' email to the primary inbox. This is a foundational, hands-on leadership role: you'll build Postscript's email deliverability function from the ground up \u2014 IP and domain architecture, authentication standards, reputation monitoring, and mailbox-provider relationships \u2014 while serving as the trusted deliverability advisor our brands rely on as they migrate and scale their email programs on Postscript. \n You'll partner closely with Product and Engineering to shape the deliverability tooling and infrastructure our platform is built on, and with Customer Success and Support to keep our customers' programs healthy. You'll set the standard for how 20,000+ brands reach the inbox \u2014 and as the function grows, you'll build and lead the team behind it. \n This is a fully remote position and can be based in the US or Canada. \n Key Responsibilit",
+    "posted": "Wed, 19 Aug 2026 07:30:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "I noticed Postscript is building out its email deliverability infrastructure and reputation architecture from the ground up as you expand into multi-channel messaging. While my background is primarily as a full-stack and AI engineer, I specialize in building robust backend systems, automated monitoring pipelines, and data-driven infrastructure. If your technical roadmap requires integrating AI-driven deliverability analytics, automated warm-up engines, or resilient backend pipelines to handle high-throughput email sending alongside your existing SMS platform, I can help architect and ship those engineering foundations efficiently. Let's connect if you need technical support turning your deliverability strategy into production-ready software.",
+    "status": "new",
+    "found_at": "2026-08-19T12:56:32.106643+00:00"
   }
 }
