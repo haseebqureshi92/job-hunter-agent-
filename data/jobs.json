@@ -5845,5 +5845,37 @@
     "pitch": "Hola equipo de Rekluti. He revisado su b\u00fasqueda para Desarrollador Full Stack y mi perfil se alinea perfectamente con su stack t\u00e9cnico. Cuento con m\u00e1s de 6 a\u00f1os de experiencia construyendo APIs escalables y microservicios de alto rendimiento con Python y Go, adem\u00e1s de desarrollar interfaces complejas y reactivas en Angular. Tambi\u00e9n poseo s\u00f3lida experiencia desplegando en Google Cloud Platform y construyendo soluciones m\u00f3viles multiplataforma con Flutter, lo cual aportar\u00e1 valor directo a sus iniciativas de producto. Mi enfoque siempre prioriza c\u00f3digo limpio, testing riguroso y arquitectura robusta. \u00bfConversamos esta semana para profundizar en los requerimientos del proyecto?",
     "status": "new",
     "found_at": "2026-08-23T01:43:30.842603+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4",
+    "source": "WeWorkRemotely",
+    "title": "Lemon.io: Senior AI Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4",
+    "description": "Headquarters:  New York, NY\n     URL:   https://lemon.io \n \n\n Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n We have several AI-related roles; here are some of them. \n Requirements - AI Engineer: \n \n 3+ years of commercial experience applying AI to practical technology solutions \n A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus \n Experience with Vector Databases, Pinecone or Weaviate is required \n 2+ years of experience with LangChain is mandatory \n 2+ years of experience with large language models (LLMs) or vLLMs is mandatory \n 2+ years of experience with RAG or OpenAI is required \n \n Requirements - AI Agent Architect: \n \n 3+ years of experience with Python \n 3+ years of experience with LLM \n Experience with Multi-agent systems architecture, AI ag",
+    "posted": "Wed, 05 Aug 2026 08:23:41 +0000",
+    "tags": [
+      "programming"
+    ],
+    "score": 9,
+    "pitch": "I am a Senior AI and Full-Stack Engineer with extensive experience building and deploying end-to-end AI-powered applications. My core expertise centers on Python, machine learning frameworks, and integrating advanced LLMs and AI architectures into production-ready web and mobile backends. Having worked extensively in fast-paced startup ecosystems, I thrive in self-directed, async environments where writing robust code and delivering business value take priority over micromanagement. I look forward to bringing my technical depth across AI engineering and modern full-stack systems to the high-impact startup projects in the Lemon.io network.",
+    "status": "new",
+    "found_at": "2026-08-23T12:50:45.740279+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/customer-io-director-gtm-finance": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/customer-io-director-gtm-finance",
+    "source": "WeWorkRemotely",
+    "title": "Customer.io: Director, GTM Finance",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/customer-io-director-gtm-finance",
+    "description": "Headquarters:  Americas Remote\n \n\n About  Customer.io \n Over 9,000 companies \u2014 from scrappy startups to global brands \u2014 use our platform to send billions of emails, push notifications, in-app messages, and SMS every day.  Customer.io  powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. \n About the role \n Hi, my name is Diep Nguyen, VP of Finance here at  Customer.io , and I'm looking for a Director, GTM Finance to own our go-to-market P&L end-to-end as we scale from $100M+ ARR today to $1B+ ARR in the future. \n We're hiring for strategic finance horsepower first: someone who builds models from a blank page, challenges assumptions, and earns trust with senior executives. Deep GTM fluency matters just as much \u2014 but for a strong finance generalist, that business partnership often shows up in the work rather than the title. You'll own our GTM P&L spanning Sales, Marketing, and Customer Success, and build the team behind it. \n We're an AI-forward company: this role requires someone energized by using AI to reinvent how finance operates, not someone who merely tolerates the tools we hand them. \n What we value \n \n Financial rigor over title-matching  \u2014 we care more about how you've built and defended models than whether \"GTM Finance\" was ever your title. \n AI as genuine practice, not a buzzword  \u2014 we want concrete stories of AI changing an outcome, not familiarity with the tools. \n Ownership from day one  \u2014 you'll build and lead a team, not just execute analysis handed to you. \n Directness with data  \u2014 you challenge top-down assumptions with account-level evidence, even in uncomfortable conversations. \n \n What you\u2019ll do \n \n Own the GTM P&L end-to-end \u2014 revenue, gross margin, and opex across Sales, Marketing, and Customer Success \u2014 not just a spend-efficiency lens. \n Drive unit economics and the growth funnel model \u2014 CAC, LTV/CAC, payback, magic number, and cohort/retention ",
+    "posted": "Sun, 23 Aug 2026 07:30:51 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 1,
+    "pitch": "Hi Diep, while my core background is as a full-stack engineer and AI specialist rather than a traditional corporate finance director, I noticed Customer.io's strong emphasis on using AI to reinvent operational workflows. If your finance and GTM teams need custom automated pipelines, internal AI modeling tools, or data integrations connecting your CRM, billing systems, and predictive models, I can help build and deploy those systems. I specialize in designing robust web platforms and LLM-driven internal tooling that automate complex financial analysis and forecasting. Let me know if you ever need technical horsepower to build out these intelligent finance tools.",
+    "status": "new",
+    "found_at": "2026-08-23T12:50:47.558566+00:00"
   }
 }
