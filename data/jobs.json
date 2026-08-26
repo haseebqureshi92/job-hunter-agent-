@@ -5902,5 +5902,37 @@
     "pitch": "While this role focuses on in-person retail sales, studio operations, and customer piercing consultations at your Lincoln Park location, I noticed your team heavily relies on POS, booking, and store management software. As a Full-Stack and Mobile Engineer, I specialize in building and optimizing custom retail POS integrations, mobile client check-in apps, and appointment booking platforms. If Rowan is looking to streamline its digital studio tools, enhance customer booking flows, or develop custom retail software solutions to support your associates, I would be glad to connect and assist your technical team.",
     "status": "new",
     "found_at": "2026-08-23T18:36:25.276749+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia",
+    "source": "WeWorkRemotely",
+    "title": "OfferUp: Software Development Engineer II Full Stack - Business (Remote @ Colombia)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia",
+    "description": "Headquarters:  Remote @ Colombia\n \n\n About the role:\u00a0 \n The OfferUp Business team owns the platforms that power every business vertical on our marketplace; Storefronts, Auto Dealers, Services, Rentals, and Jobs. Our customers aren't casually browsing; they're running businesses on top of what we build, so every feature we ship has a direct, measurable impact on their livelihood and on OfferUp's revenue. We operate the full stack end-to-end: including microservices that handle some of the highest RPS and TPS in the company, and integrations with partners like Stripe and Shopify. We move fast, instrument everything, and treat experimentation as a first-class part of the workflow. We've barely scratched the surface of what these verticals can become, and the roadmap is wide open for someone who wants to help shape it. \n At many organizations, your role begins and ends with the code. On our team, we\u2019re different. You own a feature from concept to fruition. Your responsibilities will include everything from writing well architected and thoroughly tested code, to rolling out the feature by analyzing metrics. You also get to take ownership beyond your technical area by working with cross-functional team members. \n As a Full Stack Software Engineer II on the Business team, you'll be a proven contributor who ships features end-to-end across the stack. From the React components our business customers interact with, to the Java services and data pipelines behind them. You'll take real ownership of the work you deliver, raise the quality of the code around you, and grow into a high-performing, reliable contributor on the team. \n Here\u2019s more of what you will get to do: \n \n Design, build, and deploy new user experiences and backend services across our five business verticals, using React, TypeScript, GraphQL, Node.js, and Java \n Own features end-to-end: plan, design, develop, deploy, measure, and iterate \n Break down complex engineering problems into achievable tasks and deliver ",
+    "posted": "Wed, 26 Aug 2026 07:30:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-26T13:03:40.571184+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/offerup-senior-cloud-engineer-hybrid-bellevue-wa-or-remote-florida": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/offerup-senior-cloud-engineer-hybrid-bellevue-wa-or-remote-florida",
+    "source": "WeWorkRemotely",
+    "title": "OfferUp: Senior Cloud Engineer (Hybrid @ Bellevue, WA or Remote @ Florida)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/offerup-senior-cloud-engineer-hybrid-bellevue-wa-or-remote-florida",
+    "description": "Headquarters:  Bellevue, WA or Remote Florida\n \n\n Team Charter: \n The Cloud Engineering team is dedicated to maintaining and evolving cloud infrastructure, CI/CD pipelines, Application Security, Change Management, and Backend application golden templates. We are the backbone of the technical organization, ensuring the foundation of our services is robust, secure, and efficient. \n About the role: \n We are looking for a  Senior Cloud Engineer  to join our  Cloud Engineering  team. This team is tasked with  ensuring scalability, reliability, and security for all backend services  and keeping the SDLC running smoothly for engineers across the company. \n As a senior member of the team, you will own meaningful pieces of our cloud platform end-to-end \u2014 from design through deployment and operation \u2014 while helping shape the standards, tooling, and golden templates that the rest of the engineering organization builds on. You will balance deep, hands-on technical ownership with mentoring teammates and influencing the technical direction of the systems that power a large-scale mobile marketplace. \n What we love about this role: \n \n Scale & Impact: You will work on systems that drive the end-user experience and support every technical team across the organization, operating across a multi-account AWS and GCP footprint. \n Ownership: You will own critical infrastructure and platform capabilities end-to-end, making architectural decisions that affect reliability, security, and cost at scale. \n Force Multiplier: The templates, pipelines, and tooling you build raise the productivity and safety of every engineer at OfferUp. \n Emerging Technology: You will help bring new capabilities \u2014 including AI/ML developer tooling and infrastructure \u2014 into the hands of our engineers. \n \n In this role, you will  design, build, and operate the cloud infrastructure, platform tooling, and CI/CD systems that underpin OfferUp's core applications. Day to day, that means you will: \n \n Build cloud infrastr",
+    "posted": "Wed, 26 Aug 2026 07:30:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-26T13:04:22.173381+00:00"
   }
 }
