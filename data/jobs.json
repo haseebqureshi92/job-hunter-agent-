@@ -6273,5 +6273,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-29T16:32:46.797806+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cribl-customer-support-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-customer-support-manager",
+    "source": "WeWorkRemotely",
+    "title": "Cribl: Customer Support Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-customer-support-manager",
+    "description": "Headquarters:  Remote - United States\n \n\n Join the company that\u2019s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u2019s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u2019s next. \n We\u2019re one of the fastest\u2011growing private companies and a leading player in a massive, fast\u2011moving market. With a global workforce, we\u2019re remote\u2011first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd. Why You\u2019ll Love This Role \n Cribl is seeking a Technical Support Manager to be a part of a specialized support team.\u00a0 This role is centered on customer success by providing in-depth knowledge of data management systems and solutions, Cribl\u2019s interactions with those solutions and using our knowledge to lift up everyone we may come in contact with. \n In this role, you will be joining a highly technical and collaborative team that is committed to shipping high quality software, enjoying all the goat gifs the internet has to offer, and truly enjoys all our interactions with our customers. The ideal candidate for this role has a mixture of strong technical chops, an innate desire to help customers, and a natural affinity for collaboration. \n As An Active Member Of Our Team, You Will\u2026 \n \n Manage an industry leading team. \n Manage Customer Support Escalations and be the calm voice of reason amongst the chaos. \n Review Cases, Metrics, Statistics to ensure departmental success. \n Mentoring and coaching to drive Engineers to their best success. \n Participate and be an advocate of Customers and Engineers. \n Create, maintain, enhance Processes and Procedur",
+    "posted": "Sun, 30 Aug 2026 07:30:43 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-30T11:39:32.059272+00:00"
   }
 }
