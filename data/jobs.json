@@ -6310,5 +6310,55 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-31T13:16:40.773188+00:00"
+  },
+  "remoteok-1137224": {
+    "id": "remoteok-1137224",
+    "source": "RemoteOK",
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "description": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f... Please mention the word **CHARMINGLY** and tag RNjguMTU0LjM4LjIy when applying to show you read the job post completely (#RNjguMTU0LjM4LjIy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "posted": "2026-08-30T21:00:01+00:00",
+    "tags": [
+      "golang",
+      "video",
+      "engineer"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-31T22:42:37.918054+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Smartsheet Expert for Integrated Project Planning",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning",
+    "description": "Headquarters:  \n \n\n Summary We are seeking a Smartsheet Expert to support integrated project planning activities related to the integration of a regional utility's service territory and assets. This role will focus on building complex Smartsheet solutions, coaching the client on similar sheet and formula creation, and producing training materials. General information This engagement supports integrated project planning work tied to a regional utility integration effort. The scope centers on improving planning visibility and structure within Smartsheet, including program views, dependencies, and a more robust RAID log with formulas and connectors. The ideal freelancer will be comfortable serving in both a hands-on build capacity and a coaching capacity, helping the client strengthen its internal use of Smartsheet while delivering practical project artifacts. Tasks and Deliverables - Build Smartsheet solutions to support integrated project planning activities. - Create program views, dependencies, and a more robust RAID log. - Develop formulas and connectors to support sheet functionality. - Perform complex data entry within Smartsheet as needed. - Coach the client on how to create similar sheets and formulas. - Produce training materials for ongoing client use. Required experience - Proven expertise in Smartsheet. - Experience building complex sheets, views, and dependencies in Smartsheet. - Experience creating formulas and connectors in Smartsheet. - Ability to support project planning workflows and related documentation. - Experience coaching stakeholders on Smartsheet usage and best practices. - Strong written communication skills for training material creation. - Must be US-based. Engagement highlights - Clear, defined scope combining hands-on Smartsheet build work with client coaching. - Opportunity to support a large-scale utility integration planning initiative. - Deliverables include both implementation and reusable training materials. \n\n To apply:   https://",
+    "posted": "Mon, 31 Aug 2026 16:30:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-31T22:44:08.093137+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Power Platform Solutions Architect for Global Pharmaceutical Company",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company",
+    "description": "Headquarters:  \n \n\n We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation. Required Skills: Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BI Strong experience designing Dataverse schemas and security roles Azure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application Insights Experience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migrated Experience integrating enterprise applications with ERP systems Experience designing identity and access models for licensed and unlicensed user audiences Strong understanding of Microsoft Power Platform licensing models, including per-user Dataverse licensing and capacity/session-based Power Pages licensing Experience evaluating existing solutions and defining modernization, remediation, or rebuild strategies Optional Skills (not mandatory): SAP integration experience Deliverables Lead the technical assessment of the existing Power Apps application, Power Automate flows, data layer, Power BI reporting, and four integration touchpoints Support the Regulatory data-profiling spike and incorporate findings into the target solution architecture Define and evaluate costed patch and rebuild options and support the final technical recommendation Produce a detailed and staffed Phase 2 implementation plan Design the consolidated Dataverse entity model and define workflow and business-logic architecture Define the target integration architecture across the four integration touchpoints Configure the Entra ID access model for licensed and unlicensed audiences Configure the shared Azure",
+    "posted": "Mon, 31 Aug 2026 15:47:17 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 3,
+    "pitch": "I am a solutions architect and full-stack engineer with deep experience designing scalable enterprise systems and modernizing legacy architectures. While my foundation is in full-stack architecture, I regularly architect hybrid solutions integrating enterprise stacks with cloud infrastructure, Dataverse, and Azure services including API Management, Azure Functions, Entra ID, and Key Vault. I excel at auditing complex data flows, decoupling fragile integration touchpoints, and establishing robust security models across diverse user groups. I can lead your technical assessment to stabilize existing Power Platform workflows, profile regulatory data schemas, and design a resilient, modern target architecture for your enterprise integrations.",
+    "status": "new",
+    "found_at": "2026-08-31T22:44:33.257673+00:00"
   }
 }
