@@ -6289,5 +6289,26 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-08-30T11:39:32.059272+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1826325/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1826325/",
+    "source": "WorkingNomads",
+    "title": "Senior Solutions Engineer",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1826325/",
+    "description": "Are you a talented Senior Solutions Engineer looking for a remote job where you can showcase your skills and earn competitive compensation? Look no further than  Lemon.io  \u2014 a marketplace that connects you with hand-picked startups in the US and Europe. \n We are seeking a Solutions Engineer for our client. \n A revolutionary Israeli-American deep-tech company specializing in AI-based image and video processing is looking for a Solutions Engineer to help expand our customer base through hands-on technical expertise. \n Involvement: full-time \n As a Solutions Engineer, you will: \n \n Be the product expert and trusted advisor that clients can turn to for guidance on maximizing value from SpeedSize technology. \n Gain experience in front-end and back-end development, web optimization, performance best practices, AI/ML, cloud computing, media compression, and CDN. \n Support customers\u2019 technical queries, solve integration issues, and demonstrate the possibilities of the technology. \n Manage the technical onboarding of new customers and translate their desired outcomes into an implementation plan that will provide value. \n Define new technical requirements for integration and prioritize project timelines. \n Lead all technical-related activities from pre-sale to launch to scale, collaborating with various internal and external stakeholders. \n Ensure all customer requests and issues are handled promptly, working in collaboration with relevant teams (Customer Success, R&D, Sales, and Marketing). \n Utilize QA practices to ensure high-quality integrations and solutions. \n \n Requirements: \n \n 3+ years of experience as a Solutions Engineer \n 3+ years of experience with solution architecture \n 3+ years of experience with Node.js and React.js \n Clear and effective communication in English \u2014 advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. \n Adaptability and flexibility \u2014 the abilit",
+    "posted": "2026-08-31T06:44:02-04:00",
+    "tags": [
+      "architecture",
+      "software engineering",
+      "nodejs",
+      "react",
+      "english",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-08-31T13:16:40.773188+00:00"
   }
 }
