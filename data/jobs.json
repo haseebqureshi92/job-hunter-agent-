@@ -6376,5 +6376,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-01T11:26:54.099129+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-guest-host": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-guest-host",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Data Scientist, Guest & Host",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-guest-host",
+    "description": "Headquarters:  Remote\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n You will join a collaborative team of data scientists, analysts, engineers, product managers and designers who build innovative products for Airbnb guests and hosts. Your core team will consist of data scientists within the Guest & Host Data Science organization, who develop models, measurement frameworks, foundational data products, and intelligence to improve and shape Airbnb marketplace and product.\u00a0 \n The Difference You Will Make: \n Under this general application, you will be considered for applications over several tracks. \n \n Pricing Data Science  - Responsible for developing a pricing guidance system for hosts, as well as methods (experimental and observational) to measure the impact of pricing feature launches. \n Guest and Host Product Data Science  - Responsible for building optimized products, tools, and programs that empower our hosts to thrive on our platform and our guests to easily discover and book stays that match their needs.\u00a0 \n Marketplace Data Science  - Responsible for building data products, inference frameworks, and intelligence to enable the growth of our marketplace.\u00a0 \n \n As a data scientist on the team, you will directly impact the Airbnb user community and marketplace with the data products and insights you deliver. Your work may range from building models to understand the impact of supply and demand on marketplace outcomes, to applying causal inference methods to measure the impact of a new pricing guidance tool, to generating destination recommendations based on our understanding of guest travel preferences.\u00a0 \n A Typical Day:\u00a0",
+    "posted": "Thu, 03 Sep 2026 07:31:03 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "I saw your opening for Senior Data Scientist across the Guest & Host teams and wanted to reach out. As an engineer specializing in production AI/ML and full-stack systems, I bridge the gap between statistical modeling and production marketplace software. I have designed and deployed inference pipelines, dynamic pricing systems, and recommendation engines that translate complex causal frameworks into scalable backend services and responsive user-facing tools. I would love to bring this combination of applied machine learning, experimental measurement, and robust software engineering to help optimize host guidance and improve the guest booking experience at Airbnb.",
+    "status": "new",
+    "found_at": "2026-09-03T10:58:50.996651+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Data Scientist - Inference, Community Support",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support",
+    "description": "Headquarters:  Remote - USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  \n Airbnb is a mission-driven company dedicated to creating a world where anyone can belong anywhere. Our Community Support (CS) team is at the heart of that mission\u2014delivering seamless, 10-star customer service experiences complemented by world-class, personalized human support that empowers hosts and guests at every step of their journey. \n As a Data Scientist working on Causal Inference in CS, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operation agents to enable personalized, fair and exceptional experience for guests & hosts using advanced causal inference analysis for Community Support. \n The Difference You Will Make: \n We're looking for a motivated and talented Data Scientist with strong causal inference expertise to join the Community Support Data Science team. You'll partner closely with the area's tech lead on high-impact projects spanning AI-powered products, differentiated service, and operations optimization. \n The ideal candidate brings sharp applied inference intuition, a bias toward impact, and the ability to cut through ambiguity to drive clarity in complex problem spaces. You\u2019ll work on high-impact projects like: \n \n Design rigorous experiments & quasi-experiments to measure the causal impact of CS product launches and drive data-informed launch decisions. \n Build causal ML models to optimize Make Goods budget allocation and maximize business impact. \n Conduct causal inference analyses to quantify the long-term effects of product changes and uncover heterogeneous treat",
+    "posted": "Thu, 03 Sep 2026 07:31:02 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "I saw your opening for a Data Scientist in Community Support focused on causal inference and AI-powered service optimization. As an engineer specializing in production AI systems and scalable architectures, I bridge the gap between advanced predictive models and high-reliability product integration. While my background is deeply rooted in full-stack engineering and machine learning pipelines, I bring a practical approach to experimentation, metric tracking, and measuring the real-world causal impact of algorithmic interventions on user operations. I would welcome the opportunity to discuss how my applied AI expertise can help your team reliably evaluate and deploy personalized support initiatives at scale.",
+    "status": "new",
+    "found_at": "2026-09-03T10:58:55.601759+00:00"
   }
 }
