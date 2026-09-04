@@ -6408,5 +6408,74 @@
     "pitch": "I saw your opening for a Data Scientist in Community Support focused on causal inference and AI-powered service optimization. As an engineer specializing in production AI systems and scalable architectures, I bridge the gap between advanced predictive models and high-reliability product integration. While my background is deeply rooted in full-stack engineering and machine learning pipelines, I bring a practical approach to experimentation, metric tracking, and measuring the real-world causal impact of algorithmic interventions on user operations. I would welcome the opportunity to discuss how my applied AI expertise can help your team reliably evaluate and deploy personalized support initiatives at scale.",
     "status": "new",
     "found_at": "2026-09-03T10:58:55.601759+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Collaboration.Ai: Senior Software AI Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+    "description": "Headquarters:  Minneapolis, MN\n     URL:   http://collaboration.ai \n \n\n Who We Are \n Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs that transform industries, empower communities, and create a more sustainable future. We collaborate with organizations across the defense ecosystem, helping them navigate complex challenges and drive transformative change. \n Our Products \n NetworkOS \u2014 NetworkOS is an AI-powered platform that aligns people, purpose, ideas, and expertise in real-time, generating actionable insights to propel movements forward. \n CrowdVector \u2014 CrowdVector is an integrated solution marketplace and innovation management platform that rapidly uncovers new ideas and advances breakthroughs to fuel movements. \n To learn more about us, visit collaboration.ai. \n About the Role \n You'll build the agentic systems and data pipelines behind NetworkOS's AI capabilities: production agent workflows built on industry-leading agent SDKs and harnesses, MCP servers, and Agent Skills standards; the eval and observability layer that keeps LLM quality measurable; and the ingestion pipelines that turn messy, diverse data sources into queryable knowledge. \n This is an execution seat, not an ivory tower. You'll commit code every week, ship agents as product capability rather than demos, and help shape a roadmap that's heading deep into graph + agents territory \u2014 for customers in defense, public sector, and regulated enterprise. \n Agents in production. Pipelines that hold. Evals that keep everyone honest. \n What You'll Do \n \n \n Ship production agent systems \u2014 design, build, and operate agentic workflows (agent SDKs, MCP servers, Agent Skills standards) powering AI-driven matching, analysis, and data intelligence \n \n \n Operationalize LLM quality \u2014 build the eval and observability layer with Langfuse, gold",
+    "posted": "Mon, 17 Aug 2026 11:57:38 +0000",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-04T10:58:57.549300+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam",
+    "source": "WeWorkRemotely",
+    "title": "Fin: Senior Solutions Engineer- LATAM",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam",
+    "description": "Headquarters:  NYC, Remote; San Francisco, California\n \n\n Fin  is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences. \n Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey \u2013 from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams. \n Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers. What's the opportunity?\u00a0 \n Fin is looking for an exceptional Portuguese and Spanish Speaking Senior Solutions Engineer to join our vibrant Customer Solutions Team. In this role, you\u2019ll engage directly with our customers as their trusted advisor, playing a pivotal part in defining and demonstrating value across the entire sales cycle. With a natural curiosity, independent thinking, and strong problem-solving skills, you\u2019ll partner closely with Product, R&D, and Engineering to ensure our customers\u2019 needs and insights are at the core of our AI powered solutions. \n What will I be doing?\u00a0 \n \n Lead technical discovery to identify and address our customers\u2019 needs \n Deliver an exceptional pre-sales experience by articulating Fin's value and technical expertise \n Conduct impactful, value-based solution reviews and in-depth technical sessions \n Design and lead tailored Proof of Concepts (POCs) that showcase Fin's capabilities \n Serve as the p",
+    "posted": "Fri, 04 Sep 2026 07:30:56 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "Hi team, I saw your opening for the Senior Solutions Engineer role supporting LATAM. With deep hands-on experience building full-stack integrations and deploying AI agent systems, I specialize in bridging complex technical capabilities with business-critical customer needs. Having integrated enterprise customer support tools and custom AI workflows across web and mobile platforms, I can jump directly into technical discoveries, architect multi-channel deployments of Fin, and handle complex API integrations for your enterprise clients. I am fluent in English, Spanish, and Portuguese, and I would love to help expand Fin\u2019s technical footprint across the LATAM market. Let's connect to discuss how I can drive immediate value for your team.",
+    "status": "new",
+    "found_at": "2026-09-04T10:59:12.942539+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
+    "source": "WeWorkRemotely",
+    "title": "Prove: Director, Channel & Partnerships",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
+    "description": "Headquarters:  New York, NY; United States (Remote)\n \n\n \n About Prove\u00a0 \n \n As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove\u2019s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove\u2019s platform to process 20 billion customer requests annually across industries, including banking, lending, healthcare, gaming, crypto, e-commerce, marketplaces, and payments. For the latest updates from Prove,  follow us on LinkedIn. \n Prove is driving the future of digital identity. We are looking for Provers who know how to make an impact. We\u2019re talking self-starting professionals who thrive in a fast-paced environment, process information quickly, and make intelligent decisions. The work is challenging and requires not only smart but natural curiosity and tenacity. Teamwork is also important to us \u2013 we work together and play together.\u00a0\u00a0\u00a0 \n Prove has big plans, and we\u2019re excited about the future. If this sounds like the place for you \u2013 come join our team!\u00a0 \n Title:  Director, Channel & Partnerships \n Department:  Partnerships \n Reports To:  VP, Channels & Partnerships \n FLSA Status:  Exempt \n Location:  New York, NY or remote \n \u00a0 \n The partner ecosystem is a significant and fast-growing part of Prove\u2019s success and growth strategy. We are looking for an exceptional, revenue-driven partner operator to join as a  Director of Channel & Partnerships . This role is 100% focused on sourcing, structuring, and launching high-impact Reseller and OEM partnerships within the core banking, fintech and identity ecosystem. \n The ideal candidate has a proven track record of navigating, negotiating, and closing complex Reseller and OEM agreements with major financial technology ecosystems\u2014specificall",
+    "posted": "Fri, 04 Sep 2026 07:30:53 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 1,
+    "pitch": "While I recognize this Director role focuses primarily on business development and strategic channel alliances, successfully integrating Prove\u2019s phone-centric identity platform with enterprise partners often hinges on overcoming complex technical hurdles. As a senior full-stack and mobile engineer specializing in secure identity verification, cryptographic authentication, and SDK integration across web and Android ecosystems, I can help your partnership team bridge the gap between business strategy and partner engineering execution. I build robust proof-of-concept integrations, developer documentation, and scalable architectures that shorten enterprise partner onboarding cycles. Let's connect if you ever need technical enablement to accelerate your partner pipeline.",
+    "status": "new",
+    "found_at": "2026-09-04T10:59:20.049809+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1833624/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1833624/",
+    "source": "WorkingNomads",
+    "title": "Software engineer",
+    "company": "Sticker Mule",
+    "url": "https://www.workingnomads.com/job/go/1833624/",
+    "description": "Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. \n \u00a0 \n How we work \n \n \n Small, autonomous teams that own products end-to-end. \n \n \n Prioritize what matters right now and pivot instantly when needed. \n \n \n Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. \n \n \n Use AI aggressively to push the limit of what we can do. \n \n \n Move fast, build for the masses, and deprioritize edge cases. \n \n \n Fully remote from 40+ countries and collaborate using Asana and Slack. \n \n \n \u00a0 \n Requirements \n \n \n You are an exceptional full-stack software engineer. \n \n \n You use AI aggressively and write well in English. \n \u00a0 \n \n \n What you will work on \n You'll help build and scale\u00a0 Sticker Mule Pro \u00a0- a suite of software tools for creators and businesses: \n \n \n Stores (Shopify alternative) \n \n \n AI tools (internal and customer-facing) \n \n \n Notify (Mailchimp alternative) \n \n \n Reply (Zendesk alternative) \n \n \n Hire Me (Contra alternative) \n \n \n Mobile apps \n \n \n \u00a0 \n Compensation \n \n \n Salary: $150,000\u2013$250,000 USD \n \n \n $20,000 signing bonus \n \n \n 4 weeks vacation + country-specific holidays \n \n \n Fully remote",
+    "posted": "2026-09-04T03:55:38-04:00",
+    "tags": [
+      "react",
+      "typescript",
+      "golang",
+      "graphql",
+      "english",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-04T11:00:07.899844+00:00"
   }
 }
