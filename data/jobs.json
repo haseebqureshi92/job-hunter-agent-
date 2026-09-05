@@ -6538,5 +6538,21 @@
     "pitch": "I am a Senior Full-Stack Developer with over six years of experience engineering high-performance web applications using React.js and Python backend ecosystems. Having built scalable systems for fast-paced startups, I specialize in translating complex product requirements into clean, modular frontend interfaces and resilient RESTful APIs. My background spans architecting responsive React SPAs, integrating data pipelines, and implementing intelligent backend services. I thrive in autonomous, async-first environments where ownership and zero-micromanagement drive results. I welcome the opportunity to join Lemon.io's network and immediately bring reliable technical execution to your US and European startup partners.",
     "status": "new",
     "found_at": "2026-09-04T16:06:04.978919+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote",
+    "source": "WeWorkRemotely",
+    "title": "Track it Forward: Lead Developer \u2014 Rebuild, Modernize, & Scale (Social Good SaaS, Remote)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote",
+    "description": "Headquarters:  Oakland, CA\n     URL:   https://www.trackitforward.com \n \n\n We are looking for a lead developer to do a greenfield rebuild of our legacy SaaS app, modernize our mobile apps, and lead the tech effort to scale our app.\u00a0 You will help choose the language, build the technical foundation, work with our product manager to rebuild the app, and migrate all customers over. \n About Track it Forward  Track it Forward is the leading volunteer time-tracking application for nonprofits and schools. For 15 years, we\u2019ve helped thousands of organizations mobilize volunteers and track over 30 million hours. We are a profitable, bootstrapped team of 4 focused on great work-life balance, high-impact work, and a fun, puzzle-loving culture (daily crosswords, monthly virtual escape rooms, and annual retreats).\u00a0 We are not a VC-funded startup. We grew organically, stayed profitable, and prioritize high-quality work and personal fulfillment without growth-at-all-costs pressure. The team is led by the original founder and developer. \n The Modernization Strategy  This is a structured, phased \"small bang\" migration\u2014not a high-risk cutover or a strangler-fig migration. You will build a parallel greenfield system, extract legacy components step-by-step, and migrate customers over incrementally tenant-by-tenant while keeping operations running smoothly. \n \n \n Current Tech : Drupal 6 architecture hosted on Pantheon, paired with two Ionic/Capacitor mobile apps. \n \n \n Your Scope:  Complete ownership of the technical architecture. You will partner with our product manager, establish engineering processes, and lead the rebuild from scratch. \n \n \n Modern AI practices :\u00a0 We want you to be on the cusp of AI workflows while also balancing human guardrails to produce quality code. \n \n \n Team Structure:  You will be our sole developer in the short term, taking full technical helm as we scale. \n \n \n Target Stack & Responsibilities \n \n \n Core Tech Stack:  Core backend/frontend rebuild focused on",
+    "posted": "Fri, 04 Sep 2026 20:38:22 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-05T03:53:36.432527+00:00"
   }
 }
