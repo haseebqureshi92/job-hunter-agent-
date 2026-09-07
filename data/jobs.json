@@ -6586,5 +6586,169 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-07T12:06:26.825403+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
+    "source": "WeWorkRemotely",
+    "title": "Lemon.io: Senior Java & React Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
+    "description": "Headquarters:  New York, NY\n     URL:   https://lemon.io \n \n\n Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your location, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n We have different projects for Java & React Developers from different locations, remote. \n Requirements: \n \n 4+ years of commercial  software  development experience; \n 3+ years of commercial experience with React (required); \n 3+ years of commercial experience with Java (required). \n \n Also, we have an urgent project for European developers. Here are the  requirements : \n \n 8+ years of commercial software development experience; \n 4+ years of commercial experience with React (required); \n 8+ years of commercial experience with Java (required); \n 4+ years of commercial experience with Spring (required). \n \n Other requirements: \n \n Strong technical skills: as a Senior Engineer, you are expected to be able to cre",
+    "posted": "Mon, 07 Sep 2026 14:09:46 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "I'm a Senior Full-Stack Engineer with extensive production experience building enterprise-grade web applications using modern Java (Spring Boot) and React. Having developed complex, scalable architectures end-to-end, I bridge the gap between clean frontend component design and reliable, high-throughput backend services. My background also covers native Android and integrating AI/ML workflows into existing full-stack platforms, giving me a versatile edge for fast-moving startups. I thrive in async, autonomous environments where shipping clean code and clear technical communication take priority over micromanagement. I'd love to connect and discuss how my stack aligns with Lemon.io's current startup client roster.",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:11.113825+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1843250/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1843250/",
+    "source": "WorkingNomads",
+    "title": "Senior Backend Developer (Python)",
+    "company": "Proxify",
+    "url": "https://www.workingnomads.com/job/go/1843250/",
+    "description": "About us: \n \u00a0 \n Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. \ud83d\ude42 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n \u00a0 \n The Role: \n \u00a0 \n We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. \n \u00a0 \n What we are looking for: \n \u00a0 \n \n \n 5+ years of experience building products with Python and Django. \n \n \n High proficiency in SQL with experience using databases like PostgreSQL. \n \n \n Experience scaling cloud infrastructures with Docker or Kubernetes is a plus. \n \n \n Experience managing cloud infrastructures, specifically AWS or GCP. \n \n \n You follow the best practices and conventions. \n \n \n Relevant experience in CI/CD and related tools. \n \n \n Ability to work with minimal supervision. \n \n \n Intermediate-advanced English level. \n \n \n You can communicate well with both technical and non-technical clients. \n \n \n Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones. \n \n \n \u00a0 \n Responsibilities: \n \u00a0 \n \n \n Ability to build libraries and frameworks of reusable efficient code. \n \n \n Competence in designing and implementing low-latency, stable and performing applications. \n \n \n Capacity to effectively collaborate with other team members and stakeholders remo",
+    "posted": "2026-09-07T14:41:25-04:00",
+    "tags": [
+      "python",
+      "django",
+      "sql",
+      "docker",
+      "aws",
+      "Development"
+    ],
+    "score": 7,
+    "pitch": "I bring over six years of backend and full-stack engineering experience, specializing in Python, Django, and PostgreSQL to build robust, scalable architectures. I have designed and deployed complex data layers, optimized relational databases, and containerized microservices using Docker, Kubernetes, and AWS infrastructure. Because I also build full-stack web applications and AI-driven features, I understand how downstream clients and front-end interfaces consume APIs, ensuring endpoints are intuitive, secure, and performant. I work independently, follow strict CI/CD and clean code practices, and would welcome the chance to discuss how I can help deliver your client's core product features.",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:12.923007+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1843248/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1843248/",
+    "source": "WorkingNomads",
+    "title": "Senior Backend Developer (Node.js / Nest.js)",
+    "company": "Proxify",
+    "url": "https://www.workingnomads.com/job/go/1843248/",
+    "description": "About us: \n \u00a0 \n Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. \ud83d\ude42 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n \u00a0 \n The Role: \n \u00a0 \n We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You\u2019ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. \n This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. \n \u00a0 \n What we\u2019re looking for: \n \n 5+ years with Node.js and 3+ past years with Nest.js \n Strong expertise in Node.js and Nest.js frameworks. \n Proven experience building REST and/or GraphQL APIs. \n Strong knowledge of JavaScript (ES6+) and TypeScript. \n Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). \n Familiarity with authentication/authorization mechanisms (JWT, OAuth2). \n Experience with unit/integration testing (e.g., Jest, Mocha). \n Proficiency with Git and version control workflows. \n Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. \n \n \u00a0 \n Nice to Have: \n \n Experience with cloud platforms (AWS, Azure, GCP). \n Familiarity with CI/CD pipelines and DevOps practices. \n Understanding of event-driven architecture and message brok",
+    "posted": "2026-09-07T14:41:04-04:00",
+    "tags": [
+      "back-end",
+      "nodejs",
+      "typescript",
+      "javascript",
+      "graphql",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:16.050450+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1843246/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1843246/",
+    "source": "WorkingNomads",
+    "title": "Senior Python Developer (Fullstack, BE-Heavy)",
+    "company": "Proxify",
+    "url": "https://www.workingnomads.com/job/go/1843246/",
+    "description": "About us: \n \u00a0 \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. \ud83d\ude42 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n \u00a0 \n The Role: \n \u00a0 \n We are looking for a Senior Python Developer (Fullstack, Backend-Heavy) to join one of our high-growth client teams as a core software architect. In this role, you will be responsible for designing, scaling, and maintaining high-throughput backend systems while having the fullstack dexterity to build out the corresponding frontends. \n \u00a0 \n You will handle everything from high-performance asynchronous API design and background task orchestration to state management on the client side. This is an ideal role for an engineer who loves the clean syntax and processing capabilities of Python but values the completeness of delivering a seamless end-to-end user experience. \n \u00a0 \n What we are looking for: \n \u00a0 \n \n 5+ years of production experience with modern Python, with a deep understanding of advanced concepts (metaclasses, generators, decorators) and asynchronous programming (asyncio). \n Mastery of FastAPI for high-performance microservices or Django (including Django REST Framework) for robust, feature-rich monolithic web applications. \n Solid, hands-on experience with modern frontend development using TypeScript and React.js (or Vue.js) to connect backends to reactive interfaces. \n Strong background in handling long-running b",
+    "posted": "2026-09-07T14:40:31-04:00",
+    "tags": [
+      "django",
+      "fastapi",
+      "postgresql",
+      "cloud",
+      "python",
+      "Development"
+    ],
+    "score": 8,
+    "pitch": "I saw your opening for a Senior Backend-Heavy Fullstack Python Developer and would love to contribute. With extensive experience architecting high-throughput backend systems in Python (FastAPI, Django, asynchronous task processing with Celery/Redis) and pairing them with clean, reactive frontends, I specialize in building reliable end-to-end architectures. My background also spans integrating production-grade AI services and mobile-ready APIs, ensuring data pipelines and client-side state stay performant under scale. I am accustomed to autonomous, high-growth client environments and can hit the ground running to design, scale, and deliver robust software. Let's connect to discuss how I can support your client's roadmap.",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:18.109301+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1843237/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1843237/",
+    "source": "WorkingNomads",
+    "title": "Senior Python Developer (Flask)",
+    "company": "Proxify",
+    "url": "https://www.workingnomads.com/job/go/1843237/",
+    "description": "About us: \n \u00a0 \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. \ud83d\ude42 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n \u00a0 \n The Role: \n \u00a0 \n We are looking for a Senior Python Developer with deep expertise in Flask on behalf of one of our high-growth clients to design, maintain, and scale their web applications and backend systems. In this role, you will take ownership of modular Flask architectures, building lightweight, robust APIs and maintaining core business logic across production environments. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. \n \u00a0 \n What we\u2019re looking for: \n \n \n 3+ years of hands-on production experience building, securing, and scaling web applications using Flask and modern Python (3.10+). Deep understanding of WSGI/ASGI servers (Gunicorn, uWSGI), Flask application factories, blueprints, and context managers. \n \n \n \u00a05+ years of software engineering experience building enterprise backend systems, design patterns, and RESTful web services. \n \n \n Expert knowledge of relational databases (PostgreSQL, MySQL), proficient in schema design, query optimization, and leveraging SQLAlchemy with Alembic for migrations. Redis experience for session management and caching. \n \n \n Solid experience handling asynchronous tasks, background jobs, and scheduled pr",
+    "posted": "2026-09-07T14:39:06-04:00",
+    "tags": [
+      "flask",
+      "python",
+      "postgresql",
+      "aws",
+      "serverless",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:19.359646+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1843235/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1843235/",
+    "source": "WorkingNomads",
+    "title": "Senior Python Developer (FastAPI)",
+    "company": "Proxify",
+    "url": "https://www.workingnomads.com/job/go/1843235/",
+    "description": "About us: \n \u00a0 \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. \ud83d\ude42 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n \u00a0 \n The Role: \n \u00a0 \n We are looking for a Senior Python Developer specializing in FastAPI on behalf of one of our high-growth clients to architect, build, and scale their core cloud-native backend services. In this role, you will take ownership of developing high-throughput, low-latency asynchronous APIs that power data-intensive platform features.You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. \n \u00a0 \n What we\u2019re looking for: \n \n \n 3+ years of dedicated, hands-on production experience building high-performance asynchronous web services with FastAPI and modern Python (3.10+). Deep mastery of Python's asyncio ecosystem, dependency injection, and Pydantic v2 data validation. \n \n \n \u00a05+ years of total software engineering experience designing, deploying, and maintaining production-grade distributed systems and RESTful APIs. \n \n \n Solid proficiency with relational databases (PostgreSQL), writing optimized raw SQL or leveraging ORMs like SQLAlchemy and Alembic for schema migrations and query tuning. Caching layer experience with Redis is essential. \n \n \n Practical experience building decoupled services using message queues and event streaming platforms (e",
+    "posted": "2026-09-07T14:38:53-04:00",
+    "tags": [
+      "fastapi",
+      "python",
+      "postgresql",
+      "aws",
+      "graphql",
+      "Development"
+    ],
+    "score": 8,
+    "pitch": "I specialize in architecting high-throughput, asynchronous backend systems using modern Python (3.11+) and FastAPI. With deep experience leveraging asyncio, Pydantic v2 data models, and clean dependency injection patterns, I build reliable, low-latency microservices that scale under heavy load. In addition to backend engineering, my broader background in full-stack web and AI-driven platforms allows me to design APIs with the frontend and end-user data lifecycle in mind. I am ready to step in, take full ownership of your cloud-native services, and deliver robust, production-grade endpoints for your high-growth client.",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:20.836076+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1843234/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1843234/",
+    "source": "WorkingNomads",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify",
+    "url": "https://www.workingnomads.com/job/go/1843234/",
+    "description": "About us: \n \u00a0 \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. \ud83d\ude42 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n \u00a0 \n The Role: \n \u00a0 \n We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. \n \u00a0 \n What we are looking for: \n \u00a0 \n \n 5+ years of experience as a Fullstack Developer. \n \n \u00a0 \n Backend experience with: \n \n \n Node.js \n \n \n Microservices architecture \n \n \n \u00a0 \n Database experience with: \n \n \n SQL \n \n MongoDB \n \n \u00a0 \n \n Intermediate-advanced English \n Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. \n \n \u00a0 \n Nice-to-have: \n \n \n Database Architecture knowledge. \n \n \n \u00a0 \n Responsibilities: \n \n \n Ability to build libraries and frameworks of reusable efficient code. \n \n Competence in designing and implementing low-latency, stable and performing applications. \n Capacity to effectively collaborate with other team members and stakeholders remotely. \n Ability to implement data protection systems. \n Competence in data storage solutions. \n \n \u00a0 \n \u00a0 \n What we offer: \n \u00a0 \n Get paid, not played \n No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. \n \u00a0 \n Predictable proje",
+    "posted": "2026-09-07T14:38:38-04:00",
+    "tags": [
+      "nodejs",
+      "react",
+      "mongodb",
+      "architecture",
+      "sql",
+      "english",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:22.259399+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1842849/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1842849/",
+    "source": "WorkingNomads",
+    "title": "Senior .NET Full-stack Developer",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1842849/",
+    "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 50 countries. \n \n Currently, we have multiple requests, so please check the requirements. \n Requirements: \n \n 4+ years of commercial experience in software development \n 3+ years of commercial experience with .NET \n 3+ years of commercial experience with React \n Expertise in TypeScript is required \n 2+ years of experience with Microsoft Azure is a plus \n \n You should also have: \n \n Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. \n Clear and effective communication in English \u2014 advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. \n Strong self-organizational skills \u2014",
+    "posted": "2026-09-07T09:40:13-04:00",
+    "tags": [
+      "dotnet",
+      "azure",
+      "react",
+      "typescript",
+      "english",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-07T21:22:22.533514+00:00"
   }
 }
