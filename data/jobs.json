@@ -6554,5 +6554,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-05T03:53:36.432527+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Legion: Director of Production Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+    "description": "Headquarters:  Remote, United States\n \n\n Director of Production Engineering\u00a0 \n Remote, United States \n About this Position \n Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps & SRE to lead the teams responsible for the availability, scalability, and security of our production environment. Our production infrastructure runs on AWS, leveraging services such as EKS, RDS, and a broad set of AWS-native technologies. You will partner closely with engineering and IT to build resilient systems, drive operational excellence, and ensure our platform meets the highest standards of security and compliance. \n This is a hands-on leadership role where you'll spend ~20-30% of your time contributing directly to architecture, tooling, and incident response, and the rest driving vision, roadmap, and cross-team execution. \n Responsibilities \n \n Hire and build a globally-distributed DevOps/SRE engineering team. Recruit, mentor, and manage engineers, and foster a culture of ownership, collaboration, and continuous improvement. \n Own the reliability and infrastructure roadmap for our AWS-based production environment, including EKS, RDS, and related AWS services, ensuring scalability, high availability, and cost efficiency. \n Lead the organization's security operations (SecOps) practice, including vulnerability management, threat detection, incident response, and remediation, to proactively identify and resolve security issues before they impact customers. \n Define and drive engineering OKRs for infrastructure reliability, automation, and security, and track progress against measurable outcomes. \n Champion observability and alerting best practices (e.g., Datadog), including automating alert triage and response to reduce mean-time-to-resolution. \n Solid understanding of agentic AI infrastructure and how AI agentic workflows apply to SDLC and",
+    "posted": "Mon, 07 Sep 2026 07:30:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-07T12:06:22.384007+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/legion-chief-architect": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/legion-chief-architect",
+    "source": "WeWorkRemotely",
+    "title": "Legion: Chief Architect",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
+    "description": "Headquarters:  Remote, United States\n \n\n Chief Architect \n Remote - US \n Legion Technologies is building the AI-powered operating system for the hourly workforce. We are hiring a Chief Architect to serve as Legion\u2019s most senior hands-on technical leader and to shape the technical foundation that will power the next decade of product innovation. \n This is not a strategy-only or advisory role. The Chief Architect must live close to the code, go deep with engineering teams, challenge assumptions, write and review technical designs, make high-consequence architecture decisions, and help turn bold product ambitions into scalable, reliable production systems. \n This person will own architecture and technical decision-making for the most complex parts of Legion\u2019s Workforce Management platform, including AI, optimization, forecasting, scheduling, distributed systems, data platforms, real-time decisioning, enterprise scalability, security, compliance, and developer productivity. \n The ideal candidate has built and scaled mission-critical software used by large enterprise customers, has deep technical credibility with senior engineers, and can operate fluidly between code-level decisions and long-term platform strategy. They are pragmatic, decisive, opinionated, and comfortable making hard tradeoffs when simplicity, scalability, reliability, or customer trust require it. \n This role reports to the Head of Product, Engineering, and Support. This is an open role currently being filled on an interim basis by the CEO. \n Responsibilities and Duties \n Hands-On Architecture and Technical Decision-Making \n Serve as Legion\u2019s senior-most hands-on technical authority for complex architecture, system design, and platform evolution. \n \n Personally dive into code, design documents, production incidents, performance bottlenecks, and implementation tradeoffs to diagnose root causes and guide technical direction. \n Lead the hardest technical decisions across AI systems, optimization engines, ",
+    "posted": "Mon, 07 Sep 2026 07:30:47 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-07T12:06:26.825403+00:00"
   }
 }
