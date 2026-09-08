@@ -6750,5 +6750,26 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-07T21:22:22.533514+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1844110/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1844110/",
+    "source": "WorkingNomads",
+    "title": "Senior Java & React Developer",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1844110/",
+    "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your location, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n We have different projects for Java & React Developers from different locations, remote. \n Requirements: \n \n 4+ years of commercial  software  development experience; \n 3+ years of commercial experience with React (required); \n 3+ years of commercial experience with Java (required). \n \n Also, we have an urgent project for European developers. Here are the  requirements : \n \n 8+ years of commercial software development experience; \n 4+ years of commercial experience with React (required); \n 8+ years of commercial experience with Java (required); \n 4+ years of commercial experience with Spring (required). \n \n Other requirements: \n \n Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of app",
+    "posted": "2026-09-08T05:54:52-04:00",
+    "tags": [
+      "react",
+      "java",
+      "spring",
+      "software engineering",
+      "english",
+      "Development"
+    ],
+    "score": 8,
+    "pitch": "I bring over six years of full-stack software development experience, specializing in building scalable systems with robust Java backends and modern React frontends. In my previous work with high-growth startups, I have architected high-throughput Spring Boot microservices, designed clean RESTful APIs, and developed responsive, performance-driven web interfaces with React and TypeScript. Having an extensive background in native Android engineering also deepens my mastery of Java runtime optimization and asynchronous design. I thrive in autonomous, fast-paced remote environments and would love to connect to discuss how my full-stack expertise aligns with Lemon.io\u2019s portfolio of startup clients.",
+    "status": "new",
+    "found_at": "2026-09-08T10:58:43.834663+00:00"
   }
 }
