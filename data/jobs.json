@@ -6787,5 +6787,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-08T16:24:31.845661+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager",
+    "source": "WeWorkRemotely",
+    "title": "Salesloft: Commercial Account Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager",
+    "description": "Headquarters:  United States, Remote\n \n\n Job Title: Commercial Account Manager \n Location: United States - Remote \n This is a fully remote opportunity and can be worked from any location in the United States. \n THE OPPORTUNITY: \n At Salesloft, our Commercial Account Managers are pivotal to our company's success. You will be a key member of our fast-growing and high-performing sales team and will be our boots-on-the-ground solution to building personal relationships and making our customers successful. We believe that the most successful sellers have a passionate and supportive team behind them. \n On a day-to-day basis, you will be responsible for: \n \n Full-Cycle Account Ownership:  Serving as the primary point of contact and ultimate owner of the account relationship, managing all commercial transactions including upsells, cross-sells, and the end-to-end renewal process. \n Driving Net-New Revenue:  Actively prospecting within your assigned territory to identify, qualify, and close new ACV opportunities within your install base to expand your total book of business. Actively hunt for opportunities to introduce additional products or seat expansions to existing customers, maximizing the lifetime value (LTV) of your portfolio. \n Account Planning:  Developing and executing success plans for high-value accounts to ensure long-term alignment between their business goals and our solutions. \n Proactive Retention Management:  Monitoring account health and usage patterns to identify potential churn risks early, implementing \"save\" strategies to protect existing recurring revenue. \n Executive Relationship Building:  Cultivating ties with VPs, C-suite executives and key stakeholders to move beyond a vendor relationship and become a trusted business advisor. \n Forecasting & Pipeline Accuracy:  Provide leadership with accurate monthly, and quarterly revenue forecasts for both net new bookings and churn. \n Market & Competitive Intelligence:  Staying up to date of industry trends a",
+    "posted": "Wed, 09 Sep 2026 07:30:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-09T11:03:21.848935+00:00"
   }
 }
