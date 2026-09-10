@@ -6921,5 +6921,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-10T04:04:13.631814+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
+    "source": "WeWorkRemotely",
+    "title": "Flexport: Senior Systems Engineer (Identity and Access)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
+    "description": "Headquarters:  U.S. Remote\n \n\n About Flexport:\u00a0 \n At Flexport, we believe global trade can move the human race forward. That\u2019s why it\u2019s our mission to make global commerce so easy there will be more of it. We\u2019re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes\u2014from emerging brands to Fortune 500s\u2014use Flexport technology to move more than $19B of merchandise across 112 countries a year.\u00a0 \n The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. The Opportunity:\u00a0 \n Flexport IT is looking for a  Senior Systems Engineer (Identity & Access) . In this role, you will design, implement, and administer our Identity and Access Management (IAM) solutions to ensure secure, efficient user lifecycle management. \n While you are our resident Okta expert, you are also a high-level IT generalist. You will oversee our broader SaaS ecosystem (Google Workspace, Slack, Jira) and endpoint management infrastructure (Jamf, Intune). Your expertise will drive automation, protect sensitive data, mitigate security risks, and maintain compliance in a heavily regulated industry. \n You will continually strive towards automation of toil. If you are still manually doing the same operational tasks 18 months from now, something has gone wrong. Flexport\u2019s book of business is growing fast, but the promise of technology is that we can grow our business faster than our headcount. The automation you build will be a key factor in that effort. \n You Will \n \n IAM Architecture:  Design, implement, and maintain the end-to-end lifecycle of Identity and Access Management platforms. \n Okta & Directory Trust:  Administer Okta, d",
+    "posted": "Thu, 10 Sep 2026 07:30:45 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "Hi team, I noticed Flexport is looking for a Senior Systems Engineer to streamline Identity and Access Management and automate user lifecycle processes across Okta, Google Workspace, and endpoint infrastructure. As a software engineer with extensive full-stack development experience, I specialize in building custom API integrations, backend automation workflows, and secure OAuth/SAML/SSO implementations. I can bridge the gap between traditional enterprise IT tools and custom automation scripts, ensuring your SaaS tooling operates reliably at scale. I would welcome the opportunity to discuss how my systems engineering and API-driven automation background can help strengthen and secure Flexport's internal operations.",
+    "status": "new",
+    "found_at": "2026-09-10T10:59:45.728050+00:00"
   }
 }
