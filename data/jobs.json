@@ -7041,5 +7041,21 @@
     "pitch": "I can help lead the assessment and modernization of your enterprise Power Platform ecosystem. With extensive full-stack architecture and Azure experience, I regularly design resilient backend systems integrating Azure Functions, API Management, Key Vault, and Entra ID alongside complex Dataverse schemas. I specialize in bridging enterprise data layers with evolving APIs and ERP backends, ensuring identity, access controls, and data consistency remain secure. My background building end-to-end web architectures means I evaluate legacy flows and Power Apps with an eye toward performance, maintainability, and clean integration touchpoints. Let's discuss your current setup and target roadmap.",
     "status": "new",
     "found_at": "2026-09-11T04:01:52.082857+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+    "source": "WeWorkRemotely",
+    "title": "Fin: Solutions Architect -Spanish Speaking",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+    "description": "Headquarters:  NYC, Remote; San Francisco, California\n \n\n Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. \n Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. \n Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. \n Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce. What's the opportunity?\u00a0 \n Fin is looking for an exceptional Solutions Architect to join our vibrant Customer Solutions Team. In this role, you\u2019ll engage directly with our customers as their trusted advisor, playing a pivotal part in defining and demonstrating value across the entire sales cycle. With a natural curiosity, independent thinking, and strong problem-solving skills, you\u2019ll partner closely with Product, R&D, and Engineering to ensure our customers\u2019 needs and insights are at the core of our AI powered solutions. \n What will I be doing?\u00a0 \n \n Lead technical discovery to identify and address our customers\u2019 needs \n Deliver an exceptional pre-sales experience by articulating Fin's value and technical expertise \n Conduct impactful, value-based solution revi",
+    "posted": "Fri, 11 Sep 2026 07:30:48 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "As an AI engineer and full-stack developer fluent in Spanish, I bridge technical implementation with high-impact customer solutions. Having integrated LLM-driven autonomous agents and custom workflow APIs into web and mobile enterprise applications, I understand the architectural nuances required to make Fin perform reliably across omnichannel setups. I can quickly map complex client workflows to Salesforce and Fin\u2019s AI capabilities, address API integration bottlenecks, and clearly demonstrate measurable ROI to Spanish-speaking enterprise stakeholders. Let\u2019s connect to discuss how I can help your team streamline technical deployments and accelerate customer adoption for Fin.",
+    "status": "new",
+    "found_at": "2026-09-11T10:58:10.839091+00:00"
   }
 }
