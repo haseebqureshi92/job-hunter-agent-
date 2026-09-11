@@ -6995,5 +6995,51 @@
     "pitch": "While I recognize this is an administrative virtual assistant opening for clinic operations and Athena EMR data management, I am reaching out to offer technical solutions that automate many of these manual tasks. As a full-stack and AI engineer, I build secure HIPAA-compliant integrations with AthenaHealth APIs to automate insurance eligibility checks, appointment reminders, and chart data extraction. Instead of manual data entry and follow-ups, I can implement automated communication workflows and AI agents that handle repetitive patient outreach and prior authorization routing efficiently. If Snapscale is interested in scaling clinic capacity through custom software automation rather than purely manual labor, I would welcome a conversation.",
     "status": "new",
     "found_at": "2026-09-10T20:41:22.170196+00:00"
+  },
+  "remoteok-1135555": {
+    "id": "remoteok-1135555",
+    "source": "RemoteOK",
+    "title": "AI Intern",
+    "company": "CertifyOS",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+    "description": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. We\u00e2\u0080\u0099re solving that problem. Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale. Our vision is simple:  One API. One provider ID. Frictionless provider data. We\u00e2\u0080\u0099re backed by leading investors and built by a team with deep experience in provider data systems. At CertifyOS, we value authenticity, accountability, collaboration, results, and openness to feedback. We\u00e2\u0080\u0099re building a high-ownership team focused on solving real infrastructure problems that impact millions of patients. About the Role: As an Intern Machine Learning Engineer on a 6-month contract, you will help build, test, and deploy ML-powered services on our provider data platform. This is not a pure research role; the focus is on strong software engineering, testing, and robust evaluation rather than novel model architectures. You will own features end-to-end by collaborating with stakeholders, implementing production-ready code, designing evaluation pipelines, and deploying services on Google Cloud Platform (GCP). This is a fully remote position. What You\u00e2\u0080\u0099ll Do: Design, implement, and maintain ML-driven services and data workflows in Python. Apply software engineering best practices, including clean code, testing (unit and integration), code reviews, CI/CD, observability, and documentation. Build and maintain evaluation pipelines and metrics to measure model and system performance in production-like environments. Deploy and operate ML services on GCP, including tools such as Cloud Run, GKE, Cloud Functions, Pub/Sub, BigQue",
+    "posted": "2026-07-28T08:00:03+00:00",
+    "tags": [
+      "design",
+      "sys admin",
+      "python",
+      "technical",
+      "dev",
+      "testing",
+      "java",
+      "cloud",
+      "git",
+      "api",
+      "ops",
+      "medical",
+      "recruiter",
+      "engineer",
+      "digital nomad"
+    ],
+    "score": 7,
+    "pitch": "I saw CertifyOS is looking for an ML Engineer to build production-grade, API-first services for your provider data platform. As a full-stack engineer specialized in applied AI and cloud systems, I focus on the practical software engineering behind ML rather than just theory. I have extensive experience building robust data pipelines, designing automated evaluation frameworks, and deploying containerized microservices on Google Cloud Platform. My background in building clean, scalable backend APIs aligns directly with your mission of delivering frictionless provider data. I would love to step in and help own, test, and ship these end-to-end ML features over the 6-month contract.",
+    "status": "new",
+    "found_at": "2026-09-11T04:01:45.545030+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Power Platform Solutions Architect",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+    "description": "Headquarters:  \n \n\n We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation. Required Skills: Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BI Strong experience designing Dataverse schemas and security roles Azure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application Insights Experience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migrated Experience integrating enterprise applications with ERP systems Experience designing identity and access models for licensed and unlicensed user audiences Strong understanding of Microsoft Power Platform licensing models, including per-user Dataverse licensing and capacity/session-based Power Pages licensing Experience evaluating existing solutions and defining modernization, remediation, or rebuild strategies Optional Skills (not mandatory): SAP integration experience Deliverables Lead the technical assessment of the existing Power Apps application, Power Automate flows, data layer, Power BI reporting, and four integration touchpoints Support the Regulatory data-profiling spike and incorporate findings into the target solution architecture Define and evaluate costed patch and rebuild options and support the final technical recommendation Produce a detailed and staffed Phase 2 implementation plan Design the consolidated Dataverse entity model and define workflow and business-logic architecture Define the target integration architecture across the four integration touchpoints Configure the Entra ID access model for licensed and unlicensed audiences Configure the shared Azure",
+    "posted": "Thu, 10 Sep 2026 21:30:33 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "I can help lead the assessment and modernization of your enterprise Power Platform ecosystem. With extensive full-stack architecture and Azure experience, I regularly design resilient backend systems integrating Azure Functions, API Management, Key Vault, and Entra ID alongside complex Dataverse schemas. I specialize in bridging enterprise data layers with evolving APIs and ERP backends, ensuring identity, access controls, and data consistency remain secure. My background building end-to-end web architectures means I evaluate legacy flows and Power Apps with an eye toward performance, maintainability, and clean integration touchpoints. Let's discuss your current setup and target roadmap.",
+    "status": "new",
+    "found_at": "2026-09-11T04:01:52.082857+00:00"
   }
 }
