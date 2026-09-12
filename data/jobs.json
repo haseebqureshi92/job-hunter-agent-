@@ -7057,5 +7057,26 @@
     "pitch": "As an AI engineer and full-stack developer fluent in Spanish, I bridge technical implementation with high-impact customer solutions. Having integrated LLM-driven autonomous agents and custom workflow APIs into web and mobile enterprise applications, I understand the architectural nuances required to make Fin perform reliably across omnichannel setups. I can quickly map complex client workflows to Salesforce and Fin\u2019s AI capabilities, address API integration bottlenecks, and clearly demonstrate measurable ROI to Spanish-speaking enterprise stakeholders. Let\u2019s connect to discuss how I can help your team streamline technical deployments and accelerate customer adoption for Fin.",
     "status": "new",
     "found_at": "2026-09-11T10:58:10.839091+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1857010/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1857010/",
+    "source": "WorkingNomads",
+    "title": "Product Lead (Strategy + Full Stack)",
+    "company": "Optimizee Group",
+    "url": "https://www.workingnomads.com/job/go/1857010/",
+    "description": "Do you want to join the company behind Northern Europe\u2019s largest crypto and stock market comparison platforms? Do you want to\u00a0 own the product roadmap end to end and build it yourself ? Do you want to decide what we build next as we expand globally? \n We\u2019re looking for a hands-on Product Lead to join our small but driven 100% remote team. This is a rare hybrid role: roughly\u00a0 60% product leadership \u00a0(roadmap, prioritization, specs, analytics) and\u00a0 40% full stack development . You\u2019ll work alongside our full-stack web developer, and as we expand the Product Team, your focus will shift increasingly toward product and team leadership, running 1-on-1s, recruiting, and building your own team to improve our products, with a clear path toward Head of Product. \n Who are Optimizee Group? \n Optimizee Group has been delivering results for 450+ partners worldwide through financial comparison platforms since 2017. Our portfolio includes\u00a0 CryptoRunner.com \u00a0(the largest cryptocurrency comparison platform in Northern Europe),\u00a0 InvestoRunner.com \u00a0(the largest stock market comparison platform in Sweden), and\u00a0 CreditRunner.com \u00a0(a new credit card comparison platform launching soon). \n Our mission is to build the world\u2019s biggest and most trusted portfolio of financial comparison platforms, helping millions of people make better financial decisions. To date, we\u2019ve generated over 8 million views and delivered more than 1.8 million referrals to our partners. With approximately 44,000 monthly active users and 35,000+ subscribers, you\u2019ll have a strong existing audience and foundation to build on. \n In 2026, we relaunched our websites on fully custom-built platforms, replacing our previous WordPress setup (see full tech stack below). The new platforms are connected to our in-house admin system, with integrations to multiple AI models and third-party API providers, giving us greater flexibility, scalability, and control as we grow. AI is deeply integrated into the admin system and across develo",
+    "posted": "2026-09-12T08:13:43-04:00",
+    "tags": [
+      "full stack",
+      "php",
+      "laravel",
+      "product owner",
+      "tailwind",
+      "Development"
+    ],
+    "score": 8,
+    "pitch": "I saw your opening for Product Lead at Optimizee Group and immediately connected with the balance between strategic ownership and hands-on execution. As a full-stack engineer with strong product instincts, I have led technical roadmaps from initial user research down to production deployment. I specialize in building data-dense, high-performance web applications and analytics pipelines that scale cleanly as traffic expands globally. Balancing roadmap prioritization, metrics, and direct full-stack delivery is where I do my best work. I would welcome the chance to discuss how I can help scale CryptoRunner and InvestoRunner while positioning the engineering foundation for long-term growth.",
+    "status": "new",
+    "found_at": "2026-09-12T15:20:46.205212+00:00"
   }
 }
