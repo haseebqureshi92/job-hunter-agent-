@@ -7126,5 +7126,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-15T11:28:22.442224+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+    "source": "WeWorkRemotely",
+    "title": "AccuLynx: Senior Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+    "description": "Headquarters:  Beloit, WI \n     URL:   http://acculynx.com \n \n\n Senior Software Engineer \n AccuLynx is a fast-growing SaaS provider of business management software for roofing contractors. With more than 10 years in the business and impressive year-over-year revenue growth, we have quickly established ourselves as the leading software product in this multi-billion dollar industry. \n AccuLynx is actively looking for smart and passionate Senior Software Engineers to join our growing Engineering team! We are headquartered out of Beloit, WI and would love to have you join us for major planning sessions and meetings, but this role has the option to be remote. We do not hire based on buzzwords or popular acronyms. We expect you to have mastered at least one language and be eager to master any technology or language in the future. If you want to be part of a collaborative team committed to providing a best-in-class software user experience, please read on! \n What You Will Do: \n \n Support Engineering team in delivering well-written, well-tested code to complete new features or address issues in the product \n Collaborate on the design, implementation, testing and review of new features and fixes \n Review code and contribute feedback to improve the quality, readability, and testability of the code base across Engineering \n Architect, design, develop, deploy and operate services that serve AccuLynx\u2019s thousands of users \n Use Agile process to experiment and improve on software development practices at AccuLynx \n \n What might you work on? \n \n Implement real time communication tools to connect our customers. \n Create a fast and responsive work-scheduling application for use in the field. \n Build an automation platform so our customers can customize their workflow to reduce wasted movement. \n Solve advanced mapping and geolocation problems. \n Build out our public RESTful API. \n Review junior Engineering team members\u2019 work for accuracy and provide coaching and feedback \n Perform ot",
+    "posted": "Tue, 15 Sep 2026 14:12:47 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-15T16:40:55.973856+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Senior Data Engineer \u2013 AWS Data Lake & Pipeline Architecture",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+    "description": "Headquarters:  \n \n\n Summary We are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science. General information This Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform. The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infrastructure and a mix of structured and unstructured data sources. Tasks and Deliverables - Participate in the architecture design and implementation of high-performance, scalable, and optimized data solutions. - Create data models from scratch using strong SQL fundamentals. - Write and optimize in-application SQL statements. - Ensure the performance, security, and availability of databases. - Prepare documentation and technical specifications. - Handle database procedures such as upgrades, backups, recovery, and migration. - Profile server resource usage and optimize configurations as necessary. - Design, build, and automate the deployment of data pipelines and applications. - Integrate data from on-premise databases and external data sources using REST APIs and harvesting tools. - Collaborate with business units and data science teams on data access, transformation, processing, and reporting needs. - Support implementation, technical issues, and training related to the data lake ecosystem. - Work with the team to manage AWS resources, including EMR and ECS clusters. - Support provisioning, monitoring, configuration, and maintenance of AWS tools. - Evaluate and promote new clou",
+    "posted": "Tue, 15 Sep 2026 12:53:09 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-15T16:41:07.312642+00:00"
   }
 }
