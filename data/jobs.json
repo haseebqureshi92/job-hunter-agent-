@@ -7158,5 +7158,42 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-15T16:41:07.312642+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Sticker Mule: AI agent engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+    "description": "Headquarters:  New York, NY\n     URL:   https://www.stickermule.com \n \n\n \n Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. \n \u00a0 \n We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. \n \u00a0 \n Work performed \n \n \n Identify where agents can help and build them accordingly. \n \n \n Work with department leads to assess AI needs. \n \n \n Help connect agents to appropriate third-party and internal tools. \n \n \n Measure results and remove agents that don't deliver. \n \n \n Test new tools and models as they ship and adopt what works. \n \n \n Advise others on AI capabilities to help them perform. \n \n \n \u00a0 \n Requirements \n \n \n Experience building agents that run on their own and do meaningful work \n \n \n Strong with Grok, Claude, OpenAI, and open source \n \n \n Comfortable in Go, TypeScript, GraphQL, Postgres, GCP \n \n \n Writes clearly in English \n \n \n \u00a0 \n Compensation \n \n \n Salary: $150,000\u2013$250,000 USD \n \n \n $20,000 signing bonus \n \n \n 4 weeks vacation + country-specific holidays \n \n \n Fully remote \n \n \n \n\n To apply:   https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+    "posted": "Wed, 16 Sep 2026 12:24:17 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-16T16:34:11.254185+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1867268/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1867268/",
+    "source": "WorkingNomads",
+    "title": "Senior Data Scientist",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1867268/",
+    "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best scientists, developers, engineers and designers from more than 75 countries. \n \n We have several different roles for Data Scientist positions \u2014 please check the details if you're interested. Also, we have a few urgent remote positions for Data Scientists in Sweden and Belgium. \n Requirements \u2014 Data Scientist: \n \n 4+ years of commercial experience as a Data Scientist \n 3+ years of commercial experience with Python is a must \n 3+ years of commercial experience with Databricks \n Experience with RAG and LLM is a must \n \n \u00a0 \n \n Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. \n Clear and effective communication in English \u2014 advanced ability to discuss business tasks, justify decisions, and communicate is",
+    "posted": "2026-09-16T08:02:59-04:00",
+    "tags": [
+      "data science",
+      "data engineering",
+      "python",
+      "machine learning",
+      "english",
+      "Development"
+    ],
+    "score": 6,
+    "pitch": "I saw your opening for Senior Data Scientists at Lemon.io and would love to join your vetting pipeline. As a seasoned engineer combining strong AI/ML expertise with full-stack development, I bridge the gap between predictive modeling and production delivery. My background includes designing machine learning pipelines, fine-tuning modern models, and integrating inference APIs seamlessly into responsive web architectures. I thrive in fast-paced startup environments, communicate asynchronously with ease, and deliver production-grade solutions without requiring micromanagement. I would welcome the opportunity to discuss my technical track record and how my AI engineering skill set matches the needs of your startup clients.",
+    "status": "new",
+    "found_at": "2026-09-16T16:34:28.801983+00:00"
   }
 }
