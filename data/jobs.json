@@ -7269,5 +7269,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-18T16:10:38.430841+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+    "description": "Headquarters:  \n \n\n Summary We are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery. General information This role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle\u2014from implementation and testing through production support and continuous improvement. Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns. AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions. Tasks and Deliverables Design and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake. Define and maintain API contracts, field mappings, transformations, and automated tests. Use Data Modeler to develop and maintain accurate data mappings between systems. Debug and resolve production integration failures independently, including root-cause analysis and preventative improvements. Instrument integration pipelines with appropriate monitoring, logging, and alerting. Support Marketing Portfolio transition integrations while avoiding unnecessary point-to-point dependencies and new integration debt. Use AI tools to accelerate mapping drafts, API stubs, test generation, documentation, and error-handling boi",
+    "posted": "Fri, 18 Sep 2026 17:01:08 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "I bring extensive experience designing and deploying robust enterprise API integrations, data transformations, and automated ingestion pipelines across distributed architectures. I specialize in building resilient backend integration layers and data contracts that prevent tech debt while connecting core platforms like Salesforce and ERP ecosystems to analytics data lakes. Furthermore, I integrate AI developer tools and specialized agents directly into my daily engineering workflow to significantly accelerate schema mapping, edge-case generation, contract testing, and root-cause observability without compromising on production rigor. I would welcome the opportunity to discuss how I can reliably scale and operate your integration pipelines.",
+    "status": "new",
+    "found_at": "2026-09-18T20:42:19.061157+00:00"
   }
 }
