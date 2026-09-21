@@ -7501,5 +7501,39 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-20T15:48:48.951798+00:00"
+  },
+  "remoteok-1137410": {
+    "id": "remoteok-1137410",
+    "source": "RemoteOK",
+    "title": "Frontend Engineer",
+    "company": "Bjak ",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "description": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations Our objective is to organise anyone's life. \u00c2\u00a0 Role As a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets. You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work. \u00c2\u00a0 What You'll Own Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets. Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets. Build reusable frontend architecture and components that work consistently across ActAI applications. Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows. Own frontend performance, responsiveness, reliability and accessibility across browsers and devices. Work closely with product and design to take ideas from prototype to production quickly. \u00c2\u00a0 What We're Looking For Strong experience building complex, production web applications using React, TypeScript and modern frontend technologies. Deep understanding of frontend architecture, state management, browser APIs, and performance. Experience building highly interactive products such as chat, collaboration, productivity, document editing, calendars, or workspaces. Experience with real-t",
+    "posted": "2026-09-20T00:00:25+00:00",
+    "tags": [
+      "front end",
+      "design",
+      "react",
+      "graphql",
+      "react.js",
+      "technical",
+      "web dev",
+      "javascript",
+      "css",
+      "chatbot",
+      "html",
+      "typescript",
+      "node",
+      "node.js",
+      "exec",
+      "sys admin",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "score": 8,
+    "pitch": "I specialize in building complex, high-performance web frontends tightly integrated with AI workflows. With strong full-stack web and AI integration experience, I have built real-time collaborative editors, streaming chat interfaces, and dynamic state-driven tools like calendars and docs. ActAI\u2019s mission of proactive UX aligns with my focus on streaming token management, optimistic UI updates, and persistent context architectures that keep latency negligible and interfaces responsive. I can immediately take ownership of the Chat, Docs, and Sheets surfaces to deliver an intuitive, AI-native experience across modern browsers. Let's connect to discuss how I can accelerate your frontend roadmap.",
+    "status": "new",
+    "found_at": "2026-09-21T04:21:16.452986+00:00"
   }
 }
