@@ -7551,5 +7551,40 @@
     "pitch": "I have extensive experience architecting two-sided marketplaces and mobile ecosystems from zero to launch. Building an interactive platform like Thumbtack requires rock-solid full-stack web infrastructure paired with performant mobile apps for both clients and on-the-go contractors. I can design the unified backend, implement real-time job tracking, lead distribution, and secure payment processing, while delivering seamless web and cross-platform mobile experiences. Beyond standard search and filtering, I can also integrate smart matching algorithms to optimize vendor-client connections and improve lead conversion. Let's connect to discuss how we can bring your platform vision to market efficiently.",
     "status": "new",
     "found_at": "2026-09-21T12:29:37.058292+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/glean-application-security-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Glean: Application Security Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+    "description": "Headquarters:  United States, Remote\n \n\n About Glean: \n \u00a0 \n Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry\u2019s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. \n \u00a0 \n At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean\u2019s agentic capabilities - AI agents that automate real work across teams by accessing the industry\u2019s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level. \n \u00a0 \n Recognized by Fast Company as one of the World\u2019s Most Innovative Companies (Top 10, 2025), by CNBC\u2019s Disruptor 50, Bloomberg\u2019s AI Startups to Watch (2026), Forbes AI 50, and Gartner\u2019s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50+ industries and 1,000+ employees in more than 25 countries, we\u2019re helping the world\u2019s largest organizations make every employee AI-fluent, and turning the superintelligent enterprise from concept into reality. \n \u00a0 \n If you\u2019re excited to shape how the world works, you\u2019ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more - deeply embedded where people get things done. You\u2019ll ship agentic capabilities on an ",
+    "posted": "Wed, 23 Sep 2026 07:31:13 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-23T11:12:18.854934+00:00"
+  },
+  "remotive-2091144": {
+    "id": "remotive-2091144",
+    "source": "Remotive",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+    "description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. \n \u00a0 \n A Day in the Life of a Content Reviewer - US \n In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. \n \u00a0 \n By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself. \n Join our global community and put your skills to work supporting one of the world's leading search technologies. \n \u00a0 \n Service Rates\u00a0 \n The rate of pay is  $0.2333 per completed task, with an estimated earning potential of $14 per hour.  Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines.  \n \u00a0 \n Please note that only one member per household may participate in this program. If it is identified that more than one person from the same household is participating in the TELUS Digital Rating Program, all associated accounts may be removed from the program. \n \u00a0 \n Independent Contractor Relationship \n This opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital. \n \u00a0 \n Qualification path \n Qualification Process \n No previous professional experience is required to apply for this opportunity. However, participation in this project requires meeting the basic requirements a",
+    "posted": "2026-09-21T12:55:11",
+    "tags": [
+      "android",
+      "ios",
+      "social media",
+      "AI/ML"
+    ],
+    "score": 1,
+    "pitch": "I am applying for the Content Reviewer position. As an AI and software engineer with hands-on experience training, evaluating, and fine-tuning AI and search retrieval systems, I offer a deep technical understanding of relevance metrics, semantic accuracy, and edge-case detection. My background in software quality assurance and data labeling allows me to interpret complex evaluation rubrics accurately and deliver high-volume, reliable assessments. I work efficiently within specialized web portals and can help maintain rigorous data standards to optimize your search model performance. I am ready to begin reviewing content immediately.",
+    "status": "new",
+    "found_at": "2026-09-23T11:12:24.559561+00:00"
   }
 }
