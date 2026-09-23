@@ -7586,5 +7586,21 @@
     "pitch": "I am applying for the Content Reviewer position. As an AI and software engineer with hands-on experience training, evaluating, and fine-tuning AI and search retrieval systems, I offer a deep technical understanding of relevance metrics, semantic accuracy, and edge-case detection. My background in software quality assurance and data labeling allows me to interpret complex evaluation rubrics accurately and deliver high-volume, reliable assessments. I work efficiently within specialized web portals and can help maintain rigorous data standards to optimize your search model performance. I am ready to begin reviewing content immediately.",
     "status": "new",
     "found_at": "2026-09-23T11:12:24.559561+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+    "source": "WeWorkRemotely",
+    "title": "STEUART NUTRITION: Software Developer AI Coding",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+    "description": "Headquarters:  Minnesota\n     URL:   https://www.steuartnutrition.com/ \n \n\n About us \n Steuart Nutrition is a GMP-certified contract manufacturer making powders, liquids, capsules and stick packs for growing wellness brands. We run on Extreme Ownership, clear communication and fast turnaround, and we want a developer who works the same way. \n The role \n We're hiring a remote developer to own the customization of our training app. You'll learn the platform quickly, then build what our teams need to train and onboard people. Over time you'll also take on other internal tools and automations. AI-assisted development is central to how we work, so we want someone who uses AI tools to write and ship better code faster. \n What you'll do \n \n Learn our training app inside and out, then customize and extend it \n Build features, integrations and automations with AI coding tools like Claude, Cursor, Copilot and Grok \n Turn rough requests from the plant and office teams into working solutions \n Document your work so others can use it and maintain it \n Give regular, clear progress updates \n \n What we're looking for \n \n 3+ years of professional software development \n Strong, proven skill with AI-assisted coding: you know how to prompt, check and fix AI-generated code \n A track record of quickly learning unfamiliar platforms and codebases \n Experience with APIs, web apps and integrations (JavaScript/TypeScript or Python preferred) \n Excellent written English and consistent communication \n Able to overlap at least 4 hours a day with US Eastern Time \n Bonus: experience with LMS or training platforms, or with manufacturing or regulated industries \n \n\n To apply:   https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+    "posted": "Wed, 23 Sep 2026 15:03:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-23T16:33:38.573539+00:00"
   }
 }
