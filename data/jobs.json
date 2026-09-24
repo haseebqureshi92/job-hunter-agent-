@@ -7652,5 +7652,42 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-24T11:27:30.657623+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
+    "description": "Headquarters:  \n \n\n We are looking for a Salesforce Platform Lead for a global company. Their goal is to own the Salesforce platform as a product, improving release health, security, engineering standards, reusable patterns, and AI-assisted delivery. General Information Location: Remote. Talents from the USA or Canada. French/English bilingual candidates are preferred  for the Montreal hub. Overlap: 6hs with East Coast time zone, USA Commitment: full-time Length: 12+ month Required Skills: 6\u201310 years of Salesforce administration and development experience with platform ownership responsibilities Expert-level Salesforce Flow experience Solid hands-on experience with Apex and Lightning Web Components (LWC) Experience with Salesforce Experience Cloud and Service Cloud Strong Salesforce release management experience Experience with CI/CD for Salesforce environments Strong knowledge of Salesforce security, sharing, permissions, and platform governance Experience defining and enforcing coding and configuration standards through hands-on pull request reviews Experience managing production Salesforce environments, including releases, sandbox strategy, backup, and recovery Experience designing reusable Flow, LWC, and integration patterns for development teams Experience leading or supporting P1 production incident response Hands-on experience using AI coding copilots and agents in Salesforce development workflows Experience with Salesforce metadata automation, test generation, org discovery, and AI-assisted pull request review Ability to validate AI-generated code and automation before production deployment Optional Skills (not mandatory): French and English bilingual proficiency Salesforce Administrator certification Salesforce Platform App Builder certification Salesforce Platform Developer certification Bachelor\u2019s degree or equivalent experience Deliverables Own the Salesforce production environment, including releases, security, sandbox strategy, backup, and recovery Def",
+    "posted": "Thu, 24 Sep 2026 14:45:20 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-24T16:53:23.904373+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1889808/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1889808/",
+    "source": "WorkingNomads",
+    "title": "Stack .NET Developer / Algorithm Engineer \u2013 Backend Focus.",
+    "company": "CloudGeometry",
+    "url": "https://www.workingnomads.com/job/go/1889808/",
+    "description": "Stack .NET Developer / Algorithm Engineer \u2013 Backend Focus. \n \u00a0 \n Remote \n We are looking for an experienced\u00a0 Full Stack .Net Developer, very strong on backend with some experience on F/E (react)to join our team and work on core components of a system designed to reduce healthcare costs through drug cost transparency at the point of care. This is a complex product featuring multiple integrations, APIs, a microservice architecture, and cloud-based infrastructure. \n The ideal candidate will have a strong background in data-driven and microservices architecture, algorithm thinking and use and extensive experience working with data. Additionally, they should have the ability and willingness to solve algorithmic challenges, and write clean, high-quality code while collaborating within a dynamic agile team. \n This role requires flexibility, resilience, and the ability to adapt to changing priorities. We value independent thinkers, quick learners, and self-starters who thrive on solving problems in a fast-paced environment. \n Requirements \n Must\u00a0 \n \n \n Strong in Data Structure and Algorithm \n \n \n Strong in Recursion \n \n \n Strong understanding of OOP principles and design patterns \n \n \n At least 6 years of experience Hands-on experience with .NET (C#/.Net Core 8+) \n \n \n Experience with Entity Framework \n \n \n Hands-on experience with Entity Framework \n \n \n Proficiency in SQL \n \n \n Analytical skills for solving challenges in complex systems \n \n \n Some experience with microservices, RESTful services, API \n \n \n Strong communication skills including the ability to reconcile competing business and technical viewpoints \n \n \n A strong ability and willingness to solve algorithmic tasks \n \n \n \u00a0 \n Nice to Have \n \n \n Some experience with React \n \n \n Hands-on experience with Amazon Web Services (SDK) \n \n \n Experience with NoSQL databases \n \n \n Familiarity with message queue systems \n \n \n Hands-on experience Hangfire and Redis \n \n \n Experience with Docker \n \n \n Extensive experience with d",
+    "posted": "2026-09-24T10:57:36-04:00",
+    "tags": [
+      "dotnet",
+      "sql",
+      "architecture",
+      "react",
+      "communication",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-24T16:53:53.255046+00:00"
   }
 }
