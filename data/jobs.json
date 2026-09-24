@@ -7636,5 +7636,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-24T04:09:57.388099+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/customer-io-contract-accounts-payable-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/customer-io-contract-accounts-payable-manager",
+    "source": "WeWorkRemotely",
+    "title": "Customer.io: Contract Accounts Payable Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/customer-io-contract-accounts-payable-manager",
+    "description": "Headquarters:  Americas Remote\n \n\n About  Customer.io \n Over 9,000 companies \u2014 from scrappy startups to global brands \u2014 use our platform to send billions of emails, push notifications, in-app messages, and SMS every day.  Customer.io  powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. \n About the role \n Hi, my name is Eric Anderson, Senior Controller at  Customer.io , and I'm looking for an AP Contractor to keep our T&E engine running clean through a busy stretch. Our Accounting team relies on Ramp and Navan to keep expense and travel spend moving, and we need someone who can own the day-to-day grind \u2014 coding, reconciling, chasing exceptions \u2014 without losing sight of the bigger picture. This is a 6-month contract with real ownership from day one, working closely with Terre Holmes and the AP team. \n What we value \n \n Ownership  \u2014 you drive the exception queue to zero, not someone else. \n Directness  \u2014 you enforce policy clearly and kindly, without dodging hard conversations. \n Precision  \u2014 a mismatched dollar amount doesn't get past you. \n \n What you\u2019ll do \n \n Own Ramp expense management end-to-end \u2014 review, code, and approve expense reports, chase missing receipts, and enforce policy compliance. \n Administer Navan travel \u2014 reconcile bookings and spend, flag policy exceptions, and support employees through out-of-policy approvals. \n Review AP bills for accuracy, coding, and approval routing \u2014 catching duplicate invoices and mismatched amounts before they hit the payment queue. \n Reconcile Ramp and Navan activity against the GL and drive the exception queue to zero before every close. \n Serve as the responsive point of contact for vendors \u2014 confirming payment details, tracking status, and resolving disputes. \n Spot recurring T&E headaches and propose (and document) process fixes. \n \n What we're looking for \n \n 3+ years of AP & T&E experience, ideally in SaaS or a high",
+    "posted": "Thu, 24 Sep 2026 07:30:50 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-24T11:27:30.657623+00:00"
   }
 }
