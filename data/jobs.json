@@ -7689,5 +7689,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-24T16:53:53.255046+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform",
+    "source": "WeWorkRemotely",
+    "title": "Dremio: Senior Software Engineer - Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform",
+    "description": "Headquarters:  Portugal - Remote\n \n\n Be Part of Building the Future \n Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.\u00a0 Learn more at\u00a0 www.dremio.com. About the role \n The Observability and Core Services team owns the platform foundation that Dremio is built on \u2014 and that every product team depends on to ship. As a core member, you'll design and deliver the critical building blocks: telemetry, messaging, KV store and persistence, application frameworks, caching, coordination, and events and audit services, along with Dremio's growing integration with the SAP platform. When these systems are rock-solid, the whole engineering org moves faster. \n You'll work at the intersection of DevOps/SRE and application development \u2014 designing solutions that are highly scalable and genuinely easy to use \u2014 while collaborating with core product teams to ship safely and partnering with Field teams to support customers at enterprise scale.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n This is also where Dremio's hardest distributed systems problems live. You'll tackle consistent persistence, distributed caching, networking, containerized services, private links, Terraform-driven infrastructure, and access control at scale. The scope is broad by design: we believe the best platform engineers are the ones who can hold the full picture and own problems end-to-end.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+    "posted": "Sat, 26 Sep 2026 07:30:50 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-26T11:08:10.545828+00:00"
   }
 }
