@@ -7705,5 +7705,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-26T11:08:10.545828+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+    "source": "WeWorkRemotely",
+    "title": "Dremio: Software Engineer - Developer Experience",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+    "description": "Headquarters:  Portugal - Remote\n \n\n Be Part of Building the Future \n Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.\u00a0 Learn more at\u00a0 www.dremio.com. About the role \n In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutions. You will be responsible for both regularly scheduled work as well as on-demand break-fix work to support Dremio\u2019s CI/CD system, identifying areas of improvement, and implementing changes to increase efficiency and effectiveness of those systems. \n Bring your industry experience to improve the efficiency and scale of Dremio\u2019s infrastructure via innovation on tooling and methodologies. You should have empathy for developers and a passion for engineering productivity.\u00a0 \n \u00a0 \n What you\u2019ll be doing \n \n Solve problems for fellow Dremio engineers by: \n \n Leveraging and contributing to playbooks to implement solutions to unblock them \n Identifying short term workarounds and documenting them \n Automating processes where manual processes exist. \n \n Working on infrastructure across all major clouds (AWS, GCP, Azure). \n Managing access to key infrastructure. \n Build and maintain CI/CD pipelines and associated systems to increase organizational efficiency. \n Automate local development workflows. \n Analyze performance bottlenecks, root cause issues, file defects, follow up with developers, and document resolutions. \n Clear focus on keeping our development branches \u2018green\u2019.\u00a0 \n Release engineeri",
+    "posted": "Mon, 28 Sep 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-28T13:27:28.140457+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "source": "WeWorkRemotely",
+    "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "description": "Headquarters:  Portugal - Remote\n \n\n Be Part of Building the Future \n Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.\u00a0 Learn more at\u00a0 www.dremio.com. About the role \n Dremio\u2019s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution. \n As a Senior Staff Software Engineer, you\u2019ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio\u2019s cloud data platform. \n \u00a0 \n What you\u2019ll be doing \n \n Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management. \n Improve runtime performance: Optimize vectorized processing, concurrency, parallelism, memory usage, data exchange, and disk spilling. \n Diagnose difficult problems: Investigate query correctness and performance issues using query profiles, profiling tools, telemetry, benchmarks, logs, and production data. \n Optimize Java and the JVM: Improve CPU utilization, allocation behavior, garbage collection, thread behavior, and other runtime characteristics. \n Collaborate across the query engine: Work with Query Planner, Datalake, Product, Support, and field engineering teams on ",
+    "posted": "Mon, 28 Sep 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-28T13:27:43.885219+00:00"
   }
 }
