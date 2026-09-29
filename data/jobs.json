@@ -7737,5 +7737,69 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-28T13:27:43.885219+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+    "source": "WeWorkRemotely",
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+    "description": "Headquarters:  Sweden\n     URL:   http://career.proxify.io \n \n\n The Role: \n \u00a0 \n We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You\u2019ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. \n This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. \n \u00a0 \n What we\u2019re looking for: \n \n 5+ years with Node.js and 3+ past years with Nest.js \n Strong expertise in Node.js and Nest.js frameworks. \n Proven experience building REST and/or GraphQL APIs. \n Strong knowledge of JavaScript (ES6+) and TypeScript. \n Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). \n Familiarity with authentication/authorization mechanisms (JWT, OAuth2). \n Experience with unit/integration testing (e.g., Jest, Mocha). \n Proficiency with Git and version control workflows. \n Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. \n \n \u00a0 \n Nice to Have: \n \n Experience with cloud platforms (AWS, Azure, GCP). \n Familiarity with CI/CD pipelines and DevOps practices. \n Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka). \n Experience with Docker and containerized applications. \n Knowledge of microservices and serverless architectures. \n \n \u00a0 \n Responsibilities: \n \n Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js. \n Implement RESTful APIs, GraphQL endpoints, and microservices architectures. \n Optimize application performance, scalability, and maintainability. \n Integrate with databases (SQL/NoSQL) and external services via APIs. \n Ensure code quality, security, and compliance with industry standards. \n \n \u00a0 \n What we offer: \n Get paid, not played \n No more unreliable clients. Enjoy on-time monthly payments with flexible wi",
+    "posted": "Tue, 15 Sep 2026 09:06:31 +0000",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-29T12:31:02.973022+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+    "source": "WeWorkRemotely",
+    "title": "Discord: Engineering Manager, Machine Learning (Safety)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+    "description": "Headquarters:  San Francisco Bay Area (or Remote U.S.)\n \n\n Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there\u2019s one thing that nearly everyone does:  play video games.  Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. \n We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As the manager responsible for Safety ML, you will own the detection systems that sit between attackers and our users; real-time and batch models for content understanding, account integrity, and platform abuse. \n What You'll Be Doing \n \n Build and lead an exceptional team of highly-engaged ML engineers by hiring, coaching, and instilling a sense of ownership and impact. \n Drive the technical vision and roadmap for Safety ML by collaborating with your team and partners across Trust & Safety, Product, Policy, Legal, and Data Science. \n Own the end-to-end lifecycle of production safety models: defining new capabilities, measuring performance, and monitoring the operational health of systems that make millions of enforcement decisions per day. \n Manage processes and leverage your technical expertise to continually raise the bar and ensure your team delivers extraordinary results. \n Partner with Trust & Safety on label quality, golden sets, and automating manual investigations. \n Work with other Engineering Managers to continuously improve the Engineering organization and uphold our  workplace philosophy . \n \n What you should have \n \n You have 5+ years of experience as a Machine ",
+    "posted": "Tue, 29 Sep 2026 07:30:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-29T12:31:51.645350+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+    "source": "WeWorkRemotely",
+    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+    "description": "Headquarters:  Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States\n \n\n ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen\u2013fast. \n You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over \u2014 what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead. \n What You'll Do \n \n You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review. \n You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data. \n You will choose the right method for each problem \u2014 classical machine learning, language models, or code \u2014 for challenges like sparse-company revenue estimation, entity resolution, and semantic intent modeling, deciding on measured evidence and stopping work that won't pay off. \n You will define what it takes to claim an agent's output is correct, not just that its run completed, building the evaluation datasets, regression gates, and experiment designs that back those claims. \n You will own inference cost, latency, a",
+    "posted": "Tue, 29 Sep 2026 07:30:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-29T12:31:52.568026+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/postscript-client-strategist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/postscript-client-strategist",
+    "source": "WeWorkRemotely",
+    "title": "Postscript: Client Strategist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/postscript-client-strategist",
+    "description": "Headquarters:  Remote, USA\n \n\n Postscript is the AI messaging platform trusted by 20,000+ Shopify brands \u2014 including Brooklinen, Ruggable, True Classic, and Dr. Squatch.\u00a0 \n With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.\u00a0 \n Backed by Greylock and Y Combinator, fully remote since 2018. As a  Client Strategist , you will be working with our biggest brands and be responsible for the end to end SMS strategy for a rotating group of customers. You will work closely with our Marketing, Product and Customer Success teams to learn best practices and use your marketing skills to drive consistent SMS revenue for select customers. You will write best in class copy on behalf of our customers to make brands stand out, and help brainstorm revenue-generating and best-in-class strategies directly with merchants to help them make SMS their #1-revenue-driving channel. \n This is a fully remote position. \n Primary duties \n \n Excellent content  - Create compelling, innovative content for your customers in the form of SMS campaigns, automations and call to actions. Be consistent with their brand voice and vision while continually helping them improve their SMS programs. \n Excellent advisory relationships  - Develop excellent advisory relationships with customers. Execute on best practices, strategize on new marketing strategies, and develop and run innovative, creative SMS marketing campaigns.\u00a0 \n Customer growth  - Actively track, analyze and iterate on customers\u2019 results. Ensure they scale quickly and effectively on the Postscript platform.\u00a0 \n Marketing best practices  - Establish marketing best practices to ensure brands are on the leading front of SMS Marketing. Continually expand your expert-level knowledge of your customer\u2019s marketing, technology and general business needs. \n Industry and product expertise ",
+    "posted": "Tue, 29 Sep 2026 07:30:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "While my core background is as a full-stack and AI engineer, I bring a deep technical understanding of e-commerce architectures, Shopify APIs, and automated messaging workflows that can directly elevate your merchants' SMS strategies. Having built AI-driven applications and data-backed user engagement flows, I can help Postscript's top brands segment their audiences with technical precision, optimize conversion funnels, and leverage your proprietary AI features to maximize revenue. I bridge the gap between creative marketing strategy and analytical execution, ensuring campaigns are high-converting, measurable, and scalable.",
+    "status": "new",
+    "found_at": "2026-09-29T12:32:11.016711+00:00"
   }
 }
