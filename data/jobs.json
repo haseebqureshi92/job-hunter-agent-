@@ -7801,5 +7801,69 @@
     "pitch": "While my core background is as a full-stack and AI engineer, I bring a deep technical understanding of e-commerce architectures, Shopify APIs, and automated messaging workflows that can directly elevate your merchants' SMS strategies. Having built AI-driven applications and data-backed user engagement flows, I can help Postscript's top brands segment their audiences with technical precision, optimize conversion funnels, and leverage your proprietary AI features to maximize revenue. I bridge the gap between creative marketing strategy and analytical execution, ensuring campaigns are high-converting, measurable, and scalable.",
     "status": "new",
     "found_at": "2026-09-29T12:32:11.016711+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Senior Risk Associate",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 We are hiring a Senior Risk Associate to run Lithic's risk assessment function: the client risk assessment program, the third party risk management program, and the enterprise risk assessment. You will execute the assessments, own the operations that keep them on schedule and defensible, and continuously improve the rubrics, questionnaires, registers, and SOPs that govern them. You will also own program underwriting: the criteria, limit and reserve recommendations, and periodic reassessment that follow a client from diligence through scale. \n This is an AI-forward role. Lithic is deploying agentic tooling across diligence and documentation workflows, and this role owns that build in the assessment domain: testing, tuning, and documenting the tooling so routine collection, review, and drafting are absorbed by automation, while you own the judgment calls, the exceptions, and the written product that goes to partner banks and examiners. \n This role operates with limited guidance and owns its",
+    "posted": "Wed, 30 Sep 2026 07:31:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 1,
+    "pitch": "While my primary expertise is in full-stack engineering and AI-driven automation, I have built systems that interface closely with fintech compliance and operational risk workflows. If Lithic is looking to modernize its risk assessment pipelines, automate client risk questionnaires, or integrate machine learning models to improve underwriting criteria and reserve calculations, I can engineer the technical tooling to support those operations. I build secure internal platforms and API integrations that reduce manual review overhead, ensuring risk registers and underwriting assessments run efficiently and scale defensibly alongside your card issuing infrastructure.",
+    "status": "new",
+    "found_at": "2026-09-30T22:04:30.341156+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+    "source": "WeWorkRemotely",
+    "title": "Salesloft: Principal Software Engineer, AI",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+    "description": "Headquarters:  United States, Remote\n \n\n Job Title:  Principal Software Engineer, AI\u00a0 \n Location : Remote - US \n Salesloft is building the next era of enterprise revenue \u2014 one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. \n With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won \u2014 the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. \n Join us to help transform how companies around the world run revenue \u2014 and build the platform that will guide leading revenue teams into the future. \n THE OPPORTUNITY \n At Salesloft, our Principal Engineer for AI sets the technical direction for how machine intelligence works across our Predictive Revenue System. This is the most senior individual-contributor role on our AI engineering team: you will architect the systems that turn LLMs, machine learning models, and agentic workflows into production capabilities that thousands of enterprise revenue teams depend on. \n This is deep, ambiguous, frontier work. You will make the foundational architectural decisions for AI at Salesloft \u2014 how we serve models at scale, how we build reliable systems on top of non-deterministic components, how we evaluate and guardrail agentic behavior, and how we keep pace as the underlying foundation models evolve. You will set the standards other engineers build on and act as a technical multiplier across the AI organization. \n On a day-to-day basis, you will: \n \n Set the technical architecture and direction for AI systems across the platform \u2014 model serving, LLM-powered features, agentic workflows, and the infrastructu",
+    "posted": "Wed, 30 Sep 2026 07:31:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-30T22:04:31.286854+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+    "source": "WeWorkRemotely",
+    "title": "Tailscale: Analytics Engineer, Data",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+    "description": "Headquarters:  Remote (Canada)\n \n\n Thank you for considering Tailscale. If this job description resonates with you, please apply.\u00a0 Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.  We encourage you to help us break that statistic! \n About Tailscale\u00a0 \n Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role \n We are looking for an Analytics Engineer who thrives in high-complexity environments\u2014someone excited to bring clarity to chaos, untangle complex models, and lay down the foundation for scalable solutions. \n This is a hands-on, high-impact role for someone who isn\u2019t afraid to address manual processes, viewing them as opportunities to build scalable solutions that drive meaningful impact. You\u2019ll work closely with stakeholders across the company to build reliable, trusted data models that support reporting, analysis, and decision-making. \n Key Responsibilities \n \n Dive into complex systems and manual workflows to develop an understanding of our tools and constraints. \n Thoughtfully design and maintain clean, scalable, production-grade dbt models (e.g., ARR, revenue recognition). \n Work across the full data pipeline, from ingestion to transformation to visualization. \n Take a pragmatic approach to system challenges, balancing quick fixes with thoughtful long-term design. \n Collaborate with Finance, Engineering, Sales, and other teams across the company to understand data ne",
+    "posted": "Wed, 30 Sep 2026 07:31:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "Hi Tailscale team, I'm reaching out because I specialize in untangling messy, high-complexity systems and turning raw data into robust, automated pipelines. As an engineer with deep full-stack and data modeling experience, I bridge the gap between engineering infrastructure and downstream business intelligence. I have extensive experience building scalable ETL/ELT pipelines, standardizing analytics architectures, and designing reliable data models that eliminate manual bottlenecks for fast-growing distributed teams. I admire Tailscale's security-first mission and would love to help strengthen your data foundation to deliver trusted metrics across the organization. Let's connect to discuss how I can make an immediate impact on your data infrastructure.",
+    "status": "new",
+    "found_at": "2026-09-30T22:04:35.775662+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Senior Software Engineer, Card Authorization",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 We are hiring a  Senior Software Engineer  for Lithic\u2019s Card Authorization team, which owns the real-time systems that make every card authorization decision correct, reliable, and fast. The team also owns related fraud tooling, including Lithic\u2019s Rules Engine and 3D Secure integration. You\u2019ll own high-impact projects end-to-end, solve distributed-systems problems at scale, and help build the tools customers use to control fraud and payment risk. \n What you'll do: \n \n Write reliable, secure, scalable code for Lithic\u2019s real-time authorization and fraud-prevention systems with minimal tech debt \n Build customer-facing features, such as rules improvements, velocity controls, 3DS flows, fraud tooling, and transaction monitoring. Own projects from planning to launch. \n Improve the reliability of systems in team\u2019s scope and participate in the team on-call rotation \n Lead efforts to improve systems and processes within the team \n \n What you'll bring: \n \n 4+ years building production backend syst",
+    "posted": "Wed, 30 Sep 2026 07:31:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-09-30T22:04:38.396134+00:00"
   }
 }
