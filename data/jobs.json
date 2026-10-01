@@ -7865,5 +7865,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-09-30T22:04:38.396134+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
+    "source": "WeWorkRemotely",
+    "title": "Doximity: Commercial Data Scientist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
+    "description": "Headquarters:  San Francisco, CA or Remote (U.S.)\n \n\n Commercial Data Scientist \n Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity\u2019s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients.\u00a0 \n At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. \n This role can be filled in the Northeast (New York, NJ, Philadelphia, Boston), our San Francisco headquarters, OR other remote locations in the U.S. \n As a Commercial Data Scientist , you\u2019ll work within cross-functional delivery teams alongside other analysts, engineers, and commercial stakeholders in discovering data insights to help improve healthcare. \n How you\u2019ll make an impact: \n \n Deliver novel and impactful insights for client organizations using machine learning and AI technologies. \n Work closely with our Product, Platform Data, Insights & Strategy, and Sales teams to create client-facing analyses. \n Showcase your engineering skills by creating data products from scratch and automating code so they can be re-used by other teammates and future projects. \n Leverage Doximity's extensive datasets to identify and classify behavioral patterns of medical professionals on our platform. \n Embrace the challenge of a fast-paced environment to exceed client expectations \n \n \u00a0 \n The Core Values of the Client Intelligence team \n As an organization we value diversity -  in backgrounds and in experiences. Healthcare is a universal concern, and we need people from all backgrounds to help build a better future for all. Below are additional core values specific to the Insights Team. \n \n Collaboration \u2014The best candidates and teammates are not only strong in their own aptitudes but care d",
+    "posted": "Thu, 01 Oct 2026 07:30:56 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-01T12:50:29.433833+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
+    "source": "WeWorkRemotely",
+    "title": "Hex Technologies: Legal Ops",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
+    "description": "Headquarters:  NYC or Remote (EST or CST)\n \n\n About the role: \n Hex\u2019s legal function has gone from zero to a fully operating system in under a year. Now we need someone to own and scale the operating layer so it holds as the company grows.  This is a builder role. \n You\u2019ll run contract operations end to end: CLM administration, workflow optimization, template and playbook maintenance, enablement and training for the revenue team, and first-pass review and redlining of standard agreements against our playbook. Beyond contracts, you\u2019ll build structured intake for every legal workstream across the company, own the legal governance record (privacy registers, AI inventory, compliance calendars), manage outside counsel relationships, and own the legal tech stack. We sit at the nexus of data, AI, and collaboration, which means our legal operations have to be as thoughtful as our product. \n We use AI tooling across legal operations, and you\u2019ll work the same way: building agents and automations to move faster, not as a side project but as the default way things get done here. If you see a manual workflow and instinctively want to build it away, you\u2019ll feel right at home. \n What you will do: \n \n Drive CLM adoption and enablement so the revenue team self-serves on standard deals \n Own workflow optimization, templates, and playbooks as deal structures and products evolve \n First-pass review and redlining of standard agreements; draft from templates as volume requires \n Build and own structured intake for legal workstreams across the company \n Build AI-powered workflows, agents, and automations that replace manual processes \n Maintain the legal governance record: privacy registers, AI inventory, compliance calendars \n Train cross-functional teams on self-service tools and escalation paths \n Manage outside counsel relationships and the legal tech stack \n \n About You: \n \n 3-5+ years in legal operations, paralegal, or contract management, with at least 1-2 years in-house at a tech ",
+    "posted": "Thu, 01 Oct 2026 07:30:56 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-01T12:50:32.119471+00:00"
   }
 }
