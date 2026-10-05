@@ -8067,5 +8067,37 @@
     "pitch": "I am a Senior Full-Stack Engineer with over 6 years of commercial experience delivering robust web platforms using React and Python. I build scalable backends with FastAPI and Django on AWS, paired with clean, high-performance React frontends. Coming from fast-paced startup environments, I take full ownership of features from architecture to deployment, communicate proactively, and thrive with asynchronous workflows. I would love to connect with Lemon.io to discuss how my hands-on React and Python expertise can add immediate value to your startup network.",
     "status": "new",
     "found_at": "2026-10-04T12:06:56.047104+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
+    "source": "WeWorkRemotely",
+    "title": "Wrike: Director, Global GTM Strategy & Operations",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
+    "description": "Headquarters:  US - Remote\n \n\n Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. \n \u00a0 \n Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. \n \u00a0 \n Our vision:\u00a0  A world where everyone is free to focus on their most purposeful work, together.\u00a0 \n \u00a0 About the Role: \n You'll own your outcomes, from the strategies you run to the conversations that shape what we build next. Collaborative work management is a $14B category growing at 15% a year, and the enterprise competitive set is consolidating fast. Wrike is hiring a Director of Go-To-Market Operations to lead our global GTM Operations team across Sales, Customer Success, and Marketing. \n You will own Wrike\u2019s revenue planning and operational architecture end-to-end driving annual planning, quota setting, territory management, and cross-functional alignment across our global revenue engine. \n Reporting directly to GTM leadership, you will serve as a strategic co-pilot to executive leaders while leading a hands-on global team of 6\u201315 operations partners and analysts. \n This is an action-oriented leadership role for an operational \"athlete'' - someone equally comfortable steering C-level strategic decisions, designing enterprise sales workflows, coaching an international team across time zones, and diving deep into the details of compensation plans or GTM forecasting. \n Your Impact: \n \n Global Team Leadership: Build, scale, and mentor a global GTM Operations team ",
+    "posted": "Mon, 05 Oct 2026 07:31:29 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-05T14:10:40.067096+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+    "source": "WeWorkRemotely",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+    "description": "Headquarters:  Remote (United States)\n \n\n Thank you for considering Tailscale. If this job description resonates with you, please apply.\u00a0 Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.  We encourage you to help us break that statistic! \n About Tailscale\u00a0 \n Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. Job Description \n We\u2019re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: \n \n Develop the Tailscale product, contributing to both open source client code and related backend services; \n Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; \n Work closely with UX/UI designers and product managers to shape features. \n \n Because we\u2019re an early-stage and fully remote company, we\u2019re looking for a strongly motivated individual who can help move the product forward at crucial intersections of the technology and organization: in this case, the control plane and the various services it comprises and supports. The ability to think on your feet, collaborate with highly technical teams, and comfort working asynchronously are essential. \n Key Responsibilities \n \n Work as part of a team of engineers to design, build, test, and document core software components. \n Develop product features in areas that include our control plane, our re",
+    "posted": "Mon, 05 Oct 2026 07:31:07 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-05T14:10:40.603979+00:00"
   }
 }
