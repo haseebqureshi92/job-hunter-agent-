@@ -8099,5 +8099,106 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-05T14:10:40.603979+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dropbox-director-of-media-strategy-activation-paid-media": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-director-of-media-strategy-activation-paid-media",
+    "source": "WeWorkRemotely",
+    "title": "Dropbox: Director of Media Strategy & Activation (Paid Media)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-director-of-media-strategy-activation-paid-media",
+    "description": "Headquarters:  Remote - US: Select locations\n \n\n Role Description \n Dropbox is looking for a  Director of Media  to own our total media investment\u2014performance and brand\u2014under a single leader. \n This leader will build a unified media strategy that brings performance marketing and brand investments together into one investment thesis and one operating model. They will own the media portfolio end-to-end, from upper-funnel brand campaigns through paid search, paid social, programmatic, mobile, and emerging channels, making investment tradeoffs as business priorities evolve.\u00a0 \n The role also owns how the media organization operates, balancing in-house expertise, agency partnerships, and specialist support to maximize speed, quality, and impact. \n The ideal candidate has worked on both sides of the industry\u2014building media expertise at an agency before leading media inside a technology or high-growth company. They understand what great agency partnerships look like while also knowing how to build world-class internal capabilities. \n This role sits at the center of Dropbox's growth strategy, connecting brand, performance marketing, Product Growth, Sales, and Marketing Data Science to drive measurable business outcomes. \n Responsibilities \n \n \n \n Unified Media Strategy.  Build and own Dropbox's media strategy across brand and performance. Set the annual and quarterly investment thesis, define the channel portfolio, and make the tradeoff decisions on where spend moves and why. \n \n \n Total Budget Ownership.\u00a0 Manage Dropbox's full media investment across paid search, paid social, programmatic, display, video, mobile, affiliate, and brand channels. Own planning, forecasting, pacing, and in-quarter reallocation against efficiency and growth targets. \n \n \n Brand and Performance Integration.  Align reach, frequency, creative strategy, and channel mix so brand and performance investment reinforce each other rather than compete. Partner closely with the Brand organization, which owns",
+    "posted": "Tue, 06 Oct 2026 07:31:26 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-06T13:07:50.119127+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+    "source": "WeWorkRemotely",
+    "title": "PagerDuty: Senior Director, Field Enablement",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+    "description": "Headquarters:  Remote (USA - San Francisco, CA)\n \n\n PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. \n \u00a0 ABOUT THE ROLE \n PagerDuty is seeking a  Sr. Director, Field Enablement  to join our diverse, customer-focused team! As Sr. Director of\u00a0 Field Enablement, you will lead a team of enablement professionals supporting our sales, customer success, and partnership organizations.\u00a0 \n You will build and scale our global enablement function to ensure our customer-facing teams are equipped to sell and support our diversifying product portfolio as we enter our next phase of growth. This is an exciting opportunity to shape the enablement strategy for a high-growth SaaS company and directly improve teams' capabilities and productivity worldwide. The ideal candidate is a strategic, seasoned enablement leader passionate about gathering customer feedback and competitive intelligence to develop programs that drive sales excellence and business results. \n ABOUT PAGERDUTY \n \u00a0 \n KEY RESPONSIBILITIES \n \n Develop, execute, optimize, and assess enablement programs in partnership with sales and customer success leadership, determining priorities and success metrics with key stakeholders \n Gather and share insights from customers, competitors, and the market to enable the positioning of PagerDuty\u2019s value proposition to the",
+    "posted": "Tue, 06 Oct 2026 07:31:16 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-06T13:08:36.793872+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Webflow: Senior Infrastructure Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
+    "description": "Headquarters:  Argentina Remote\n \n\n Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality. \n About the Role \n We\u2019re looking for a  S enior Infrastructure Engineer  to improve reliability and stability of Webflow\u2019s customer-facing, production infrastructure, serving millions of page views per hour. Our product is used by over 2 million users world-wide across 190 countries, and you\u2019ll help ensure our platform is secure and scalable for these users as tens of thousands of projects are launched on Webflow each month. \n \n Location: Remote-first (Argentina) \n Permanent, full-time employee (this is not a contractor position) \n Application Information:\n \n Application deadline: applications accepted on an ongoing basis until position is closed and filled \n This posting is for a new position. \n \n \n \n As an  Senior Infrastructure Engineer  you will: \n \n Own and evolve the cloud platform that Webflow's product and engineering teams depend on, including our compute layer, EKS fleet, serverless infrastructure, networking, and cloud operations across AWS and GCP. \n Help design and maintain our infrastructure-as-code foundation, evolving the patterns and shared components other teams build on. \n Design and maintain the networking layer that connects Webflow's services, ensuring reliability, security, and scalability across our cloud environments. \n Help make observability data the foundation of how we operate,\u00a0 improving the dashboards, alerts, and SLOs for the infrastructure you own so that issues are caught before customers notice, and on-call pages are actionable instead of noisy. \n Build and maintain AI-powered automation that improves how we manage cloud infrastructure, from policy-as-code and drift detection to LLM-assi",
+    "posted": "Tue, 06 Oct 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "I bring extensive experience operating scalable cloud platforms that support high-throughput web applications serving millions of users. My background in full-stack architecture informs how I design developer platforms, manage EKS fleets, and optimize AWS/GCP resources using Infrastructure as Code (Terraform). Having built resilient backends and distributed networking layers, I understand how infrastructure decisions directly impact runtime reliability and product performance. While my background spans application engineering, I specialize in building rock-solid, automated foundations that empower engineering teams to deploy safely and rapidly. I would welcome the chance to discuss how I can help strengthen Webflow's compute, networking, and platform reliability.",
+    "status": "new",
+    "found_at": "2026-10-06T13:08:52.570085+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+    "source": "WeWorkRemotely",
+    "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+    "description": "Headquarters:  Remote - US\n \n\n Backend Engineer \n About LaunchDarkly Engineering \n LaunchDarkly helps engineering organizations  ship software and AI with speed,  safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. \n Our engineers build the systems, services, SDKs, developer tools, cloud infrastructure, and product experiences that make this possible. The work spans high-scale distributed systems, reliable data and event pipelines, intuitive enterprise workflows, and AI-powered capabilities that help teams manage the next generation of software delivery. \n LaunchDarkly\u2019s SDKs are used in systems that perform trillions of feature flag evaluations each day, giving our engineering work a direct connection to the reliability and customer experience of software around the world. As the company grows, we are expanding beyond traditional feature management into experimentation, observability, and AgentControl\u2014helping customers control more of the software and AI lifecycle. That creates an unusually broad set of technical challenges, visible customer impact, and room for engineers to shape what comes next. \n We believe in the power of teams. We work with humility, openness, curiosity, and care; we value clear communication, thoughtful technical judgment, inclusive collaboration, and a strong sense of ownership. We encourage people to apply even when they do not meet every qualification listed below. We are interested in the experience, perspective, and potential you would bring to the role. \n About the role \n We have multiple backend engineering roles open on various teams. The specific level, scope, and technical focus will be aligned to the opportunity and the candidate\u2019s experience. Experience with cloud platforms, distributed systems, developer tools, SDK engineering, data infrastructu",
+    "posted": "Tue, 06 Oct 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-06T13:08:54.664478+00:00"
+  },
+  "remotive-2091149": {
+    "id": "remotive-2091149",
+    "source": "Remotive",
+    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+    "company": "CodeForAI",
+    "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+    "description": "Who Should Apply \n \u00a0 \n We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit: \n \n \n Software Engineers & Computer Scientists  specializing in algorithms, data structures, or system design. \n \n \n Full-Stack & Web Developers  working with modern front-end or back-end frameworks (JavaScript, TypeScript, React, Node.js, Python, PHP, Ruby, etc.). \n \n \n Backend & Systems Developers  experienced in languages such as C++, Java, Go, Rust, or Python. \n \n \n DevOps & Database Engineers  familiar with API design, SQL/NoSQL databases, or scripting. \n \n \n \u00a0 \n Role & Responsibilities \n As an  AI Code Trainer , you will evaluate model-generated code, author reference solutions, and stress-test AI reasoning across various engineering domains. \n \n \n Code Auditing & Quality Analysis:  Critique AI-generated solutions for logic, performance, security vulnerabilities, syntax, and coding best practices. \n \n \n Gold-Standard Solutions:  Write clean, production-grade reference code and clear technical explanations for complex programming prompts. \n \n \n Test Design:  Build unit tests and edge-case scenarios to evaluate model accuracy and expose edge-case failures. \n \n \n Technical Feedback:  Write structured explanations detailing why an AI solution succeeds, fails, or produces bugs. \n \n \n \u00a0 \n Requirements \n \n \n Software Engineering Proficiency:  Strong core fundamentals in at least one major programming language or web stack (e.g., Python, JavaScript/TypeScript, Java, C++, Go, C#, Rust, PHP). \n \n \n Debugging & Code Review:  Ability to quickly analyze third-party code, catch subtle logical errors, and evaluate efficiency. \n \n \n Technical Communication:  Clear written English to explain technical concepts and code review rationales effectively. \n \n \n Eligible Locations:  Resident of  USA, UK, Canada, Australia, New Zealand, India, Pakistan, or Philippines . \n \n \n \u00a0 \n Why Join Us? \n \n \n $50\u2013",
+    "posted": "2026-10-05T05:15:43",
+    "tags": [
+      "api",
+      "backend",
+      "C",
+      "C#",
+      "C++",
+      "fullstack",
+      "go",
+      "java",
+      "javascript",
+      "node.js",
+      "php",
+      "python",
+      "react",
+      "ruby/rails",
+      "security",
+      "sql",
+      "AI/ML",
+      "rust",
+      "NoSQL",
+      "Typescript ",
+      "debugging",
+      "scripting"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-06T13:09:36.790086+00:00"
   }
 }
