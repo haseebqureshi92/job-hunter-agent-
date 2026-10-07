@@ -8237,5 +8237,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-06T22:33:26.872488+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Analyst, Privacy",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
+    "description": "Headquarters:  Remote - USA\n \n\n Ready to do the most impactful work of your career? At\u00a0 Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d\u00a0 learn more about working at Coinbase . Coinbase's Privacy team is hiring a Privacy Analyst to own the Privacy Incident Management function, reporting to the Head of Privacy. You'll partner across Privacy, Privacy Legal, Security, Product, Engineering, and Communications to triage incidents involving personal data, drive privacy analysis, coordinate remediation, and continuously improve how Coinbase responds to privacy incidents. This role is built for someone who thrives in ambiguity, drives cross-functional coordination during time-sensitive events, and builds durable process improvements in a fast-moving environment. \n What you'll do: \n \n Own the end-to-end Privacy Incident Management program, including notification workflows, escalation paths, process documentation, responder enablement, and automation opportunities. \n Lead privacy incident response as the DRI and Incident Commander, coordinating across Privacy, Privacy Legal, CSIRT, Product, Engineering, and Communications to drive analysis, remediation, and follow-through. \n Maintain on-call readiness to support privacy incident triage, severity classification, and urgent escalations, ensuring incidents are correctly assessed and routed. \n Drive privacy incident retrospectives, track resulting remediation items and control gaps, and deliver incident metrics and reporting covering trends, remediation status, and process health. \n",
+    "posted": "Wed, 07 Oct 2026 07:31:00 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-07T13:03:44.921966+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "source": "WeWorkRemotely",
+    "title": "Dremio: Software Engineer - Query Execution",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "description": "Headquarters:  Portugal - Remote\n \n\n Be Part of Building the Future \n Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.\u00a0 Learn more at\u00a0 www.dremio.com. About the role Dremio\u2019s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution. \n As a Software Engineer, you\u2019ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You\u2019ll learn how Dremio\u2019s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance. What you\u2019ll be doing \n \n Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management. \n Develop reliable software: Write clear, maintainable Java code; add unit and integration tests; and follow established engineering practices for code review, testing, and documentation. \n Investigate issues: Help diagnose query correctness, reliability, and performance issues using query profiles, logs, telemetry, benchmarks, and production data. \n Learn runtime and performance fundamentals: Build familiarity with vectorized processing, concurrency, memory usage, parallelism, data exchange, and disk spilling. \n Collaborate with the team: W",
+    "posted": "Wed, 07 Oct 2026 07:30:53 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-07T13:03:45.904554+00:00"
   }
 }
