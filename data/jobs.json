@@ -8269,5 +8269,69 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-07T13:03:45.904554+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+    "source": "WeWorkRemotely",
+    "title": "Lemon.io: Senior .NET Full-stack Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+    "description": "Headquarters:  New York, NY\n     URL:   https://lemon.io \n \n\n Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 50 countries. \n \n Currently, we have multiple requests, so please check the requirements. \n Requirements - .NET & React: \n \n 4+ years of commercial experience in software development \n 3+ years of commercial experience with .NET \n 3+ years of commercial experience with React \n Expertise in TypeScript is required \n \n Requirements - Angular & .NET: \n \n 5+ years of commercial experience in software development \n 3+ years of commercial experience with .NET and 5+ with Angular/Vue OR 5+ years of commercial experience with .NET and 3+ with Angular/Vue \n Expertise in TypeScript is required \n \n Requirements - C# & .NET: \n \n 5+ years of commercial experience in software development \n 5+ years of commercial experience with .NET and",
+    "posted": "Thu, 08 Oct 2026 11:41:36 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-08T13:09:10.012960+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+    "source": "WeWorkRemotely",
+    "title": "Jumio: Machine Learning Engineer - IV (Biometrics)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+    "description": "Headquarters:  India (remote)\n \n\n Role Purpose \n We\u2019re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You\u2019ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. \n What You\u2019ll Do \n Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps. Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS. Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team. \n What We\u2019re Looking For \n Experience: 5+ years of industry experience in Machine Learning, with at least 3 years dedicated to Biometrics or Face Analysis. Deep expertise in computer vision and biometrics, especially face recognition. Fairness & Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact. Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code. Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with workflow orchestrators",
+    "posted": "Thu, 08 Oct 2026 07:31:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-08T13:09:14.048347+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Jumio: Machine Learning Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+    "description": "Headquarters:  Austria (remote)\n \n\n Machine Learning Engineer\u00a0 \n We\u2019re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You\u2019ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. \n What You\u2019ll Do \n \n Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) \n Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. \n Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX \n Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps. \n Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS. \n Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team. \n \n What We\u2019re Looking For \n \n Experience: Multiple years of industry experience in Machine Learning, with at least 3 years dedicated to Biometrics or Face Analysis. \n Deep expertise in computer vision and biometrics, especially face recognition. \n Fairness & Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact. \n Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code. \n Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and wo",
+    "posted": "Thu, 08 Oct 2026 07:31:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-08T13:09:15.243511+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Abnormal: Director of Security Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "description": "Headquarters:  Remote - USA\n \n\n About the Role \n Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. \n We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. \n This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement. \n Our Security Philosophy \n We run security the way the best engineering-led companies do: \n \n Security reduces toil.  Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect. \n Paved paths, safe by default.  We invest in guardrails, golden paths, and secure-by-default infrastructure so the easy choice is the secure choice. We prefer preventing classes of problems over chasing individual findings. \n Partnership over gatekeeping.  Security succeeds only through deep collaboration with engineering, IT, and business teams. We embed with builders, we ship alongside them, and we take on their constraints as our own. \n Engineering-grade rigor.  We treat security problems as engineering problems: automated, measurable, code-reviewed, and continuou",
+    "posted": "Thu, 08 Oct 2026 07:31:00 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-08T13:09:24.550008+00:00"
   }
 }
