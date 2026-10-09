@@ -8481,5 +8481,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-08T23:09:32.277837+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+    "source": "WeWorkRemotely",
+    "title": "Lemon.io: Senior React Full-stack Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+    "description": "Headquarters:  New York, NY\n     URL:   https://lemon.io \n \n\n Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  \u2014 the marketplace that connects you with hand-picked startups in the US and Europe. \n What we offer: \n \n The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates \u2014 let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It\u2019s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n Requirements for the Senior React & Python Position: \n \n 4+ years of software development experience. \n \n Commercial experience: \n \n \n React.js 3+ years & Python 3+ years \n OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years \n \n \n Experience with AWS, GCP, or Azure is required. \n \n \n Requirements for the Senior Node & React Position: \n \n 5+ years of software development experience \n \n Commercial experience: \n \n React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years OR React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years \n Expertise in TypeScript, AWS and AI-assisted coding is a must. \n \n Requirements for the Senior Ruby & React Position: \n \n 5+ years of software de",
+    "posted": "Fri, 09 Oct 2026 13:49:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 9,
+    "pitch": "I am a Senior Full-Stack Engineer with extensive commercial experience building scalable applications using React and Python backends. I specialize in crafting clean, high-performance web frontends backed by robust Python APIs, and I thrive in fast-paced startup environments where autonomous execution is essential. Whether developing responsive dashboards, integrating complex backend services, or architecting modular systems from scratch, I deliver maintainable, high-impact code without needing micromanagement. I would love to join the Lemon.io network and help your US and European startup clients build and scale their core products.",
+    "status": "new",
+    "found_at": "2026-10-09T22:28:51.111358+00:00"
   }
 }
