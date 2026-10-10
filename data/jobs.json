@@ -8497,5 +8497,37 @@
     "pitch": "I am a Senior Full-Stack Engineer with extensive commercial experience building scalable applications using React and Python backends. I specialize in crafting clean, high-performance web frontends backed by robust Python APIs, and I thrive in fast-paced startup environments where autonomous execution is essential. Whether developing responsive dashboards, integrating complex backend services, or architecting modular systems from scratch, I deliver maintainable, high-impact code without needing micromanagement. I would love to join the Lemon.io network and help your US and European startup clients build and scale their core products.",
     "status": "new",
     "found_at": "2026-10-09T22:28:51.111358+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/typeform-full-stack-developer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+    "source": "WeWorkRemotely",
+    "title": "Typeform: Full Stack Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+    "description": "Headquarters:  Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) \n \n\n Who we are \n Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The Netherlands About the team \n Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data. \n This team sits at the center of how Typeform builds product experiences, creating the shared foundations, tooling, and infrastructure that support scalable and consistent development across the platform. \n About the role \n We\u2019re looking for a Mid level Full Stack Engineer with a stronger backend focus to help evolve the internal systems and infrastructure that support our product development ecosystem. \n This role is ideal for someone who enjoys building scalable internal platforms and developer tooling, while still being comfortable contributing across the frontend when needed. You\u2019ll work on APIs, automation, release pipelines, and engineering infrastructure that improve how teams build and ship product experiences across Typeform. \n You\u2019ll partner closely with engineers and designers to improve tooling, workflows, and developer experience across the company. \n Things you will do \n \n Build and maintain backend services, APIs, and internal tooling used across product development teams \n Improve infrastructure powering component distribution, asset management, documentation, and release workflows \n Support and evolve the engineering monorepo, he",
+    "posted": "Sat, 10 Oct 2026 07:31:08 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "Hi Typeform team, I saw your opening for a backend-leaning Full Stack Engineer to scale developer tooling and internal platforms. As a full-stack engineer with deep backend expertise, I have built robust APIs, automated CI/CD pipelines, and created developer platforms that streamlined releases across distributed teams. I am comfortable managing high-throughput data collection systems and stepping into the frontend whenever seamless UX is required. My focus on reliable system architecture and developer productivity aligns closely with your platform foundation goals. I would welcome the opportunity to discuss how I can contribute to Typeform's engineering infrastructure.",
+    "status": "new",
+    "found_at": "2026-10-10T12:13:38.020108+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
+    "source": "WeWorkRemotely",
+    "title": "Jumio: Machine Learning Engineer - IV (Computer Vision)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
+    "description": "Headquarters:  India (remote)\n \n\n Machine Learning Engineer IV \u2013 (Computer Vision) \n We\u2019re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You\u2019ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. \n What You\u2019ll Do \n \n Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) \n Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. \n Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX \n Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps. \n Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS. \n Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team. \n \n What We\u2019re Looking For \n \n Strong industry experience in Machine Learning, dedicated to Biometrics or Face Analysis. \n Deep expertise in computer vision and biometrics, especially face recognition. \n Fairness & Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact. \n Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code. \n Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with w",
+    "posted": "Sat, 10 Oct 2026 07:30:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 6,
+    "pitch": "I specialize in end-to-end computer vision and high-performance ML deployments, making this biometrics initiative a great technical match. My background covers designing, training, and fine-tuning face analysis models in PyTorch, paired with optimizing edge and server inference using TensorRT, ONNX, and model quantization for strict latency targets. Having managed production ML pipelines on AWS alongside automated Airflow workflows, I bridge the gap between model research and production reliability. I also bring strong experience deploying vision models seamlessly into client-facing applications and mobile runtimes. Let's connect to discuss how I can help accelerate your face recognition architecture and pipeline optimization.",
+    "status": "new",
+    "found_at": "2026-10-10T12:13:42.517787+00:00"
   }
 }
