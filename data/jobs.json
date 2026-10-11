@@ -8591,5 +8591,53 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-11T05:09:29.835668+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+    "source": "WeWorkRemotely",
+    "title": "Vercel: Software Engineer - Data Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+    "description": "Headquarters:  Remote - United States\n \n\n About Vercel: \n Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. \n Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role \n We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives. \n Reporting directly to the Senior Director of Data Engineering, you'll define the technical vision for our data ecosystem, work across the organization to align engineering strategy with product goals, and build scalable, reliable systems using modern technologies like Kafka, ClickHouse, Tinybird, and Snowflake. \n You'll lead from the front, writing production-grade code, setting high standards for design and data governance, and mentoring a team of engineers as the organization grows. If you're excited by the challenge of building scalable data systems that drive product innovation, we'd love to hear from you. \n What You Will Do \n \n Design and implement a next-generation data platform that supports diverse requirements, including batch and real-time integrations, advanced analytics, and multiple data types, leveraging Kafka, Kafka-based tooling, and additional streaming technologies to power real-time data movement and processing. \n Work with engineering, product, and senior leadership teams across Vercel to architect solutions that address business needs, aligning technical strategies with product goals and ensuring seamless data availability and usability. \n Define and maintain",
+    "posted": "Sun, 11 Oct 2026 07:31:07 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-11T12:28:10.290258+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+    "source": "WeWorkRemotely",
+    "title": "Vercel: Software Engineer, Backend",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+    "description": "Headquarters:  Remote - United States\n \n\n About Vercel: \n Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. \n Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: \n We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and membership management while ensuring the highest levels of security and reliability. \n If you\u2019re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team. \n What You Will Do: \n \n Enable us to deliver secure, reliable, and scalable services that exceed industry standards and customer expectations. \n Collaborate with cross-functional teams to deliver large-scale projects with cross-team dependencies. \n Collaborate with peer teams to deliver solutions that meet industry standards and customer expectations. \n Maintain and operate services at high scale, participating in scheduled on-call rotations to ensure reliability. \n Implement identity synchronization and lifecycle management solutions using SCIM and other relevant standards. \n Work with Infrastructure as Code (Terraform, AWS CloudFormation, Kubernetes, etc.) to deliver scalable, high-availability applications. \n Build and maintain high-quality enterprise software using Ty",
+    "posted": "Sun, 11 Oct 2026 07:31:07 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "As a backend-focused full-stack engineer experienced in scaling TypeScript and Node.js microservices on AWS, I can step in immediately to strengthen Vercel's identity, group, and membership infrastructure. I regularly design low-latency SQL and NoSQL data architectures capable of handling high-throughput production workloads while keeping security airtight. Vercel's move toward agentic infrastructure also aligns directly with my work integrating AI agents and robust API backends. I build reliable, high-performance distributed systems with a developer-first mindset and would welcome the opportunity to help your team maintain rock-solid reliability as you scale.",
+    "status": "new",
+    "found_at": "2026-10-11T12:28:16.898930+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+    "source": "WeWorkRemotely",
+    "title": "Maven Clinic: Client Success Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+    "description": "Headquarters:  New York, NY; Remote, US (Hub cities)\n \n\n Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife \u2014 improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com \n An award-winning culture working towards an important mission \u2013\u00a0 Maven Clinic is a recipient of over 30 workplace and innovation awards, including:\u00a0 \n \n TIME 100 Most Influential Companies (2023, 2026) \n Fortune Change the World (2024) \n CNBC Disruptor 50 List (2022, 2023, 2024) \n Fortune Best Workplaces for Millennials (2024) \n Fortune Best Workplaces in Health Care (2024) \n Fast Company Most Innovative Companies (2020, 2023) \n Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) \n Maven is looking for a commercially-minded and strategic Client Success Manager to join our Client Success team, to own relationships with our employer accounts.\u00a0 \n The Client Success Manager will be the main point of contact for employer accounts introduce",
+    "posted": "Sun, 11 Oct 2026 07:30:56 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 1,
+    "pitch": "I came across Maven Clinic's mission to transform virtual healthcare and wanted to reach out. While my background is in full-stack web, Android mobile development, and AI engineering rather than traditional relationship management, enterprise digital health success often hinges on resolving technical adoption hurdles, platform integrations, and data workflows. If your Client Success team ever requires technical implementation support, custom integration tooling, or workflow automation to help enterprise partners maximize engagement across your web and mobile platforms, I would welcome the opportunity to connect and support your team's goals.",
+    "status": "new",
+    "found_at": "2026-10-11T12:28:20.689219+00:00"
   }
 }
