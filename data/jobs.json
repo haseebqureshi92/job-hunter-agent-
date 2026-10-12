@@ -8639,5 +8639,21 @@
     "pitch": "I came across Maven Clinic's mission to transform virtual healthcare and wanted to reach out. While my background is in full-stack web, Android mobile development, and AI engineering rather than traditional relationship management, enterprise digital health success often hinges on resolving technical adoption hurdles, platform integrations, and data workflows. If your Client Success team ever requires technical implementation support, custom integration tooling, or workflow automation to help enterprise partners maximize engagement across your web and mobile platforms, I would welcome the opportunity to connect and support your team's goals.",
     "status": "new",
     "found_at": "2026-10-11T12:28:20.689219+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Full-Stack E-commerce Developer with Sage X3 Experience",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+    "description": "Headquarters:  \n \n\n Summary We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context. General information This engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution. The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows required for dealer operations. Tasks and Deliverables Assess the current Sage X3 environment and recommend the e-commerce platform approach. Build or customize a dealer e-commerce portal on top of the existing ERP. Integrate the platform with Sage X3 using SOAP and GraphQL APIs. Develop full-stack functionality using the selected commerce stack and supporting technologies. Implement dealer-facing workflows, data exchange, and platform customizations required for launch. Required experience Strong hands-on experience with Sage X3 integration. Proven full-stack development experience with Python and JavaScript. Experience with Node.js, PHP, MySQL, and CSS. Experience working with REST, SOAP and GraphQL APIs. Nice to have: Manufacturing industry experience. \n\n To apply:   https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+    "posted": "Mon, 12 Oct 2026 13:52:56 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "I can help assess your Sage X3 environment and architect the ideal e-commerce portal for your dealer network. With deep full-stack engineering experience across Node.js, Python, and modern JavaScript, I specialize in building custom commerce solutions backed by complex enterprise systems. Connecting front-end dealer workflows to Sage X3 via SOAP and GraphQL/REST APIs aligns well with my background in handling robust bidirectional syncs for inventory, pricing, and order processing. Whether we decide on a headless architecture or a customized platform, I will deliver a performant, reliable portal tailored to your manufacturing operations. Let's discuss your current setup and technical requirements.",
+    "status": "new",
+    "found_at": "2026-10-12T14:59:25.657158+00:00"
   }
 }
