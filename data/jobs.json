@@ -8655,5 +8655,53 @@
     "pitch": "I can help assess your Sage X3 environment and architect the ideal e-commerce portal for your dealer network. With deep full-stack engineering experience across Node.js, Python, and modern JavaScript, I specialize in building custom commerce solutions backed by complex enterprise systems. Connecting front-end dealer workflows to Sage X3 via SOAP and GraphQL/REST APIs aligns well with my background in handling robust bidirectional syncs for inventory, pricing, and order processing. Whether we decide on a headless architecture or a customized platform, I will deliver a performant, reliable portal tailored to your manufacturing operations. Let's discuss your current setup and technical requirements.",
     "status": "new",
     "found_at": "2026-10-12T14:59:25.657158+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Applied AI Engineers for telecommunications company",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+    "description": "Headquarters:  \n \n\n Summary The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI concepts into reliable, scalable software rather than purely research-oriented work. General information This engagement requires deep hands-on expertise in machine learning and applied AI, with a strong emphasis on prompt optimization, model behavior, agent orchestration, and evaluation. The work will involve collaborating with platform engineers, product teams, and business stakeholders to improve AI quality, reliability, and performance in production environments. Tasks and Deliverables Design, develop, and optimize production-grade agentic AI solutions. Run meaningful evaluations to improve prompts, model behavior, orchestration, reliability, and performance in production. Required experience Deep expertise in machine learning and applied AI. Experience building and deploying production-level AI/ML services. Strong software engineering and coding skills. Experience developing or optimizing LLM- and agent-based applications. Strong knowledge of prompt engineering and optimization. Strong knowledge of model evaluation and benchmarking. Strong knowledge of AI quality, reliability, and performance measurement. Strong knowledge of agent behavior and orchestration. Ability to design and run meaningful evaluations and interpret results. Experience with APIs, data pipelines, backend systems, and AI platforms. Familiarity with modern AI tools, frameworks, and cloud environments. Ability to collaborate with platform engineers, product teams, and business stakeholders. Strong communication skills and experience delivering maintainable, production-quality solutions. Nice to have: Python experience. Background as an Applied AI Scientist, AI Engineer, or Machine Learning Engineer. Engagement highlights Own a defined production AI workstream with direct impact ",
+    "posted": "Mon, 12 Oct 2026 16:38:01 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 8,
+    "pitch": "I specialize in turning AI models into reliable, production-grade applications with a strong foundation in full-stack architecture. My background centers on building and scaling agentic systems, from multi-agent orchestration and prompt optimization to strict evaluation frameworks that benchmark reliability and latency. Backed by solid software engineering and API design, I bridge the gap between experimental LLM workflows and robust backend integration. I can step in immediately to help your platform team build, evaluate, and stabilize agentic AI solutions that meet the high-throughput demands of telecommunications environments.",
+    "status": "new",
+    "found_at": "2026-10-13T00:25:45.161522+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Apigee Engineer for Global Consumer Food Company",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+    "description": "Headquarters:  \n \n\n General Information: Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 About the Role: Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWS This role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products. Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvement Collaborate with peers, technology partners and vendors to identify, automate, and roll out patches; resolve issues and achieve goals Support and manage APIs and Microservices using Java, Spring Boot etc. Create, organize and implement API support processes Support and deploy API policies using Apigee Platform Experience with Apigee Developer Portal and Drupal integration Perform cloud security and certificate management Develop a long-range plan designed to resolve problems and prevent them from recurring Direct the daily risk and control flow of operations, focusing on policies, procedures and work standards to ensure success ....................................................................................... What you Need: Experience with Apigee API Management Platform Experience with Apigee, OAuth admin, and JWT Experience creating, organizing and implementing API support processes Excellent communication skills 3+ years of Red Hat Linux or UNIX experience Kubernetes experience for containerized implementation 5+ years of Java or scripting and automation using Python, Shell, or similar scripting languages 5+ years of supporting application platforms Familiar with CI/CD pipelines to deploy the proxies in va",
+    "posted": "Mon, 12 Oct 2026 16:28:34 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "I bring extensive experience in API gateway architecture, cloud infrastructure, and backend engineering, making me well-equipped to support your Apigee and microservices ecosystem. Having deployed and managed high-throughput services with Java and Spring Boot across AWS and Kubernetes environments, I understand the operational rigor needed to maintain enterprise-grade platforms. I have hands-on experience designing robust API policies, securing endpoints with modern certificate standards, and integrating developer-facing portals. My background in full-stack backend systems ensures your Apigee Hybrid deployments on AKS and AWS remain secure, scalable, and resilient against downtime. I would welcome the opportunity to discuss optimizing your API management strategy.",
+    "status": "new",
+    "found_at": "2026-10-13T00:26:17.064748+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Salesforce Developers with AI-Assisted Coding Experience",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
+    "description": "Headquarters:  \n \n\n We are looking for Salesforce Developers for a global company. Their goal is to accelerate Salesforce delivery across Flows, Lightning Web Components, and Apex while using AI copilots and agents to improve delivery speed, testing, and documentation. General Information Location: Remote. Talents from the USA or Canada. Overlap: 6hs with East Coast time zone, USA Commitment: full-time Length: 12+ months Required Skills: 3\u20136+ years of Salesforce development experience Strong hands-on experience with Apex Strong experience building Lightning Web Components (LWC) Strong experience with Salesforce Flow Experience with Git-based development and pull request workflows Strong automated testing mindset, including unit testing and security checks Experience validating Salesforce security, sharing rules, bulkification, and governor limits Experience integrating Salesforce components with APIs and MuleSoft-facing solutions Daily experience using AI copilots or coding agents for discovery, development, testing, and documentation Ability to review and validate AI-generated code before production deployment Experience participating in peer reviews, defect resolution, and production support Optional Skills (not mandatory): Experience with Salesforce Experience Cloud Experience with Salesforce Service Cloud Deliverables Deliver Salesforce stories from a discovery-ready backlog through production, including tests and release notes Build and maintain Flows, Lightning Web Components, and Apex functionality on a bi-weekly delivery cadence Own pull requests, automated tests, defect fixes, and production-quality validation Build API and MuleSoft-facing components in close collaboration with integration engineers Use AI pair-programming for Flow, LWC, Apex, and unit-test scaffolding while independently validating production readiness Add automated tests and security checks within the same pull request as the related development work Validate bulkification, sharing, secur",
+    "posted": "Mon, 12 Oct 2026 16:21:23 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-13T00:27:02.558980+00:00"
   }
 }
