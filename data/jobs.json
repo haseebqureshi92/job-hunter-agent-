@@ -8798,5 +8798,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-14T04:22:58.724550+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/databricks-deployment-strategist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
+    "source": "WeWorkRemotely",
+    "title": "Databricks: Deployment Strategist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
+    "description": "Headquarters:  Remote - India\n \n\n About the Team \n The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI opportunities by selling and delivering  outcomes , not just a platform. \n You will be part of the founding team, embedded with our most strategic customers from the very first sales call, all the way through to a production-ready solution. You will be the \"product manager\" for the customer's problem, responsible for the \"why\" and \"what,\" while our FDEs (Engineers) will be your partners responsible for the \"how.\" \n Role Description \n As a Deployment Strategist (DS), you are the critical bridge between a customer's multi-million-dollar business problem and Databricks' technical solution. You are a product manager for the field, owning the technical and product direction of the engagement from initial discovery through production launch and adoption. \n You will build C-suite trust, perform deep discovery to map the customer's political and technical landscape, and scope the value. You will define the Minimum Viable Product for a pilot, write the PRD that guides the engineering team, and manage the project to a successful landing. You will also lead technical discovery, shape solution architecture with FDEs, and ensure that each proposed solution can move from prototype to production. \n This role requires a rare combination of executive presence, deep product thinking, technical depth, and a hands-on delivery mindset. \n The impact you will have \n \n C-Suite Scoping & Value Definition:  Partner with Sales to perform deep discovery, map the customer's organization, quantify the business value of $10M+ problems, and define the pilot, including its MVP, success criteria, and timeline. \n End-to-End Product Ownership:  Author the PRD, prioritize the engineering backlog, manage scope, and act as the primary hands-on QA tester. Translate business requirements",
+    "posted": "Wed, 14 Oct 2026 07:31:00 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-14T11:33:25.512709+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Analyst, Privacy (Privacy Assessments)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
+    "description": "Headquarters:  Remote - USA\n \n\n Ready to do the most impactful work of your career? At\u00a0 Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d\u00a0 learn more about working at Coinbase . As a Privacy Analyst on the Privacy Operations team within Security, you'll play a central role in how Coinbase identifies and manages privacy risk across its products and platforms. This team partners with Legal, Product, and Engineering to perform privacy assessments, manage privacy issues through the product lifecycle, and continuously improve the frameworks and tooling that keep customer data safe. You'll own the execution of complex privacy assessments for new products and features, drive issue remediation, and build scalable processes that embed privacy by design into how Coinbase ships. \n What you'll do: \n \n Own end-to-end privacy assessments for new products and features, synthesizing findings and driving remediation with cross-functional partners across Legal, Product, and Engineering. \n Perform regulatory requirement mapping against the privacy common controls framework and identify where control updates are needed to address evolving obligations. \n Track privacy requirements and issues throughout the product lifecycle, managing escalations and driving timely resolution with business owners. \n Partner with Product and Engineering teams by embedding into roadmap planning processes and advising on privacy-by-design principles for onchain and web3 products. \n Identify and implement automation and AI-driven process improvements to streamli",
+    "posted": "Wed, 14 Oct 2026 07:30:48 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-14T11:33:32.579447+00:00"
   }
 }
