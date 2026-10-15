@@ -8830,5 +8830,53 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-14T11:33:32.579447+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+    "source": "WeWorkRemotely",
+    "title": "Lattice: Senior Software Engineer, Infrastructure Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+    "description": "Headquarters:  Remote - Canada\n \n\n This is Engineering at Lattice \n Lattice\u2019s Engineering team is continuously working to better both our product and our craft. We use a modern, cutting-edge tech stack and love experimenting with new technologies. We strive for maintainable, robust, and performant code. We\u2019re highly collaborative and continuously iterative, and work closely with designers and product managers. We prioritize not only great technical architecture but also an amazing product experience. \n The Infrastructure Platform team focuses on the cloud services, infrastructure, and internal platforms that power Lattice\u2019s products. We build reliable, scalable pathways that make it easier for product engineers to develop, deploy, operate, and troubleshoot their services.\u00a0 \n What You Will Do \n As a Senior Software Engineer on the Infrastructure Platform team, you will work across a broad technical footprint, including AWS infrastructure, Kubernetes, distributed systems, observability, deployment tooling, and internal developer platforms. \n You will use your prior experience to understand how systems and services interact, identify gaps or sources of friction, and build platform capabilities that improve reliability and developer productivity. \n \n Design, build, and operate AWS-based cloud infrastructure and platform services. \n Create reusable internal platform capabilities that improve how engineers build, deploy, and operate services. \n Work across AWS, Kubernetes, IaC, CI/CD, observability, and distributed systems. \n Partner with product engineering to identify recurring needs and turn them into scalable platform solutions. \n Evaluate system interactions, identify risks or inefficiencies, and drive improvements. \n Improve reliability, performance, availability, and maintainability of production systems. \n Define and promote platform practices (SLOs, monitoring, incident response, operational readiness). \n Instrument, debug, and improve services and infrastructure",
+    "posted": "Thu, 15 Oct 2026 07:31:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-15T11:11:38.184622+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dropbox-gtm-readiness-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-gtm-readiness-manager",
+    "source": "WeWorkRemotely",
+    "title": "Dropbox: GTM Readiness Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-gtm-readiness-manager",
+    "description": "Headquarters:  Remote - Canada: Select locations\n \n\n Role Description \n As a  GTM Readiness Manager  within the GTM organization, you will help turn product and business changes into executable go-to-market motions. You will work across Product, Sales, Marketing, Customer Experience, Customer Success, Finance, Legal, Enablement, and Technology to ensure the business is operationally ready to bring new products, packaging, and other commercial changes to market. \n You will play a critical role in translating product decisions into GTM requirements, identifying cross-functional dependencies, coordinating operational readiness, and ensuring the end-to-end customer and seller experience works as intended. This role sits at the intersection of product and commercial execution, giving you broad exposure across the business and the opportunity to improve how we bring increasingly complex products and commercial models to market. \n You will serve as a critical connection point between Product and the teams responsible for bringing product changes to market, ensuring teams are aligned and operationally ready for launch. You will also help build and scale the GTM Readiness capability, creating clearer processes, identifying dependencies earlier, reducing launch friction, and enabling teams to move faster and execute with greater confidence. \n Responsibilities \n \n Own GTM readiness for product and commercial changes , including new product launches, pricing and packaging changes, new SKUs, migrations, deprecations, and changes to routes to market. \n Translate product decisions into commercial and operational requirements  across areas such as product catalog, pricing and approvals, contracting, Salesforce/CPQ, billing and ordering, provisioning and entitlements, compensation, reporting, and customer lifecycle. \n Partner with Product teams early in the development lifecycle  to understand upcoming changes, identify impacted GTM motions, and establish the decisions, owners, depe",
+    "posted": "Thu, 15 Oct 2026 07:31:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "Hi Dropbox team, while my background is primarily in technical execution as a Full-Stack and Mobile Engineer, I have extensive experience collaborating closely with Product and GTM teams to launch complex web, Android, and AI-driven commercial features. I understand the operational dependencies that arise when deploying new SKUs, subscription tiers, and packaging changes across client applications and backend systems. If you need a technical partner who can bridge the gap between engineering feasibility, internal tooling, and cross-functional operational readiness to ensure seamless commercial rollouts, I would welcome the chance to discuss how I can support your launch motions.",
+    "status": "new",
+    "found_at": "2026-10-15T11:11:41.499360+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+    "source": "WeWorkRemotely",
+    "title": "StockX: Category Manager - Apparel",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+    "description": "Headquarters:  Remote, USA\n \n\n Help empower our global customers to connect to culture through their passions. Why you\u2019ll love this role: \n StockX is the world\u2019s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Apparel is foundational to StockX \u2014 not just as a category, but as an expression of identity, culture, and global trends. \n We are expanding how apparel culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don\u2019t just understand the apparel market \u2014 they live inside it. \n The Apparel Category Manager is the single-threaded owner of apparel category growth within a new, high-priority commerce initiative. This person is the in-house expert on Fashion & Apparel culture, people, economics, and moments \u2014 and is responsible for translating that expertise into supply growth, engagement, and GMV. \n You will act as: \n \n The internal authority on the first-hand and second-hand apparel ecosystem \n The external face of StockX to apparel sellers, creators, designers, and community leaders \n The architect of the apparel go-to-market playbook for this new initiative \n \n This role blends deep cultural fluency, strategic ownership, and hands-on execution. Early on, you will own everything related to apparel within this initiative. As the category scales, you will grow into a leader overseeing a broader apparel portfolio and team. \n What You\u2019ll Do: \n Own the Apparel Category End-to-End \n \n Define and execute the growth strategy for apparel within the platform \n Own category-level performance across supply, engagement, and revenue \n Establish quarterly goals, leading indicators, and operating rhythms \n \n Be the Market & Culture Expert \n \n Maintain deep, current knowledge of apparel culture, including: \n \n Key sellers, creators, designers, brands, and retailers \n Sub-segments (streetwear",
+    "posted": "Thu, 15 Oct 2026 07:31:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-15T11:12:28.083062+00:00"
   }
 }
