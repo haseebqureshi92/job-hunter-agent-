@@ -9077,5 +9077,34 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-16T16:24:21.504924+00:00"
+  },
+  "remoteok-1137531": {
+    "id": "remoteok-1137531",
+    "source": "RemoteOK",
+    "title": "Associate Data Scientist",
+    "company": "AlgaeCal",
+    "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+    "description": "Description Machine Learning Maestro: You don\u00e2\u0080\u0099t just work with data - you decode it, predict the future with it, and turn it into action. Your models don\u00e2\u0080\u0099t just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive on uncovering hidden patterns, validating hypotheses, and embedding machine learning models into real-world AI applications. If that sounds like you - read on. AlgaeCal is looking for a top-tier Associate Data Scientist who can turn raw information into strategies that drive measurable results. This job will give you ALL the feels: At AlgaeCal, we\u00e2\u0080\u0099re driven by a single idea. To end the fear of bone loss. In the United States, an estimated 54 million people have low bone density. The good news? AlgaeCal has the world\u00e2\u0080\u0099s only clinically-backed natural solution to this problem. We give hope to everyone worried about bone loss. If that excites you, you\u00e2\u0080\u0099ll find no better place to continue your career than at AlgaeCal. This job might be for you if you\u00e2\u0080\u0099ve got\u00e2\u0080\u00a6 Experience as a Data Scientist (or a similar role) and can back it up with a resume that shows real results. You\u00e2\u0080\u0099ve built predictive models, optimized AI applications, and refined data architectures that have had a measurable impact. You don\u00e2\u0080\u0099t just analyze numbers\u00e2\u0080\u0094you translate data into actionable insights that drive business decisions. Serious coding skills in Python or R. You know how to build and refine machine learning models that actually work. You\u00e2\u0080\u0099ve used statistical modeling and data science tools to solve complex problems and unlock growth opportunities. Expertise in SQL and relational databases. Writing efficient queries? Optimizing data structures? Your resume is packed with quantifiable examples that\u00e2\u0080\u0099ll make us drool with desire! You know how to work with large datasets, ensuring data is organized, accessible, and primed for analysis. A deep understanding of machine learning algorithms. Whether it\u00e2\u0080\u0099s regression, clustering, or neu",
+    "posted": "2026-10-16T00:00:56+00:00",
+    "tags": [
+      "design",
+      "python",
+      "customer support",
+      "marketing",
+      "dev",
+      "flutter",
+      "exec",
+      "data science",
+      "ops",
+      "stats",
+      "sales",
+      "medical",
+      "ecommerce",
+      "digital nomad"
+    ],
+    "score": 6,
+    "pitch": "Hi team at AlgaeCal, I noticed your search for an Associate Data Scientist focused on turning machine learning models into real-world applications. With a strong background in AI engineering and Python, I specialize in moving beyond theoretical modeling to build, optimize, and deploy production-ready predictive systems. My experience bridges the gap between raw data analysis and practical software integration, ensuring models interface reliably with web services and end-user platforms to drive measurable business outcomes. I would love to bring this production-focused ML experience to help scale AlgaeCal's data-driven growth and mission. Let's connect to discuss how I can contribute immediately.",
+    "status": "new",
+    "found_at": "2026-10-17T03:51:42.051022+00:00"
   }
 }
