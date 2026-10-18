@@ -9180,5 +9180,145 @@
     "pitch": "I am an experienced full-stack and mobile engineer with deep experience in Python, TypeScript, and modern app ecosystems. Having built complex features and contributed to production codebases, I know where LLMs routinely stumble\u2014subtle race conditions, nuanced state management, and framework edge cases that look plausible to AI but fail rigorous execution. I can readily extract real-world, high-signal engineering problems from repositories I actively maintain, define robust test harnesses that eliminate shortcut solutions, and stress-test them against frontier models. I am ready to complete the screener and begin designing challenging, high-quality benchmark tasks immediately.",
     "status": "new",
     "found_at": "2026-10-18T03:59:02.475511+00:00"
+  },
+  "remoteok-1137540": {
+    "id": "remoteok-1137540",
+    "source": "RemoteOK",
+    "title": "Technical Account Manager",
+    "company": "Yuno",
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+    "description": "Remote, Brazil, Full Time, Individual Contributor, +3 years of experience \n Who We Are \n At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain global operations through seamless integrations. \n We empower high-performing teams at brands like InDrive, McDonald's, Rappi, and Viva Aerobus to integrate over 1,000 payment methods via a single API. By leveraging advanced AI and the latest technologies, we orchestrate smart routing and fraud prevention across 80+ countries. \n \u00a0 \n \n About The Role \n We are orchestrating the best high-performing team! \n We are looking for a Technical Account Manager to own and elevate Yuno's technical customer relationships across Latin America. This is a leadership position for someone who combines deep technical expertise with the ability to inspire a team, build trust with customers, and drive outcomes that matter. You will be the senior technical voice for our most strategic accounts in the region \u00e2\u0080\u0094 and the person who sets the standard for how great technical partnership looks at Yuno. \n Day to day, you will lead a team of TAMs while staying close to the most complex customer challenges yourself. LATAM is one of the fastest-growing payment ecosystems in the world, with unique local nuances and high-stakes integrations. That environment rewards people who bring both precision and resilience \u00e2\u0080\u0094 someone who can stay steady under pressure, push through hard problems, and come out the other side with better solutions and stronger customer relationships than before. \n This role also sits at the heart of Yuno's cross-functional engine. You will work closely with Product, Development, Sales, and Partnerships teams, making sure customer insights translate into real improvements and that inter",
+    "posted": "2026-10-17T08:00:32+00:00",
+    "tags": [
+      "exec",
+      "design",
+      "hr",
+      "python",
+      "technical",
+      "customer support",
+      "marketing",
+      "web dev",
+      "speech",
+      "javascript",
+      "finance",
+      "css",
+      "html",
+      "sql",
+      "postgres",
+      "node",
+      "node.js",
+      "mongo",
+      "api",
+      "senior",
+      "ops",
+      "sales",
+      "sys admin",
+      "golang",
+      "medical",
+      "engineer",
+      "apache",
+      "nginx",
+      "digital nomad"
+    ],
+    "score": 4,
+    "pitch": "Hi team, I saw you're looking for a Technical Account Manager to lead strategic relationships across LATAM at Yuno. As a full-stack engineer experienced in architecting scalable payment integrations and complex API workflows, I understand the technical friction enterprise clients face during adoption. My background debugging distributed web backends and integrating robust checkout flows across web and mobile allows me to bridge the gap between high-level client strategy and hands-on developer implementation. I can help orchestrate seamless onboarding, troubleshoot complex payment routing issues, and ensure high-value accounts get maximum reliability from Yuno's unified API. Let's discuss how my technical background can support your TAM team.",
+    "status": "new",
+    "found_at": "2026-10-18T10:45:10.485805+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Senior Software Engineer, Product Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 We are hiring a  Senior Software Engineer  for the Product Platform team, which owns the foundational layer of our API that all other Lithic products build on top. The team\u2019s mission is to make Lithic's API the best in fintech \u2014 reliable, consistent, and a joy to integrate with. This includes API Gateway, Events Platform, API key management and authorization, audit logging, or API norms and versioning strategy. \n What you'll do: \n \n Write reliable, secure, and scalable code for Lithic's product platform with minimal tech debt \n Improve the reliability of systems in team\u2019s scope and participate in the team on-call rotation \n Own projects from planning to launch, spanning areas like API key management, reliability, audit logging, or search, keeping stakeholders informed and aligned along the way \n Lead efforts to improve systems and processes within the team \n \n What you'll bring: \n \n 4+ years building production backend systems, ideally including public-facing APIs at scale \n Experience in",
+    "posted": "Sun, 18 Oct 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-18T10:46:40.579740+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Alloy: Founding Forward Deployed Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+    "description": "Headquarters:  New York City, Remote\n \n\n Alloy is where you belong! \n Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through our values: Be Bold, Go Fast, Collaborate, and Celebrate Our Differences, we are creating a workplace where you can grow, thrive, and belong. See how we\u2019ve been continuously recognized and named one of  Inc. Magazine\u2019s Best Workplaces ,  Forbes America\u2019s Best Startup Employers ,  Best Fintech to Work for by American Banker , year after year. Check out our investors and read more about us  here . \n About the team \n We're standing up a new function at Alloy: Forward Deployed Engineering. Our largest enterprise customers need a trusted technical partner with a strong point of view on how Alloy fits into their tech stack and fraud strategy. As a Forward Deployed Engineer, you'll be that partner - embedded with our most strategic accounts and owning the technical outcome end-to-end, with each deployment becoming the foundation for the next. \n You'll be one of the first two engineers on this founding team. This is a software engineering role through and through - based within our Engineering org, with a scope that spans software, product, and solutions engineering. You won't just join this function - you'll define how it works. \n Alloy operates in a hybrid-work environment. We look to foster collaboration and community by having our local employees onsite three days a week. \n What you'll be doing \n \n Architect and tune customer and channel-partner deployments end-to-end \u2014 API integrations, third-party data integrations, SDKs, and latency constraints. \n Write production code across our stack: TypeScript, JavaScript (ES6/React), Python (Django), Node.js, Postgre",
+    "posted": "Sun, 18 Oct 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-18T10:48:10.715710+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Operations Engineer, BizTech",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+    "description": "Headquarters:  Remote- USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  \n BizTech fosters culture and connection at Airbnb by providing reliable corporate tools, innovative products, and technical support for all teams. We drive technical breakthroughs and strategies that redefine what it means to belong anywhere, delivering greater value for the business and our people. The Global Operations team at BizTech manages production services across Airbnb\u2019s corporate environment, delivering reliable operations through Observability, Incident Management, Core Operations, and AI-enabled automation. We partner across BizTech to scale service quality, efficiency, and resilience. \n The Difference You Will Make: \n As an Operations Engineer, you'll apply AI at the forefront of BizTech's operational health: using LLM-powered triage and intelligent automation to resolve tickets, speed up incident response, and build self-healing observability that catches problems before they escalate. AI fluency is core to this role, not an add-on. You'll prototype agentic workflows, embed AI into runbooks and diagnostics, and continuously look for repetitive work automation can take over. Success looks like a shrinking backlog of recurring ticket categories through AI-assisted automation, faster MTTR powered by intelligent alerting and root-cause suggestions, and dashboards/reporting enhanced with AI-driven insights that give stakeholders clear, trustworthy visibility into service health and data quality. \n A Typical Day:\u00a0 \n \n Manage the ticket queue prioritizing and resolving requests while identifying recurring categories to automate or deflect \n Pa",
+    "posted": "Sun, 18 Oct 2026 07:31:05 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "I saw your opening for an Operations Engineer in BizTech and wanted to reach out. As a full-stack engineer specialized in AI automation, I build resilient systems powered by LLM orchestration and agentic workflows. I have hands-on experience designing end-to-end tooling that automates ticket triage, embeds generative diagnostics directly into runbooks, and connects observability pipelines with automated remediation actions. My background across robust backend architectures and AI integration allows me to prototype autonomous operational agents rapidly while maintaining strict enterprise reliability. I would welcome the chance to help Airbnb scale self-healing corporate operations.",
+    "status": "new",
+    "found_at": "2026-10-18T10:48:29.951669+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Senior Software Engineer, Processing",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 Position:  Senior Software Engineer, Processing \n Location:  Remote \n We are hiring a  Senior Software Engineer  for our Processing team to lead Lithic\u2019s next phase of growth. \n The Processing team builds and maintains the real-time interfaces between Lithic and external payment networks. Every card authorization, clearing message, and settlement file flows through systems this team owns. The team manages both online and batch transaction flows across Mastercard, Visa, and Amex, along with transaction enrichment, disputes processing, and network compliance. The systems we maintain have strict latency and uptime requirements, because they sit on the critical path for every card transaction. The team also manages the physical network peering with card network partners, so infrastructure and networking expertise are important. The team primarily uses Java, Python, and Kotlin on AWS. \n What you'll do: \n \n Ensure high reliability, low latency, and correctness for Lithic's transaction processin",
+    "posted": "Sun, 18 Oct 2026 07:30:59 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "I saw Lithic is scaling its Processing team to handle real-time interfaces and settlement pipelines across major payment networks. While my core expertise spans full-stack web platforms, mobile architectures, and AI integrations, I have deep experience designing resilient, high-throughput backend services and mission-critical distributed APIs that require absolute consistency and zero-downtime execution. I am comfortable managing complex transaction states, high-concurrency event-driven systems, and real-time network communication protocols. If you need a senior engineer capable of bridging low-latency transaction processing with robust full-stack developer interfaces and reliable data pipelines, I would welcome the chance to discuss how I can contribute to Lithic's network infrastructure.",
+    "status": "new",
+    "found_at": "2026-10-18T10:49:12.294236+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Engineering Manager, Payments",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments",
+    "description": "Headquarters:  Remote - USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join \n AirCover protects Hosts and guests on Airbnb, including Host liability insurance, Experiences liability insurance and Host damage protection. As the Engineering Manager for the AirCover Insurance Platform, you will lead the system that lets Airbnb launch, price, enroll and service insurance products in new regions, and that lets the business test what drives Hosts and guests to be covered. You will lead a team of senior and staff engineers across backend engineering through the platform's next phase: from region-by-region builds to a configurable, globally scalable platform, and from ad hoc tests to a rigorous experimentation engine that raises attach rates. The team partners closely with Product, Design, Data Science, Legal, Insurance and Finance, and with teams across Airbnb that depend on AirCover. \n The Difference You Will Make \n \n Scale the insurance platform to new countries and products by making regulatory, pricing, coverage and enrollment rules configurable rather than rebuilt for each region. \n Build the experimentation foundation that lets Product and Data Science test coverage offers, pricing, placement and messaging, and measure their effect on attach rate. \n Deliver a multi-year platform roadmap and global rollout on a fast-growing team with greenfield opportunities. \n Apply data and LLM-driven automation where it improves coverage decisions, quality and the Host and guest experience. \n Grow a team that owns initiatives end to end, in an inclusive environment that values well-being and sustainable engineering practices. \n \n A Typical Da",
+    "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "I noticed Airbnb's opening for an Engineering Manager on the AirCover Insurance Platform. While my core expertise lies in hands-on full-stack engineering and scalable distributed systems, I have significant experience architecting configurable enterprise platforms and complex experimentation engines. I have led technical initiatives modernizing region-by-region builds into unified, global transactional systems that handle pricing, rule validation, and dynamic enrollment. Whether supporting backend initiatives as an individual contributor or helping guide architecture across cross-functional product and data science pods, I deliver robust, compliance-ready platforms. If you ever need specialized senior full-stack firepower to accelerate the rollout of this configurable insurance infrastructure, I would welcome the connection.",
+    "status": "new",
+    "found_at": "2026-10-18T10:49:14.595617+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
+    "source": "WeWorkRemotely",
+    "title": "Dremio: Staff Software Engineer - Connectivity",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
+    "description": "Headquarters:  Portugal - Remote\n \n\n Be Part of Building the Future \n Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.\u00a0 Learn more at\u00a0 www.dremio.com. About the role \n Dremio's Connectivity team builds the high-performance connectivity solutions that help customers bring data to Dremio and connect Dremio to the broader data ecosystem. The team works across client drivers, protocols, connectors, interoperability, distributed systems, and the reliability and supportability of production data access. \n As a Staff Software Engineer, you'll independently own multiple medium-to-large features or service components within a Connectivity and Clients area. You'll define the approach for a substantial team-area scope, turn ambiguous goals into clear milestones, make sound feature and service-level design decisions, and drive work through reliable production delivery. You will bring deep expertise in at least one area, such as JDBC or ODBC drivers, Apache Arrow ADBC, Arrow Flight SQL, BI interoperability, source connectivity, or connectivity reliability, while contributing effectively across adjacent areas. You will also mentor engineers and influence partner teams through strong technical judgment and execution. \n What you'll be doing \n \n Own substantial connectivity work:  Lead multiple medium-to-large features or service components from problem definition through design, implementation, validation, release readiness, and operational handoff. \n Turn ambiguity into an ",
+    "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 3,
+    "pitch": "I saw your opening for the Staff Software Engineer role on the Connectivity team and wanted to reach out. While my primary background is in full-stack engineering and distributed systems integration, I have solid experience building resilient data pipelines, custom service-to-service connectors, and working with columnar data interfaces like Apache Arrow for high-throughput AI/ML workflows. I understand the intricacies of wire protocols, performant client-driver interactions, and production reliability required for enterprise connectivity. I would welcome the opportunity to discuss how my systems design experience can help scale Dremio's drivers, ADBC components, and open lakehouse ecosystem.",
+    "status": "new",
+    "found_at": "2026-10-18T10:49:29.746677+00:00"
   }
 }
