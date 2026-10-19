@@ -9414,5 +9414,21 @@
     "pitch": "I am a full-stack and mobile engineer with over five years of experience contributing to production open-source codebases across Android, React/Next.js, and Python backend services. Having worked directly on fine-tuning and evaluating LLM coding workflows, I know exactly where frontier models fail: complex state synchronization, multi-file architectural refactors, and subtle concurrency bugs that appear clean on the surface. I can pull non-trivial, merged changes from my public repositories, construct robust grading harness checks, and stress-test them against edge cases to ensure models fail while remaining strictly solvable for skilled engineers. Ready to submit a proposal immediately.",
     "status": "new",
     "found_at": "2026-10-19T12:43:44.525497+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Growth Minded: Senior Data Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
+    "description": "Headquarters:  Remote\n     URL:   https://growthminded.co \n \n\n \n\n About the role \n You'll own the data layer underneath InsightsOS and EngageOS, the products that turn booking, CRM, ad, and financial data from multi-location brands into proactive insights and automated actions. Today that layer is built and maintained by our product lead alongside two full-stack engineers. We need someone who owns it end to end: architecture, modeling, pipelines, and the analytical models on top. You'll report to our product lead and work directly with the founder. \n Compensation:  $45\u201360K plus revenue-share bonus (we profit share every month) \n\n\n What you'll do \n \n Design and own the semantic layer and aggregation architecture across clients with 2 to 250 locations each. \n Build and maintain pipelines from sources like Mindbody, Zenoti, Boulevard, Mariana Tek, Domo, QuickBooks Online, GA4, Google Ads, Meta, and Klaviyo. \n Develop trend, utilization, and propensity models that power proactive insights and lifecycle triggers. \n Work with Claude Code and AI-assisted tooling as a core part of your workflow, not an afterthought. \n Establish data quality, governance, and row-level security patterns as we move into multi-tenant, franchise-level reporting. \n Self-direct discovery and architecture decisions, and write clear technical specs the rest of the team can execute against. \n Join a daily product sync with the product lead and engineering team. \n \n\n\n Who you are \n \n 2+ years in data engineering with real ownership of a production analytics platform. \n Deep in SQL and Python, strong with dbt or an equivalent transformation framework, warehouse design (BigQuery, Postgres), and orchestration. \n Experience with semantic or metrics layers and aggregation at scale, you've solved the \"same metric, different answers\" problem before. \n Practical ML: propensity scoring, forecasting, and anomaly detection in a product context. \n Comfortable making architecture calls without a spec handed to you",
+    "posted": "Mon, 19 Oct 2026 12:47:58 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "I can help you own and scale the data layer powering InsightsOS and EngageOS. With a strong full-stack and AI engineering background, I regularly architect end-to-end data pipelines, design robust semantic layers, and implement the analytical models needed to power automated actions. I am experienced with multi-tenant data modeling, third-party API ingestions, and row-level security. Furthermore, leveraging AI tooling like Claude Code is deeply embedded in my daily development workflow to accelerate architecture specs and pipeline delivery. I am ready to collaborate directly with your product lead to turn raw CRM, ad, and booking streams into reliable, proactive insights for your brands.",
+    "status": "new",
+    "found_at": "2026-10-19T22:11:13.718602+00:00"
   }
 }
