@@ -9430,5 +9430,53 @@
     "pitch": "I can help you own and scale the data layer powering InsightsOS and EngageOS. With a strong full-stack and AI engineering background, I regularly architect end-to-end data pipelines, design robust semantic layers, and implement the analytical models needed to power automated actions. I am experienced with multi-tenant data modeling, third-party API ingestions, and row-level security. Furthermore, leveraging AI tooling like Claude Code is deeply embedded in my daily development workflow to accelerate architecture specs and pipeline delivery. I am ready to collaborate directly with your product lead to turn raw CRM, ad, and booking streams into reliable, proactive insights for your brands.",
     "status": "new",
     "found_at": "2026-10-19T22:11:13.718602+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
+    "source": "WeWorkRemotely",
+    "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
+    "description": "Headquarters:  Remote, US, Ohio\n \n\n Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Opportunity \n We are seeking an established consulting leader\u2014a current Big Four Director, Managing Director, or Partner-track Senior Manager\u2014to spearhead our highest-stakes Energy & Utilities engagements. In this executive-level role, you will serve as the principal strategic architect for our most valuable power, gas, and renewable energy accounts globally. \n Leveraging the Celonis Process Intelligence platform, you will bridge the gap between macro energy sector strategies and modern cloud/AI execution models, moving clients from slide decks to realized operational value. \n The Impact You\u2019ll Make \n 1. C-Suite Advisory & Value Architecture \n \n Peer-to-Peer Advisory:  Partner directly with utility C-suite executives (CEOs, COOs, CFOs, Chief Sustainability Officers) to align macro pressures\u2014decarbonization, grid modernization, and capital reallocation\u2014with execution-level transformation roadmaps. \n Map Enterprise Digital Twins:  Oversee the deployment of the Celonis Process Intelligence Graph to build systemic, end-to-end operational models of complex utility enterprises. \n Orchestrate $100M+ Business Cases:  Direct the formulation of board-ready Celonis Value Assessments, delivering the econo",
+    "posted": "Tue, 20 Oct 2026 07:31:04 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-20T11:14:24.509923+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
+    "source": "WeWorkRemotely",
+    "title": "Celonis: Client Value Partner (CVP) - Oil & Gas Industry",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
+    "description": "Headquarters:  Remote, US, Texas\n \n\n Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Opportunity \n We are seeking an established consulting leader\u2014a current Big Four Director, Managing Director, or Partner-track Senior Manager\u2014to spearhead our highest-stakes Oil & Gas engagements. In this executive-level role, you will serve as the principal strategic architect for our most valuable Upstream, Midstream, Downstream, and LNG accounts globally. \n Leveraging the Celonis Process Intelligence platform, you will bridge the gap between macro energy transition strategies and modern cloud/AI execution models, moving clients from slide decks to realized operational value. \n The Impact You\u2019ll Make \n  C-Suite Advisory & Value Architecture \n \n Peer-to-Peer Advisory:  Partner directly with Oil & Gas C-suite executives (CEOs, COOs, CFOs, Chief Sustainability Officers) to align macro pressures\u2014capital discipline, decarbonization, yield optimization, and supply chain volatility\u2014with execution-level transformation roadmaps. \n Map Enterprise Digital Twins:  Oversee the deployment of the Celonis Process Intelligence Graph to build systemic, end-to-end operational models of complex oilfield, pipeline, or refining enterprises. \n Orchestrate $100M+ Business Cases:  Direct the formulation of board-re",
+    "posted": "Tue, 20 Oct 2026 07:31:00 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-20T11:15:54.655271+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/reddit-analytics-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Reddit: Analytics Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
+    "description": "Headquarters:  Remote - United States\n \n\n \n \n \n \n \n Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit  www.redditinc.com . \n \n \n \n \n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit\u2019s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base. \n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas. \n Responsibilities: \n \n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives. \n Manage a portfolio of data products that deliver high-quality, trustworthy data \n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines. \n Develop and implement data quality checks, conduct QA and implement monitoring routines \n Create and manag",
+    "posted": "Tue, 20 Oct 2026 07:30:57 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "I saw Reddit's opening for an Analytics Engineer and wanted to reach out. As an engineer with a strong background spanning full-stack architectures and AI/ML data pipelines, I specialize in bridging the gap between raw data producers and downstream consumers. I have hands-on experience designing robust data models, building production-grade ETL pipelines, and delivering analytics tooling that empowers cross-functional teams to make high-impact product decisions. I understand the complexities of tracking user journeys across large-scale consumer platforms and would love to bring my systems thinking and data engineering skills to help scale Reddit's core data foundation.",
+    "status": "new",
+    "found_at": "2026-10-20T11:16:01.636174+00:00"
   }
 }
