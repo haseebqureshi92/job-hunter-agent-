@@ -9510,5 +9510,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-20T21:28:31.144298+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: Core Protocol Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role \n We're seeking a Core Protocol Engineer with deep expertise with Ethereum execution clients to help us extend the EVM for next-generation compute capabilities. You'll work on expanding the execution layer to support novel precompiles, implement parallel execution patterns, and design systems for heterogeneous compute orchestration. \n \n Design and implement extensions to EVM clients (Geth/Reth) for supporting stateful precompiles \n Implement novel mechanism design primitives, collaborating with our research team, into the execution layer \n Develop and optimize transaction processing pipelines for heterogeneous workloads \n Research and implement solutions for state access conflicts \n Contribute to core protocol development and EIP implementations \n Collaborate with the research team on protocol specifications and mechanism design improvements \n Design and implement robust testing frameworks for execution client modifications \n \n About you \n \n Deep understanding of EVM internals and Ethereum execution clients (Geth/Reth) \n Strong experience implementing and optimizing precompiles \n Expertise in Go and/or Rust for systems programming, and Solidity \n Thorough knowledge of Ethereum's roadmap and active participation in protocol discussions \n Experience with parallel execution patterns in blockchain systems \n Strong understanding of consensus mechanisms and blockchain architecture \n Abi",
+    "posted": "Wed, 21 Oct 2026 07:31:25 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "Ritual's vision for an AI-native execution layer bridges my two core focus areas: low-level systems engineering and AI model infrastructure. I have hands-on experience orchestrating heterogeneous AI workloads and building robust data pipelines that interface with complex backend protocols. While my background spans full-stack architecture and AI/ML systems, I am deeply familiar with EVM mechanics and state handling required to support compute-heavy, verifiable workloads like Infernet. I can quickly dive into Geth and Reth codebases to help optimize transaction processing pipelines, integrate stateful precompiles, and build testing frameworks that ensure reliable performance for AI-native smart contracts.",
+    "status": "new",
+    "found_at": "2026-10-21T11:30:42.389722+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+    "source": "WeWorkRemotely",
+    "title": "Oportun: Senior Data Engineer - Capital Markets (R13923)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+    "description": "Headquarters:  Remote - MX\n \n\n Who We Are \n Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity\u00a0 \n As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of a technical domain enables you to take up business problems and solve them with a technical solution. With your depth of expertise and leadership abilities, you will actively contribute to architectural decisions, mentor junior engineers, and collaborate closely with cross-functional teams to deliver high-quality, scalable software solutions that advance our impact in the market. This is a role where you will have the opportunity to take up responsibility in leading the technology effort \u2013 from technical requirements gathering to final successful delivery of the product - for large initiatives (cross-functional and multi-month-long projects). \n \u00a0 \n At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in. \n What You'll Do \n Your day-to-day \n \n You\u2019ll design and implement scalable, efficient, and reliable data architectures that support business and analytical needs. \n You\u2019ll build and maintain data pipelines, ETL processes, and integration solutions for large volumes of structured and unstructured data. \n You\u2019ll optimize data pipelines, databases, data warehouses, ",
+    "posted": "Wed, 21 Oct 2026 07:31:06 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "Hi Oportun team, I saw your opening for a Senior Data Engineer in Capital Markets and wanted to reach out. While my background is deeply rooted in full-stack architecture, I regularly design scalable data pipelines, robust backend services, and automated analytics backends that interface with complex financial models. My experience connecting end-to-end cloud platforms with high-volume transactional data aligns directly with maintaining reliable data platforms for multi-month financial initiatives. I bring strong architectural discipline, technical leadership, and hands-on pipeline engineering to ensure high-throughput, mission-critical delivery for your capital markets operations. Let's connect to discuss how I can help scale your systems.",
+    "status": "new",
+    "found_at": "2026-10-21T11:30:49.006855+00:00"
   }
 }
