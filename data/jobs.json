@@ -9674,5 +9674,37 @@
     "pitch": "Moonshot\u2019s high-volume trading infrastructure demands rock-solid on-chain logic, and I bring the deep systems engineering required to secure it. As a full-stack engineer experienced in Rust, Anchor, and EVM smart contracts, I write battle-tested code prioritizing bytecode-level efficiency and safety. I routinely use Foundry and property-based fuzzing to ensure zero-defect releases before audit handoff. Having also built high-performance mobile and backend architectures for financial applications, I understand how on-chain order execution, auto-sell triggers, and fee routing integrate seamlessly into a fast-paced, mobile-first product. I am ready to hit the ground running and ship reliable code to production within my first two weeks.",
     "status": "new",
     "found_at": "2026-10-22T16:56:41.443850+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Senior Deployment Engineer with LLM and GPU Infrastructure experience",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+    "description": "Headquarters:  \n \n\n Summary We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-gapped settings and establishing observability with Grafana and Prometheus, with onsite presence in Riyadh required for two weeks per month. General information They need a senior engineer who can take ownership of complex deployments across isolated or air-gapped environments. The role will involve working with GPU infrastructure for LLM workloads and ensuring systems can be deployed, monitored, and maintained reliably at scale. The engineer should be comfortable troubleshooting infrastructure and deployment issues, automating deployment processes, and working with observability platforms such as Grafana and Prometheus. Location: Riyadh, Saudi Arabia Onsite requirement: A few times per quarter in Riyadh Tasks and Deliverables Design and support air-gapped deployment environments for LLM-based systems. Deploy and optimize LLM workloads on GPU infrastructure. Support large-scale software deployments across secure environments. Implement and maintain observability using Grafana and Prometheus. Collaborate onsite in Riyadh to assess, deploy, and troubleshoot environment-specific issues. Required experience Expertise in air-gapped deployments. Experience with large-scale software deployments. Experience deploying LLMs on GPUs. Hands-on experience with Grafana and Prometheus. Engagement highlights Senior-level infrastructure/deployment engineering role. Work on large-scale GPU and LLM infrastructure. Challenging deployment scenarios involving air-gapped environments. Full-time, long-term position \n\n To apply:   https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+    "posted": "Thu, 22 Oct 2026 18:59:03 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T21:23:29.494757+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: AI Engineer - Agentic Systems",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+    "description": "Headquarters:  \n \n\n Summary We are seeking a highly hands-on AI Engineer with a proven track record of shipping agentic AI systems into production for enterprise environments. In this role, you will design, build, and deploy production-grade AI agents capable of multi-agent orchestration, complex tool execution, and dynamic context management. You will implement robust safety guardrails and integrate frontier models using leading agent frameworks and cloud infrastructure. This position is remote within the US (East Coast time zone slightly preferred) with minimal travel required. Tasks and Deliverables Design and deploy autonomous and multi-agent orchestration workflows capable of executing complex, multi-step enterprise processes. Implement structured tool-use frameworks and integrate external APIs and services using protocols such as Model Context Protocol (MCP). Engineer advanced prompt strategies, dynamic context management, and memory layers to optimize model performance and reasoning accuracy. Implement production-grade guardrails, schema enforcement, latency optimization, and defensive exception handling across all agentic workflows. Deploy, scale, and maintain agentic microservices on cloud infrastructure using modern containerized and serverless platforms. Required Experience Production Agent Experience: Demonstrated, hands-on software engineering experience building, testing, and shipping autonomous agent systems and tool-calling workflows into production environments. Framework & Model SDK Expertise: Strong proficiency in at least one major model ecosystem: Anthropic (Claude Agent SDK, Model Context Protocol), OpenAI (OpenAI Agents SDK, Responses API, File Search), or GCP Vertex AI (Gemini, Google ADK / Vertex AI Agent Engine). Cloud Infrastructure (GCP): Experience building and deploying distributed applications on Google Cloud Platform, using services such as GKE, Cloud Run, Pub/Sub, and BigQuery. Core Software Engineering: Strong foundation in software",
+    "posted": "Thu, 22 Oct 2026 18:54:42 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 9,
+    "pitch": "I specialize in engineering and shipping production-grade agentic AI systems that solve complex, multi-step enterprise workflows. As an engineer with a deep background in full-stack architecture and AI integrations, I have hands-on experience orchestrating autonomous multi-agent frameworks, building structured tool-calling pipelines via MCP and custom APIs, and implementing robust dynamic memory layers. I prioritize production readiness: strict schema enforcement, defensive exception handling, latency optimization, and automated safety guardrails deployed via containerized cloud microservices. I can immediately step in to design, scale, and maintain reliable agentic workflows tailored to your enterprise standards.",
+    "status": "new",
+    "found_at": "2026-10-22T21:23:58.040846+00:00"
   }
 }
