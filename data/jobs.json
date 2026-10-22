@@ -9558,5 +9558,85 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-21T16:57:25.913691+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+    "source": "WeWorkRemotely",
+    "title": "Affirm: Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+    "description": "Headquarters:  Remote Poland\n \n\n At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We\u2019re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm\u2019s Revenue organization. As a Senior Analyst, Revenue Analytics, you\u2019ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement.\u00a0 You\u2019ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure. \n What you'll do \u00a0 \n \n \n Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts \n \n \n Build and maintain critical reporting data models that power external merchant reporting\u00a0 \n \n \n Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions \n \n \n Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products \n \n \n Contribute to the team\u2019s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows) \n \n \n Develop processes, governance, and foundations to scale the impact of analytics within Revenue. \n \n \n What we look for \u00a0 \n \n \n 3+ years of work experience in an analytics engineering or business intelligence role \n \n \n Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization\u00a0 \n \n \n Hands-on experience with BI tools (Sigma/Looker/Tableau), Databri",
+    "posted": "Thu, 22 Oct 2026 07:31:25 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T11:30:31.862342+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
+    "source": "WeWorkRemotely",
+    "title": "Netlify: Senior Staff Data Scientist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
+    "description": "Headquarters:  Remote\n \n\n About the Team: \n Netlify\u2019s Data team helps the company understand and improve the full product-led growth journey, from activation and engagement through conversion, retention, and monetization. We partner closely with Product, Engineering, and Growth to uncover opportunities, evaluate investments, and understand what drives customer and business outcomes. \n We\u2019re hiring a Senior Staff Data Scientist to deepen how data shapes our product and growth strategy. You\u2019ll develop an end-to-end understanding of the PLG journey, proactively identify opportunities, and turn complex data into hypotheses, experiments, and recommendations that influence where we invest and what we build. This is a highly autonomous role for someone who can move from identifying an important question to shaping the approach, defining success, and driving toward an answer. \n What You'll Do: \n \n Own the analytical understanding of Netlify\u2019s PLG performance across activation, engagement, conversion, monetization, and retention, identifying opportunities before they become requests \n Partner with Product and Engineering leadership to turn behavioral insights into product bets, defining what to test, how to measure it, and what the results mean \n Lead experimentation from hypothesis through decision, including study design, methodology, success metrics, guardrails, analysis, and recommendations \n Apply statistical rigor where it matters while recognizing when there is enough signal to make a decision and move forward, and help teams develop that same judgment \n Build scalable analytical systems like semantic models, trusted metrics, proactive monitoring, and AI-powered agents\u00a0 that surface opportunities without waiting to be asked \n Use AI to investigate faster, automate recurring analytical work, and test more hypotheses without sacrificing the judgment that makes the output useful \n Identify gaps in measurement, event instrumentation, and metric definitions, and partner wi",
+    "posted": "Thu, 22 Oct 2026 07:31:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T11:30:33.948852+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead",
+    "source": "WeWorkRemotely",
+    "title": "Mercury: Business Continuity Management Lead",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead",
+    "description": "Headquarters:  San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States\n \n\n About the Role \n Mercury is seeking a Business Continuity Management (BCM) Lead to build and lead an enterprise-wide continuity program as we prepare to become a bank. As part of the Risk team, this leader will establish practical standards, clear accountability, and tested capabilities to maintain critical services and recover effectively from disruptions, with direct visibility to the CRO and senior leadership. \n This role fills the need for a dedicated leader to coordinate BCM across the organization. The ideal candidate combines deep continuity and resilience expertise with the judgment to build a proportionate program in a fast-moving environment, working effectively with Engineering, Operations, Product, Information Security, Legal, Compliance, and business teams. \n The BCM Lead will own the enterprise framework, coordination, oversight, and reporting. Business and technology owners will remain accountable for their continuity plans and recovery execution.Because this is a new program, the Lead will be hands-on in the initial build: facilitating the first round of BIAs and plans side by side with owners, running exercises, and driving identified gaps through remediation. This leader will also work closely with Engineering on technology disaster recovery and with relevant teams on incident response, crisis management, and third-party resilience. \n Key Responsibilities \n \n Develop and implement Mercury\u2019s enterprise BCM framework, policies, standards, governance, and operating model, with a prioritized implementation roadmap aligned to bank-launch readiness and critical services. \n Partner with business owners to identify critical services, conduct business impact analyses (customer, financial, operational, and regulatory), and map dependencies across people, processes, technology, facilities, and third parties, including single points of failure. \n Establis",
+    "posted": "Thu, 22 Oct 2026 07:31:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T11:30:34.988084+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+    "source": "WeWorkRemotely",
+    "title": "OfferUp: Software Development Engineer II (Remote @ Colombia)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+    "description": "Headquarters:  Remote @ Colombia\n \n\n About the role:\u00a0 \n The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search alert runs through services we own, from messaging and notifications to location, meetups, and the subscriptions sellers pay for. We run high-volume Java microservices and streaming pipelines, integrate with partners like Braze, Amazon Pinpoint, Apple, and Google, and use experimentation to decide what ships. \n We also take on high-visibility work beyond our domain. Connect built OfferUp's video infrastructure for listing videos and LLM-powered catalog enrichment on Amazon Bedrock, both company priorities that changed what buyers see every day. The roadmap is wide open for someone who wants to help shape it. \n As a Software Development Engineer II, you'll own features from concept to rollout: designing and writing well-tested code, launching experiments, and measuring results with Product, Design, and Data partners. You'll raise the quality of the code around you and get the chance to join the next project like video or catalog enrichment. \n Here\u2019s more of what you will get to do: \n \n Design, build, and deploy backend services and event-driven pipelines for messaging, notifications, location, and subscriptions \n Improve the reliability, latency, and delivery rates of high-volume messaging and notification systems, including retries, rate limiting, and frequency capping \n Integrate with and operate third-party platforms such as Braze, Amazon Pinpoint, Apple and Google push services, and app store billing \n Own features end-to-end: plan, design, develop, deploy, measure, and iterate \n Break down complex engineering problems into achievable tasks and deliver them within committed timeframes \n Work collaboratively with cross-functional teams (Product, Design, Data Science, Marketing, and iOS, Android, and web engineers) to design and implement new featu",
+    "posted": "Thu, 22 Oct 2026 07:31:08 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T11:30:35.429505+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
+    "source": "WeWorkRemotely",
+    "title": "Maven Clinic: Head of Member Growth (B2B2C)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
+    "description": "Headquarters:  New York, NY; Remote, US (Hub cities)\n \n\n Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife \u2014 improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com \n An award-winning culture working towards an important mission \u2013\u00a0 Maven Clinic is a recipient of over 30 workplace and innovation awards, including:\u00a0 \n \n TIME 100 Most Influential Companies (2023, 2026) \n Fortune Change the World (2024) \n CNBC Disruptor 50 List (2022, 2023, 2024) \n Fortune Best Workplaces for Millennials (2024) \n Fortune Best Workplaces in Health Care (2024) \n Fast Company Most Innovative Companies (2020, 2023) \n Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) \n About the Role: \n Maven is looking for a Head of Member Growth to own one of the most important numbers in the company: enrollments. This role is directly accountable for driving member enrollment into Maven's programs across our core business \u2014 and, by ext",
+    "posted": "Thu, 22 Oct 2026 07:31:08 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T11:30:35.772219+00:00"
   }
 }
