@@ -9638,5 +9638,41 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-22T11:30:35.772219+00:00"
+  },
+  "remoteok-1137551": {
+    "id": "remoteok-1137551",
+    "source": "RemoteOK",
+    "title": "Senior Backend Engineer",
+    "company": "DuckDuckGo",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+    "description": "Who We Are  Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on  Mac ,  Windows ,  iOS , and  Android , our  search engine , and the  DuckDuckGo subscription . We also offer private, useful, and optional AI, including  Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our  culture  of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place! Your Team and Role  Working on the Backend Functional Team, you'll lead complex projects across key company-wide objectives. Using Perl (Version 5), Go, and Node.js, you\u00e2\u0080\u0099ll write pragmatic, performant, testable code that works consistently, and work on related projects. Recent projects include: Implementing AI-assisted answers and integrating them into our Search product while maintaining our privacy-first approach Delivering improvements to Duck.ai to help us make it a competitive AI chat alternative for both free and paying users Implementing sophisticated data processing pipelines that maintain search relevancy As a  Senior Backend Engineer , you'll collaborate remotely with your peers and take responsibility for solving product issues impacting our all-in-one privacy solution, whether large or small. In time, you'll formally mentor other engineers, supporting their career growth and the growth of the Backend Team at DuckDuckGo. About You 7+ years of professional experience, primarily focused on backend systems that power consumer-facing products Product acumen to reason about technical tradeoffs in terms of user impact Familiarity with AI agent tooling: evaluatio",
+    "posted": "2026-10-21T14:29:21+00:00",
+    "tags": [
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-22T16:56:36.274704+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "source": "WeWorkRemotely",
+    "title": "Moonshot: (Solidity / Rust) \u2013 Remote",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "description": "Headquarters:  Miami\n     URL:   https://moonshot.com \n \n\n Smart Contract Engineer \u2014 Moonshot Remote \u00b7 $150K + equity \n About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the latest tokens, tokenized stocks, and leverage trading, with over $4B in volume processed since launch in 2024. Every trade, auto-sell, and fee flow runs on-chain, and the contracts behind them have to be fast, safe, and correct. \n The Role You\u2019ll own the on-chain programs that power Moonshot\u2019s trading products on Solana and EVM chains. You\u2019ll take each contract from spec through audit to production, and help design how we expand to new chains and products. We\u2019re a small team, so you\u2019ll join early and ship real code fast. Expect your first production deployment within your first two weeks. \n What You\u2019ll Do \n Own core trading programs, including order execution, auto-sell, fee routing, and token launch, from specification to deployment and audit Design cross-chain and settlement paths alongside our protocol engineers Build and maintain a thorough test suite using Anchor tests, Foundry, and property-based fuzzing Work directly with our security auditors on each release cycle \n You Might Be a Fit If You \n Have shipped production programs on Solana (Anchor) or an EVM L2, ideally securing more than $10M in TVL or volume Can debug at the bytecode level when something breaks at 2 a.m. Value the unglamorous work: testing, fuzzing, formal verification, and audits Have delivered at least one end-to-end cross-chain integration (bridges, oracles, or settlement) Understand trading mechanics such as slippage, MEV, and transaction ordering on Solana \n Compensation & Benefits \n $150K base salary plus meaningful early-stage equity Full health, dental, and vision coverage (US-based hires) $2,000 annual learning budget \n\n To apply:   https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "posted": "Thu, 22 Oct 2026 13:00:33 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "Moonshot\u2019s high-volume trading infrastructure demands rock-solid on-chain logic, and I bring the deep systems engineering required to secure it. As a full-stack engineer experienced in Rust, Anchor, and EVM smart contracts, I write battle-tested code prioritizing bytecode-level efficiency and safety. I routinely use Foundry and property-based fuzzing to ensure zero-defect releases before audit handoff. Having also built high-performance mobile and backend architectures for financial applications, I understand how on-chain order execution, auto-sell triggers, and fee routing integrate seamlessly into a fast-paced, mobile-first product. I am ready to hit the ground running and ship reliable code to production within my first two weeks.",
+    "status": "new",
+    "found_at": "2026-10-22T16:56:41.443850+00:00"
   }
 }
