@@ -9706,5 +9706,36 @@
     "pitch": "I specialize in engineering and shipping production-grade agentic AI systems that solve complex, multi-step enterprise workflows. As an engineer with a deep background in full-stack architecture and AI integrations, I have hands-on experience orchestrating autonomous multi-agent frameworks, building structured tool-calling pipelines via MCP and custom APIs, and implementing robust dynamic memory layers. I prioritize production readiness: strict schema enforcement, defensive exception handling, latency optimization, and automated safety guardrails deployed via containerized cloud microservices. I can immediately step in to design, scale, and maintain reliable agentic workflows tailored to your enterprise standards.",
     "status": "new",
     "found_at": "2026-10-22T21:23:58.040846+00:00"
+  },
+  "remoteok-1137557": {
+    "id": "remoteok-1137557",
+    "source": "RemoteOK",
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+    "description": "Lemon.io  helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We\u00e2\u0080\u0099ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, and several are open right now. Two ways to work with clients Contract:  most roles are contract-based. You join the client\u00e2\u0080\u0099s team and work as part of it. Direct hire:  some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through  Lemon.io  is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team\u00e2\u0080\u0099s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we\u00e2\u0080\u0099re looking for DevOps with Python/Bash: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Python/Golang/Bash 3+ years of experience with AWS/GCP/Microsoft Azure/Azure DevOps/Kubernetes is required Experience in at least 2 commercial projects using Terraform and SQL is required DevOps or Site Reliability Engineer with Linux: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Linux At least 3 years of experience using Networking is required DevOps/Site Reliability Engineer/Platform Engineer with Python/Golang: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Python/Golang 3+ years of experience with Kubernetes At least 2 years of experience with Ceph and Networking 5+ years of experience u",
+    "posted": "2026-10-22T12:58:28+00:00",
+    "tags": [
+      "devops",
+      "engineer",
+      "dev",
+      "python",
+      "golang",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "sql",
+      "linux",
+      "ansible",
+      "ai",
+      "full time",
+      "full stack",
+      "remote",
+      "remote work"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-23T16:48:49.200561+00:00"
   }
 }
