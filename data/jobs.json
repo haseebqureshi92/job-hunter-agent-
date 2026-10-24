@@ -9833,5 +9833,43 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-24T10:46:37.034836+00:00"
+  },
+  "remoteok-1137562": {
+    "id": "remoteok-1137562",
+    "source": "RemoteOK",
+    "title": "Senior Frontend Engineer",
+    "company": "B2spin",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+    "description": "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it. AI-Driven Engineering Culture We are actively building an AI-driven engineering organization with a clear and deliberate stance: artificial intelligence is a core part of how we build and deliver software \u00e2\u0080\u0094 not an experiment, not a trend, and not an optional add-on. AI is embedded into our engineering workflows, from system design and prototyping to refactoring, testing, and code review. We expect engineers to be fully comfortable working in AI-driven environments and to treat AI as a primary productivity multiplier. Strong engineering judgment, architectural ownership, and accountability remain essential\u00e2\u0080\u0094AI amplifies our engineers, it doesn\u00e2\u0080\u0099t replace responsibility for technical decisions. What you will be doing: \u00e2\u0080\u00a2 Write well-designed, testable, and scalable code that performs flawlessly in production; \u00e2\u0080\u00a2 Take part in the full development cycle from sprint planning to release cycles; \u00e2\u0080\u00a2 Ensure smooth development and cooperation between dev teams and product owners; \u00e2\u0080\u00a2 Build customer-facing consumer web and mobile applications for global audiences; \u00e2\u0080\u00a2 Implement third-party integrations including external APIs and analytics; \u00e2\u0080\u00a2 Optimize for SEO performance and PageSpeed improvements. What we are looking for: \u00e2\u0080\u00a2 Strong commercial experience in React, TypeScript and Next.js; \u00e2\u0080\u00a2 Motivation to grow into cross-platform development (web and mobile). \u00e2\u0080\u00a2 End-to-end thinking across frontend, backend, and infrastructure. Willingness to contribute beyond frontend scope when needed. \u00e2\u0080\u00a2 Solid expertise with HTML/CSS, including responsive and",
+    "posted": "2026-10-23T16:00:12+00:00",
+    "tags": [
+      "front end",
+      "design",
+      "react",
+      "embedded",
+      "sys admin",
+      "game dev",
+      "technical",
+      "dev",
+      "testing",
+      "marketing",
+      "web dev",
+      "javascript",
+      "finance",
+      "css",
+      "html",
+      "typescript",
+      "seo",
+      "mobile",
+      "senior",
+      "stats",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "score": 9,
+    "pitch": "I saw B2Spin's focus on high-performance gaming apps and an unapologetic, AI-driven engineering culture\u2014this aligns directly with how I operate. As a full-stack engineer with deep experience building consumer-facing web and mobile applications, I leverage AI tooling directly in my workflow for rapid prototyping, robust testing, and clean refactoring while maintaining strict architectural ownership. I have built scalable, interactive frontends and mobile interfaces engineered for production stability and high user engagement. I can hit the ground running with your team to deliver flawless player experiences across both web and mobile platforms. Let's connect to discuss how I can accelerate your roadmap.",
+    "status": "new",
+    "found_at": "2026-10-24T20:31:55.592133+00:00"
   }
 }
