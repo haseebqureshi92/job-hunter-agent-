@@ -9871,5 +9871,37 @@
     "pitch": "I saw B2Spin's focus on high-performance gaming apps and an unapologetic, AI-driven engineering culture\u2014this aligns directly with how I operate. As a full-stack engineer with deep experience building consumer-facing web and mobile applications, I leverage AI tooling directly in my workflow for rapid prototyping, robust testing, and clean refactoring while maintaining strict architectural ownership. I have built scalable, interactive frontends and mobile interfaces engineered for production stability and high user engagement. I can hit the ground running with your team to deliver flawless player experiences across both web and mobile platforms. Let's connect to discuss how I can accelerate your roadmap.",
     "status": "new",
     "found_at": "2026-10-24T20:31:55.592133+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+    "source": "WeWorkRemotely",
+    "title": "PlanetScale: Software Engineer - PlanetScale Postgres",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+    "description": "Headquarters:  Remote\n \n\n PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products. \n Our customers entrust us with their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our Postgres engineering team and help us build a world-class managed Postgres offering. \n What's the job to be done? \n \n You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime. \n You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures. \n You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world. \n You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation. \n You will work directly with customers to understand their workloads and translate real-world needs into platform improvements. \n \n These attributes best describe you\u2026 \n \n You have strong experience building, operating, or maintaining large-scale Postgres deployments in production. \n You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance. \n You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems. \n You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly. \n You are self-motivated and can work independently with minimal guidance while making sound technical ",
+    "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-25T11:04:29.243792+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Tebra: Senior Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
+    "description": "Headquarters:  United States - Remote\n \n\n Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.\u00a0We will only ask you to provide sensitive personal information through our official application portal \u2014 not via social media or text message. We do not conduct interviews via instant messaging. Position:  Senior Software Engineer \n Location: Corona Del Mar, CA \n Responsibilities: Analyze information to determine, recommend, and provide innovative solutions to complex business problems related to existing system. Owner and subject matter expert for Large Software Systems and business initiatives. Lead Software Engineering Design Reviews to determine feasibility of design within time and cost constraints. Write software frameworks that can be extended by others on the team. Translate business requirements into software solutions. Optimize complex code in order to solve complex problems. Lead the architectural design and technical planning for major new platforms and features, such as the Worldpay Payment Facilitation system. Create technical specifications, select technologies, and define the end-to-end system architecture for mission-critical payment solutions. Hands-on development writing high-quality, production-level code for core payment systems using Java, Spring Boot, and Python. Build complex features, implement third-party API integrations like Stripe and TriPOS, and develop on cloud platforms like GCP and AWS. Improve team output and code quality, including performing detailed code reviews for peers, mentoring junior engineers on best practices in payment processing, and collaborating closely with product managers to translate business requirements into technical solutions. Serve as the subject matter expert and primary escalation point for production issues within the payments domain, which involves investigating and reso",
+    "posted": "Sun, 25 Oct 2026 07:30:48 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-25T11:04:46.197841+00:00"
   }
 }
