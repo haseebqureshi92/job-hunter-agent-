@@ -9924,5 +9924,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-26T12:38:59.334124+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+    "source": "WeWorkRemotely",
+    "title": "Vested, Inc.: Senior Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+    "description": "Headquarters:  United States\n     URL:   https://vested.co \n \n\n About the role \u00a0 \n We're looking for a Senior Software Engineer who can define and deliver products that have a real impact on people's financial futures. You'll be joining a small and early-stage engineering team where each engineer has significant ownership and your contributions will directly shape the product and the company's technical direction. \u00a0 \n As a senior member of our engineering team, you'll focus on the development and supporting infrastructure of vested.co \u2013 our core equity management and stock-option-funding platform. \u00a0 \n What You'll Do \u00a0 \n \n Build impactful features : Design and implement user-facing features that help people understand and manage their equity compensation. \u00a0 \n Own end-to-end delivery : Take projects from concept to production, including system design, implementation, testing, and deployment. \u00a0 \n Shape our technical direction : Contribute to architectural decisions and help establish engineering best practices as we scale. \u00a0 \n Collaborate cross-functionally : Work closely with product, design, and business teams to deliver exceptional user experiences. \n Grow the team : Share your expertise with other engineers and help build a culture of continuous learning. Help us grow and shape our inclusive, friendly, egoless engineering culture. \n Solve complex problems : Tackle challenging technical problems around financial calculations, data integrations, and building reliable systems at scale. \u00a0 \n \n What We're Looking For \u00a0 \n \n 4+ years of software engineering experience  with a track record of shipping production software. \u00a0 \n Full-stack capabilities  with strong expertise in modern web technologies. We work with React, Next.js, TypeScript, and MongoDB. You should be experienced building frontend features, designing APIs, and modeling data relationships. \u00a0 \n Product mindset : You care deeply about user experience and enjoy building products that solve real problems. \u00a0 \n Stro",
+    "posted": "Mon, 26 Oct 2026 20:12:46 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-26T22:31:17.527585+00:00"
   }
 }
