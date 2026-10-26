@@ -9903,5 +9903,26 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-25T11:04:46.197841+00:00"
+  },
+  "remoteok-1137571": {
+    "id": "remoteok-1137571",
+    "source": "RemoteOK",
+    "title": "Senior Software Engineer",
+    "company": "Klardaten",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+    "description": "Klardaten connects DATEV with other software and AI applications. We\u00e2\u0080\u0099re hiring 1\u00e2\u0080\u00932 senior engineers to own product development, DATEV integrations and automation. Based in the EU \u00c2\u00b7 Remote or Berlin \u00c2\u00b7 Full time \u00c2\u00b7 Permanent or contract \u00c2\u00b7 Start as soon as possible Own the outcome Once we agree on a general goal, you independently work out what to build and how to deliver it. You investigate the problem, define the scope, make technical decisions and carry the work through implementation, testing, deployment and follow-up. What you will do Turn general product goals into clear requirements, a practical scope and technical decisions. Build product features, DATEV integrations and automations across frontend and backend. Own testing, deployment and ongoing improvement, including resolving problems in production. Find answers, resolve blockers and keep the founders informed. Raise decisions that need discussion early. Examples of goals Make connecting a DATEV environment easier and reduce manual setup. Give customers access to a new DATEV data area through our API and MCP server. Turn a recurring manual workflow into a reliable automation that users can review. What you bring Strong production TypeScript experience across frontend and backend. Experience independently shipping and maintaining software from a general goal, without detailed specifications, predefined tickets or day-to-day task management. Practical experience with APIs, databases, authentication and reliable error handling for integrations and automations. Testing, deployment and production debugging skills, and the ability to verify AI-generated code and results. Clear written and spoken English for day-to-day collaboration. C#/.NET, DATEV integration experience and German are helpful. How we work You work directly with the founders and the team. We provide business context and agree on goals and priorities. You take ownership of reaching them, communicate progress and use your judgment about when t",
+    "posted": "2026-10-25T12:34:21+00:00",
+    "tags": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack",
+      "api"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-26T12:38:59.334124+00:00"
   }
 }
