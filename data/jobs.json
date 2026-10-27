@@ -10014,5 +10014,26 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-27T11:56:15.391444+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1976189/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1976189/",
+    "source": "WorkingNomads",
+    "title": "Senior Swift & SwiftUI Developer",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1976189/",
+    "description": "Lemon.io  helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We\u2019ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. \n New roles for Senior Swift & SwiftUI Engineers come in all the time, and several are open right now. \n Two ways to work with clients \n \n Contract:  most roles are contract-based. You join the client\u2019s team and work as part of it. \n Direct hire:  some clients hire engineers full-time, and we support you through the process. \n \n Because companies trust our vetting, applying through  Lemon.io  is often a shortcut. You get to the client faster than going through their full hiring process on your own. \n What you get \n \n Competitive rate, based on your seniority and skills \n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. \n Flexible schedule. Work async or with a small overlap with the team\u2019s hours. \n No micromanagement, no screen trackers \n Direct work with clients, most of them with technical backgrounds \n Ongoing support from your application through every project, plus a community of engineers from 75+ countries \n \n Who we\u2019re looking for \n Requirements: \n \n 5+ years of software development experience \n 5+ years of experience with Swift and 3+ years of experience with SwiftUI \n OR \n 3+ years of experience with iOS and 3+ years of experience developing applications for macOS/watchOS \n \n \u00a0 \n \n You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production \n You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) \n Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls \n You work full-time remotely and deliver without supervision \n You onboard quickly",
+    "posted": "2026-10-27T12:07:11-04:00",
+    "tags": [
+      "swift",
+      "ios",
+      "engineer",
+      "tech",
+      "english",
+      "Development"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-27T17:48:47.590236+00:00"
   }
 }
