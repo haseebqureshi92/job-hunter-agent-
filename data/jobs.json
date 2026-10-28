@@ -10035,5 +10035,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-27T17:48:47.590236+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Carrot: Sr. Data Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+    "description": "Headquarters:  Remote\n \n\n About Carrot:  \n Carrot  is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member\u2019s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries \u2013 from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets \u2014 including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review \u2014 as a leading voice on digital health, the future of work, and family health. Learn more at  get-carrot.com . The Opportunity  \n Carrot is seeking a Sr. Data Engineer to lead the evolution, reliability, and scalability of our modern data infrastructure across analytics, reporting, and business intelligence. In this role, you will architect, build, and maintain robust, automated data pipelines, orchestrate workflows, integrate diverse data sources, and partner with stakeholders across the business to deliver secure, compliant, high-quality data solutions. \n Your work will span the full data lifecycle, from architecting resilient ETL/ELT pipelines and developing real-time and batch data integrations to automating reporting, reducing technical debt, and enabling advanced analytics. Sr. Data Engineers at Carrot are operational stewards and technical mentors, driving improvements in system maturity, cost efficiency, automation, and collaborative practices. \n You will join our ",
+    "posted": "Wed, 28 Oct 2026 07:31:13 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-28T12:29:16.286987+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor",
+    "source": "WeWorkRemotely",
+    "title": "Doximity: Business Intelligence Analyst (Contractor)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor",
+    "description": "Headquarters:  San Francisco, CA or Remote (U.S.)\n \n\n **This is a contract role expected to last until April 15th, 2027 \n Location : This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. \n Visa sponsorship is not available for this role.\u00a0 \n About Doximity \n Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity\u2019s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. \n At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. \n About the Role \n As a  Business Intelligence Analyst , you will: \n \n Work closely with our Product, Strategic Analytics, Client Success, and Sales teams to create client-facing analyses. \n Showcase your engineering skills by creating data products from scratch and automating code so they can be re-used by other teammates. \n Continue to improve your technical and non-technical skill sets. \n Leverage Doximity's extensive datasets to identify and classify behavioral patterns of medical professionals on our platform. \n Grow into a presentation/communication-focused role or dive deeper into more-involved technical challenges\u2014the choice is yours. \n \n What We're Looking For \n We're excited to meet candidates who have many of the following qualifications: \n Must have: \n \n Three (3) years of experience illustrating collaboration, passion for data, reliability, precision, curiosity, and respect for teammates and clients. \n Excellent SQL skills with proven ability to create and evaluate complex SQL statements involving numerous tables and complex relationships. \n Fluent in Python and experience using common modules (numpy, pandas, statsmodels, matplotlib) for EDA. \n ",
+    "posted": "Wed, 28 Oct 2026 07:31:07 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-28T12:30:10.532065+00:00"
   }
 }
