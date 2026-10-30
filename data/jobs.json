@@ -10144,5 +10144,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-29T12:42:13.913099+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+    "source": "WeWorkRemotely",
+    "title": "Jumio: Principal Enterprise Architect",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+    "description": "Headquarters:  India (remote)\n \n\n Enterprise Architect - Cloud & AI \n Role Overview \n Jumio is not just processing transactions; we are pioneering the future of identity intelligence. To lead this transformation, you serve as a visionary  AI Adoption Catalyst and Systems Architect , redefining our technical landscape. In this role, you aren\u2019t a traditional gatekeeper\u2014you are a  Developer Advocate  and mission-driven leader. You take end-to-end ownership of our architecture, positioning machine learning and GenAI at the heart of our DNA. Leveraging your deep expertise in AWS and cloud-native engineering, you provide the engine that empowers our developers to innovate at lightning speed, ensuring our multi-tenant SaaS platform remains the global benchmark for performance and scale. \n This is a mandate for a technical doer who thrives on the front lines. Building on our strong, scalable cloud foundation, you will actively champion the adoption of GenAI tools across the software development lifecycle while driving continuous architectural improvement, evolution, and operational cost optimization. Your proven experience in AWS is the toolkit you use to clear architectural roadblocks and optimize performance, enabling engineering teams to move with unprecedented velocity. \n As a strategic technical leader who stays close to the code, you inspire an AI-First culture. You bridge the gap between visionary enterprise design and pragmatic execution, driving cross-departmental impact while fostering self-service capabilities and cloud efficiency to ensure that as Jumio grows, our technology scales predictably and elegantly. \n Key Responsibilities \n End-to-End System Architecture & Optimization \n \n Own the technical vision for scalable, high-performance, cost-efficient systems. \n Define modern architecture patterns that enable growth, high TPS, and seamless scaling. \n Architect and optimize multi-tenant SaaS platforms, ensuring configurability and performance. \n Design self-serv",
+    "posted": "Fri, 30 Oct 2026 07:31:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-30T12:32:46.883370+00:00"
   }
 }
