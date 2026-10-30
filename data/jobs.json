@@ -10160,5 +10160,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-30T12:32:46.883370+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/welocalize-automation-specialist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+    "source": "WeWorkRemotely",
+    "title": "Welocalize: Automation Specialist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+    "description": "Headquarters:  Ciudad de M\u00e9xico, Mexico\n     URL:   https://t.mtrbio.com/WeloData \n \n\n About the Role \n We're looking for an Automation Specialist to join our Movie and TV Metadata team \u2014 a unique, blended role for someone who wants to combine hands-on content work with the chance to build real AI and automation solutions. You'll start by working as a fully contributing project specialist, gaining first-hand knowledge of our workflows, and then progressively apply your technical skills to streamline and automate them. \n This is an exciting opportunity for those with a passion for movies, TV shows, and the film industry, who are also keen to apply their automation and AI skillsets to help streamline and improve operations \u2014 working closely with Project Managers and program leadership every step of the way. \n Project Details \n Job Title: Automation Specialist-1 Working Hours: 10:00-18:30 CDT (40 hours/ week)* Tuesday to Saturday or Sunday to Thursday shift  Duration: Contract -indefinite . Salary/Compensation: 480,000 MXN/ yearly Location: Mexico (Remote) \n Responsibilities \n \n Get hands-on with the Movie & TV Metadata project   \n Perform quality assurance on movie and TV metadata by accurately following testing instructions and test cases.  Ensure content review and curation adhere to project-specific quality standards, trademarks, style guides, and client-preferred checklists and glossaries.  Complete assigned tasks to a high standard and on time, including repetitive work.  Prioritise tasks and issues quickly and effectively, especially as requirements shift.  \n Find opportunities to improve how we work   \n Analyse workflow data and operational performance to identify inefficiencies, bottlenecks, and automation opportunities.  Document opportunities, build a prioritised backlog, and translate your findings into clear, actionable recommendations for Project Managers and leadership.  Track the impact of the solutions you build and iterate based on feedback and perfor",
+    "posted": "Fri, 30 Oct 2026 16:01:11 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-30T22:08:52.312689+00:00"
   }
 }
