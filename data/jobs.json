@@ -10266,5 +10266,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-31T11:58:30.771037+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/anduril-industries-senior-ta-operations-specialist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/anduril-industries-senior-ta-operations-specialist",
+    "source": "WeWorkRemotely",
+    "title": "Anduril Industries: Senior TA Operations Specialist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/anduril-industries-senior-ta-operations-specialist",
+    "description": "Headquarters:  \n     URL:   https://anduril.com \n \n\n Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. The role \n You will be the hands-on operator behind our Workday work and a key resolver for our core recruiting systems. In the near term you will help test and implement Workday for Talent Acquisition, then support it and improve its processes after go-live. Alongside that, you will resolve issues across Greenhouse and ChartHop for the core processes that recruiters and coordinators depend on, such as backfills and conversions. You will spot patterns in what breaks and fix the process, not just the ticket. \n What you will do \n Workday testing and implementation \n \n Partner with the Workday project team and TA stakeholders to document requirements, write and run test scenarios, and track and retest defects. \n Coordinate user acceptance testing with recruiters, coordinators, and business partners, and make sure issues are resolved before go-live. \n Validate data and process flows between Workday and our other TA systems, and help prepare cutover, training materials, and communications. \n \n Workday support and improvement after go-live \n \n Be a first point of escalation for Workday questions and issues from TA, resolving what you can and routing the rest with clear context. \n Iterate on processes after lau",
+    "posted": "Sat, 31 Oct 2026 16:00:20 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-31T17:12:22.330165+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/teksynap-application-database-administrator-w-secret-clearance": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/teksynap-application-database-administrator-w-secret-clearance",
+    "source": "WeWorkRemotely",
+    "title": "TekSynap: Application Database Administrator w/Secret Clearance",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/teksynap-application-database-administrator-w-secret-clearance",
+    "description": "Headquarters:  Mosfiloti, Cyprus, Cyprus\n     URL:   https://www.teksynap.com/ \n \n\n Responsibilities & Qualifications \n We are seeking an Application  Database Administrator. \n \u00a0 \n REQUIRED QUALIFICATIONS \n \u00a0 \n Experience \n \n  Five (5) years progressive experience of database query languages such as Oracle, PL SQL, SQL Server, and MS Access. \n  Three (3) years hands-on experience and expertise in Database Schema management. Experience also shall include capability to work on various operating systems and additional programming languages. \n   Experience in at least two projects in a large organization responsible for administering, operating, maintaining, and securing a large-scale computer database. \n  Demonstrated experience supporting government agencies, customers, or contracts within federal environments. This includes the Intelligence Community (IC), Department of Defense (DoD), Federal Civil agencies, and military organizations. Prior experience supporting the same or similar contract, with an in-depth understanding of the customer environment, requirements, and operational landscape, is highly desirable.\u00a0 \n \n Certifications \n \n  IAT II or Oracle Certified Associate or an equivalent vendor certification \n \n Clearance \n \n   Secret, IT II \u00a0 \n \n Overview \n WORK ENVIRONMENT  \n The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of the job. Reasonable accommodation may be made to enable individuals with disabilities to perform the essential functions. \n \n  Location: Remote with periodic support at Fort Belvoir or other places in the National Capitol Region. \n  Type of environment: Remote \n  Noise level: Low \n  Work schedule: Schedule is day shift Monday \u2013 Friday. May be requested to work evenings and weekends to meet program and contract needs. \n  Amount of Travel: less than 10% \n \n \u00a0 \n List of Approved States: \n AL, AK, AZ, AR, CT, DE, FL, GA, ID, IN, IO, KS, KY, LA, ME, MI",
+    "posted": "Sat, 31 Oct 2026 16:00:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-10-31T17:13:10.822436+00:00"
   }
 }
