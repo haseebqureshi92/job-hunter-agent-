@@ -10298,5 +10298,69 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-10-31T17:13:10.822436+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data",
+    "source": "WeWorkRemotely",
+    "title": "Doximity: Senior Software Engineer, Data",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data",
+    "description": "Headquarters:  San Francisco, CA or Remote (U.S.)\n \n\n Location : This role is remote in the United States, Canada, or some countries in South America. \n Visa sponsorship is not available for this role.\u00a0 \n Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity\u2019s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients.\u00a0 \n At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you.\u00a0 \n About the Role \n \n Foremost a software engineer .  You exemplify high code quality and guide others, and have at least  5 years  of industry experience as a data engineer or similar role.\n \n You are experienced in creating automated testing, applying design patterns, and other engineering best practices. \n You are an expert in Python and possess fluency in SQL and have developed maintainable data pipelines with each. \n \n \n Hands-on with architecting solutions.\u00a0 You have designed several data pipelines from start to finish. Choosing appropriate technologies, building, testing and rollout. \n Experience with aychronous systems.  You are comfortable identifying and applying APIs, streaming, multithreading, and other asynchronous approaches to the right problems. You understand how to monitor and maintain these systems. \n Product mindset.\u00a0 You think about the business impact of your work, and can use high-level goals to prioritize work. \n Communication Extraordinaire.  You excel at communicating to both technical and non-technical people, with an ability to explain complex concepts simply. \n ML/AI\u2013aware.  You have working knowledge of how ML/AI applications are deployed and monitored, and you\u2019re motivated to use this awareness to advance data-driven initiatives",
+    "posted": "Sun, 01 Nov 2026 07:31:04 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-01T12:59:23.696626+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth",
+    "source": "WeWorkRemotely",
+    "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth",
+    "description": "Headquarters:  Remote\n \n\n ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen fast. Principal Product Manager, Growth \n About ZoomInfo \n ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You'll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won't just contribute \u2014 you'll make things happen, fast. \n The Opportunity \n Own a Growth Portfolio and Set the Pattern the Rest of the Team Inherits \n ZoomInfo built the industry's most sophisticated GTM data platform. The next frontier is turning every visitor into revenue without waiting on a human handoff \u2014 a coherent self-serve journey that activates a non-customer in minutes, converts consumption into upgrade, and routes high-intent signals back to sales when a human will close more than they distract. \n You'll define the multi-quarter thesis on which channels compound, the operating rhythm the rest of the growth PM team inherits, and the ZoomInfo POV on how buyers discover us in an AI-first world. \n The impact is immediate and compounding. Every signup you activate, every credit you cause to be consumed, every transaction, every PQL you route, every \"buy more\" event you trigger is revenue \u2014 and every operating pattern you set multiplies across the growth PM group. We've adopted a consumption-first monetization model and a unified entry-point thesis across the company, and we run weekly: if your hypothesis can't be falsified inside a sprint, it isn't a hypothesis. This is a rare opportunity to own a P&L-shaped surface with full air cover to ship fast, learn in p",
+    "posted": "Sun, 01 Nov 2026 07:30:53 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-01T13:00:10.888773+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+    "source": "WeWorkRemotely",
+    "title": "Oportun: Sr DataOps Engineer (R14334)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+    "description": "Headquarters:  Remote - MX\n \n\n Who We Are \n Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity \n We\u2019re looking for a Senior DataOps Engineer to help operate, scale, and improve the data platforms that support Oportun\u2019s analytics, engineering, and business teams. This role will focus on Databricks, AWS, data pipelines, databases, observability, automation, and production support. \n You\u2019ll be responsible for keeping critical data-platform services reliable, secure, performant, and cost-effective while partnering closely with Data Engineering, Analytics, Security, Cloud Infrastructure, Database, and application teams. Success in this role means improving platform reliability, reducing operational friction, strengthening automation, and helping teams resolve issues quickly and sustainably. \n At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in. \n What You'll Do \n Your day-to-day \n \n You\u2019ll administer and support Databricks workspaces, cluster policies, compute configurations, jobs, workflows, libraries, service principals, permissions, and platform integrations. \n You\u2019ll support Unity Catalog, including access governance, catalog and schema permissions, and secure data sharing. \n You\u2019ll monitor and troubleshoot Delta Live Tables, Spark jobs, Delta Lake workloads, and data pipelines, including failures, performance issues, recovery, and data-quality concerns. \n You\u2019ll maintain secure and reli",
+    "posted": "Sun, 01 Nov 2026 07:30:45 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-01T13:00:58.207725+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+    "source": "WeWorkRemotely",
+    "title": "Oportun: Senior ML Engineer (R14284)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+    "description": "Headquarters:  Remote - India \n \n\n Who We Are \n Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. A Quick Note on the Role's Focus \n While the title is  Senior ML Engineer , this opportunity is specifically focused on  ML Platform Engineering  rather than   ML model development or data science. \n We're looking for engineers with strong software engineering fundamentals and hands-on experience building, scaling, and operating the platforms and infrastructure that enable machine learning in production. The emphasis is on  ML infrastructure, MLOps, model serving, platform reliability, and production engineering , rather than primarily developing, training, or fine-tuning ML models. \n Location Note \n We\u2019re excited to consider talent currently based in India, as well as candidates who are open to relocating to India for this opportunity. Please note that, as this is a \"Remote\u2013India\" position,  the role must be performed from within India. \n The Opportunity \n The  Machine Learning Platform  team builds the software foundations that enable data scientists and machine learning engineers to develop, validate, deploy, and operate models safely and efficiently in production. In this role, you\u2019ll lead complex platform work from business context through production outcomes, combining hands-on engineering, architectural judgment, production ownership, and mentorship. In your first year, success means leading meaningful platform initiatives, improving reliability and developer experience, and becoming a trusted technical leader for t",
+    "posted": "Sun, 01 Nov 2026 07:30:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-01T13:01:45.303634+00:00"
   }
 }
