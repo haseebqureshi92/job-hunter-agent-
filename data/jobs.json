@@ -10362,5 +10362,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-01T13:01:45.303634+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-healthcare-fraud-sme": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-healthcare-fraud-sme",
+    "source": "WeWorkRemotely",
+    "title": "General Dynamics Information Technology: Healthcare Fraud SME",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-healthcare-fraud-sme",
+    "description": "Headquarters:  Maryland, United States\n     URL:   https://www.gdit.com \n \n\n Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: NACI (T1) Job Family: Functional Experts Job Qualifications: Skills: Fraud Analytics, Leadership, Medicaid, Medicare, Work Collaboratively Certifications: None Experience: 15 + years of related experience US Citizenship Required: No Job Description: Make meaningful contributions that fuel critical outcomes for some of the most complex government, defense, and intelligence projects. Join GDIT as a  Healthcare Fraud, Waste and Abuse  (FWA)  Subject Matter Expert  (SME) for a career where your growth is just as important as the mission you support. As a Healthcare FWA SME, the work you\u2019ll do at GDIT will be impactful to the mission of the Centers for Medicare & Medicaid Services (CMS). * **Work visa sponsorship will not be provided for this role. HOW A HEALTHCARE FRAUD SME WILL MAKE AN IMPACT: Leading efforts of technical tasks to completion independently and as part of a team. Leading efforts to analyze claims data and reviews Federal and State Medicaid law, regulation, and policy. Developing data-driven solutions to business challenges of advanced scope/complexity. Collaborating with predictive modeling teams to increase and optimize customer experiences, efficiencies, process improvements, and other business outcomes. Identifying opportunities for leveraging Medicare and Medicaid data to drive insightful business solutions. Presenting findings to a range of audiences (technical/non-technical) and to various levels of leadership. Effectively communicating with team members while working remotely WHAT YOU 'LL NEED TO SUCCEED: Bachelor\u2019s degree (BA/BS) in a related field. Minimum of 15 years of relevant experience in Medicaid investigative roles focused on fraud, waste, and abuse. Familiarity with investigative tools, data sources, and methodologie",
+    "posted": "Sun, 01 Nov 2026 17:00:29 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-01T21:53:18.594258+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cpg-beyond-mechanical-commissioning-agent-ii": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cpg-beyond-mechanical-commissioning-agent-ii",
+    "source": "WeWorkRemotely",
+    "title": "CPG Beyond: Mechanical Commissioning Agent II",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cpg-beyond-mechanical-commissioning-agent-ii",
+    "description": "Headquarters:  \n     URL:   https://www.cpgbeyondthecloud.com \n \n\n \n TITLE: Mechanical Commissioning Agent II \n\n LOCATION: REMOTE \n\n \u00a0 \n\n POSITION SUMMMARY : \u00a0 The  Data Center Mechanical Commissioning Agent II \u00a0executes commissioning of data center critical systems including generators, CRAC, roof top AHUs, humidifier, pre-action and wet sprinkler systems, chillers, cooling towers, chill water pumps, exhaust fans and digital electrical distribution equipment. This person is responsible for conducting reviews of client design packages, monitoring, and analyzing FAT and First of Kind equipment Level 3 tests and developing O&M documentation to serve as a reference for data center mechanical equipment. The Data Center Commissioning Engineer is critical in the company's continued success and growth by ensuring that testing has been executed and the client's data centers operate at maximum operational efficiency. \n\n \u00a0 \n\n ESSENTIAL DUTIES AND RESPONSIBILITIES :  To perform this job successfully, an individual must be able to perform the following satisfactorily; other duties may be assigned. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. \n\n \n\t Manage projects, plans, provide and gather specifications, and execute assignments in a multidisciplinary engineering Commissioning role for large facility projects. \n\t The commissioning experts adhere to a thorough quality management/QC process and procedures. \n\t Participate in daily commissioning activity meetings which services include: Equipment pre-start-up and start-up procedures; Development of standard operating procedures (SOP's) and Methods of Procedures (MOPs); Comprehensive Commissioning documentation. \n\t Prepare commissioning test procedures and reports; Develop and maintain commissioning logs, equipment checklist, and other tools to track commissioning projects; Write comprehensive reports which include the following sections: recommendations for optimi",
+    "posted": "Sun, 01 Nov 2026 17:00:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-01T21:53:20.140035+00:00"
   }
 }
