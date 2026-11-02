@@ -10394,5 +10394,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-01T21:53:20.140035+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+    "source": "WeWorkRemotely",
+    "title": "Descript: Software Engineer, Infrastructure",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+    "description": "Headquarters:  San Francisco, CA or Remote, US\n \n\n Platform owns the  foundation  the company runs on: compute and deployment, reliability and on-call, CI/CD and monorepo health, developer environments, the infrastructure that model training and inference run on, and the security boundaries around all of it. \n AI and agent tooling is the clearest example. You will contribute to how models are trained and served here, as well as how agents work inside our codebase: the environments they run in, the verification that makes their output trustworthy, and the review paths that keep it all legible. There is no industry standard and you\u2019ll help form our opinions rather than inheriting one. \n Our users are other engineers. Expect to spend time with all the other engineering teams, understanding their needs and building a roadmap. The scope is large, so you'll be choosing what to leave alone as much as build. \n Architecture decisions here last: this is a small team covering a large surface. You'll have real room to decide things, and you'll stay close to the systems you decide about. \n What you'll own \n \n Own our platform:  GCP, Kubernetes, Temporal, the GPU fleet behind cloud export, and the deploy and rollback machinery everything ships through. You'll be in the on-call rotation, and we'll expect you to make it quieter and more actionable. \n The AI enablement substrate:  GPU capacity, training and inference pipelines, and the reliability and cost of the systems serving models in production. \n Cost is an engineering constraint:  infrastructure decisions have a number attached and you're expected to make smart trade-offs. As inference grows with usage, the metering and attribution behind those numbers sit with this team. \n Security comes with the systems you run : identity and access, secrets management, least-privilege boundaries, and supply-chain integrity. \n Make what you build legible.  Infrastructure-as-code that explains itself. Runbooks and in-repo context written for",
+    "posted": "Mon, 02 Nov 2026 07:31:04 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-02T15:19:43.470683+00:00"
   }
 }
