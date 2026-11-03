@@ -10458,5 +10458,30 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-03T00:52:27.747554+00:00"
+  },
+  "remoteok-1137619": {
+    "id": "remoteok-1137619",
+    "source": "RemoteOK",
+    "title": "AI ML Engineer",
+    "company": "Docusketch",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+    "description": "The fastest-growing European SaaS company is searching for an\u00c2\u00a0 AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth.\u00c2\u00a0 You\u00e2\u0080\u0099ll be working in a team that drives the company's AI development to develop\u00c2\u00a0algorithms for a variety of different use cases. This includes e.g. working with\u00c2\u00a0equirectangular, phone, or satellite images to detect doors, windows, or other objects inside\u00c2\u00a0of buildings or finding facets on the roof. You\u00e2\u0080\u0099ll be challenged by solving complex 3D\u00c2\u00a0geometry problems and working closely with our labeling team to ensure the best possible\u00c2\u00a0data quality. Responsibilities and Duties: \u00c2\u00b7\u00c2\u00a0Research, train and deploy state-of-the-art machine learning models for object\u00c2\u00a0detection and 3D perception on equirectangular images \u00c2\u00b7\u00c2\u00a0Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: \u00c2\u00b7\u00c2\u00a0Bachelor\u00e2\u0080\u0099s Degree in Computer Science or equivalent experience \u00c2\u00b7\u00c2\u00a0Excellent math skills \u00c2\u00b7\u00c2\u00a0Experience with 3D computer vision algorithms \u00c2\u00b7\u00c2\u00a0Preferably 5+ years of experience developing and training machine learning models \u00c2\u00b7\u00c2\u00a0Strong\u00c2\u00a0Experience with Deep ML frameworks (PyTorch) \u00c2\u00b7\u00c2\u00a0Strong Experience in Python \u00c2\u00b7\u00c2\u00a0Self-motivated and energetic team player with a strong work ethic and cooperative\u00c2\u00a0attitude \u00c2\u00b7\u00c2\u00a0Excellent communication",
+    "posted": "2026-11-02T10:43:35+00:00",
+    "tags": [
+      "dev",
+      "ai",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence",
+      "neural networks",
+      "3D",
+      "exec",
+      "PyTorch",
+      "product"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-03T13:55:22.010255+00:00"
   }
 }
