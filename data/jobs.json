@@ -10483,5 +10483,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-03T13:55:22.010255+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
+    "source": "WeWorkRemotely",
+    "title": "MANTECH: Quantum Research Scientist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
+    "description": "Headquarters:  United States\n     URL:   https://www.MANTECH.com \n \n\n\n                                                                    \n     \n         \n             \n                                    \n                \n                Description & Requirements\n             \n\n                     \n\n             \n\n                    \n                     \n                         \n                                                                                                 \n                                        \n                                         \n                                                                                             \nElevate your career with MANTECH International Corporation! Join a dynamic team dedicated to national security through cutting-edge technology. Since 1968, MANTECH has led in delivering advanced solutions to government intelligence, the Department of Defense, and Federal Civilian sectors. Dive into innovation in Digital Transformation, Cybersecurity, IT, Data Analytics and Software Development. Your journey to impactful work and rapid growth starts now\u2014be extraordinary at MANTECH! \n \n ***This is for a future opportunity*** \n \n \n                                                                                     \n                                     \n                                                                                                                                 \n                                        \n                                         \n                                                                                             MANTECH seeks a motivated, career and customer-oriented  Quantum Research Scientist  to join our team in a remote role. The Quantum Research Scientist will advance quantum information science and optical quantum systems, leveraging expertise in continuous-variable photonics and theoretical algorithm discovery to translate complex physical phenomena into experimental prot",
+    "posted": "Tue, 03 Nov 2026 17:00:19 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-03T23:03:55.681525+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
+    "description": "Headquarters:  \n     URL:   http://cmswa.com \n \n\n Custom Mechanical Solutions delivers energy-efficient HVAC systems across the Pacific Northwest, with deep expertise in healthcare, education, data centers, and retrofit projects. We work with top manufacturers to meet performance and sustainability goals\u2014always focused on quality, care, and progress. \n If you're ready to grow your career, we\u2019re glad you found us. At CMS, you\u2019ll join a team that supports your development and gives you space to make an impact. \u00a0We review every application carefully and appreciate your interest in growing your career with our team. About Custom Mechanical Solutions \n Custom Mechanical Solutions (CMS) provides commercial HVAC equipment and technical solutions for complex building applications. We partner with contractors, engineers, building owners, and manufacturers throughout the equipment lifecycle\u2014from system design and delivery through startup, troubleshooting, and field support. \n As part of the Meriton family of companies, CMS maintains its specialized technical expertise and customer-focused approach while benefiting from the resources and long-term investment of a growing national organization. \n Title:  Quality & Reliability Engineer Department:  CMS National Accounts Location:  Fully remote within the United States Travel:  Approximately 10\u201320% domestic and international travel \n Turn field challenges into better products, stronger processes, and more reliable outcomes. \n Join a growing National Accounts team where your technical judgment, curiosity, and follow-through will connect the jobsite to the factory and help shape how quality is managed as the business scales. \n The opportunity \n CMS is looking for a Quality & Reliability Engineer to own and continuously improve the field-to-factory quality feedback loop for custom commercial and industrial HVAC equipment. You will lead technical investigations, turn incomplete field information into clear problem statements, and kee",
+    "posted": "Tue, 03 Nov 2026 17:00:16 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-03T23:04:04.162753+00:00"
   }
 }
