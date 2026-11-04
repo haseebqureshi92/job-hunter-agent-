@@ -10536,5 +10536,69 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-04T14:07:16.355435+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: ML Inference Engineer \u2013 Terminal-Bench Task Designer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+    "description": "Headquarters:  \n \n\n Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities \u2022 Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end. \u2022 Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable. \u2022 Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort. \u2022 Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs. \u2022 Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty. \u2022 Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable. Skills/Experience \u2022 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield \u2022 Did this work in the last 3 years and can name the systems, tools, data and rules used \u2022 Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls \u2022 Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM \u2022 Can explain how ML results go wrong without errors (numerical drift, metric b",
+    "posted": "Wed, 04 Nov 2026 21:41:56 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-04T23:27:35.922095+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mantech-requisitioning-agent": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mantech-requisitioning-agent",
+    "source": "WeWorkRemotely",
+    "title": "MANTECH: Requisitioning Agent",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mantech-requisitioning-agent",
+    "description": "Headquarters:  United States\n     URL:   https://www.MANTECH.com \n \n\n\n                                                                    \n     \n         \n             \n                                    \n                \n                Description & Requirements\n             \n\n                     \n\n             \n\n                    \n                     \n                         \n                                                                                                 \n                                        \n                                         \n                                                                                             \nShape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we\u2019ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now\u2014protect and innovate with MANTECH! \n \n \n                                                                                     \n                                     \n                                                                                                                                 \n                                        \n                                         \n                                                                                             MANTECH  seeks a motivated, career and customer-oriented  Requisitioning Agent  to join our vehicle sustainment team. \u00a0This position is  remote . The selected candidate will provide\u00a0maintenance\u00a0support to multiple families of vehicles globally on the Allied Logistics Engineering Capabilities Sustainment (ALECS) program.\u00a0 Responsibilities include, but are not limited to: Responsible for a high volume of requisitioning of a wi",
+    "posted": "Wed, 04 Nov 2026 17:00:37 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-04T23:27:51.171818+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+    "source": "WeWorkRemotely",
+    "title": "Mindrift: Physician (MD/DO) - Put Medical AI to the Test, Remote",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+    "description": "Headquarters:  Idaho, United States\n     URL:   https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift \n \n\n About the company Paid per approved task, about $100/hr equivalent.\u00a0One flat rate for every approved task. Built to fit around a clinical practice: Tasks estimated at about 10\u201320 hrs/week while the project is active; you choose when and how much to contribute Contribute anytime, from anywhere No patient contact, no malpractice exposure: you review written clinical cases All reviewers are license-verified physicians $50 one-time onboarding reward, paid once your first production task is approved Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.\u00a0Participation is project-based. What this opportunity involves We\u2019re looking for actively practicing physicians (MD/DO) with an active, unrestricted US medical license to evaluate clinical EHR vignettes for a medical AI evaluation project. General and internal medicine are the main focus. On this project, contributors may: Evaluate clinical EHR vignettes paired with a question, a proposed answer, and a distractor \u201ctrap\u201d answer across diagnosis and treatment tasks, spanning cardiovascular, nervous, hematologic, respiratory, digestive, urinary, reproductive, musculoskeletal, and integumentary systems; Score the clinical reasoning quality of benchmark items: vignette accuracy and completeness, whether the vignette gives the answer away, answer correctness and gradeability, and trap quality; Check whether the reasoning chain reaches the answer from vignette facts alone, correct reasoning traces, and write short rationales; Work within three independent blind reads, followed by physician adjudication. Real clinical complexity only. You\u2019re improving the AI tools you\u2019ll eventually use yourself. If you\u2019re a practicing physician ready to take on this challenging and engaging project, apply to take part! What we",
+    "posted": "Wed, 04 Nov 2026 17:00:34 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-04T23:27:54.034726+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
+    "source": "WeWorkRemotely",
+    "title": "Crazy Maple Studio: Screenwriter - ReelShort (Contractor)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
+    "description": "Headquarters:  Culver City, California, United States\n     URL:   https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio \n \n\n Company Overview: Crazy Maple Studio is a fast-growing company based in the Bay Area and Los Angeles, focusing on mobile gaming, reading, and streaming. We are proud to have a global team that drives our innovation and success across diverse markets. Our flagship platform, ReelShort, is the #1 vertical streaming app in the U.S., with over 8 million DAU, delivering bite-sized episodic content that keeps viewers hooked. Other standout products include Chapters, where users shape immersive stories across drama, fantasy, and romance, and My Fiction, a platform for consuming and creating serialized romance. We\u2019re proud to be recognized as one of the Global Most Loved Workplaces 2025, reflecting our commitment to innovation, creativity, and an employee-first culture. Position Overview: As a ReelShort Screenwriter, you will be responsible for reading web novels and adapting them into compelling screenplays. The ideal candidate will have proven experience in writing and a deep knowledge and interest in romance novels or TV shows. You will need to bring order to chaos, find the right connections, and solve problems creatively. Additionally, you will provide feedback to peers and participate in script workshops. Anyone seeking a mid-level position with at least 5 years of writing background and a strong interest in story writing (preferably in romance/drama) would be ideal for this role. If you are passionate about storytelling and have a knack for adapting written content into engaging screenplays, we encourage you to apply for this exciting opportunity with CMS. Join us in shaping the future of interactive storytelling and HD streaming content! Responsibilities: Read web novels to understand their themes and plots, and use them as references for writing original screenplays. Analyze content and data to identify issues and",
+    "posted": "Wed, 04 Nov 2026 17:00:32 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-04T23:27:57.998465+00:00"
   }
 }
