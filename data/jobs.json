@@ -10515,5 +10515,26 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-03T23:04:04.162753+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/1994915/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/1994915/",
+    "source": "WorkingNomads",
+    "title": "Technical Operations Lead",
+    "company": "Lemon.io",
+    "url": "https://www.workingnomads.com/job/go/1994915/",
+    "description": "Lemon.io  helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We\u2019ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. \n We are looking for a Technical Operations Lead for our client: a leading European AI lab working on advanced AI models and data annotation projects. They collaborate with  Lemon.io  to scale their annotation and technical operations teams. \n Who we\u2019re looking for \n Technical Operations Lead with: \n \n 5+ years of commercial experience with Python \n 3+ years of commercial experience in Project management \n \n \u00a0 \n \n You\u2019ve built projects from scratch and made solid architecture decisions \n You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production \n You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) \n Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls \n You work full-time remotely and deliver without supervision \n You onboard quickly and start shipping in your first weeks \n \n How it works \n \n Apply and complete your profile \n Verify your role \n Once approved, we match you with a project. \n \n Ready? Apply! \n NOT YOUR TECH STACK? \n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React",
+    "posted": "2026-11-04T08:35:22-05:00",
+    "tags": [
+      "python",
+      "project management",
+      "ai engineer",
+      "annotation",
+      "english",
+      "Management"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-04T14:07:16.355435+00:00"
   }
 }
