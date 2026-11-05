@@ -10600,5 +10600,85 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-04T23:27:57.998465+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+    "source": "WeWorkRemotely",
+    "title": "Toptal: Cryptography Specialist for AI lab",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+    "description": "Headquarters:  \n \n\n Overview A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities \u2022 Design expert-level Terminal-Bench cryptography tasks by turning real, paid work from your own experience into challenges that an AI agent must solve end to end. \u2022 Define the task environment, including files, systems, ciphertexts and data, so the challenge is realistic, self-contained and reproducible in a Linux command-line setup. \u2022 Write a working reference solution in Python or SageMath that proves the task is solvable, for example by recovering a key or decrypting a secret. \u2022 Build automated checks and tests that objectively verify the final result is correct, and explain how a mistake or a partial answer would be detected. \u2022 Calibrate task difficulty so a typical expert needs about 60-75 minutes to solve it, keeping it hard for AI agents while still fair and unambiguous. \u2022 Package each task with Docker and Git where applicable, document instructions clearly, and revise based on reviewer feedback until it meets the required quality bar. Skills/Experience \u2022 3+ years of hands-on cryptanalysis or applied cryptography; GRC, audit-only, policy, sales or management roles do not count, nor does coursework only \u2022 Did the work in the last 3 years and can name the systems, tools, data and rules used \u2022 Uses the low-level tools of the subfield, such as SageMath and Python, and works comfortably on the Linux command line \u2022 Can show how a finding is proven, such as a decrypted secret or a recovered key, and explain how a mistake would be caught \u2022 Technical fluency with files, CSV/JSON,",
+    "posted": "Thu, 05 Nov 2026 17:09:07 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-05T19:45:15.777628+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics",
+    "source": "WeWorkRemotely",
+    "title": "Kiavi: Senior Applied Scientist, Property Analytics",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics",
+    "description": "Headquarters:  \n     URL:   http://www.kiavi.com \n \n\n THE TEAM \n Our Property Analytics team is made up of 360-degree thinkers that analyze complex problems and come up with creative solutions. We love to combine advanced analytics and machine learning skills with deep domain knowledge about the business when creating solutions. You will work with some of the most fascinating data sets in the world, alongside a world-class group of product engineers, sales and marketing leaders, and business operators. \n PURPOSE OF THE ROLE \n Figure\u2019s Property Analytics team is seeking a Senior Applied Scientist to join us in our effort to reinvent real estate lending. You will be working alongside engineering, product, and business leaders to tackle complex research and machine learning problems related to automated valuation models (AVMs), asset valuation, and process optimization. \n An ideal candidate brings deep expertise in advanced machine learning, statistical modeling, and production-grade AI system architectures. You will lead technical direction, mentor team members, and partner closely with MLOps engineers, Product Managers, Credit Risk Management and Capital Markets subject matter experts to drive select strategic initiatives from initial research to production deployment. If you are keen on joining a dynamic company and solving intellectually challenging problems in a fast-paced environment, please reach out to us. \n KEY RESPONSIBILITIES: \n \n Lead the end-to-end design, architecture, development, and deployment of state-of-the-art automated valuation modeling (AVM) systems for novel lending products. \n Architect and refine innovative machine learning, deep learning, and statistical models for asset valuation, incorporating spatial-temporal trends, macroeconomic factors, market liquidity, and property risk dynamics. \n Establish robust quantitative frameworks for continuous model performance assessment, monitoring, and automated retraining across changing real estate cycl",
+    "posted": "Thu, 05 Nov 2026 13:22:36 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-05T19:45:20.329965+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare",
+    "source": "WeWorkRemotely",
+    "title": "EXL: Quality Analyst - Clinical Validation Auditor (CVA), Healthcare",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare",
+    "description": "Headquarters:  United States\n     URL:   https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/ \n \n\n This\u00a0is\u00a0a\u00a0remote\u00a0office\u00a0opportunity.\u00a0The\u00a0Quality\u00a0Analyst\u00a0oversees\u00a0work\u00a0performed\u00a0by\u00a0the\u00a0Clinical\u00a0CVA\u00a0auditors\u00a0to\u00a0ensure\u00a0that\u00a0EXL\u2019s\u00a0standard\u00a0of\u00a0accuracy\u00a0is\u00a0met.\u00a0The\u00a0analyst\u00a0undertakes\u00a0a\u00a0quality\u00a0review\u00a0of\u00a0random\u00a0and\u00a0targeted\u00a0clinical\u00a0CVA\u00a0audits.\u00a0\u00a0 A\u00a0brief\u00a0coding/auditing\u00a0assessment\u00a0may\u00a0be\u00a0included\u00a0as\u00a0part\u00a0of\u00a0the\u00a0interview\u00a0process Estimated\u00a0salary\u00a0range\u00a0is\u00a0$60,100\u00a0to\u00a0$98,700\u00a0 For\u00a0more\u00a0information\u00a0on\u00a0benefits\u00a0and\u00a0what\u00a0we\u00a0offer\u00a0please\u00a0visit\u00a0us\u00a0at\u00a0 https://www.exlservice.com/us-careers-and-benefits \n\n Responsibilities \n  \n   Apply clinical judgment for DRG audits to ensure accuracy of inpatient DRG coding\u00a0 \n  \n \n \n  \n   Responsible for reviewing the accuracy and consistency of clinical DRG auditing auditors to ensure audits are appropriately marked for findings and no findings\u00a0 \n  \n \n \n  \n   Mentor Clinical DRG auditors\u00a0 \n  \n \n \n  \n   Recommend process changes to improve quality and performance\u00a0 \n  \n \n \n  \n   Communicate with peers and management\u00a0 \n  \n \n \n  \n   Provide root cause analysis on errors\u00a0 \n  \n \n \n  \n   Perform other duties as assigned\u00a0 \n  \n \n \n  \n   Conduct all job functions and responsibilities in accordance with all company Compliance, Information Security and Regulatory policies, procedures and programs \n  \n \n\n Qualifications Current Registered Nurse license\u00a0 5 plus years experience working with clinical validation audits\u00a0 \u00a0 Knowledge and Skills: \u00a0\u00a0 Superior auditing and monitoring skills\u00a0\u00a0 Ability to mentor and instruct\u00a0\u00a0 Excellent decision making skills and sound judgment\u00a0\u00a0 Thorough understanding of medical terminology and human physiology\u00a0\u00a0 Strong technical knowledge and ability to learn new systems quickly\u00a0 Excellent oral/presentation and written communication skills\u00a0\u00a0 Ability to complete tasks efficiently and resolve problems within set timelines\u00a0 Strong organizational skills and attention to detail\u00a0\u00a0 Ability to work in a team ",
+    "posted": "Thu, 05 Nov 2026 13:22:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-05T19:45:24.020170+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+    "source": "WeWorkRemotely",
+    "title": "DRFIRST COM INC: Senior Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+    "description": "Headquarters:  United States\n     URL:   https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3 \n \n\n Senior Software Engineer, eRx Enterprise and Gadget About DrFirst For 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, and adherence. Our solutions help 100 million patients a year and are used by more than 420,000 prescribers, 71,000 pharmacies, 270 EHRs and health information systems, and over 2,000 hospitals in the U.S. This is a great opportunity to be a part of a successful Healthcare IT company experiencing significant growth. Here you\u2019ll get to work with some of the smartest and most interesting people around, solving unique and complex challenges in healthcare on a scale matched by few companies. If you get excited about stretching yourself in new ways, developing yourself to your fullest potential, and care about working with smart colleagues, we want to talk to you! Position Overview DrFirst is hiring a Senior Software Engineer for the eRx Enterprise and Gadget team. Your first focus is Gadget, our pharmacy agent. Over time you will extend your work into Rcopia, our ePrescribing platform, on Electronic Prescribing of Controlled Substances (EPCS) and Prescription Drug Monitoring Program (PDMP) workflows. You will build cloud native, high performance services for an ePrescribing collaboration platform. The platform connects providers, patients, payers, pharmacies, and pharmaceutical companies in real time. You will design systems built for high load, with self healing, auto scaling, and full observability. You bring strong judgment about AI. You know when AI speeds up delivery and when AI produces weak code. You apply AI to raise code quality, performance, and design standards",
+    "posted": "Thu, 05 Nov 2026 13:22:33 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-05T19:45:26.043170+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+    "source": "WeWorkRemotely",
+    "title": "Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) \u2013 AI-First, with GDPR Experience",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+    "description": "Headquarters:  Europe (DK)\n     URL:   https://secureprivacy.ai \n \n\n Secure Privacy  is expanding, and we\u2019re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You\u2019ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you\u2019re passionate about clean, maintainable code, we\u2019d love to hear from you! \n What You\u2019ll Do: \n \n Develop and maintain backend services with C# and .NET. \n Develop and maintain frontend logic with Angular and Redux. \n Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them. \n Work closely with designers to bring high-quality, scalable, and maintainable solutions to life. \n Engage in all stages of the development process: planning, coding, testing, and deployment. \n Advocate for best practices and contribute to improving our development standards. \n Collaborate in a remote environment, primarily during European business hours. \n \n What We\u2019re Looking For: \n \n 5+ years of backend development experience, particularly with C# and .NET Framework. \n Hands-on, daily experience with AI coding tools such as Cursor or Claude Code on real projects, including giving agents good context and critically reviewing AI-generated code. \n Expertise in MongoDB, including complex operations (aggregations, compound indexes, transactions). \n Experience with GDPR, CCPA, or other data privacy compliance standards. \n Experience in Angular development, including NgRx or other Redux frameworks, is desirable. \n Experience with payment platforms such as Stripe. \n Strong Git skills, including modern branching strategies and ways of working. \n Familiarity with profiling web apps for high availability and scalability. \n Ability to make informed decisions between server-side an",
+    "posted": "Thu, 05 Nov 2026 12:39:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-05T19:45:26.313243+00:00"
   }
 }
