@@ -10840,5 +10840,88 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-06T14:08:55.561858+00:00"
+  },
+  "remoteok-1137691": {
+    "id": "remoteok-1137691",
+    "source": "RemoteOK",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "description": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses. Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from idea to launched product to first revenue. Over the next 12 months, our focus is on reliability, throughput, and self-improvement, making every launch better than the last. About the role We're looking for a hands-on AI Engineer to take ownership of the architecture and development of our autonomous agent system. You'll lead the technical direction of the platform, building multi-agent orchestration systems, self-improving agent harnesses, and AI-powered backend services. This is a highly technical leadership role that combines architectural decision-making with hands-on engineering. You'll be expected to ship production code, make key technical decisions, improve agent behavior in production, and help establish the engineering standards as the company scales. Responsibilities Own the system architecture and make key technical decisions across the platform. Design and build multi-agent systems and orchestration infrastructure that take products from idea to launch. Develop self-improving agent harnesses, including feedback loops, evaluation systems, and memory. Build and maintain AI-powered backend services on top of LLM APIs such as Anthropic, OpenAI, and Gemini. Write production code, particularly around agent runtime and orchestration. Debug and improve AI behavior in production through prompt engineering, structured outputs, retries, and fallbacks. Break down complex technic",
+    "posted": "2026-11-05T16:00:07+00:00",
+    "tags": [
+      "design",
+      "sys admin",
+      "exec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "javascript",
+      "cloud",
+      "postgres",
+      "typescript",
+      "node",
+      "node.js",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-06T22:55:35.424249+00:00"
+  },
+  "remoteok-1137689": {
+    "id": "remoteok-1137689",
+    "source": "RemoteOK",
+    "title": "ML Inference Engineer \u00e2\u0080\u0093 Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+    "company": "Toptal",
+    "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+    "description": "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities \u00e2\u0080\u00a2 Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end. \u00e2\u0080\u00a2 Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable. \u00e2\u0080\u00a2 Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort. \u00e2\u0080\u00a2 Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs. \u00e2\u0080\u00a2 Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty. \u00e2\u0080\u00a2 Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable. Skills/Experience \u00e2\u0080\u00a2 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield \u00e2\u0080\u00a2 Did this work in the last 3 years and can name the systems, tools, data and rules used \u00e2\u0080\u00a2 Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls \u00e2\u0080\u00a2 Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM \u00e2\u0080\u00a2 Can explain how ML results go wrong without errors (numerical drift, metric",
+    "posted": "2026-11-05T14:58:56+00:00",
+    "tags": [
+      "Artificial Intelligence",
+      "Docker",
+      "Git",
+      "Graphics Processing Unit",
+      "LLM"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-06T22:55:39.520835+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+    "source": "WeWorkRemotely",
+    "title": "OpenTrain AI: Full-Stack Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+    "description": "Headquarters:  United States\n     URL:   https://opentrain.ai/ \n \n\n Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) \n \u2022 $50\u2013$100 per hour equivalent, paid per accepted task \u2022 100% remote \u2022 Part-time \u2022 Under 20 hours a week, you choose when \n Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. \n AI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The work is part-time remote contract work for under 20 hours per week. \n What you'll do \u2022 Create and solve realistic full-stack tasks involving user-facing features and APIs \u2022 Trace requests and data across browsers and back-end services to judge whether an AI implementation works correctly \u2022 Write professional reference solutions and validate code across front-end and back-end systems \u2022 Review AI-generated code for security, performance and maintainability, and explain where it needs improvement \n Why this is worth your time \u2022 Earn $50\u2013$100 per hour equivalent for accepted tasks that meet project specifications while applying your full-stack engineering judgment. \u2022 Review AI-generated code for security, performance and maintainability across front-end and back-end systems. \u2022 Use your full-stack experience to assess AI-generated solutions across unfamiliar codebases and complete software systems. \u2022 Fully remote and flexible, no fixed shifts, no commute \n Who this is for \u2022 Strong professional experience building production full-stack applications across multiple programming languages \u2022 Strong full-stack systems knowledge covering browser applications, APIs, application state, databases, service integration, architecture and debugging \u2022 Professional fluency in English; experience contributing to complete software-system architecture, working in unfamiliar codebases, an",
+    "posted": "Fri, 06 Nov 2026 20:13:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-06T22:56:27.198133+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+    "source": "WeWorkRemotely",
+    "title": "Karat: Software Engineer Interviewer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+    "description": "Headquarters:  Seattle\n     URL:   https://karat.com/ \n \n\n \n Come join Karat's     Interview Engineer  Community! \n Karat is always seeking talented engineers accross the world to join our Community. If you are interested in being considered for a future Interview Engineer opportunity, please submit your application to this posting. \n This is a  contractor/freelancer  opportunity, and work is compensated based on tasks performed once you complete onboarding. We hire worldwide and rotate which countries we recruit in. If you\u2019re outside the U.S., check\u00a0 our website  to see which countries are currently open, and apply there when your country is listed. \n \n What Interview Engineers do: \n Interview Engineers facilitate technical interviews with software developers around the world. As an Interview Engineer, you will create inclusive hiring processes by mitigating bias, improving hiring signals, and completing objective evaluations. These skills are critical to hiring and managing teams in startups and large enterprises. As a Karat Interview Engineer, you will: \n \n Interview\u2014 Facilitate an interview through Karat's platform. Create an enjoyable candidate experience while you evaluate a candidate's fundamental coding skills and technical knowledge. \n Evaluate\u2014 Provide input on the candidate's performance, coding style, communication skills, knowledge question answers, and coding approach. \n Partner\u2014 Collaborate with Karat to test content, processes, and products. \n \n The experience you will bring: \n \n 3+ years of experience as a Software Developer or Engineer \n Excellent English communication skills (written and oral) with a high level of professionalism and interpersonal skills \n Reliable access to a working webcam, microphone, and a stable Internet connection \n Experience conducting technical interviews is preferred (e.g., data structures, algorithms) \n \n While we review your application, learn more about  life as an Interview Engineer  by watching this video! \n \n \n\n To",
+    "posted": "Fri, 06 Nov 2026 18:27:52 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-06T22:57:57.355017+00:00"
   }
 }
