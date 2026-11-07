@@ -10963,5 +10963,37 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-07T05:28:44.131310+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+    "source": "WeWorkRemotely",
+    "title": "OneImaging: Cloud Systems Administrator",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+    "description": "Headquarters:  \n     URL:   https://oneimaging.com \n \n\n Radiology is the second most used healthcare service, used by over 51% of the workforce annually. Despite the critical role of radiology in healthcare, the process for undergoing a medical imaging exam has remained unchanged for decades. OneImaging is solving this with a concierge approach and a premium-quality radiology network of over 5,000 vetted providers across 48 states, which also reduces imaging costs by 60-80%. Our solution helps patients and families access essential radiology services at fair prices and without surprise bills, all while delivering immediate savings and ROI for employers and payers on every exam. The Systems Administrator owns the day-to-day administration of our SaaS and cloud vendor stack, with security and logging as the first priority. You will manage user\u00a0access across every platform we use, keep audit logging and security controls configured\u00a0and reviewed, write scripts to automate repetitive admin work, and act as a first\u00a0responder on security incidents. You will also provide hands-on IT support to employees.\u00a0This is a generalist role for someone who likes owning systems end to end: you are the\u00a0person who knows how each vendor is set up, who has access to what, and where the logs\u00a0live.\u00a0 \n What you'll do: \n Vendor and SaaS administration (security and logging first) \n \n Serve as the primary administrator for our SaaS and cloud platforms: tenant settings, SSO/SAML and SCIM integration, MFA enforcement, API keys, roles and permissions. \n Configure and maintain audit logging on every platform that supports it; centralize logs where possible and make sure retention meets our compliance needs. \n Run periodic access reviews, remove stale accounts and over-privileged roles, and keep an accurate inventory of who has admin rights where. \n Own the security posture of each vendor: review security settings on new tools before rollout, track vendor security notices, and evaluate new vendor re",
+    "posted": "Sat, 07 Nov 2026 17:01:12 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-07T21:40:34.746713+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mindrift-licensed-physician-md-do-freelance-ai-trainer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mindrift-licensed-physician-md-do-freelance-ai-trainer",
+    "source": "WeWorkRemotely",
+    "title": "Mindrift: Licensed Physician (MD/DO) - Freelance AI Trainer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-licensed-physician-md-do-freelance-ai-trainer",
+    "description": "Headquarters:  Singapore\n     URL:   https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift \n \n\n Please submit your CV in English and indicate your level of English proficiency. Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.\u00a0Participation is\u00a0project-based. What this opportunity involves We\u2019re looking for US-based, actively practicing physicians (MD/DO) to evaluate clinical EHR vignettes for a medical AI evaluation program. General and internal medicine are our main focus. While each project involves unique tasks, contributors may: Evaluate clinical EHR vignettes paired with a question, a proposed answer, and a distractor \u201ctrap\u201d answer across diagnosis and treatment tasks, spanning cardiovascular, nervous, hematologic, respiratory, digestive, urinary, reproductive, musculoskeletal, and integumentary systems; Score the clinical reasoning quality of benchmark items: vignette accuracy and completeness, whether the vignette gives the answer away, answer correctness and gradeability, and trap quality; Check whether the reasoning chain reaches the answer from vignette facts alone, correct reasoning traces, and write short rationales; Work within three independent blind reads, followed by physician adjudication. Real clinical complexity only. You\u2019re improving the AI tools you\u2019ll eventually use yourself. If you\u2019re a practicing physician ready to take on this challenging and engaging project, join us! What we look for\u00a0 This opportunity is a good fit for US-based physicians open to part-time, non-permanent projects. Ideally, contributors will have: Medical degree (MD or DO) and an active, unrestricted US medical license (verified with the issuing medical board); Board certification or completed residency training, with recent direct patient care (attending-level preferred); Broad, multi-system diagnostic and treatment experience (internal, family, emergen",
+    "posted": "Sat, 07 Nov 2026 17:01:10 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-07T21:41:24.298777+00:00"
   }
 }
