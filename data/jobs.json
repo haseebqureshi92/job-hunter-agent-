@@ -10995,5 +10995,69 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-07T21:41:24.298777+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-solutions-engineer-digital-native-and-mid-market": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-solutions-engineer-digital-native-and-mid-market",
+    "source": "WeWorkRemotely",
+    "title": "True Talent Solutions Partners: Senior Solutions Engineer, Digital Native and Mid-Market",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-solutions-engineer-digital-native-and-mid-market",
+    "description": "Headquarters:  United States\n     URL:   https://truetalentsolutionspartners.com \n \n\n About the Role Join a cybersecurity solutions engineering team supporting digital native and mid-market customers. You will bring deep engineering expertise to technical sales cycles, helping organizations integrate application security into their development workflows. What You'll Do Become an expert in the application security platform and help customers integrate it into CI/CD pipelines, developer workflows, and AppSec programs. Lead technical discovery, diagnose customer issues, and advise on solution design. Own proof-of-value cycles from success criteria and environment configuration through technical outcomes. Write or adapt security rules to identify vulnerabilities and demonstrate product capabilities. Explain technical differentiation to security engineers, DevOps teams, and executives. Improve demos, automation, and educational content to reduce customer friction. Partner with account executives on complex sales cycles and contribute to team processes and enablement. Travel up to 20% for customer meetings, events, conferences, and company events. What We're Looking For Two to five years of pre-sales engineering experience in enterprise SaaS, ideally in security or adjacent developer tooling. Experience selling complex technical products in large organizations, such as AppSec, DevOps, CI/CD, or monitoring solutions. A computer science degree, prior software engineering experience, and strong technical fundamentals. Understanding of developer workflows and build systems, including CI/CD tools such as GitHub Actions, GitLab, CircleCI, Jenkins, or Buildkite. Strong communication skills and experience engaging security engineers, DevOps teams, and technical leaders. Must be a US citizen or Green Card holder. Applicants must be currently employed outside freelance, independent contractor, contract, or fractional roles, or not currently working. Compensation & Benefits Base sal",
+    "posted": "Sun, 08 Nov 2026 17:00:44 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-08T21:54:06.032698+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+    "source": "WeWorkRemotely",
+    "title": "Exa: Support Engineer, PAYGO",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+    "description": "Headquarters:  \n     URL:   https://exa.ai/ \n \n\n About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Search API currently powers Agents, Fortune 500s, and AI labs as we transform an industry that hasn't been disrupted since the 90s. We're a largely SF-based team of ~100 from Harvard, MIT, Meta, Google Research, ex-founders, and dropouts alike.  We are rapidly building the most intelligent search engine in history. We're high agency, low-ego, and united by the feeling that this is one of the last problems worth getting right. About the Role Thousands of developers and companies use Exa on pay-as-you-go. As the Support Engineer for PAYGO, you own all of their inbound questions: getting started, search quality, billing, errors, integrations, and real bugs. The volume is high and every day is different. It's one of the fastest ways to learn Exa end to end. You'll work with our AI support tools, the docs, Product and Engineering, and you'll see what developers build with Exa before anyone else does. Some of the people writing in are tomorrow's biggest customers, and you'll be the one who spots them. In this role, you will: Own the PAYGO queue : answer what the AI first line can't, quickly and clearly Debug with customers : reproduce issues with the API, read their code and send working fixes Triage well : production issues and unhappy customers first, everything else in order Escalate with full context : bugs to Engineering, product gaps to Product, and anything you can't resolve to the Support leader Spot growth : flag PAYGO accounts that look like future enterprise customers to Sales Improve the AI first line : fix the docs, help center and agent workflows so the same question doesn't need a human twice Spot patterns  across tickets and turn them into product feedback",
+    "posted": "Sun, 08 Nov 2026 17:00:43 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-08T21:54:53.316689+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-director-of-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-director-of-engineering",
+    "source": "WeWorkRemotely",
+    "title": "True Talent Solutions Partners: Director of Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-director-of-engineering",
+    "description": "Headquarters:  United States\n     URL:   https://truetalentsolutionspartners.com \n \n\n About the Role Lead and scale multiple product engineering teams at a mission-driven K-12 education technology company. Reporting to the CTO, you will guide product delivery and technical direction as the platform grows to support schools, teachers, and students. What You'll Do Lead multiple product squads focused on scheduling, reporting and visibility, and elementary school experiences. Start with a hands-on balance of coding, code reviews, and pairing, then shift toward a greater focus on leadership as the organization grows. Make architecture decisions that support a robust, scalable platform and guide teams through technical change. Partner with product and other cross-functional teams to set goals and connect engineering priorities to business outcomes. Deliver high-value product features, including AI-powered capabilities. What We're Looking For At least 3 years of engineering management experience, including experience leading multiple teams and managing other managers. Experience scaling engineering teams and owning products, business goals, and outcomes such as quality, growth, retention, or delivery speed. Strong backend architecture and design skills, including the ability to weigh technical trade-offs while remaining comfortable writing and reviewing code. Experience with TypeScript or Python, AWS, and MongoDB; familiarity with React is useful. Background in K-12 education technology or related learning and teaching fields, with a commitment to education-focused work. Strong communication skills and the ability to work effectively in a fast-growing environment. Ability to travel for occasional company retreats and business needs. Compensation & Benefits Base salary: $210,000 to $240,000 annually. Visa sponsorship is available. Location Remote within the United States. \n\n To apply:   https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-director-of-engin",
+    "posted": "Sun, 08 Nov 2026 17:00:42 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-08T21:55:40.032519+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+    "source": "WeWorkRemotely",
+    "title": "True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+    "description": "Headquarters:  United States\n     URL:   https://truetalentsolutionspartners.com \n \n\n About the Role Contribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work. What You'll Do Solve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development. Translate physical systems and engineering requirements into analytical or computational models. Create or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs. Review engineering artifacts and analyses against relevant physical and design constraints. What We're Looking For An MSc or PhD in Mechanical Engineering or a closely related engineering discipline, or a strong foundation in applied mechanics and mechanical engineering fundamentals. Experience developing analytical, computational, or simulation-based engineering solutions. Experience solving and validating mechanical engineering problems in design, analysis, simulation, testing, or research and development. Experience translating engineering requirements into models and working with geometry, meshes, materials, loads, contacts, constraints, and solver inputs. Practical proficiency with coding agents and experience with Python. Compensation & Benefits Compensation is $60 to $120 per hour. This is output-based contractor work, with payment per task that meets project specifications. The expected commitment is approximately 15 hours per week, with a flexible schedule. Visa sponsorship is not available. Location Fully remote. \n\n To apply:   https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+    "posted": "Sun, 08 Nov 2026 17:00:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-08T21:57:10.181458+00:00"
   }
 }
