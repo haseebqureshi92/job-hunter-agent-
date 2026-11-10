@@ -11210,5 +11210,70 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-10T14:38:53.242574+00:00"
+  },
+  "remoteok-1137710": {
+    "id": "remoteok-1137710",
+    "source": "RemoteOK",
+    "title": "Senior Agentic AI Engineer NDA",
+    "company": "GT",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. \u00c2\u00a0GT\u00e2\u0080\u0099s mission is to connect the world\u00e2\u0080\u0099s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of the client, GT is looking for a  Senior Agentic AI Engineer  who is interested in solving complex matching and search problems at scale, applying ML and algorithms to hundreds of millions of real-world data records. \u00c2\u00a0 About the Client Our client is a leading global management consultancy known for tackling some of the world\u00e2\u0080\u0099s most complex business challenges. With a focus on strategy, transformation, and performance improvement, the firm partners with major organizations across industries to drive lasting impact. Recognized consistently as a top workplace, it combines deep industry expertise with a collaborative, innovative culture. Its centralized European hub plays a key role in supporting operations across the EMEA region, ensuring excellence and efficiency at scale. \u00c2\u00a0 About the Project & Role We are looking for a  Senior AI Engineer  to help design, build, and evolve an  AI-powered conversational analytics platform  that enables businesses to explore their data, generate insights and visualizations, and make data-driven decisions. The product helps users analyze promotional performance, answer complex analytical questions, build charts and tables, and generate evidence-based recommendations using LLMs, agentic workflows, and governed client data. The team is developing a scalable, secure, and extensible agentic AI framework that can be customized for different clients and integrated with other products through standards such as Model Context Protocol (MCP). The existing solution is built on LangChain, with plans to evolve and migrate the framework. This is a hands-on engineering role with a significant architecture and system design component. You will work across the entire agentic AI lifecycle, from designing age",
+    "posted": "2026-11-09T16:00:13+00:00",
+    "tags": [
+      "design",
+      "react",
+      "sys admin",
+      "infosec",
+      "python",
+      "consulting",
+      "docker",
+      "technical",
+      "recruiter",
+      "dev",
+      "testing",
+      "marketing",
+      "exec",
+      "senior",
+      "ops",
+      "stats",
+      "engineer",
+      "digital nomad"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-10T23:03:07.901997+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/we-work-remotely-triple-reach-test-do-not-apply": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/we-work-remotely-triple-reach-test-do-not-apply",
+    "source": "WeWorkRemotely",
+    "title": "We Work Remotely: Triple Reach Test \u2014 Do Not Apply",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-triple-reach-test-do-not-apply",
+    "description": "Headquarters:  \n     URL:   http://weworkremotely.com \n \n\n This is an internal test post. Please do not apply. \n We Work Remotely is testing automatic cross-posting to partner job boards. This listing will be closed within a few minutes. \n What we're checking \n \n Headings and bold text come through \n Bulleted lists keep their structure \n Links like  We Work Remotely  stay clickable \n Thanks for your patience! \n \n\n To apply:   https://weworkremotely.com/remote-jobs/we-work-remotely-triple-reach-test-do-not-apply",
+    "posted": "Tue, 10 Nov 2026 22:47:32 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-10T23:03:08.712257+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-data-quality-analyst": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-data-quality-analyst",
+    "source": "WeWorkRemotely",
+    "title": "EdgeQ Technologies Private Limited: AI Data Quality Analyst",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-data-quality-analyst",
+    "description": "Headquarters:  United States\n \n\n AI Data Quality Analyst Job Title:  AI Data Quality Analyst Location:  United States (Remote) Work Mode:  100% Remote Experience:  2\u20136 Years Salary Range:  $70,000 \u2013 $115,000 per year (USD) Employment Type:  Full-Time Job Category:  Artificial Intelligence / Data Analytics / Data Quality Job Summary We are seeking a detail-oriented and analytical AI Data Quality Analyst to join our growing AI and Data Engineering team in the United States. The ideal candidate will be responsible for evaluating, validating, cleaning, and maintaining datasets used in artificial intelligence and machine learning applications. The candidate should have experience in data quality assessment, data validation, data annotation, SQL, Python, and AI/ML data workflows. This role involves ensuring data accuracy, consistency, completeness, and reliability to improve AI model performance. This position offers a fully remote work opportunity for qualified candidates across the United States. Key Responsibilities Analyze, validate, and maintain datasets used for AI and machine learning applications. Identify missing, duplicate, inconsistent, and inaccurate data. Perform data cleaning, preprocessing, and quality checks. Evaluate training and testing datasets for accuracy and completeness. Develop and maintain data quality standards and validation procedures. Review AI-generated outputs and identify data-related errors or inconsistencies. Perform data annotation, labeling, classification, and categorization when required. Collaborate with Data Scientists, AI Engineers, and Data Engineers. Create SQL queries and Python scripts for automated data validation. Monitor data quality metrics and prepare analytical reports. Identify root causes of data quality issues and recommend corrective actions. Maintain data documentation, validation logs, and quality reports. Support continuous improvement of AI training datasets and data pipelines. Required Skills & Qualifications 2\u20136",
+    "posted": "Tue, 10 Nov 2026 17:00:36 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-10T23:03:09.520774+00:00"
   }
 }
