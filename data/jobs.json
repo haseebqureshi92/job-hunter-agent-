@@ -11155,5 +11155,39 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-09T15:51:31.436725+00:00"
+  },
+  "remoteok-1137704": {
+    "id": "remoteok-1137704",
+    "source": "RemoteOK",
+    "title": "UI Developer",
+    "company": "RainFocus",
+    "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+    "description": "RainFocus, one of the most innovative software companies, is in search of an exceptional  Jr. UI Developer. \n \u00a0 \n About RainFocus \n RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience, streamline event operations, and accelerate marketing results. We are well-funded, growing fast, and building a company that is changing the market \u00e2\u0080\u0094 it will be challenging, fun and exciting.\u00a0 \n \u00a0 \n About the Role \n As a Jr. UI Developer, you will be an essential part of our team, assisting in the implementation of stunning, user-friendly web applications. Working alongside experienced developers, you will use HTML, CSS, and modern JavaScript to help translate designs into high-quality web experiences for our events and platforms. This position is ideal for an early-career developer who is passionate about visually-focused development, eager to learn best practices in CSS and JavaScript, and excited to collaborate within a supportive team environment. You will gain hands-on experience with branding, workflows, and enterprise-grade software development. \\n How you will contribute: \n \n Assist in developing, updating, and maintaining UI components and branding with a strong focus on design and responsiveness. \n \n \n Collaborate closely with senior developers, designers, and Product Management to learn processes and deliver quality work. \n \n \n Write clean, maintainable HTML, CSS (using SASS and utility classes), and basic JavaScript (including exposure to React and Svelte). \n \n \n Help troubleshoot, debug, and fix styling issues or UI-related bugs across different browsers and devices. \n \n \n Participate in code reviews to rece",
+    "posted": "2026-11-08T16:00:03+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "react",
+      "front end",
+      "customer support",
+      "web dev",
+      "javascript",
+      "java",
+      "css",
+      "html",
+      "git",
+      "exec",
+      "senior",
+      "ops",
+      "marketing",
+      "photoshop",
+      "ads",
+      "backend",
+      "digital nomad"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-10T01:22:44.536963+00:00"
   }
 }
