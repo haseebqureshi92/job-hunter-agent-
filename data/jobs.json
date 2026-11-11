@@ -11275,5 +11275,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-10T23:03:09.520774+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+    "source": "WeWorkRemotely",
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+    "description": "Headquarters:  Sweden\n     URL:   http://career.proxify.io \n \n\n The Role: \n \u00a0 \n We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You\u2019ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. \n This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. \n \u00a0 \n What we\u2019re looking for: \n \n 5+ years with Node.js and 3+ past years with Nest.js \n Strong expertise in Node.js and Nest.js frameworks. \n Proven experience building REST and/or GraphQL APIs. \n Strong knowledge of JavaScript (ES6+) and TypeScript. \n Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). \n Familiarity with authentication/authorization mechanisms (JWT, OAuth2). \n Experience with unit/integration testing (e.g., Jest, Mocha). \n Proficiency with Git and version control workflows. \n Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. \n \n \u00a0 \n Nice to Have: \n \n Experience with cloud platforms (AWS, Azure, GCP). \n Familiarity with CI/CD pipelines and DevOps practices. \n Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka). \n Experience with Docker and containerized applications. \n Knowledge of microservices and serverless architectures. \n \n \u00a0 \n Responsibilities: \n \n Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js. \n Implement RESTful APIs, GraphQL endpoints, and microservices architectures. \n Optimize application performance, scalability, and maintainability. \n Integrate with databases (SQL/NoSQL) and external services via APIs. \n Ensure code quality, security, and compliance with industry standards. \n \n \u00a0 \n What we offer: \n Get paid, not played \n No more unreliable clients. Enjoy on-time monthly payments with flexible wi",
+    "posted": "Mon, 19 Oct 2026 09:17:52 +0000",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-11T13:55:09.804121+00:00"
   }
 }
