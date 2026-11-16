@@ -12157,5 +12157,21 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-15T22:46:25.330483+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+    "source": "WeWorkRemotely",
+    "title": "Sanctuary Computer: Head of Technology",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+    "description": "Headquarters:  New York City\n     URL:   https://sanctuary.computer \n \n\n We are hiring a  Head of Technology  for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. \n Original job posting link \n About  garden3d \n We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. \n Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian. \n We\u2019re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space. \n We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. \n Sanctuary Computer - Development \n At  Sanctuary Computer  we\u2019re building a different type of technology shop \u2013 one that prioritizes close collaboration between the client and the craftsperson. \n Our projects range from design-forward websites, to robust web apps, to native mobile development. \n XXIX - Design \n When we started  XXIX  in 2013, we set out to create a different kind of design studio and we\u2019ve thrived because we continually ask what a creative practice can be. \n We\u2019re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility. \n Index - Community \n Index  is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools. \n We nurture trust within the creative community through generosity a",
+    "posted": "Mon, 16 Nov 2026 15:09:29 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-16T15:23:52.619283+00:00"
   }
 }
