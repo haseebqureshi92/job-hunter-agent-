@@ -12509,5 +12509,137 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-18T15:31:09.261993+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-6": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-6",
+    "source": "WeWorkRemotely",
+    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-6",
+    "description": "Headquarters:  Sweden\n     URL:   http://career.proxify.io \n \n\n The Role: \n \u00a0 \n We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. \n \u00a0 \n What we are looking for: \n \u00a0 \n \n \n 5+ years experience as a Fullstack Developer. \n \n \n Backend experience with: \n \n \n \n Node.js \n \n \n Microservices architecture \n \n \n \n Database experience with: \n \n \n \n SQL \n \n \n MongoDB \n \n \n \n Intermediate-advanced English \n \n \n \u00a0 \n Nice-to-have:\u00a0 \n \n \n Located in CET timezone (+/- 3 hours). \n \n \n Database Architecture knowledge. \n \n \n \u00a0 \n Responsibilities: \n \n \n Ability to build libraries and frameworks of reusable efficient code. \n \n \n Competence in designing and implementing low-latency, stable and performing applications. \n \n \n Capacity to effectively collaborate with other team members and stakeholders remotely. \n \n \n Ability to implement data protection systems. \n \n \n Competence in data storage solutions. \n \n \n \u00a0 \n What we offer: \n \u00a0 \n Get paid, not played \n No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. \n Predictable project hours \n Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. \n Flex days, so you can recharge \n Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. \n Career-accelerating positions at cutting-edge companies \n Discover exclusive long-term remote positions at the world's most exciting companies. \n Hand-picked opportunities just for you \n Skip the typical recruitment roadblocks and biases with personally matched positions. \n One seamless process, multiple opportunities \n A one-time contracting process for endless opportunities, with no extra assessments. \n Compensation \n Enjoy the same pay, every month with positions landed through Proxify. \n\n To app",
+    "posted": "Thu, 19 Nov 2026 10:40:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:31:20.336428+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query",
+    "source": "WeWorkRemotely",
+    "title": "CircleCI: Senior Software Engineer, Query",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query",
+    "description": "Headquarters:  Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid\n \n\n\n About CircleCI Engineering \n CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. \n At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. \n About the Query Team \n Every pipeline, job, and test that runs on CircleCI generates data, and that history is one of our biggest advantages in an agentic software delivery lifecycle. Flaky test detection, test insights, pipeline search, and agents that reason about why a build failed all depend on fast, reliable access to it. \n The Query team owns the system that makes this possible. We pull product data out of the transactional services that create it and store it in datastores built for historical and analytical workloads. We serve it through domain-level APIs to CircleCI's product teams and to customers through our public API. Our goal is to make storing data \"fire and forget\" for every other team, and querying it fast and dependable at a scale that keeps growing. \n What You'll Do \n \n Build AI-natively.  AI is how we work. It's not a productivity layer on top of engineering, but the default starting point for how problems get approached and solved. \n Shape how we store data at scale.  Own and harden our ClickHouse-based storage layer. Design schemas for known and emerging access patterns, and tune ingestion and query performance to support production-scale data. \n Build the pipelines that move o",
+    "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:32:19.173903+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Gemini: Senior Data Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer",
+    "description": "Headquarters:  New York, New York; Miami, Florida; Remote (USA)\n \n\n About the Company \n Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all \u2014 bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. \n The Department: Data \n At Gemini, our Data Team is the engine that powers insight, innovation, and trust across the company. We bring together world-class data engineers, platform engineers, machine learning engineers, analytics engineers, and data scientists \u2014 all working in harmony to transform raw information into secure, reliable, and actionable intelligence. From building scalable pipelines and platforms, to enabling cutting-edge machine learning, to ensuring governance and cost efficiency, we deliver the foundation for smarter decisions and breakthrough products. We thrive at the intersection of crypto, technology, and finance, and we\u2019re united by a shared mission: to unlock the full potential of Gemini\u2019s data to drive growth, efficiency, and customer impact. \n The Role:   Senior Data Engineer \n The Data team is responsible for designing and operating the data infrastructure that powers insight, reporting, analytics, and machine learning across the business. As a Senior Data Engineer, you will contribute to architectural decisions, mentor junior engineers, and build high-scale systems that have meaningful impact on your team and the teams y",
+    "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:32:26.438344+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/legion-principal-software-engineer-devops": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/legion-principal-software-engineer-devops",
+    "source": "WeWorkRemotely",
+    "title": "Legion: Principal Software Engineer, DevOps",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/legion-principal-software-engineer-devops",
+    "description": "Headquarters:  Remote, United States\n \n\n Principal Software Engineer, DevOps \n Remote, United States \n ABOUT POSITION: \n Are you passionate about automation, DevOps, public cloud services, Kubernetes, and observability?\u00a0 As a site reliability engineer at Legion, you will be responsible for building the tools, infrastructure, and services to create a secure, highly scalable, and cost-effective AWS/Kubernetes-based cloud platform. You will be working with everything from infrastructure tooling, automation, build and deployment pipelines, monitoring and logging, containerization, and more! Simply put, the SRE team keeps Legion running for our customers. \n ROLES AND RESPONSIBILITIES: \n \n Support Legion\u2019s public cloud platform, utilizing multiple cloud services and containerization \n Develop infrastructure automation leveraging Terraform, Chef, Jenkins, and Golang. \n Create and manage production alerts. Respond to alerts and conduct a root-cause investigation \n Develop automated operational runbooks \n Support the deployment of Legion\u2019s WFM solution during and off regular office hours \n This role involves participation in on-call rotation \n Build and operate internal AI agents that reduce SRE toil \u2014 incident triage, runbook execution, alert enrichment, capacity and cost analysis \u2014 and own their guardrails, rollback, and reliability \n Own the platform that lets other engineers build agents safely: sandboxed execution, scoped credentials, tool/MCP integrations, cost controls, and agent observability \n \n BASIC QUALIFICATION: \n \n 12+ years experience in SRE, DevOps, or other SaaS operations. \n 3+ years of hands-on experience with managing AWS services and cloud infrastructure in AWS utilizing Terraform. AWS Certification preferred \n 3+ years experience with containerized cloud solutions utilizing Docker, Kubernetes, or AWS EKS. Familiarity with HELM charts \n 5+ years experience with at least one programming language like Go, Python, Bash, Perl \n 5+ years experience with one o",
+    "posted": "Thu, 19 Nov 2026 06:01:25 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:32:37.955152+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-query-planner-reflections": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-query-planner-reflections",
+    "source": "WeWorkRemotely",
+    "title": "Dremio: Staff Software Engineer - Query Planner & Reflections",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-query-planner-reflections",
+    "description": "Headquarters:  Portugal - Remote\n \n\n Be Part of Building the Future \n Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.\u00a0 Learn more at\u00a0 www.dremio.com. About the role \n Dremio's Query Planner & Reflections (QPR) team owns the SQL planner and optimizer \u2014 built on Apache Calcite \u2014 and the reflections substitution engine that transparently rewrites queries to hit pre-computed materializations instead of raw source data. As a Staff Software Engineer, you'll set technical direction for this system: driving ambiguous, cross-team initiatives, raising the bar through design and code review, and helping other engineers. \n What you'll be doing \n \n Set architecture and technical direction for the Query Planner and Reflections team spanning next-generation features across OSS, Enterprise, and Cloud editions. \n Own design, implementation, and delivery of complex initiatives that cross team boundaries (Query Execution, Catalog, Datalake). \n Work deeply with Apache Calcite and Apache Iceberg, including driving contributions upstream where it benefits Dremio. \n Diagnose the hardest correctness and performance issues in query planning and reflection matching using query profiles, telemetry, and production data. \n Use AI-assisted development tools for code comprehension, debugging, test generation, documentation, and incident analysis, and apply engineering judgment to validate AI-generated code through review, testing, and benchmarking. \n Design architectures that run correctl",
+    "posted": "Thu, 19 Nov 2026 06:01:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:33:26.354280+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-marketing-technology": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-marketing-technology",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Engineering Manager, Marketing Technology",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-marketing-technology",
+    "description": "Headquarters:  United States - Remote\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. THE COMMUNITY YOU WILL JOIN \n Airbnb's Marketing Technology organization builds the infrastructure that powers how we reach and connect with guests and hosts around the world - from audience segmentation and campaign orchestration to last-mile delivery and real-time insights. Our engineers work at the intersection of scale, reliability, and product impact, building platforms that carry billions of messages each year across email, SMS, push, and WhatsApp. We are deeply committed to building AI-natively: agents and LLM-powered automation are becoming core to how we build, operate, and improve our systems. \n You'll lead two closely partnered teams that together own Airbnb's communications platform end to end. The Orchestration team builds the systems that let marketing and product teams design and run personalized, event- and list-triggered customer journeys at Airbnb scale. The Delivery team owns the last mile - routing every notification through the right provider, tracking it to a terminal state, and managing contact preferences and vendor relationships. Both teams collaborate deeply with audience segmentation, content, ML, and data engineering teams, as well as product partners across the company. \n THE DIFFERENCE YOU WILL MAKE \n As the Engineering Manager for this team, you will be the primary technical leader for the systems that decide whether a message reaches a guest or host and when. You'll set the technical direction, own roadmap execution, and build the kind of team culture where engineers grow and do the best work of their careers, including through deep, genu",
+    "posted": "Thu, 19 Nov 2026 06:01:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:34:56.464440+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-external-search-ai-optimization": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-external-search-ai-optimization",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Engineering Manager, External Search & AI Optimization",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-external-search-ai-optimization",
+    "description": "Headquarters:  Remote - USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n The Growth Platform (Marketing Technology) team\u2019s vision is to drive long term sustainable growth for the Airbnb community. Our mission is to build best-in-class agentic systems, and capabilities to support the growth of all Airbnb products, current and future.\u00a0 \n The External Search & AI Optimization team's mission is to make Airbnb the most visible and trusted destination wherever people search for travel, from traditional search engines to AI answer engines and assistants. We build landing pages, structured content, and platform that help travelers discover stays, experiences, and services across hundreds of thousands of destinations and a broad range of languages and locales. As a product, infrastructure, and growth team within Marketing Technology, we own our stack end to end: CDN, frontend, backend, data pipelines, and AI agents. We partner closely with Product, Design, Marketing, and Data Science, as well as engineering teams across the company, to grow Airbnb's visibility, organic traffic, and bookings. \n The Difference You Will Make: \n As the Engineering Manager for External Search & AI Optimization, you will lead a team of engineers, from early-career to staff, working across frontend, backend, and data. You will own the engineering strategy and roadmap as travel discovery expands from search results to AI-generated answers, balancing continued growth in traditional search with new investment in making Airbnb easy for AI products to read, cite, and recommend. In your first year, success means measurable growth in Airbnb's visibility, traff",
+    "posted": "Thu, 19 Nov 2026 06:01:00 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:35:01.747990+00:00"
+  },
+  "workingnomads-https://www.workingnomads.com/job/go/2034803/": {
+    "id": "workingnomads-https://www.workingnomads.com/job/go/2034803/",
+    "source": "WorkingNomads",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "url": "https://www.workingnomads.com/job/go/2034803/",
+    "description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human evaluators with deep research expertise and cultural knowledge verify and correct them. Your linguistic precision, fact-checking rigor, and understanding of how your culture communicates and values information is irreplaceable in building search systems that people can actually trust. \n \u00a0 \n In this role, you will evaluate search queries, results, and AI-generated content for factual accuracy, authority, relevance, and user intent alignment. Your judgment determines whether search systems return trustworthy, contextually appropriate information. \n \u00a0 \n \n Analyze multi-turn search queries and web results for factual accuracy, source authority, and user intent alignment \n Conduct cross-referencing and fact-checking using regional sources, specialized databases, academic resources, and web directories \n Assess localized content relevancy across diverse domains\u2014news, sports, local culture, technical queries considering regional context and cultural nuance \n Evaluate AI-generated content for factual grounding, hallucination risk, and contextual appropriateness \n Provide structured assessments that train search ranking and content relevance models \n \n \u00a0 \n Qualifications to succeed in this project: \n \u00a0 \n \n Professional fluency in English \n Residency in the United States for the last 3 consecutive years\u00a0\u00a0 \n Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content \n Deep local cultural awareness and familiarity with regional news, current events, and contemporary culture \n Strong fact-checking and critical thinking abilities \n Access to a stable broadband internet, a reliable computer and a smartphone (Android 5.0, iOS 14 or higher) \n Active use of Gmail and other",
+    "posted": "2026-11-19T07:13:33-05:00",
+    "tags": [
+      "english",
+      "ios",
+      "media",
+      "quality",
+      "Administration"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-19T15:35:07.321740+00:00"
   }
 }
