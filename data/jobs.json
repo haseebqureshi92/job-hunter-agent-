@@ -13070,5 +13070,506 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-20T15:15:18.567521+00:00"
+  },
+  "remoteok-1137839": {
+    "id": "remoteok-1137839",
+    "source": "RemoteOK",
+    "title": "Engineer Software Defined Vehicle Simulation and Development",
+    "company": "NIKI Digital Engineering",
+    "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
+    "description": "NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles.  Become a member of NIKI Digital Engineering!   If you have completed your studies or doctorate and are looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume.  Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress. What to expect Develop and optimize process and simulation methods for complex vehicle development in collaboration with international industry partners and research organizations. Continuously monitor industry trends and advances in simulation technology to improve NIKI's services and drive innovation. Coordinate our interdisciplinary projects in close cooperation with our customers. Task Description  Modeling and simulation of complex systems and software functions. Focus on areas such as driving dynamics and autonomous driving. Active cooperation with our customers. Programming of functions and algorithms for modern vehicle functions. Accompanying the process from the first idea to delivery. Forward-looking development processes. Functional and vehicle development using the latest methods and tools, such as graphic modeling languages. Empowering and coaching our clients. Protection of software functions. Efficient implementation of technical security measures and criticality analysis of software functions. Creation of test concepts. Development of automated test cases according to existing customer requirements. Te",
+    "posted": "2026-11-19T16:00:34+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "python",
+      "consulting",
+      "technical",
+      "customer support",
+      "testing",
+      "exec",
+      "java",
+      "matlab",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "score": 5,
+    "pitch": "I saw your opening for a Software Defined Vehicle Simulation Engineer and wanted to connect. With a background spanning AI/ML engineering, algorithm design, and complex systems architecture, I specialize in translating intricate real-world behaviors into performant software functions. My experience designing ML pipelines and autonomous logic aligns directly with your modeling requirements for vehicle dynamics and automated driving workflows. I bring strong programming rigor, end-to-end analytical problem-solving, and a track record of cross-functional technical delivery. I would welcome the opportunity to discuss how my algorithmic and systems engineering background can strengthen NIKI's simulation tools and digital engineering partnerships.",
+    "status": "new",
+    "found_at": "2026-11-20T23:51:49.183189+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cockroach-labs-escalation-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cockroach-labs-escalation-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Cockroach Labs: Escalation Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cockroach-labs-escalation-engineer",
+    "description": "Headquarters:  Remote, United States\n \n\n \n \u00a0 \n \n \n \u00a0 \n \u00a0 \n Category-defining tech. Career-defining work. \n For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual databases together into one fleet designed for agentic applications, where AI agents help teams provision, scale, and optimize workloads at machine speed. \u00a0 \n The customers you'll work with are some of the most innovative businesses in the world, and the problems they're trying to solve are real and urgent. You'll bring a genuinely differentiated product to a market moving fast, at a company positioned to lead it. The people who thrive here are the ones who want to own that opportunity. \u00a0 \n \n The Role \n We're looking for an Escalation Engineer to join the Cockroach Labs Technical Support team in the AMER region. You will be the escalation point for the most challenging customer issues: reviewing, assisting with, or taking over cases that need more expertise or oversight, and driving resolution with other departments. You are expected to work with a high level of autonomy and resolve complex issues quickly. \n This is a remote role open to candidates in the Pacific or Mountain time zone, as the team operates in Pacific time zone hours. \n You Will \n \n Provide advanced support to customers and front-line technical support engineers to diagnose, troubleshoot, and resolve complex issues via CRM, Slack, video chat, and/or remote access. \n Act as a point of escalation for tickets with no clear path to resolution where the Technical Support team has exhausted available tools and processes. \n Identify when a ticket or account requires additional support and act proactively to course correct. \n Use AI-assisted tooling in your investigations, including log and",
+    "posted": "Fri, 20 Nov 2026 18:32:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 3,
+    "pitch": "As a full-stack engineer experienced in distributed backend architectures and high-load database integrations, I would welcome the opportunity to tackle Cockroach Labs' most challenging escalations. My background covers deep-dive debugging across complex production environments, profiling query bottlenecks, and tracing distributed systems failures down to the network and kernel layers. With Cockroach Continuum expanding to support agentic AI workloads, my hands-on experience integrating intelligent workflows with resilient data stores enables me to troubleshoot novel customer architecture patterns effectively. Operating independently within Pacific time, I can rapidly isolate high-priority production incidents and collaborate directly with core engineering to drive lasting resolutions.",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:37.413972+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend",
+    "source": "WeWorkRemotely",
+    "title": "Postscript: Senior Software Engineer, Full Stack (80% backend)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend",
+    "description": "Headquarters:  Remote\n \n\n Postscript is the AI-powered, all-in-one retention platform trusted by 20,000+ Shopify brands, including Brooklinen, Ruggable, True Classic, and Dr. Squatch. \n Our mission is to maximize the lifetime value of every shopper. We built the best-in-class SMS platform, expanded into email, and launched revenue-driving AI products you won\u2019t find anywhere else. Now we\u2019re building the most AI-forward team in ecommerce, and we\u2019re just getting started. \n Backed by Greylock and Y Combinator. Fully remote since 2018. As a  Senior Software Engineer  at Postscript, you'll be a high-ownership contributor to one of our core product or platform teams \u2014 owning meaningful systems end-to-end, driving technical quality, and helping shape how we build across the organization. Our engineering teams operate at the intersection of scale and product velocity, which means you'll be working on distributed systems that matter to the business while also influencing the technical standards that allow Postscript to grow sustainably. \n This is a high-autonomy role for engineers who are energized by ambiguity, take genuine ownership of their work, and bring a strong point of view on how to build things well \u2014 without sacrificing speed or pragmatism. AI isn't a nice-to-have here \u2014 it's central to how we work. We expect our engineers to be active practitioners of AI-first development: fluent with the latest agentic coding tools, curious about what's emerging, and constantly pushing the boundary of what's possible with AI in their day-to-day craft. If you're the kind of engineer who's already experimenting with new models and tooling before anyone asks you to, you'll feel at home here. \n As a senior engineer at Postscript, you\u2019ll no longer be only writing code but orchestrating it. \n This position is fully remote and can be based in the US or Canada. \n Primary Duties \n \n Take deep ownership of systems and product areas on your team \u2014 becoming the go-to technical expert for wha",
+    "posted": "Fri, 20 Nov 2026 18:32:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 9,
+    "pitch": "I saw your opening for a Senior Full Stack Engineer (80% backend) and would love to bring my backend-heavy full-stack and AI engineering experience to Postscript. Having designed scalable distributed systems and integrated AI-driven workflows, I thrive on high-ownership, autonomous problem-solving. My day-to-day development already centers around an AI-first, agentic toolchain, accelerating velocity while maintaining rigorous architectural standards. I am experienced in building robust data pipelines and APIs that handle massive scale, making me well-prepared to enhance your retention platform for 20,000+ brands. Let\u2019s connect to discuss how I can help accelerate your backend and AI product roadmap.",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:42.125928+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/affirm-affirm-bank-strategic-finance-lead": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-affirm-bank-strategic-finance-lead",
+    "source": "WeWorkRemotely",
+    "title": "Affirm: Affirm Bank Strategic Finance Lead",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/affirm-affirm-bank-strategic-finance-lead",
+    "description": "Headquarters:  Remote US\n \n\n At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Finance team\u00a0 \n The Finance team ensures Affirm remains financially sound and strategically positioned for growth. Our team manages financial planning, accounting, pricing, vendor management, tax, investor relations, and corporate development. We deliver timely insights, accurate reporting, and careful analysis to support decision-making. From day-to-day financial operations to major investments, we enable sustainable, informed growth by maintaining strong fiscal discipline. \n About the role \n We are looking for a self-motivated, hardworking, and analytically minded professional to join the Strategic Finance team during a pivotal moment of growth! As Affirm Bank is currently in its formation phase, we are actively building out our foundational team. Reporting to the Bank Head of Strategic Finance, the Bank Strategic Finance Lead will play a key role in the formation and operational build-out of the Bank. You will develop and monitor Bank financial and KPI forecasts, drive strategy, and perform financial analyses throughout the Bank. Your work will help set Bank-level goals, annual budgets, capital stress testing and monitoring, and stakeholder guidance, while building the infrastructure to hold the Bank accountable to achieving its goals. You will have a unique opportunity to work cross-functionally and use quantitative insights to drive better decision-making across the organization. The ideal candidate will not only have superb technical skills but also strong interpersonal skills and the ability to influence cross-functionally and present to all levels of the Bank organization. \n What you\u2019ll do \n \n Develop the end-to-end forecasting and budget process, and design, build, and maintain complex financial models to support strategic planning, scenario a",
+    "posted": "Fri, 20 Nov 2026 18:32:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:45.755632+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: Ecosystem Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role \n As an Ecosystem Engineer at Ritual, you will be at the forefront of emerging AI and blockchain technologies, building compelling proof-of-concepts that showcase Ritual's capabilities. You'll identify and leverage cutting-edge frameworks and tools\u2014particularly in autonomous agents, AI infrastructure, and cross-chain interactions\u2014to demonstrate what's possible with Ritual's platform. Your work will directly inspire and enable developers to build the next generation of AI-native blockchain applications. \n \n Drive and own ecosystem growth experiments to optimize developer onboarding and product adoption \n Track and deeply understand emerging technologies at the intersection of AI and blockchain, particularly in areas like autonomous agents, AI orchestration, and decentralized compute \n Build exciting proof-of-concepts that demonstrate Ritual's capabilities using the latest frameworks and tools \n Rapidly prototype and validate new integration patterns as novel AI + blockchain technologies emerge \n Create reference implementations that showcase how developers can leverage Ritual's infrastructure \n Drive technical partnerships by building demos that highlight unique integration possibilities \n Develop sample applications and tutorials that make it easy for partners to get started \n Maintain a deep understanding of the developer ecosystem's needs and emerging use cases \n Create technica",
+    "posted": "Fri, 20 Nov 2026 18:31:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:46.122072+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/planetscale-compliance-program-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-compliance-program-manager",
+    "source": "WeWorkRemotely",
+    "title": "PlanetScale: Compliance Program Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/planetscale-compliance-program-manager",
+    "description": "Headquarters:  Remote - US \n \n\n Please note that all communications regarding this position will be sent exclusively from an email address ending in @planetscale.com Any correspondence relating to this role will only originate from this domain. \n PlanetScale is growing rapidly and reinventing the database space. Our database platform offers developers the fastest and most reliable Postgres and Vitess/MySQL databases, enabling businesses to efficiently handle data and workloads of all sizes. \n PlanetScale is backed with over $100M in venture financing from top-tier VCs including a16z, Kleiner Perkins, SignalFire, and Insight Venture Partners. And we serve some of the most innovative companies in the world such as Block, Anysphere (Cursor), MyFitnessPal, Etsy, Kick, and thousands more. Our customers entrust us with what is often their most precious digital asset, their data, so the stakes couldn\u2019t be higher. \n We\u2019re look for a Program Manager to oversee the FedRAMP certification process, as well as ongoing management and evolution of our existing compliance commitments, including SOC 1, SOC 2, and PCI DSS compliance. PlanetScale\u2019s security and compliance team is responsible for our corporate information security program, with a goal to reduce risk across our systems, and to establish trust in our product offerings, features, and cloud services. Our work is focused on both our internal employees and our external customers and partners. \n What You\u2019ll Do \n \n Take primary responsibility for overseeing PlanetScale\u2019s FedRAMP readiness and ATO process from start to finish \n Act as the main compliance point of contact for all audits/assessments (i.e. SOC 1 & 2, PCI, FedRAMP) including audit plan preparation, review of documentation and evidence, evaluation of procedures, and external walkthroughs \n Establish, track, and report on key performance indicators and maturity metrics related to audit and compliance programs \n Work collaboratively across many internal teams (IT, Engi",
+    "posted": "Fri, 20 Nov 2026 18:31:37 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:47.127009+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ledgy-senior-devops-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ledgy-senior-devops-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Ledgy: Senior DevOps Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ledgy-senior-devops-engineer",
+    "description": "Headquarters:  Germany (Remote); Poland (Remote); Romania (Remote); Spain (Remote)\n \n\n At Ledgy, we\u2019re on a mission to make Europe a powerhouse of entrepreneurship by building a modern, tech-driven equity management and financial reporting platform for private and public companies. In 2026, we aim to be the leading provider for European IPOs and reporting for share-based payments. We are a value-based company with a core focus on being humble, transparent, ambitious and impactful, all in order to delivery the best experience for our customers and end users. \n We are proud to partner with some of the world\u2019s leading investors. New Enterprise Associates led our\u00a0 $22m Series B  round in 2022, with Philip Chopin joining Sequoia\u2019s Luciana Lixandru on our board. \n We were founded in Switzerland in 2017 and today we operate globally from offices in Zurich and London. We encourage diversity and are an international team coming from 26 different countries and speaking 25 different languages. \n \u00a0 \u00a0 \n About the Role \n As a Senior DevOps Engineer at Ledgy, you'll build the infrastructure and tooling that help our engineers ship quickly and reliably. You'll join our Platform team, collaborating with engineers and InfoSec to improve CI/CD, observability, and cloud infrastructure for a product that helps companies manage equity. \n Our challenge is to make delivery faster, production easier to operate, and AI-assisted development safer - while keeping complexity and costs in check. \n Location:  We hire remotely across Spain, Germany, Poland, and Romania. \n The team you'll join:  Platform - Builds the infrastructure and tooling that help our engineers ship quickly and reliably, working with InfoSec to improve CI/CD, observability, and cloud infrastructure. \n What You'll Work On \n \n Cloud infrastructure.  Evolve our GCP and Kubernetes cloud architecture and setup with Terraform, improving reliability, simplicity, and cost visibility and enabling scaling to multiple availability regio",
+    "posted": "Fri, 20 Nov 2026 18:31:33 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:48.134157+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/gusto-inc-senior-staff-engineer-tax-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/gusto-inc-senior-staff-engineer-tax-platform",
+    "source": "WeWorkRemotely",
+    "title": "Gusto, Inc.: Senior Staff Engineer, Tax Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/gusto-inc-senior-staff-engineer-tax-platform",
+    "description": "Headquarters:  Atlanta, GA - Hybrid; Austin, TX - Remote; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote\n \n\n \u00a0 \n \n About Gusto \n At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. \n All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our  Total Rewards philosophy . \n AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: \n We\u2019re hiring seasoned engineers to join our teams that work on core platform capabilities, improving our existing systems for extensibility and scalability, and building the future of Gusto's Tax platform. As a Gusto Software Engineer at this level, you\u2019ll be guiding projects end-to-end by influencing initial feature specs, understanding how to take existing systems closer to desired end states, executing on projects, and maintaining code that powers core experiences. If you\u2019re interested in building elegant software with far-reaching effects in our modern economy, join us! \n \u00a0 \n About the Team: \n Payroll is the beating heart of Gusto\u2019s business. The Tax team ensures Gusto customers remain compliant and confident by managing every aspect of payroll taxes\u2014including setup, calculation, payments, filings, and year-end co",
+    "posted": "Fri, 20 Nov 2026 18:31:33 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:48.870447+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/asana-senior-implementation-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/asana-senior-implementation-manager",
+    "source": "WeWorkRemotely",
+    "title": "Asana: Senior Implementation Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/asana-senior-implementation-manager",
+    "description": "Headquarters:  US CA - Remote\n \n\n We are looking for a consultant who thrives at the intersection of process design, cross-functional coordination, and customer outcomes to guide enterprise customers through their transition to Agentic Workflow Management (AWM). In this role, you will help customers define what AI-powered work looks like for their organization, aligning stakeholders around a shared adoption plan and driving measurable impact across their highest-value workflows . You will design and lead structured, time-bound engagements from onboarding through workflow launch, moving customers to a platform where teams and agents execute work together. Engaging both executive stakeholders and front-line teams, you will operate with strong judgment in ambiguous environments to connect AI capabilities directly to meani ngful business results . \n This role can either be fully remote depending on which US state you live in, or based in our San Francisco office with an office-centric hybrid schedule. If based in-office: The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do and the teams with which you partner. If you're interviewing for this role, your recruiter will share more about the in-office requirements. \n What you\u2019ll achieve \n \n Lead structured onboarding engagements by aligning customer stakeholders on platform setup, workflow priorities, and shared success metrics while assessing workflow complexity to target high-impact Asana AI opportunities . \n Document and transition clear implementation plans that capture prioritized workflows, risk mitigation strategies, and next steps to ensure seamless execution and stakeholder alignment. \n Guide customers end-to-end through process mapping, hands-on workflow configuration, and user acceptance testing to deliver production-ready workflows with embedded Asana AI capabilities. \n Coordinat",
+    "posted": "Fri, 20 Nov 2026 18:31:01 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:51.851226+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cribl-staff-software-engineer-search-core": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-staff-software-engineer-search-core",
+    "source": "WeWorkRemotely",
+    "title": "Cribl: Staff Software Engineer, Search Core",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-staff-software-engineer-search-core",
+    "description": "Headquarters:  Remote - United States\n     URL:   https://cribl.io \n \n\n Join the company that\u2019s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u2019s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u2019s next. \n We\u2019re one of the fastest\u2011growing private companies and a leading player in a massive, fast\u2011moving market. With a global workforce, we\u2019re remote\u2011first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd. Why You'll Love This Role \n Cribl Search powers high-speed investigations for security and IT teams at some of the world's largest enterprises. Whether data lives in Lakehouse Engines or is spread across Federated sources, Search unifies ingest, storage, and analysis into a single experience \u2014 no tool-hopping, no complex orchestration. Teams collect once, search anywhere, and investigate with no blind spots. \n Now add agentic AI to the picture. AI-driven workloads are exploding, autonomous agents are firing queries alongside human analysts, and the volume and complexity of concurrent searches is growing fast. The query engine at the heart of Cribl Search needs to be faster, more concurrent, and more resilient than ever \u2014 and that's where you come in. \n Cribl is looking for a backend-focused Staff Software Engineer to join a remote-first, diverse, inclusive, cross-functional team of software developers focused on making search stupid fast. You will play a central role in evolving the query engine at the heart of Cribl Search \u2013 breaking through concurrency ceilings, optimizing query dispatching and execution, and tun",
+    "posted": "Fri, 20 Nov 2026 17:02:36 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:52.045096+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote",
+    "source": "WeWorkRemotely",
+    "title": "Coderio: Sr AWS Cloud Integration Engineer - Remote",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote",
+    "description": "Headquarters:  Argentina\n     URL:   https://www.coderio.com \n \n\n\\n \\n $1 - $1 a month \n About Us \n Coderio designs and develops scalable digital solutions for global companies. We combine deep technical expertise with a product-driven mindset to lead complex software initiatives end-to-end. Working with international clients, we value autonomy, clear communication, and long-term relationships built on technical excellence. \ud83c\udf0d  Learn more:   coderio.com \n This opportunity is only open to talent based in LATAM.\u00a0 \n Role Overview \n We are looking for a  Senior DevOps Integration Engineer  to enhance our application\u2019s architecture, development, and operational efficiency through innovative integration solutions. With a strong foundation in back-end development, operations, and full-stack implementations, you will be responsible for creating robust Continuous Integration and Continuous Delivery (CI/CD) systems and providing seamless continuous delivery solutions across diverse cloud environments. \n What To Expect In This Role (Responsibilities) \n \n \n Integration Implementation:  Develop and implement new integrations, creating seamless connections between disparate systems, services, and APIs to improve operational efficiency. \n \n \n Refactoring & Optimization:  Lead efforts to refactor and optimize existing application architectures, focusing on performance, scalability, and clean code principles. \n \n \n Back-End Engineering:  Utilize extensive back-end development expertise to guide architectural decisions and ensure systems are reliable and optimized. \n \n \n CI/CD Pipelines:  Enhance and maintain automated CI/CD pipelines to streamline testing, building, and deployment processes, significantly reducing manual efforts. \n \n \n Cloud Management:  Provide continuous delivery solutions within cloud environments, managing infrastructure and optimizing resource utilization and cost-efficiency. \n \n \n Collaboration:  Partner closely with software development, infrastructure, operat",
+    "posted": "Fri, 20 Nov 2026 17:02:34 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:52.242996+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/sitecare-wordpress-developer-1": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/sitecare-wordpress-developer-1",
+    "source": "WeWorkRemotely",
+    "title": "SiteCare: WordPress Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/sitecare-wordpress-developer-1",
+    "description": "Headquarters:  United States\n     URL:   https://sitecare.com \n \n\n ROLE OVERVIEW \u00a0 We\u2019re looking for an experienced\u00a0WordPress Developer\u00a0to support ongoing development, optimization, and troubleshooting across a portfolio of complex WordPress websites. This is a\u00a0contract-based role, working closely with our internal team as an integrated contributor. You\u2019ll be involved in day-to-day delivery, collaborating across functions, and helping us maintain a high standard of execution. \u00a0 WHAT YOU\u2019LL BE DOING \u2022\u00a0Execute scoped development tasks across multiple WordPress sites \u2022\u00a0Build and extend custom themes, plugins, and blocks \u2022\u00a0Troubleshoot complex issues across performance, integrations, and functionality \u2022\u00a0Optimize sites for Core Web Vitals and overall performance \u2022\u00a0Translate Figma designs into production-ready WordPress implementations \u2022\u00a0Collaborate closely with account managers and other developers \u00a0 WHAT YOU\u2019LL NEED TO SUCCEED Core Requirements \u2022\u00a0Strong experience with WordPress (custom themes, plugins, block editor) \u2022\u00a0Proficiency in PHP, JavaScript (React and/or jQuery), HTML, and Sass \u2022\u00a0Experience with WooCommerce and complex plugin ecosystems \u2022\u00a0Strong debugging and problem-solving ability \u2022\u00a0Experience working with Git-based workflows Communication (Required) \u2022\u00a0Excellent written and spoken English \u2022\u00a0Ability to communicate clearly and professionally in a remote, async-first environment \u2022\u00a0Comfortable participating in client-facing or internal discussions when needed Technical Experience \u2022\u00a0Performance optimization (Core Web Vitals) \u2022\u00a0Familiarity with tools like Cloudflare, Nginx, MariaDB/MySQL, Redis \u2022\u00a0Experience with build tools (NPM, Gulp, Webpack) \u2022\u00a0Ability to work from Figma designs to production Working Style \u2022\u00a0Reliable, deadline-oriented execution \u2022\u00a0Comfortable working across multiple tasks and priorities \u2022\u00a0Able to collaborate as part of a distributed team \u00a0 WHAT YOUR DAY LOOKS LIKE \u2022\u00a0Working through 1\u20134 tasks per day depending on complexity \u2022\u00a0Collaborating with te",
+    "posted": "Fri, 20 Nov 2026 17:02:22 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:52.443450+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity",
+    "source": "WeWorkRemotely",
+    "title": "Oscar Health: Senior Analyst, Payment Integrity",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity",
+    "description": "Headquarters:  Remote\n     URL:   https://oscarhealth.com \n \n\n Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. \n Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves\u2014one that behaves like a doctor in the family. \n About the role: \n The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This is accomplished by leveraging a deep understanding of Oscar's claim infrastructure, workflows, workflow tooling, platform logic, data models, etc., to work cross-functionally to understand and translate friction from stakeholders into actionable opportunities for improvement. \n You will report into the Senior Manager, Payment Integrity \n Work Location: This is a remote position, open to candidates who reside in: Louisville, Kentucky or Salt Lake City, Utah. While your daily work will be completed from your home office, occasional travel may be required for team meetings and company events. #LI-Remote \n Pay Transparency: The base pay for this role is: $60,100.01- $78,881.26 per year. You are also eligible for employee benefits, participation in Oscar's unlimited vacation program. And annual performance bonus. \n Responsibilities: \n \n Contribute as a subject matter expert for Oscar reimbursement policies, payment integrity internal claims processing edits and external vendor edits. \n Respond to internal and external inquiries and disputes regarding policies and edits. \n Research industry standard coding rules, summarize and contribute to reimbursement policy language and scope. \n Use knowledge gained through research and claims review to ideate payment integrity opportunities. Translate into our requirements; submit to and collaborate with internal partners to eff",
+    "posted": "Fri, 20 Nov 2026 17:01:44 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:52.637383+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect",
+    "source": "WeWorkRemotely",
+    "title": "Siemens: Global Deal Enablement Architect",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect",
+    "description": "Headquarters:  United Kingdom\n     URL:   http://www.siemens.com \n \n\n\n                                        \n                     \n                         \n                                                                                                                                    \n                                     \n                                        \n                                         \n                                                                                             Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excellence (GSE) HQ, our mission is to empower our sales and commercial teams with world-class operational frameworks, deal enablement structures, and streamlined processes. We champion operational excellence, ensuring that complex commercial strategies translate into clear, scalable, and frictionless execution for our teams and customers. We are currently seeking a Deal Enablement Architect for the commercial and operational frameworks that enable products, business models and cross-business opportunities to be sold consistently, efficiently and at scale. The GSE HQ Deal Enablement Architect owns the design and evolution of the business-facing elements of the Global Deal Enablement Operating Model. The role connects Product, Strategy, Pricing, Finance, Sales and operational stakeholders to translate commercial strategy into clear and practical guidance for the field. Its purpose is to ensure that Deal Guidelines, new products, new business models",
+    "posted": "Fri, 20 Nov 2026 17:01:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:52.809341+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/boomi-pre-sales-sr-solutions-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/boomi-pre-sales-sr-solutions-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Boomi: Pre Sales Sr. Solutions Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/boomi-pre-sales-sr-solutions-engineer",
+    "description": "Headquarters:  United States\n     URL:   http://www.boomi.com \n \n\n \n \n About Boomi and What Makes Us Special \n \n \n \n \n Are you ready to work at a fast-growing company where you can make a difference?\u00a0Boomi, the data activation company for AI, powers the agentic enterprise by bringing data to life across the business. The award-winning\u00a0Boomi Enterprise Platform is the active data foundation that delivers essential agentic infrastructure enabling organizations to drive agentic transformation and\u00a0harness the power of AI with secure, scalable connectivity.\u00a0\u00a0Trusted by over 30,000 customers and supported by a network of 800+ partners, Boomi helps organisations of all sizes achieve agility, efficiency, and innovation at scale.\u00a0At Boomi, you\u2019ll work with world-class people and industry-leading technology. We hire trailblazers with an entrepreneurial spirit who can solve challenging problems, make a real impact, and want to be part of building something big. If this sounds like a good fit for you, check out\u00a0 boomi.com \u00a0 or visit our\u00a0 Boomi Careers \u00a0page to learn more. \n \n What You'll Do As a Sales Engineer, you will provide pre-sales technical support to our field sales teams, helping to define the overall Boomi solution for our customers using the full range of company products and services. You will: \n \n Collaborate with Account Executives to help determine customer\u2019s needs, understand the technical landscape, and identify pain points via discovery calls \n Assess and present the potential solutions of company products and services, using technical competency and creativity to design business solutions that encompass the breadth of the Boomi portfolio \n Prepare detailed product specifications and deliver impactful presentations to enable the sale of our products and solutions. \n Discuss product capabilities and applications with technical users/buyers, and business stakeholders, verifying the operability of product and service configuration within the prospect's environmen",
+    "posted": "Fri, 20 Nov 2026 17:01:37 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:53.012454+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/freestar-engineering-manager-player-coach": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/freestar-engineering-manager-player-coach",
+    "source": "WeWorkRemotely",
+    "title": "Freestar: Engineering Manager (Player-Coach)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/freestar-engineering-manager-player-coach",
+    "description": "Headquarters:  \n     URL:   https://freestar.com \n \n\n Engineering Manager (Player-Coach) \n We're hiring an engineering manager to lead a team of 5 and still ship code. You'll set technical direction, take on hard tickets and projects yourself, and build a team that uses AI to move faster without lowering the quality bar. You'll work closely with Product and the SVP of Engineering. Ad tech experience isn't required; multi-tenant complex SaaS experience is. \n What you'll do \n \n Lead, coach, and hire for a team of 5 engineers, including 1:1s, growth plans, and performance reviews. \n Stay hands-on: write production code in Java and Vue 3, review pull requests, and deliver tickets and projects yourself. \n Co-own the roadmap with Product. Turn specs into scoped epics and tickets, and push back on scope with clear tradeoffs. \n Design and evolve our multi-tenant SaaS platform, including tenant isolation, role-based permissions, per-tenant configuration, and data partitioning. \n Make AI-first development the team's default, with a human in the loop. Engineers own every line that ships. \n Build a QA-first culture with automated unit, integration, and end-to-end tests, AI-assisted QA, and CI/CD quality gates. \n Keep delivery predictable with a clean backlog, weekly velocity, and stalled work surfaced early. \n Ship behind feature flags, with user acceptance testing and feedback before full rollout. \n Partner with Product on release notes and user docs, and work directly with our internal Ops and AdOps users. \n \n What you bring \n \n 8+ years in software engineering, including 2+ years managing engineers while still shipping code. \n Experience building and running multi-tenant SaaS in production. \n Strong Java backend skills (Spring or similar, REST APIs) and Vue 3 front-end skills (Composition API, Pinia). \n Daily, disciplined use of AI coding tools like Cursor or Copilot, with guardrails: review standards, required tests, and no unreviewed AI code in production. This is not a vi",
+    "posted": "Fri, 20 Nov 2026 17:01:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:53.184812+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/siemens-associate-energy-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/siemens-associate-energy-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Siemens: Associate Energy Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/siemens-associate-energy-engineer",
+    "description": "Headquarters:  Berlin, Germany\n     URL:   http://www.siemens.com \n \n\n\n                                        \n                     \n                         \n                                                                                                                                    \n                                     \n                                        \n                                         \n                                                                                             Position Location:  This role is remote.   Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital worlds. We are improving how we live, work, and move today and for the next generation! We know that the only way a business thrives is if our people are thriving. That\u2019s why we always put our people first. Our global, diverse team would be happy to support you and challenge you to grow in new ways. Who knows where our shared journey will take you?\u202f\u202f\u00a0  \u202f\u00a0  Our Smart Buildings help to create efficient, safe, adaptable, and responsible environments. Our aim isn\u2019t just about improving buildings; it\u2019s about creating perfect places that improve people\u2019s lives.\u202f\u202f\u00a0   Transform the everyday with us!\u00a0   Associate Energy Engineers  work alongside and partner with our sales team, other energy engineers, and project managers to develop cost-effective performance based contracts for targeted clients. The role reports into the Senior Energy Engineer.   As an Associate Energy Engineer, you will:      Perform Utility Data Analysis (UDA) by entering utility billing information, understanding the information contained on the bills, and having the ability to analyze this information vs. accepted standards.   Perform ASHRAE level I and II audits to identify Facility Improvement Measures (FIMs). Participate in facility site visits using observational skills to collect required data to perform",
+    "posted": "Fri, 20 Nov 2026 17:01:32 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:53.362975+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/d2b-civil-quantity-surveyor": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/d2b-civil-quantity-surveyor",
+    "source": "WeWorkRemotely",
+    "title": "D2B: Civil Quantity Surveyor",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/d2b-civil-quantity-surveyor",
+    "description": "Headquarters:  Manila, Metro Manila, Philippines\n     URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\n Position\t\t\t\t: Civil Quantity Surveyor Salary\t\t\t\t: $2,300 AUD a month\u00a0 Working Hours & Conditions\t: To follow Holidays\t\t\t\t: To follow ABOUT THE COMPANY:\u00a0 The company is a blazed a trail in innovative civil infrastructure solutions \u2013 from subdivisions to water treatment plants and everything in between. As regional civil infrastructure specialists, we strive to be a part of the communities in which we operate. Driven by our Purpose of building the communities we want to live in we are connected and inspired by our Values ROLE OVERVIEW: The Quantity Surveyor is responsible for providing technical, commercial and administrative support to the Pre-Contracts and Estimating team in the preparation of accurate, competitive and compliant tender submissions. The role supports the successful delivery of the Constructions' tendering activities through accurate quantity take-offs, subcontractor and supplier engagement, tender coordination and preparation of supporting documentation. Working closely with the Senior Estimators and Pre-Contracts Manager, the Quantity Surveyor will contribute to the development of competitive tender submissions across civil construction projects, including pipelines, reservoirs, water and wastewater infrastructure, earthworks and associated infrastructure RESPONSIBILITIES: Tender Coordination and Administration Maintain and update the tender register, ensuring accurate recording of tender opportunities, submission deadlines, status updates and outcomes. Coordinate tender Requests for Information (RFIs), including preparation, submission, tracking and distribution of responses to relevant stakeholders. Assist with the coordination of tender documentation, drawings, specifications and addenda. Monitor tender deadlines and support the Estimating team to ensure key milestones and submission requirements are achieved. Mai",
+    "posted": "Fri, 20 Nov 2026 17:01:28 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:52:53.541751+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Teamified: Senior Software Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer",
+    "description": "Headquarters:  Philippines\n     URL:   https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified \n \n\n About\u00a0Teamified: Teamified\u00a0is\u00a0a\u00a0talent\u00a0partner\u00a0helping\u00a0companies\u00a0build\u00a0exceptional\u00a0remote\u00a0teams\u00a0across\u00a0IT,\u00a0software,\u00a0product,\u00a0and\u00a0digital\u00a0innovation.\u00a0We\u00a0collaborate\u00a0with\u00a0leading\u00a0enterprises\u00a0and\u00a0fast-scaling\u00a0tech\u00a0businesses\u00a0worldwide\u00a0to\u00a0help\u00a0them\u00a0access\u00a0world\u00a0class\u00a0talent\u00a0and\u00a0accelerate\u00a0growth.\u00a0With\u00a0operations\u00a0across\u00a0the\u00a0globe\u00a0our\u00a0mission\u00a0is\u00a0to\u00a0make\u00a0building\u00a0high\u00a0performing\u00a0global\u00a0teams\u00a0simple,\u00a0fast,\u00a0and\u00a0cost-effective.\u00a0Teamified\u00a0has\u00a0hundreds\u00a0of\u00a0clients\u00a0with\u00a0more\u00a0than\u00a0200\u00a0engineers,\u00a0testers,\u00a0product\u00a0managers,\u00a0designers,\u00a0and\u00a0technology\u00a0experts\u00a0delivering\u00a0impactful\u00a0solutions\u00a0every\u00a0day. Job\u00a0Summary: We\u00a0are\u00a0looking\u00a0for\u00a0a\u00a0Senior\u00a0Software\u00a0Engineer\u00a0to\u00a0support\u00a0the\u00a0design,\u00a0development,\u00a0and\u00a0modernisation\u00a0of\u00a0software\u00a0systems\u00a0in\u00a0a\u00a0remote\u00a0contract\u00a0role.\u00a0You\u00a0will\u00a0work\u00a0across\u00a0backend\u00a0and\u00a0full-stack\u00a0solutions,\u00a0contributing\u00a0to\u00a0legacy\u00a0system\u00a0modernisation,\u00a0data-driven\u00a0features,\u00a0and\u00a0high-quality\u00a0technical\u00a0delivery. Responsibilities: Design,\u00a0build,\u00a0and\u00a0maintain\u00a0scalable\u00a0software\u00a0applications\u00a0and\u00a0services Contribute\u00a0to\u00a0the\u00a0modernisation\u00a0of\u00a0legacy\u00a0systems\u00a0and\u00a0related\u00a0technical\u00a0improvements Develop\u00a0and\u00a0optimise\u00a0solutions\u00a0using\u00a0Elasticsearch,\u00a0SQL,\u00a0and\u00a0relational\u00a0databases Support\u00a0ETL\u00a0processes\u00a0and\u00a0data\u00a0integration\u00a0across\u00a0systems Collaborate\u00a0with\u00a0cross-functional\u00a0teams\u00a0to\u00a0deliver\u00a0reliable,\u00a0maintainable\u00a0software Apply\u00a0AI-assisted\u00a0development\u00a0practices\u00a0to\u00a0improve\u00a0productivity\u00a0and\u00a0code\u00a0quality Participate\u00a0in\u00a0code\u00a0reviews,\u00a0debugging,\u00a0testing,\u00a0and\u00a0technical\u00a0problem-solving Requirements: 5\u20137\u00a0years\u00a0of\u00a0experience\u00a0in\u00a0software\u00a0engineering Strong\u00a0experience\u00a0with\u00a0Elasticsearch,\u00a0SQL,\u00a0relational\u00a0databases,\u00a0ETL,\u00a0full-stack\u00a0development,\u00a0AI-assisted\u00a0development,\u00a0and\u00a0legacy\u00a0system\u00a0modernisation Proficiency\u00a0in\u00a0one\u00a0or\u00a0more\u00a0of\u00a0the\u00a0following\u00a0technologies:\u00a0Python,\u00a0C#,\u00a0.NET,\u00a0JavaScript,\u00a0PHP,\u00a0or\u00a0Go Solid\u00a0understanding\u00a0of\u00a0software\u00a0design\u00a0principles,\u00a0debugging,\u00a0and\u00a0troubleshooting Experience\u00a0working\u00a0w",
+    "posted": "Fri, 20 Nov 2026 17:01:26 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 8,
+    "pitch": "Hi Teamified team, I saw your opening for a Senior Software Engineer focused on backend modernization and data-driven features. As a full-stack engineer experienced in legacy refactoring, relational SQL databases, and Elasticsearch indexing, I specialize in transforming monolithic architectures into scalable, high-performance services. Additionally, I integrate modern AI-assisted engineering workflows into my daily delivery to accelerate code quality, testing, and ETL pipeline turnaround. I can hit the ground running on contract to help modernize your systems and optimize your data layer. Let's connect to discuss how I can support your client's technical roadmap.",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:23.281312+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/backblaze-external-website-manager-solutions-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/backblaze-external-website-manager-solutions-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Backblaze External Website: Manager, Solutions Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/backblaze-external-website-manager-solutions-engineer",
+    "description": "Headquarters:  United States\n     URL:   https://www.backblaze.com \n \n\n Solutions Engineering Manager \n Backblaze (Nasdaq: BLZE) | Remote, US | Leads  Solutions Engineering for AI and Enterprise Solutions | Reports to the VP of Solutions Engineering | Works with Account Executives and their managers, Product, Support, and the Solutions Engineering team \n Salary range:  $202,500 - $225,000 plus variable pay and RSUs. Target OTE $225,000 - $250,000 90:10 base to variable.\u00a0 \n How We Got Here \n We started by building storage servers from scratch in a Palo Alto apartment to save 90% on hardware. Turns out hard constraints make for pretty good engineering. That discipline forged a platform that performs as well or better than competitors, scales to multi-exabyte workloads, and costs a fraction of what AWS or Google charge. AI infrastructure runs on data. Storage gets hard at scale. We've been breaking, rebuilding, and improving that storage layer for 20 years. \n Today, the world's leading AI infrastructure providers, neoclouds, and data-intensive businesses run on Backblaze. Our platform includes: \n \n B2 Overdrive  - high-throughput object storage engineered for AI infrastructure, GPU workloads, and massive-scale data pipelines \n B2 Neo  - white-label enterprise cloud storage powering neocloud platforms for AI, HPC, and media \n B2 Cloud Storage  - S3-compatible object storage with predictable pricing, free egress, and no lock-in \n Computer Backup  - automatic, continuous endpoint backup for Macs and PCs \n \n 500,000+ customers. 175 countries. Nasdaq: BLZE. backblaze.com \n The Role \n Backblaze Solutions Engineers join deals at the first discovery conversation, run the proof of concept, and stay close to customers after close. You will be the first-line manager for that team, which covers both our AI and Enterprise Solutions engineers, and you will coach them to win technical evaluations and keep customers engaged. \n You are expected to understand the technology well enough ",
+    "posted": "Fri, 20 Nov 2026 17:01:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:23.455504+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cribl-technical-support-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-technical-support-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Cribl: Technical Support Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-technical-support-engineer",
+    "description": "Headquarters:  Remote - Germany\n     URL:   https://cribl.io \n \n\n Join the company that\u2019s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u2019s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u2019s next. \n We\u2019re one of the fastest\u2011growing private companies and a leading player in a massive, fast\u2011moving market. With a global workforce, we\u2019re remote\u2011first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd. Why You\u2019ll Love This Role \n Cribl is seeking Technical Support Engineers to ensure customer success by providing enterprise-level support to our customers and partners.  We are a fast-growing, remote-first company with a mission to unlock the value of all observability data. At our core, we believe in shipping phenomenal products and doing good by our customers and communities. We provide our customers with a new and unprecedented level of observability, intelligence, and control over their real-time data. We're backed by Sequoia and CRV, and our products are deployed in some of the largest organizations in the world processing 100s of TB and PB of IT & Security data, and managed by Site Reliability Engineers, System Engineers, and Technical Operations teams. \n In this role, you will be joining a highly technical and collaborative team that is committed to shipping high quality software and enjoying all the goat gifs the internet has to offer. The ideal candidate for this role has a mixture of strong technical chops, an innate desire to help customers, and a natural affinity for collaboration. \n As An Active Member Of Ou",
+    "posted": "Fri, 20 Nov 2026 17:01:22 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:23.657147+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dropbox-senior-full-stack-product-software-engineer-application-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dropbox-senior-full-stack-product-software-engineer-application-platform",
+    "source": "WeWorkRemotely",
+    "title": "Dropbox: Senior Full Stack Product Software Engineer, Application Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-senior-full-stack-product-software-engineer-application-platform",
+    "description": "Headquarters:  Remote - Poland\n     URL:   https://jobs.dropbox.com \n \n\n Role Description \n As a Senior Full Stack Product Software Engineer on Dropbox\u2019s Web Developer Experience (Web DX) team, you will help design and develop the application platform, developer tooling, and shared foundations that enable engineers to build reliable web experiences. You will take ownership of key technical systems, designing scalable architectures and delivering improvements that make software easier to develop, test, and ship. \n You will work closely with product and infrastructure engineering teams to improve build systems, language tooling, and development workflows. Your work will include accelerating TypeScript feedback, automating migrations, simplifying development environments, and evolving shared application foundations. As AI changes how software is built, you will help create the reliable builds, fast tests, and repeatable workflows that support engineers and coding agents. \n Our Engineering Career Framework is  viewable by anyone outside the company  and describes what\u2019s expected for our engineers at each of our career levels. Check out our blog post on this topic and more  here . \n \n Responsibilities \n \n \n Deliver ongoing engineering impact through ownership of developer tooling, application foundations, and web-platform systemsImprove typechecking, builds, tests, and local development to shorten feedback loops and increase reliability \n Build automation for upgrades, code transformations, and migrations using repeatable validation and gradual rollout \n Collaborate with product and infrastructure teams to balance technical requirements, developer needs, and business goals \n Lead technical initiatives from architecture and planning through rollout and adoption, measuring their impact on developer experience \n Mentor engineers and contribute to team development through technical guidance, code reviews, and shared engineering standards \n Support the quality and operability",
+    "posted": "Fri, 20 Nov 2026 17:01:20 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:23.853869+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-scientist-model-risk-management-r14365": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-scientist-model-risk-management-r14365",
+    "source": "WeWorkRemotely",
+    "title": "Oportun: Senior Data Scientist, Model Risk Management (R14365)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-scientist-model-risk-management-r14365",
+    "description": "Headquarters:  Remote - India\n \n\n Who We Are \n Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. \n Location Note \n We\u2019re excited to consider talent currently based in India, as well as candidates who are open to relocating to India for this opportunity. Please note that, as this is a \"Remote\u2013India\" position,  the role must be performed from within India. \n \n The Opportunity \n We\u2019re looking for a Senior Data Scientist to join Oportun\u2019s Model Risk Management team and help provide independent oversight of models used across the business. You\u2019ll evaluate model design, methodology, assumptions, implementation, performance, and ongoing monitoring to help ensure models are appropriate, well-controlled, and aligned with Oportun\u2019s risk-management standards. \n This is a senior individual contributor role that combines quantitative analysis, independent model validation, governance, and cross-functional influence. You\u2019ll work closely with model developers, Risk, Data Science, Compliance, Internal Audit, and other stakeholders to challenge model approaches, identify material risks, and strengthen model risk practices across Oportun. \n At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in. \n What You'll Do \n Your day-to-day \n \n You\u2019ll independently review and validate statistical, machine learning, and decisioning models used across Oportun, including models supporting consumer credit loss forecasting, liquidity and",
+    "posted": "Fri, 20 Nov 2026 17:01:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:24.036514+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-scientist-r14369": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-data-scientist-r14369",
+    "source": "WeWorkRemotely",
+    "title": "Oportun: Senior Data Scientist (R14369)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-scientist-r14369",
+    "description": "Headquarters:  Remote - India\n \n\n Who We Are \n Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. Location Note \n We\u2019re excited to consider talent currently based in India, as well as candidates who are open to relocating to India for this opportunity. Please note that, as this is a \"Remote\u2013India\" position,  the role must be performed from within India. \n The Opportunity \n We're looking for a Senior Data Scientist to support our Marketing Data Science team and accelerate new member growth through predictive modeling and advanced analytics. You'll build prospect targeting and conversion prediction models that help Oportun identify promising prospective members, improve acquisition conversion rates, and reduce customer acquisition cost (CAC). You'll own models end to end\u2014from feature development and validation through production deployment, monitoring, and continuous improvement\u2014in partnership with Marketing, Growth, Product, and Engineering. \n What You'll Do \n Your day-to-day \n \n You'll develop and deploy machine learning models for prospect targeting and conversion prediction to increase new member acquisition. \n You'll analyze internal prospect and application funnel data, marketing campaign and engagement data, third-party consumer and alternative data, and credit bureau data to build predictive features and identify growth opportunities. \n You'll apply statistical and machine learning methods, including logistic regression, gradient boosting, and related techniques, to improve targeting accuracy and conversion rates.",
+    "posted": "Fri, 20 Nov 2026 17:01:16 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:24.240522+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-android-engineer-app-experience-frameworks": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-android-engineer-app-experience-frameworks",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Android Engineer, App Experience & Frameworks",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-android-engineer-app-experience-frameworks",
+    "description": "Headquarters:  Remote, USA\n     URL:   https://careers.airbnb.com \n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n The App Experience & Frameworks team\u2019s mission is to empower product teams at Airbnb to build high-quality experiences by providing the feature foundations and unified app wide product frameworks. The Senior Android Engineer joining this team will play a critical role in the end-to-end development of new product features across guest and host experiences, driving features from prototypes to production launch. You will\u00a0 work in close collaboration with cross-functional partners across Design, Product, Marketing, Data Science and partner Engineering teams. \n This team is part of the App Foundation organization, focusing on building common solutions for Tech-wide priorities like Performance, Event Logging, App Configuration (AirParam), and builds app-wide features and frameworks including Host Task System, Navigation, the Early Access Program, and more.\u00a0\u00a0\u00a0 \n \u00a0 \n The Difference You Will Make: \n \n As a Senior Android Engineer on the App Experience & Frameworks team, you will build features and frameworks that enhance the app experience for millions of guests and hosts. You will work on horizontal product concerns such as app navigation, announcement scheduling, frameworks that power host required actions, and more, to lay the product foundation for bringing a more unified customer experience across platforms. \n Success in this role looks like shipping reliable, scalable, and polished Android experiences that both bring direct customer delight and enable feature teams to build and experiment faster. \n \n \u00a0 \n A Typical",
+    "posted": "Fri, 20 Nov 2026 17:01:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:24.427248+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/bitwarden-senior-software-engineer-self-host-orchestration": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/bitwarden-senior-software-engineer-self-host-orchestration",
+    "source": "WeWorkRemotely",
+    "title": "Bitwarden: Senior Software Engineer, Self-Host Orchestration",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/bitwarden-senior-software-engineer-self-host-orchestration",
+    "description": "Headquarters:  Remote, U.S.\n     URL:   https://bitwarden.com \n \n\n \u00a0 \n Bitwarden empowers enterprises, developers, and individuals to securely store and share sensitive data. With a transparent, open-source approach to password management, secrets management, and passwordless and passkey innovations, Bitwarden makes it easy for users to extend robust security practices across all online activities. Founded in 2016 with headquarters in Santa Barbara, California, Bitwarden is supported by a passionate global community of security experts and enthusiasts.\u00a0 \n As a Software Engineer on the Self-host Orchestration team at Bitwarden, you will directly contribute to projects that our customers use to deploy Bitwarden into their infrastructure. You\u2019ll be a part of the team that builds and maintains the packaging, testing, and deployment for  our self-host product , including  our Helm chart project . This role also offers the opportunity to interact directly with our open source community through pull request and triaging community issues.\u00a0This is an all remote team and we are looking for a US based engineer. We don not offer sponsorship at this time \n \u00a0 \n RESPONSIBILITIES \n \n \n Be the expert and authority on our Self-host Helm charts and our wider self-host architecture including: backend infrastructure, APIs, database, web app, and how the mobile apps, browser extensions, desktop apps, interact with self-host \n \n \n Build and maintain our Self-host Helm charts and self-host infrastructure, delivery pipeline, automation, SDLC and development practices. \n \n \n Collaborate with the rest of the team on system design for our owned tools and codebase. \n \n \n Collaborate closely with our Implementation Engineering and Customer Success teams to understand client needs and implement technical solutions to address them \n \n \n Build and maintain tools that deploy & test our self-host stacks on diverse infrastructure setups \n \n \n Participate in hands-on development of Bitwarden products \n",
+    "posted": "Fri, 20 Nov 2026 17:01:11 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:53:24.574880+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/modern-health-staff-analytics-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/modern-health-staff-analytics-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Modern Health: Staff Analytics Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/modern-health-staff-analytics-engineer",
+    "description": "Headquarters:  Remote - US\n \n\n Modern Health\u00a0 \n Modern Health  is a mental health benefits platform for employers. We are the first global mental health solution to offer employees access to one-on-one, group, and self-serve digital resources for their emotional, professional, social, financial, and physical well-being needs\u2014all within a single platform. Whether someone wants to proactively manage stress or treat depression, Modern Health guides people to the right care at the right time. We empower companies to help  all  their employees be the best version of themselves, and believe in meeting people wherever they are in their mental health journey. \n Modern Health is backed by investors like Kleiner Perkins, Founders Fund, John Doerr, Y Combinator, and Battery Ventures and raised more than $170 million in less than two years, making Modern Health the fastest entirely female-founded company in the U.S. to reach Unicorn status. \n More about our culture and what you can expect when you join the team: \n \n \u201cIt Takes a Village\u201d culture . Modern Health has a unique and unabashed culture centered around high empathy and high accountability - with a drive to win. We are energized by bringing together the best talent in the industry to achieve audacious goals focused on making mental health a strength and priority for all. \n We have an obsession to win.  We are highly ambitious and passionate about the work that we do.\u00a0 We take pride in delivering excellence and our personal best and we continuously innovate to uniquely solve our customers\u2019 needs.\u00a0 \n We are accountable and can rely on each other.  We are a team and hold ourselves and each other accountable. We believe in transparent communication and continuous feedback to foster a culture of trust, reliability, and growth.\u00a0 \n We demonstrate empathy.  We have a supportive and diverse culture where we bolster and uplift each other as we pursue our lofty goals. We encourage selflessness and a willingness to support others, f",
+    "posted": "Fri, 20 Nov 2026 17:01:09 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 3,
+    "pitch": "Modern Health's mission to make mental healthcare universally accessible requires reliable, scalable data pipelines to power clinical insights and client reporting. As a full-stack engineer with deep experience modeling complex domain data, building robust ETL workflows, and integrating AI-driven analytics, I bridge the gap between product engineering and raw telemetry. I specialize in designing clean data architectures, optimizing dimensional models, and ensuring seamless API integration across platforms. I can help harden your data foundations to ensure your analytics are performant, accurate, and ready to support critical product decisions. Let's discuss how my systems engineering background can strengthen your analytics infrastructure.",
+    "status": "new",
+    "found_at": "2026-11-20T23:54:03.088539+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ensono-senior-mainframe-systems-programmer-cics": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ensono-senior-mainframe-systems-programmer-cics",
+    "source": "WeWorkRemotely",
+    "title": "Ensono: Senior Mainframe Systems Programmer - CICS",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ensono-senior-mainframe-systems-programmer-cics",
+    "description": "Headquarters:  Remote - United States\n     URL:   https://ensono.com \n \n\n Position Summary \u00a0 Provide premium software support and services to Ensono mainframe clients as they relate to CICS. \u00a0 Key Areas of Focus for this Role Fulfill customer service orders (CSOs) for mainframe z/OS customers in a timely manner as they pertain to CICS TS and related OEM software products. Provide primary support for reported problems related to CICS TS and related OEM software products. Provide support on 24 x 7 x 365 basis and in multiple time zones. Follow procedures for installing OEM software products efficiently and according to best practices and Ensono standards (for productivity/scalability purposes). Work with members of other functional towers in preparing customer partitions for regular (approximately once per year) operating system upgrade process via a checklist of proactive actions. Provide key support for customer migration services (new customer transitions) as they pertain to CICS TS and related OEM software products. Assist the assigned project manager in the migration of newly acquired customers such that all technical hurdles are addressed in a timely manner and do not impede the expected progress of the transition nor the targeted migration date. In joint cooperation with the Disaster Recovery Services, successfully execute tasks associated with any given customer\u2019s disaster recovery plans. Adhere to a schedule that efficiently manages resources and allows timely implementations. Follow ITSM change control procedures g: Implementing vendor product specific corrections (\u201cfixes\u201d) and Upgrading, maintaining, enhancing or providing new options to applicable z/OS products within any given customer undefined What the Ideal Candidate Brings to this Role Required Qualifications help to assure new Associates are set up for success in their role with Ensono. To be considered for this career opportunity, it is important that you meet all Required Qualifications. Candidates",
+    "posted": "Fri, 20 Nov 2026 17:01:06 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:54:03.245265+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/first-due-implementation-consultant-fire-prevention": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/first-due-implementation-consultant-fire-prevention",
+    "source": "WeWorkRemotely",
+    "title": "First Due: Implementation Consultant, Fire Prevention",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/first-due-implementation-consultant-fire-prevention",
+    "description": "Headquarters:  United States\n     URL:   http://www.firstdue.com \n \n\n About First Due \n First Due\u2019s mission is to prevent first responder injury or death by providing fire and EMS agencies with transformative, end-to-end software solutions that empower them to run safer, smarter, and more effective operations. Job Title: Implementation Consultant, Fire Prevention \n Location : Remote - US Only Country : United States Department : Professional Services Reports To : Manager, Implementation Consulting Position Type : Full-Time Salary : $80,000 \n \n Job Summary: \n The Implementation Consultant, Fire Prevention US owns the configuration, deployment, and customer enablement of First Due's Fire Prevention suite across the US customer base, with primary delivery in the Core segment, on-call complex-configuration support to Essentials, and contribution to Enterprise engagements. Fire Prevention is one of First Due's most configuration-intensive modules. The role demands command of fire inspection and code enforcement practice, including inspections, permitting, invoicing, investigations, and the inspection, testing, and maintenance (ITM) of fire protection systems. This role is accountable for translating an agency's prevention and code enforcement program into a correct, maintainable First Due configuration and for a training and go-live experience that earns inspector and administrator adoption. \n \n Key Responsibilities: \n Module configuration and delivery \n \n Configure inspection programs, including occupancy records, inspection types and routes, code-based checklists, and scheduling aligned to the agency's adopted fire code (NFPA 1, IFC, or local amendments). \n Configure permitting, including operational and burn permits, application and review workflows, and renewals. \n Configure invoicing and fee collection across permits, inspections, and other billable prevention activities. \n Configure inspection, testing, and maintenance (ITM) workflows for fire protection systems, i",
+    "posted": "Fri, 20 Nov 2026 17:01:04 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "I came across First Due's mission to empower fire and EMS agencies and wanted to reach out regarding the technical integration and deployment needs of your Fire Prevention suite. As a full-stack engineer experienced in building robust web platforms, automated workflows, and mobile inspection tools, I understand the operational complexities of translating regulatory requirements into reliable, user-friendly software configurations. While this role focuses on domain-specific configuration and customer enablement, my engineering background allows me to bridge the gap between complex software architecture and smooth customer adoption, troubleshooting edge cases, and streamlining data migration during go-live. I would welcome the opportunity to discuss how my technical execution can support your team.",
+    "status": "new",
+    "found_at": "2026-11-20T23:54:18.266689+00:00"
+  },
+  "remotive-2091177": {
+    "id": "remotive-2091177",
+    "source": "Remotive",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+    "description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human evaluators with deep research expertise and cultural knowledge verify and correct them. Your linguistic precision, fact-checking rigor, and understanding of how your culture communicates and values information is irreplaceable in building search systems that people can actually trust. \n \u00a0 \n In this role, you will evaluate search queries, results, and AI-generated content for factual accuracy, authority, relevance, and user intent alignment. Your judgment determines whether search systems return trustworthy, contextually appropriate information. \n \u00a0 \n \n Analyze multi-turn search queries and web results for factual accuracy, source authority, and user intent alignment \n Conduct cross-referencing and fact-checking using regional sources, specialized databases, academic resources, and web directories \n Assess localized content relevancy across diverse domains\u2014news, sports, local culture, technical queries considering regional context and cultural nuance \n Evaluate AI-generated content for factual grounding, hallucination risk, and contextual appropriateness \n Provide structured assessments that train search ranking and content relevance models \n \n \u00a0 \n Qualifications to succeed in this project: \n \u00a0 \n \n Professional fluency in English \n Residency in the United States for the last  3 consecutive years\u00a0\u00a0 \n Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content \n Deep local cultural awareness and familiarity with regional news, current events, and contemporary culture \n Strong fact-checking and critical thinking abilities \n Access to a stable broadband internet, a reliable computer and a smartphone (Android 5.0, iOS 14 or higher) \n Active use of Gmail and othe",
+    "posted": "2026-11-19T14:58:42",
+    "tags": [
+      "android",
+      "ios",
+      "social media",
+      "teaching",
+      "AI/ML",
+      "research",
+      "responsive"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T23:54:18.426343+00:00"
   }
 }
