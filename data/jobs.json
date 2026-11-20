@@ -12904,5 +12904,171 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-20T00:32:31.825424+00:00"
+  },
+  "remoteok-1137808": {
+    "id": "remoteok-1137808",
+    "source": "RemoteOK",
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+    "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Complete a short screener interview and upload your resume. Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate. Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks. Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them. Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it. Review. A reviewer checks your task and you revise it. Most tasks take more than one round. Next task. Once your task is accepted, start another. Requirements 2+ years of professional software engineering Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code) Strong in at least one of Python, TypeScript, Go, Rust, Java or C++ Solid with Docker, Linux, Git and automated testing Regular use of an AI coding tool Experience writing tests, rubrics or evaluation criteria, ideally for AI models You can explain a change clearly and concisely, in your own words At least 10 hours a week, starting now A secure personal or work computer (no public or shared machines) Nice to have Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure Experience ",
+    "posted": "2026-11-19T05:56:01+00:00",
+    "tags": [
+      "dev",
+      "golang",
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "c plus plus"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:10:16.614888+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fin-senior-manager-solutions-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fin-senior-manager-solutions-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Fin: Senior Manager, Solutions Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fin-senior-manager-solutions-engineering",
+    "description": "Headquarters:  NYC, Remote; San Francisco, California\n \n\n Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. \n Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. \n Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. \n Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce. What's the opportunity?\u00a0 \n We\u2019re seeking a transformational Solutions Engineering leader to lead our Mid Market and Enterprise SE teams in North America. You\u2019ll be a pivotal figure in helping Intercom scale its AI-driven support platform to some of the world\u2019s most well-known brands. This role will shape how we engage with large, complex organizations, defining our go-to-market, building a world-class team, and delivering tangible customer outcomes through innovation and credibility. \n This role is both strategic and hands-on. You will lead a Solutions Engineering team focused on winning complex deals, creating vertical-specific solution architectures, and building repeatable playbooks. We believe in leaders who are open to be a player and a coach, regardless o",
+    "posted": "Fri, 20 Nov 2026 06:02:02 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:11:03.579449+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fin-senior-forward-deployed-data-scientist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fin-senior-forward-deployed-data-scientist",
+    "source": "WeWorkRemotely",
+    "title": "Fin: Senior Forward Deployed Data Scientist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fin-senior-forward-deployed-data-scientist",
+    "description": "Headquarters:  NYC, Remote\n \n\n Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. \n Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. \n Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. \n Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce. What\u2019s the opportunity? \n The Research, Analytics & Data Science (RAD) team at Intercom uses data and insights to drive evidence-based decision-making. We're a team of data scientists and product researchers who use data - both big and small - to unlock actionable insights about our customers, our products and our business. We generate insights that build customer empathy, drive product strategy and shape products that deliver real value to our customers. \n We\u2019re now seeing strong demand for data scientists who can apply their expertise directly with our most strategic customers. As a Forward Deployed Data Scientist, you\u2019ll embed with customers to build Enterprise-grade Fin deployments. You\u2019ll play a pivotal role in transforming how our most strategic customers scale customer support \u2014 w",
+    "posted": "Fri, 20 Nov 2026 06:01:46 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:11:52.373341+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cribl-director-of-security-research-cribl-detect": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-director-of-security-research-cribl-detect",
+    "source": "WeWorkRemotely",
+    "title": "Cribl: Director of Security Research, Cribl Detect",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-director-of-security-research-cribl-detect",
+    "description": "Headquarters:  Remote - Israel\n \n\n Join the company that\u2019s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u2019s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u2019s next. \n We\u2019re one of the fastest\u2011growing private companies and a leading player in a massive, fast\u2011moving market. With a global workforce, we\u2019re remote\u2011first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd. Why You\u2019ll Love This Role \n Cribl Detect brings Cribl\u2019s telemetry platform and security expertise together to help customers improve detection coverage, reduce alert noise, and speed investigations\u2014while keeping the flexibility to use the tools they already have. As Director of Security Research, you\u2019ll build and lead a research organization across detection engineering, threat hunting, and AI-driven triage and investigation. You\u2019ll develop the team, set research priorities, and partner with Product and Engineering to shape Cribl Detect. You\u2019ll also publish technical research and collaborate with Cribl\u2019s internal SOC to strengthen Cribl\u2019s defenses. \n Based in Israel, this hybrid role works closely with teammates across Israel and the US, with regular overlap with US working hours and periodic travel to the US. The package includes competitive compensation and equity, pension and Keren Hishtalmut contributions subject to local policy, paid time off, a Cibus meal card, and professional development. \n As An Active Member Of Our Team, You Will\u2026 \n \n Build and lead the research organization: hire and develop researchers and research leaders, set shared stan",
+    "posted": "Fri, 20 Nov 2026 06:01:44 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:11:53.223427+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/squarespace-senior-security-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/squarespace-senior-security-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Squarespace: Senior Security Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/squarespace-senior-security-engineer",
+    "description": "Headquarters:  New York City; Remote\n \n\n Squarespace is looking for a Software Engineer, Product Security to build security controls directly into our AI products as they grow. Our Product Security team ensures that customer-facing surfaces across Squarespace's expanding AI portfolio are protected from the ground up, not patched after the fact. We are a focused, embedded team that works at the intersection of platform engineering and security. You will work closely with AI product, platform engineering, and infrastructure teams. This is an opportunity to shape how security is practiced inside a rapidly scaling set of AI products at a critical point in their development. You will work remotely and report to the Security Engineering Manager. \n You'll Get To... \n \n Design and implement security controls for customer-facing AI product surfaces, including products currently in beta \n Identify and mitigate security risks in systems design before they reach production \n Build security tooling and processes that integrate into engineering workflows across product teams \n Review code and architecture for vulnerabilities and partner with engineers to resolve them \n Define standards for how security is applied across the product development lifecycle \n \n Who We're Looking For \n \n 5 or more years of experience building and securing production software systems at scale \n Proficiency writing secure, maintainable code and identifying security flaws in code reviews across common languages and frameworks \n Demonstrated ability to evaluate and design systems with security requirements as a first-order constraint, not an afterthought \n Experience finding and remediating vulnerabilities across web, API, or platform-level surfaces \n Proven ability to communicate security risk and trade-offs clearly to engineering and product partners \n Nice to have: Experience securing AI or machine learning systems \n Nice to have: Familiarity with CI/CD pipeline security and integrating security toolin",
+    "posted": "Fri, 20 Nov 2026 06:01:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:12:40.208787+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context",
+    "source": "WeWorkRemotely",
+    "title": "Postscript: Senior Fullstack Engineer, Customer Context",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context",
+    "description": "Headquarters:  Remote\n \n\n Postscript is the AI messaging platform trusted by 20,000+ Shopify brands \u2014 including Brooklinen, Ruggable, True Classic, and Dr. Squatch.\u00a0 \n With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.\u00a0 \n Backed by Greylock and Y Combinator, fully remote since 2018. We are looking for a polyglot  Senior Fullstack Engineer  to join the  Customer Context\u00a0  team. You\u2019ll help build and scale the foundational services, APIs, and pipelines that power the Postscript product. This role blends strong backend engineering skills with a deep appreciation for data intensive systems, performance, and reliability. You\u2019ll collaborate closely with other software engineers, data engineers, and product to help e-commerce marketers maximize their revenue with best-in-class targeting and context-driven AI. \n This is a high-autonomy role for engineers who are energized by ambiguity, take genuine ownership of their work, and bring a strong point of view on how to build things well, without sacrificing speed or pragmatism. AI isn't a nice-to-have here \u2014 it's central to how we work. We expect our engineers to be active practitioners of AI-first development: fluent with the latest agentic coding tools, curious about what's emerging, and constantly pushing the boundary of what's possible with AI in their day-to-day craft. If you're the kind of engineer who's already experimenting with new models and tooling before anyone asks you to, you'll feel at home here. \n As a senior engineer at Postscript, you\u2019ll no longer be only writing code but orchestrating it.\u00a0 \n This position is fully remote and can be based in the US or Canada. \n What You'll Do \n \n Take deep ownership of systems and product areas on your team, and become the go-to technical expert for what you own \n Independently investigate, design, and ",
+    "posted": "Fri, 20 Nov 2026 06:01:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:13:26.311386+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mercury-engineering-manager-bank-accounts": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mercury-engineering-manager-bank-accounts",
+    "source": "WeWorkRemotely",
+    "title": "Mercury: Engineering Manager - Bank Accounts",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mercury-engineering-manager-bank-accounts",
+    "description": "Headquarters:  San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States\n \n\n Roman aqueducts quietly carried water across cities and made daily life possible. Their value was not in the structures themselves, but in everything they enabled. \n The Bank Accounts team plays a similar role at Mercury. We build the foundation for depository accounts*: managing money held in Mercury accounts and helping customers move money between accounts they own.\u00a0 \n The work ahead is especially exciting: as Mercury is opening its own bank, this team will build a major part of the foundation needed to manage customer accounts at that scale. The systems and capabilities we build will support how customers open, use, manage, and move money between their accounts. \n Your job as an engineering manager at Mercury is to make our banking* core run so smoothly that people barely notice it\u2019s there. \n In this role, you will: \n \n Lead a team of 4 to 8 senior engineers to deliver high-availability banking services. \n Translate company and product direction into clear, measurable team objectives. \n Build a predictable delivery system that makes progress, risks, and tradeoffs visible. \n Balance customer-facing improvements with platform reliability, operational readiness, and long-term maintainability. \n Partner with Product, Design, Risk, Compliance, and Operations to make Mercury\u2019s banking products reliable, understandable, and useful. \n Hire and onboard engineers while maintaining a consistent, high-quality interview process. \n Hold the team accountable for using AI-assisted development responsibly, with appropriate testing, evaluation, review, and production safeguards. \n Give clear, useful feedback to engineers at every level. \n Create an environment where engineers can do their best work and grow their technical and leadership skills. \n \n You should: \n \n Have demonstrated the ability to lead a technical team. \n Have experience building or operating reliable financ",
+    "posted": "Fri, 20 Nov 2026 06:01:19 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:14:13.860220+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/twilio-architect": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/twilio-architect",
+    "source": "WeWorkRemotely",
+    "title": "Twilio: Architect",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/twilio-architect",
+    "description": "Headquarters:  Remote - US\n \n\n Who we are\u00a0 \n At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to \u00a0hundreds of thousands of businesses\u00a0 and empower millions of developers worldwide to craft personalized customer experiences. \n Our dedication to  remote-first work , and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . \n Hiring and how we work \n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\u00a0 \n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. .   See yourself at Twilio \n Join the team as Twilio\u2019s next Architect on our Data Substrate team \n \u00a0 \n About the job \n Twilio runs on data, and the platform underneath it is entering a major shift. Open table formats, the convergence of lakes and warehouses, tightening privacy regulation, and AI workloads are all changing what a data platform has to do. We\u2019re hiring an Architect to set our direction through that shift and to make sure the systems we build over the next 3-5 years are the right ones. \n \u00a0 \n You\u2019ll own the technical strategy for our data platform, spanning storage, lake and lakehouse architecture, catalog and governance, and privacy-by-design. You\u2019ll work across org boundaries, setting standards that dozens of teams build on and raising the technical bar for the engineers around you. \n \u00a0 \n Responsibilities \n In this role, you\u2019ll: \n \n Own the architecture and multi-year technical strategy for the data platform, including the lake/lakehouse, ClickHo",
+    "posted": "Fri, 20 Nov 2026 06:01:19 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:15:18.075158+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/collibra-senior-customer-support-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/collibra-senior-customer-support-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Collibra: Senior Customer Support Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/collibra-senior-customer-support-engineer",
+    "description": "Headquarters:  Remote, Australia\n \n\n Joining Collibra\u2019s Support team \n Collibra seeks to expand our Support Engineering team with the addition of a Senior Technical Support Engineer to support the company's growth. \n Collibra\u2019s Senior Technical Support Engineers provide support that increases Collibra\u2019s credibility as an organization with world-class personnel and processes that can be relied upon as customers increase their product usage. \n Senior Technical Support Engineers at Collibra are responsible for \n \n Managing all communication with customers and partners required to resolve support tickets. \n Assessing if support tickets are feature requests or product bugs. \n Resolving support tickets within the limits of contractual service level agreements (SLA). \n Replicating bugs. \n Training and mentoring junior support engineers. \n Coordinating and tracking the escalation of tickets. \n Maintaining a record of all communication and actions in Zendesk. \n Contributing frequently answered questions to the Collibra knowledge base. \n Participating in replying to Collibra community questions and discussions. \n \n You have \n \n You have 3-5 years in a customer facing role, ideally in a SaaS environment. \n Analytical and methodical problem solving skills. \n Must have: Hands on experience with Linux as well as experience with relational and non-relational database/data sources (MySQL, PostgreSQL). \n Experience troubleshooting web-based applications. \n Experience with Java and REST API. \n Experience working closely with software developers. \n Excellent knowledge of certificates - SSL, SSO, and LDAP. \n Bachelor's Degree in Computer Science or related field or equivalent experience. \n Demonstrated proficiency in leveraging AI tools (e.g., Claude, Gemini, ChatGPT, Copilot) to solve real-world business challenges, drive measurable outcomes, or streamline workflows. \n A bachelor\u2019s degree or equivalent related working experience is required. \n \n You are \n \n Customer focused and willin",
+    "posted": "Fri, 20 Nov 2026 06:00:44 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:15:18.325577+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety-1": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety-1",
+    "source": "WeWorkRemotely",
+    "title": "Discord: Engineering Manager, Machine Learning - Safety",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety-1",
+    "description": "Headquarters:  San Francisco Bay Area or Remote (U.S.)\n \n\n Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there\u2019s one thing that nearly everyone does:  play video games.  Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. \n We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As the manager responsible for Safety ML, you will own the detection systems that sit between attackers and our users; real-time and batch models for content understanding, account integrity, and platform abuse. \n What You'll Be Doing \n \n Build and lead an exceptional team of highly-engaged ML engineers by hiring, coaching, and instilling a sense of ownership and impact. \n Drive the technical vision and roadmap for Safety ML by collaborating with your team and partners across Trust & Safety, Product, Policy, Legal, and Data Science. \n Own the end-to-end lifecycle of production safety models: defining new capabilities, measuring performance, and monitoring the operational health of systems that make millions of enforcement decisions per day. \n Manage processes and leverage your technical expertise to continually raise the bar and ensure your team delivers extraordinary results. \n Partner with Trust & Safety on label quality, golden sets, and automating manual investigations. \n Work with other Engineering Managers to continuously improve the Engineering organization and uphold our  workplace philosophy . \n \n What you should have \n \n You have 5+ years of experience as a Machine ",
+    "posted": "Fri, 20 Nov 2026 06:00:38 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T15:15:18.567521+00:00"
   }
 }
