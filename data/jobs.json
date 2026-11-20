@@ -12641,5 +12641,268 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-19T15:35:07.321740+00:00"
+  },
+  "remoteok-1137805": {
+    "id": "remoteok-1137805",
+    "source": "RemoteOK",
+    "title": "SEO Full Stack Engineer",
+    "company": "Treatwell",
+    "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+    "description": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End. You'll work on Treatwell\u00e2\u0080\u0099s Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest. You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outcomes. \u00e2\u009e\u00a1\u00ef\u00b8\u008f Our product is built on: Backend: Java, Spring Boot, RabbitMQ, PostgreSQL, MS-SQL Frontend: React, TypeScript, Cypress, Jest Infrastructure: Kubernetes, GitLab CI/CD, AWS, Datadog Mindset: DevOps, DDD, event-driven architecture \u00f0\u009f\u0092\u00a1 About Treatwell Hi, we\u00e2\u0080\u0099re Treatwell. Nice to meet you. We\u00e2\u0080\u0099re a team of 800 passionate and brilliantly talented people across Europe. We\u00e2\u0080\u0099re the industry\u00e2\u0080\u0099s smartest salon management software, all connected to Europe\u00e2\u0080\u0099s leading bookings platform, working with over 95,000 salon partners across 14 countries, processing over 14 million bookings every month. And\u00e2\u0080\u00a6.breathe. But we\u00e2\u0080\u0099re not done yet. We\u00e2\u0080\u0099re on an exciting journey to digitally revolutionise the hair and beauty community. If this excites you, we might just have the role for you. \u00f0\u009f\u00a7\u0090 Y",
+    "posted": "2026-11-18T16:00:31+00:00",
+    "tags": [
+      "full stack",
+      "react",
+      "rabbitmq",
+      "front end",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "marketing",
+      "design",
+      "web dev",
+      "exec",
+      "devops",
+      "finance",
+      "java",
+      "postgres",
+      "typescript",
+      "seo",
+      "senior",
+      "stats",
+      "engineer",
+      "recruiter",
+      "backend",
+      "digital nomad"
+    ],
+    "score": 8,
+    "pitch": "I can help accelerate Treatwell's marketplace growth by bridging the gap between high-performance engineering and SEO-driven conversion. With extensive full-stack experience spanning React, TypeScript, and modern front-end performance optimization, I specialize in building responsive, core-web-vital-optimized web surfaces and instrumenting clean analytics pipelines. On the backend, I am well-versed in Java, Spring Boot, event-driven architectures with RabbitMQ, and relational databases like PostgreSQL. I am comfortable collaborating closely with growth and marketing teams to run rapid A/B experiments without sacrificing code quality or reliability. Let us connect to discuss how I can help scale your marketplace discovery and booking flows across your target markets.",
+    "status": "new",
+    "found_at": "2026-11-20T00:30:10.622975+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-machine-learning-engineer-assistance-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-machine-learning-engineer-assistance-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Machine Learning Engineer, Assistance Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-machine-learning-engineer-assistance-engineering",
+    "description": "Headquarters:  Remote-USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  \n Machine Learning and Artificial Intelligence are at the heart of the Airbnb product. From Trust to Payments, and from Customer Service to Marketing we rely on ML to ensure that guests and hosts have the best possible experience with Airbnb.\u00a0 The Core ML team in Assistance Engineering is the team responsible for adopting the Agentic AI technologies to enable an intelligent, scalable and exceptional customer service experience. We are responsible for developing the Chat AI assistant, Voice AI Assistant and more! The team is constantly exploring the SOTA Agentic architecture, develops and enhances various AI models, ML services and leverages tools including SFT, Reinforcement learning, Distillation, RAG/Search, \u00a0LLM evaluation and testing automation, feedback-based learning and guardrail for a wide range of applications in Airbnb.\u00a0 \u00a0 \n The Difference You Will Make: \n We believe our current customer experiences in these domains are only scratching the surface of the innovations that are possible, and that science is at the heart of delivering a step-function change for our Guest and and Host on Airbnb.\u00a0 You will build and leverage cutting edge AI technologies to transform Airbnb\u2019s customer service by delivering personalized, easy-to-use and proactive customer service experience.\u00a0 Many of the initiatives you\u2019ll tackle are in their early conceptual stages. You will have the opportunity to shape these ideas from inception to production, turning visionary concepts into impactful realities. \n A Typical Day:\u00a0 \n \n Champion the development of novel ML systems, p",
+    "posted": "Thu, 19 Nov 2026 18:31:42 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "I saw your opening for the Assistance Engineering team and wanted to connect. As an engineer working across AI systems and full-stack integration, I specialize in operationalizing agentic AI, RAG pipelines, and fine-tuned LLMs for production environments. I have hands-on experience designing robust conversational architectures, implementing guardrails, and building responsive client-facing interfaces that integrate cleanly with real-time ML backend services. Delivering scalable, high-reliability AI assistants that solve complex customer support workflows aligns directly with my background. I would welcome the chance to discuss how my end-to-end engineering skills can help accelerate Airbnb's voice and chat AI initiatives.",
+    "status": "new",
+    "found_at": "2026-11-20T00:30:51.600421+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer-delivery-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer-delivery-engineering",
+    "source": "WeWorkRemotely",
+    "title": "CircleCI: Staff Software Engineer, Delivery Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer-delivery-engineering",
+    "description": "Headquarters:  Remote, Canada (EST) OR Remote, US (EST) OR Remote, UK\n \n\n\n\n About CircleCI Engineering \n CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. \n At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. \n\n\n About Delivery Engineering \n Delivery Engineering enables CircleCI engineers to deliver quickly, confidently, and securely. We provide the tools and resources that make standard patterns and best practices simple to adopt, and we reduce toil. \n Our current focus is the agentic software development lifecycle: how changes are found, planned, built, reviewed, merged, and measured as AI agents take on more of the work. We evaluate the harnesses, repository patterns, skills, and agentic tooling available, decide what our teams should standardize on, and build and support the shared tooling other teams depend on. \n We're a small, very senior team, and everyone on it shapes where we go. Every improvement we make compounds across the organization. \n\n\n What You'll Do \n \n Build AI-natively.  AI is how we work. It's not a productivity layer on top of engineering, but the default starting point for how problems get approached and solved. \n Shape how CircleCI builds software with agents.  Help define the end-to-end agentic SDLC, from identifying a change through planning, execution, pull request, merge, and measuring impact afterward. Evaluate shared tooling and patterns, and help decide what teams standardize on. \n Start from how our teams actual",
+    "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 8,
+    "pitch": "CircleCI's push toward an agentic SDLC resonates with my recent work building developer-facing tooling powered by autonomous agents. As a Staff-level Full-Stack and AI Engineer, I specialize in architecting the harnesses, evaluation frameworks, and shared systems that let engineering teams reliably orchestrate LLM workflows. I bridge the gap between backend delivery pipelines and responsive interfaces that help developers interpret, trust, and debug agent-generated changes. I understand the nuances of repository patterns and automated feedback loops needed to scale these patterns across an enterprise engineering org. I'd welcome the chance to discuss how my hands-on background in agentic tooling can accelerate Delivery Engineering's roadmap.",
+    "status": "new",
+    "found_at": "2026-11-20T00:31:27.393824+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/tebra-senior-analytics-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/tebra-senior-analytics-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Tebra: Senior Analytics Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/tebra-senior-analytics-engineer",
+    "description": "Headquarters:  United States - Remote\n \n\n Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.\u00a0We will only ask you to provide sensitive personal information through our official application portal \u2014 not via social media or text message. We do not conduct interviews via instant messaging. About the Role \n Tebra helps private practices bring modernized care to patients everywhere. To run our own business well, every team needs numbers it can trust. \n We're looking for a Senior Analytics Engineer to help build Tebra's new internal analytics platform. You'll turn data from Salesforce, NetSuite, Stripe, our product, and other systems into one shared, tested set of business data and metrics that Finance, Customer Success, Growth, and Payments all use. You'll lead projects end to end, set the standards others build on, and partner with business leaders to define the metrics that matter most. \n Your Area of Focus \n \n \u00a0 Data Modeling & Shared Datasets:  Design, build, and maintain enterprise-wide business data that teams across Finance, Customer Success, Growth, and Payments build on. Apply dimensional modeling and layered design (staging, intermediate, and marts) so business logic lives in one place and isn't rebuilt by each team. \n Metric Definition & Semantic Layer:  Partner with metric owners in Finance and the business to define each key metric once, with a named owner and documented logic. Publish governed metrics in a semantic layer that Tableau, AI assistants, and other tools query, and reconcile them to current reporting and the general ledger before teams switch over. \n Self-Service Enablement:  Build easy-to-use datasets that let non-technical teammates and analysts answer their own questions without writing complex joins. \n Platform Migration:  Lead projects end to end on the new internal analytics platform, from source ",
+    "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:31:27.676120+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Fin: Forward Deployed Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer",
+    "description": "Headquarters:  NYC, Remote; San Francisco, California\n \n\n Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. \n Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. \n Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. \n Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce. What's the opportunity?\u00a0 \n As Fin becomes mission-critical for our most strategic customers, we\u2019re growing our team of Forward Deployed Engineers to help bridge the gap between customer needs and product innovation.\u00a0 \n As a Forward Deployed Engineer, you\u2019ll work hands-on with strategic customers, partnering closely with our R&D and Go-to-Market teams to design and deliver high-impact solutions. You\u2019ll go beyond implementation - helping shape product direction, influence roadmap decisions and ensure Fin delivers real, measurable business outcomes in complex, real-world environments. \n If you\u2019re excited by ownership, creativity and solving ambiguous problems, and want to work at the frontier of applied AI while collaborating with Product, Engineering and Go-to-Ma",
+    "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:31:27.924860+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fin-director-solutions-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fin-director-solutions-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Fin: Director, Solutions Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fin-director-solutions-engineering",
+    "description": "Headquarters:  NYC, Remote; San Francisco, California\n \n\n Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. \n Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. \n Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. \n Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce. What's the opportunity?\u00a0 \n We\u2019re seeking a transformational Solutions Engineering leader to lead our Mid Market and Enterprise SE teams in North America. You\u2019ll be a pivotal figure in helping Intercom scale its AI-driven support platform to some of the world\u2019s most well-known brands. This role will shape how we engage with large, complex organizations, defining our go-to-market, building a world-class team, and delivering tangible customer outcomes through innovation and credibility. \n This role is both strategic and hands-on. You will lead a Solutions Engineering team focused on winning complex deals, creating vertical-specific solution architectures, and building repeatable playbooks. We believe in leaders who are open to be a player and a coach, regardless o",
+    "posted": "Thu, 19 Nov 2026 18:31:23 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:31:28.174606+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-issuing": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-issuing",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Senior Software Engineer, Issuing",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-issuing",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 Lithic is hiring a  Senior Software Engineer  for our Issuing team to work cross-functionally with product, solutions, compliance and support to build reliable, developer-friendly experiences that make the complicated world of payments safe and easy for our customers and their users. \n Issuing is the front door for Lithic and its customers\u2019 card payments programs. Nearly every API interaction and card transaction traces back to a card or account created by a service the Issuing team owns. We can be the reason a launch is successful, a customer signs on or an end user takes up a payment card in their day-to-day life. \n You\u2019ll build and own the services that manage the entire lifecycle of cards and account holders, including card issuance, physical card manufacturing, digital wallet and agentic tokenization, as well as the KYB/KYC programs that keep our customers and bank partners safe. Working with our team will turn you into an expert in the card payments space. \n We encourage you to appl",
+    "posted": "Thu, 19 Nov 2026 18:30:55 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 7,
+    "pitch": "As a Senior Full-Stack Engineer with deep experience building mission-critical financial integrations and developer-facing APIs, I can immediately strengthen Lithic's Issuing core. I specialize in designing highly available, low-latency backends and intuitive interfaces that simplify complex compliance, ledger, and payment workflows. Having architected resilient systems capable of handling strict transaction integrity and high throughput, I understand the zero-fault tolerance required for modern card issuing platforms. I can help scale your issuance pipelines, streamline API developer experiences, and ensure seamless customer onboarding. Let's discuss how my full-stack background can help accelerate the Issuing team's roadmap.",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:24.614270+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/backblaze-external-website-solutions-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/backblaze-external-website-solutions-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Backblaze External Website: Solutions Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/backblaze-external-website-solutions-engineer",
+    "description": "Headquarters:  United States\n     URL:   https://www.backblaze.com \n \n\n Solutions Engineer \n Backblaze (Nasdaq: BLZE) | Remote, US | AI  and application storage Solutions Engineering | Reports to the Solutions Engineering Manager (the VP of Solutions Engineering until the manager is hired) | Works with Account Executives, Product, Support, and the Solutions Engineering team \n Salary range:   $128,000-$144,000 \u00a0plus variable pay and RSUs. \n How We Got Here \n We started by building storage servers from scratch in a Palo Alto apartment to save 90% on hardware. Turns out hard constraints make for pretty good engineering. That discipline forged a platform that performs as well or better than competitors, scales to multi-exabyte workloads, and costs a fraction of what AWS or Google charge. AI infrastructure runs on data. Storage gets hard at scale. We've been breaking, rebuilding, and improving that storage layer for 20 years. \n Today, the world's leading AI infrastructure providers, neoclouds, and data-intensive businesses run on Backblaze. Our platform includes: \n \n B2 Overdrive  - high-throughput object storage engineered for AI infrastructure, GPU workloads, and massive-scale data pipelines \n B2 Neo  - white-label enterprise cloud storage powering neocloud platforms for AI, HPC, and media \n B2 Cloud Storage  - S3-compatible object storage with predictable pricing, free egress, and no lock-in \n Computer Backup  - automatic, continuous endpoint backup for Macs and PCs \n \n 500,000+ customers. 175 countries. Nasdaq: BLZE. backblaze.com \n The Role \n Backblaze sells a technical product, so Solutions Engineers join the deal at the first discovery conversation, before it is qualified. You will partner with Account Executives to learn what a customer needs, run the proof of concept that shows Backblaze fits, and stay close after the deal closes. This role focuses on AI and application storage customers. \n Nearly every customer is replacing something they already run. Your job ",
+    "posted": "Thu, 19 Nov 2026 17:03:31 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:24.852143+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/go1-australia-finance-systems-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/go1-australia-finance-systems-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Go1 Australia: Finance Systems Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/go1-australia-finance-systems-engineer",
+    "description": "Headquarters:  Australia\n     URL:   https://www.go1.com \n \n\n Why Go1 exists: \n Work keeps changing. Skills evolve, compliance requirements increase, and people need to continually learn and adapt. Go1 builds technology around how people learn and work. We bring together technology innovation, trusted content and intelligence to help organizations develop their people and support workforce progress.\u00a0 \n Why join Go1? \n \n Build what comes next.  Go1 is evolving from a trusted learning foundation into a broader workforce enablement portfolio, including Morgan by Go1. There is still plenty to shape, build and improve. \n Have real ownership.  We\u2019re founder-led, start-up minded and deliberately low on layers. You\u2019ll have scope to influence decisions, solve problems beyond a narrow job description and be accountable for outcomes. \n Work AI-native.  AI is becoming part of how we work across Go1. We expect people to experiment, build smarter workflows and use technology to improve the quality and speed of their work, while applying strong judgement. \n Grow through the work.  Growth isn\u2019t limited to promotion. It comes through harder problems, broader scope, new capabilities, cross-functional exposure and increasing the impact you can have. \n Work globally, with flexibility and trust.  We\u2019re remote-first across APAC, EMEA and North America. You\u2019ll have autonomy and flexibility, alongside the responsibility to communicate clearly, build relationships proactively and stay connected across time zones. \n \u00a0 \n We\u2019re looking for a Finance Systems Engineer who is obsessed with end-to-end operational outcomes across systems. You\u2019ll improve the reliability and efficiency of Go1\u2019s finance operations, starting with quote-to-cash, working with Finance, RevOps and technical partners. Strong finance-domain expertise comes first, supported by practical familiarity with data, APIs and AI tools. Experience applying AI to finance workflows is a bonus. \u00a0 \n What  you\u2019ll  do \u00a0 \n \n Own defined impr",
+    "posted": "Thu, 19 Nov 2026 17:03:28 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:25.137655+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/mozilla-staff-software-engineer-os-integration": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/mozilla-staff-software-engineer-os-integration",
+    "source": "WeWorkRemotely",
+    "title": "Mozilla: Staff Software Engineer, OS Integration",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/mozilla-staff-software-engineer-os-integration",
+    "description": "Headquarters:  Netherlands\n     URL:   http://www.mozilla.org \n \n\n \n \n Why Mozilla? \n Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we\u2019re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we\u2019re doing this while never losing our focus on our core mission \u2013 to make the internet better for people.\u00a0 \n The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren\u2019t beholden to any shareholders \u2014 only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute  open-source  software that enables people to enjoy the internet on their terms.\u00a0 \n About the OS Integration team: \n The OS Integration team ensures Firefox works well with the host operating system and environment. We\u2019re a distributed team with expertise in Windows, macOS, and Linux-based operating systems. Our responsibilities include developing fixes and improvements for Firefox related to Windows, macOS, and Linux environments. This might include integration with a new OS feature or fixing an OS-specific user interface bug. Other responsibilities include native crash reporting, OS abstraction layers, sandboxing, hardening, installer, updater, device APIs, and enterprise DLP support.\u00a0 \n About the role: \n As a member of the OS Integration team, you\u2019ll develop fixes, improvements, and new features for Firefox. The role will lean on your Windows expertise, but projects may have a cross-platform component. This role will include development of features for Firefox in enterprise environments especially implementation",
+    "posted": "Thu, 19 Nov 2026 17:03:26 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 4,
+    "pitch": "Mozilla's focus on user-first open-source technology aligns closely with my engineering background. With deep experience bridging low-level system APIs and cross-platform UI, I can help the OS Integration team deliver seamless Firefox experiences across host environments. My background includes building robust mobile and native system integrations, troubleshooting complex OS-level interfaces, and maintaining high-performance client architectures. Whether optimizing system hooks, adapting to platform updates, or debugging nuanced cross-OS behavior, I bring disciplined systems-level problem solving to distributed teams. I would welcome the opportunity to discuss how my native systems and cross-platform engineering expertise can support Firefox's OS integration roadmap.",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:30.434415+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/unify-dots-power-bi-technical-consultant": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/unify-dots-power-bi-technical-consultant",
+    "source": "WeWorkRemotely",
+    "title": "Unify Dots: Power BI Technical Consultant",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/unify-dots-power-bi-technical-consultant",
+    "description": "Headquarters:  Pune, Maharashtra, India\n     URL:   https://unifydots.com \n \n\n Company Description UNIFY Dots is a global technology and software solutions company specializing in Microsoft Dynamics 365-based solutions. We are seeking a Business Intelligence Technical Consultant who has experience in designing and implementing end to end business intelligence solutions using Microsoft Power BI & Azure Synapse Analytics. The job will be work from home. This is a full-time position.\u00a0\u00a0 Job Description Responsibilities\u00a0\u00a0 Your job duties include the following tasks and responsibilities:\u00a0\u00a0 Understanding and documenting reporting, business intelligence and dashboard requirements.\u00a0 Performing Data Mapping between Source systems like Microsoft Dynamics 365 Supply Chain and Finance ERP (\u201cD365\u201d), CRM, Dataverse, Fabric, Azure Synapse, ADLS and Power BI.\u00a0 Developing ADF/Synapse/Fabric Pipelines for ETL/data warehousing\u00a0 Performing data ingestion\u00a0 Configuring and Develop Power BI Reports\u202fto generate standardized and on-demand executive dashboards, reports, metrics & KPIs.\u00a0 Enhancing and modifying existing Power BI Reports, Dashboards and workspaces including embedded Power BI reports in D365.\u00a0 Analyzing data discrepancies and performing root cause analysis for reports showing different data than expected in the Production Environment.\u00a0 Writing Business Intelligence and analytics technical blog articles per year on the Unify Dots blog.\u00a0 \u00a0 Qualifications Bachelor\u2019s Degree\u00a0\u00a0 2-4 years of experience using Power BI and at least one year of experience with Azure Synapse/Fabric Analytics\u00a0 Microsoft Certification - Power BI Data Analyst Associate (PL-300)\u00a0 Conversational skills in English language\u00a0 Experience with Power BI Desktop, Power BI Report Builder, Power BI Service, DAX, SQL, ETL, Azure DevOps\u00a0 Exposure to Azure Data Factory\u00a0 Additional Information Benefits\u00a0 Market competitive compensation.\u00a0 Medical Insurance for Team member + Spouse + Children + Parents.\u00a0 Flexibility to Work fr",
+    "posted": "Thu, 19 Nov 2026 17:03:24 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:30.718877+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/armada-ai-factory-customer-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/armada-ai-factory-customer-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Armada: AI Factory Customer Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/armada-ai-factory-customer-engineer",
+    "description": "Headquarters:  Australia\n     URL:   https://www.armada.ai \n \n\n About the Company \n \n Armada is the\u00a0hyperscaler\u00a0for the edge, delivering modular AI infrastructure from first deployment to AI factory with speed,\u00a0scale\u00a0and sovereignty. Named\u00a0one of Fast Company's Most Innovative Companies\u00a0and\u00a0to\u00a0the CNBC Disruptor 50, Armada\u2019s solutions are deployed in over 60 countries globally for organizations ranging from energy to defense.\u00a0 \n With nearly $500 million in funding to date, Armada is backed by leading investors including Founders\u00a0Fund, Lux, BlackRock and Microsoft (M12), alongside strategic partnerships with Microsoft, Dell,\u00a0Palantir, NVIDIA, SpaceX, and Skydio. We are building the infrastructure layer for sovereign and edge\u00a0AI - rugged, deployable compute for customers that cannot rely on centralized cloud. \n Working at Armada means taking ownership, driving autonomy, and delivering impact. You\u2019ll tackle challenges that haven\u2019t been solved before and help build something transformative from the ground up. What you do here will not only define your career but help further Armada\u2019s mission to bridge the digital divide for customers around the world. \u00a0 \n \n \u00a0 About the Role   \u00a0 \n The AI Factory Customer Engineer plays a pivotal role in bridging the gap between customer modular AI-ready data center requirements and Armada's Product and Engineering teams. This role requires deep technical credibility, hands-on infrastructure experience, and strong interpersonal skills to translate complex AI infrastructure and data center architectures into clear, practical solutions for customers looking to deploy sovereign AI infrastructure at speed.  \u00a0 \n This role goes beyond traditional pre-sales. The Customer Engineer acts as the technical interface between high-profile customers and Armada Engineering, ensuring customer requirements, constraints, and feedback are accurately represented and incorporated into solution design and future platform evolution.  \u00a0 \n Armada's AI Factory serv",
+    "posted": "Thu, 19 Nov 2026 17:03:21 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:30.966586+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/armada-field-cto-ai-factory": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/armada-field-cto-ai-factory",
+    "source": "WeWorkRemotely",
+    "title": "Armada: Field CTO, AI Factory",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/armada-field-cto-ai-factory",
+    "description": "Headquarters:  California, United States\n     URL:   https://www.armada.ai \n \n\n About the Company \n \n Armada is the\u00a0hyperscaler\u00a0for the edge, delivering modular AI infrastructure from first deployment to AI factory with speed,\u00a0scale\u00a0and sovereignty. Named\u00a0one of Fast Company's Most Innovative Companies\u00a0and\u00a0to\u00a0the CNBC Disruptor 50, Armada\u2019s solutions are deployed in over 60 countries globally for organizations ranging from energy to defense.\u00a0 \n With nearly $500 million in funding to date, Armada is backed by leading investors including Founders\u00a0Fund, Lux, BlackRock and Microsoft (M12), alongside strategic partnerships with Microsoft, Dell,\u00a0Palantir, NVIDIA, SpaceX, and Skydio. We are building the infrastructure layer for sovereign and edge\u00a0AI - rugged, deployable compute for customers that cannot rely on centralized cloud. \n Working at Armada means taking ownership, driving autonomy, and delivering impact. You\u2019ll tackle challenges that haven\u2019t been solved before and help build something transformative from the ground up. What you do here will not only define your career but help further Armada\u2019s mission to bridge the digital divide for customers around the world. \u00a0 \n \n \u00a0 About the Role \n The Field CTO, AI Factory is Armada's most senior technical voice in front of the largest players in the AI ecosystem. You are the trusted advisor who helps them design, justify and land multi-megawatt deployments of the latest xPU infrastructure on Armada's modular platform. \u00a0 \n This is a customer-facing executive technologist role. You will spend your time in the room with CTOs, heads of infrastructure and chief architects; on stage at the industry's most important events; and alongside senior technical leaders within the AI partner ecosystem. You will also carry what you hear back into Armada as the voice of the customer, shaping the product roadmap. \u00a0 \n \n Team:  Solutions Engineering \n Reports to:  SVP, Solutions Engineering \n Location:  United States Remote \n Travel:  Significa",
+    "posted": "Thu, 19 Nov 2026 17:03:19 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:31.257661+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/chargepoint-plm-analyst": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/chargepoint-plm-analyst",
+    "source": "WeWorkRemotely",
+    "title": "ChargePoint: PLM Analyst",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/chargepoint-plm-analyst",
+    "description": "Headquarters:  India\n     URL:   http://www.chargepoint.com \n \n\n About Us \n With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution, powering one of the world\u2019s leading EV charging networks and a comprehensive set of hardware, software and mobile solutions for every charging need across North America and Europe. We bring together drivers, businesses, automakers, policymakers, utilities and other stakeholders to make e-mobility a global reality. \n Since our founding in 2007, ChargePoint has focused solely on making the transition to electric easy for businesses, fleets and drivers. ChargePoint offers a once-in-a-lifetime opportunity to create an all-electric future and a trillion-dollar market. \n At ChargePoint, we foster a positive and productive work environment by committing to live our values of Be Courageous, Charge Together, Love our Customers, Operate with Openness, and Relentlessly Pursue Awesome. These values guide how we show up every day, align, and work together to build a brighter future for all of us. \n Join the team that is building the EV charging industry and make your mark on how people and goods will get everywhere they need to go, in any context, for generations to come. PLM analyst \n Reports To \n Senior Manager, PLM/MCAD \n Role Summary \n \u00a0As a PLM analyst at ChargePoint, you will play a critical role in advancing our mission to transition the world to electric mobility. By ensuring the accuracy, quality, and integrity of our product lifecycle data, you will empower our engineering and operations teams to build and scale world-class EV charging solutions. This role is essential for maintaining the vital technical documentation and configurations that bring our innovative hardware to market reliably and efficiently. \n What You Will Be Doing \n In this role, you will take ownership of document control ",
+    "posted": "Thu, 19 Nov 2026 17:03:17 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:31.538058+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
+    "source": "WeWorkRemotely",
+    "title": "Lemon.io: Senior React Full-stack Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
+    "description": "Headquarters:  New York, NY\n     URL:   https://lemon.io \n \n\n Lemon.io  helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We\u2019ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. \n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. \n Two ways to work with clients \n \n Contract:  most roles are contract-based. You join the client\u2019s team and work as part of it. \n Direct hire:  some clients hire engineers full-time, and we support you through the process. \n \n Because companies trust our vetting, applying through  Lemon.io  is often a shortcut. You get to the client faster than going through their full hiring process on your own. \n What you get: \n \n Competitive rate, based on your seniority and skills \n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. \n Flexible schedule. Work async or with a small overlap with the team\u2019s hours. \n No micromanagement, no screen trackers \n Direct work with clients, most of them with technical backgrounds \n Ongoing support from your application through every project, plus a community of engineers from 75+ countries \n \n Who we\u2019re looking for Senior React & Python Developers with: \n \n 5+ years of software development experience. \n Relevant commercial experience, meeting one of these combinations: React.js 3+ years & Python 3+ years React.js 2+ years & Python 5+ years React.js 5+ years & Python 2+ years \n Experience with AWS, GCP, or Azure is required. \n \n Senior Node & React Developers with: \n \n 5+ years of software development experience \n Relevant commercial experience, meeting one of these combinations: React.js: 3+ years, Node.js: 5+ years React.js: 5+ years, Node.js: 3+ years \n 2+ years of commercial experience with Next.js \n Expertise in TypeScript, AWS and AI-assisted coding is a must. \n \n Senio",
+    "posted": "Thu, 19 Nov 2026 16:12:15 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-20T00:32:31.825424+00:00"
   }
 }
