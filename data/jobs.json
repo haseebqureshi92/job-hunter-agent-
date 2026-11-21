@@ -13571,5 +13571,217 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-20T23:54:18.426343+00:00"
+  },
+  "remoteok-1137865": {
+    "id": "remoteok-1137865",
+    "source": "RemoteOK",
+    "title": "Senior Product Engineer",
+    "company": "Arbor Education",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+    "description": "Location: Remote - UK Salary: \u00c2\u00a370,000-80,000 About us At Arbor, we\u00e2\u0080\u0099re on a mission to transform the way schools work for the better.\u00c2\u00a0 We believe in a future of work in schools where being challenged doesn\u00e2\u0080\u0099t mean being burnt out and overworked. Where data guides progress without overwhelming staff. And where everyone working in a school is reminded why they got into education every day.\u00c2\u00a0 Our MIS and school management tools are already making a difference in over 7,000 schools and trusts. Giving time and power back to staff, turning data into clear, actionable insights, and supporting happier working days.\u00c2\u00a0 At the heart of our brand is a recognition that the challenges schools face today aren\u00e2\u0080\u0099t just about efficiency, outputs and productivity - but about creating happier working lives for the people who drive education everyday: the staff. We want to make schools more joyful places to work, as well as learn.\u00c2\u00a0About the role We are looking for an experienced and driven Senior Product Engineer to join our Engineering team and help lead and drive the successful completion of high-impact features, specifically contributing to the advancement of Arbor products. The remit and focus of the role is to contribute towards the development of the companies core systems and processes, as well as implement strategies to enhance and optimise product quality and lead time across the entire team. It\u00e2\u0080\u0099s a broad and exciting role, so we\u00e2\u0080\u0099re looking for someone up for a challenge - if you\u00e2\u0080\u0099re a collaborative and enthusiastic Engineer, this is the role for you. Core responsibilities Work closely with the Engineering Manager, Tech Lead, QA Engineer, and Product Manager to help solutionise feature requests Maintain software that ties together internal systems Build software to centralise add-on purchases for the Arbor Platform Lead the creation of detailed documentation for new feature developments, incorporating diagrams for comprehensive project understanding. Drive the develo",
+    "posted": "2026-11-20T00:00:47+00:00",
+    "tags": [
+      "design",
+      "react",
+      "backend",
+      "education",
+      "consulting",
+      "docker",
+      "customer support",
+      "dev",
+      "testing",
+      "scrum",
+      "exec",
+      "quality assurance",
+      "finance",
+      "cloud",
+      "php",
+      "senior",
+      "sys admin",
+      "medical",
+      "engineer",
+      "recruiter",
+      "digital nomad"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:35:01.722869+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/gusto-inc-software-engineer-financial-data-payments": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/gusto-inc-software-engineer-financial-data-payments",
+    "source": "WeWorkRemotely",
+    "title": "Gusto, Inc.: Software Engineer,  Financial Data & Payments",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/gusto-inc-software-engineer-financial-data-payments",
+    "description": "Headquarters:  Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote\n \n\n \u00a0 \n \n About Gusto \n At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. \n All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our  Total Rewards philosophy . \n AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: \n We\u2019re hiring seasoned engineers to join our teams that work on the financial backbone of Gusto's money movement \u2014 the ledger, reconciliation, and reporting systems that account for every dollar, and the payment profile that determines how employers fund payroll and how employees and contractors get paid. As a Gusto Software Engineer at this level, you\u2019ll be guiding projects end-to-end by driving large technical architectural decisions (focusing on scale and modularity), understanding how to take existing systems closer to desired end states, executing on projects, and maintaining code that powers core experiences. If you\u2019re interested in building elegant software with far-reaching effects in our modern economy, join us! \n About the Team: \n Financial Data & Payment Profile (FDPP) sits inside Gusto's Payments organization, which moves money safely between partners, employers, employees, government authorities, and Gusto. FDPP ow",
+    "posted": "Sat, 21 Nov 2026 06:03:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:35:02.118387+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/salesloft-senior-commercial-account-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/salesloft-senior-commercial-account-manager",
+    "source": "WeWorkRemotely",
+    "title": "Salesloft: Senior Commercial Account Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-senior-commercial-account-manager",
+    "description": "Headquarters:  United States, Remote\n \n\n Job Title: Senior Commercial Account Manager \n Location: United States, Remote \n This is a fully remote opportunity and can be worked from any location in the United States. \n ABOUT THE COMPANY: \n Salesloft is building the next era of enterprise revenue \u2014 one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. \n With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won \u2014 the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. \n Join us to help transform how companies around the world run revenue \u2014 and build the platform that will guide leading revenue teams into the future. \n THE OPPORTUNITY: \n At Salesloft, our Senior Commercial Account Managers are pivotal to our company's success. You will be a key member of our fast-growing and high-performing sales team and will be our boots-on-the-ground solution to building personal relationships and making our customers successful. We believe that the most successful sellers have a passionate and supportive team behind them. \n On a day-to-day basis, you will be responsible for: \n \n Full-Cycle Account Ownership:  Serving as the primary point of contact and ultimate owner of the account relationship, managing all commercial transactions including upsells, cross-sells, and the end-to-end renewal process. \n Driving Net-New Revenue:  Actively prospecting within your assigned territory to identify, qualify, and close new ACV opportunities within your install base to expand your total book of business. Actively hunt for opportunities to introduce additional produ",
+    "posted": "Sat, 21 Nov 2026 06:03:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:35:03.048407+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-growth-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-growth-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: Growth Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-growth-engineer",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role \n As a Growth Engineer at Ritual, you will spearhead integration of Ritual\u2019s cutting-edge AI infrastructure with partner applications and protocols, expanding the network's reach and impact. Your efforts will allow technology partners in the web3 space and beyond to take advantage of Ritual\u2019s AI infrastructure stack, in creating novel, first-of-their-kind applications. \n \n Support the full-scale partner integration lifecycle: including initial scoping, product integration and development, deployment, and maintenance \n Provide technical support to partners, develop reusable best practices and standards, and work with partners to identify and build new products and usage patterns tailored to their use cases \n Extend and maintain comprehensive documentation for our integration APIs and SDKs \n Interface with various technologies, including AI/ML, distributed systems, and blockchain, to deliver robust integration solutions \n Evaluate and adopt new tooling and technologies to improve any of the functionalities detailed above \n \n About you \n This role is for you if you have: \n \n Expertise in blockchain engineering, particularly in forward-deployed environments; familiarity with common web3 development libraries and tooling (think, Ethers, Viem, Foundry, etc.) is a strong signal \n Well-rounded understanding of the web3 landscape; experience interacting with protocols across the stack incl",
+    "posted": "Sat, 21 Nov 2026 06:02:45 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:35:07.738660+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-frontend-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-frontend-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: Frontend Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-frontend-engineer",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role \n As a Frontend Engineer at Ritual, you'll build sophisticated interfaces that enable developers to interact with our AI and blockchain infrastructure, as well as rapidly build prototypes built on top of Ritual Chain. You'll create intuitive dashboards and monitoring tools that make complex distributed systems accessible and manageable, from tracking cross-chain transactions to monitoring AI compute nodes, and much more. \n \n Design and implement transaction monitoring interfaces that visualize the complete lifecycle across Ritual's infrastructure, including broker status, node operations, and cross-chain interactions \n Build and maintain dashboard interfaces for things like node deployment, monitoring, and management across cloud providers \n Develop web applications that enable users to provision and manage customized node infrastructure through intuitive interfaces \n Create responsive dashboards for real-time monitoring of distributed compute resources and container management \n Design and implement DeFi-style interfaces for protocol interactions, similar to DEX and vault management experiences \n Work closely with product, design, and backend teams to create seamless user experiences \n Participate in code reviews and provide constructive feedback to team members \n Writing efficient, high-quality code that maintains our high standards for user experience \n \n About you \n \n Robust f",
+    "posted": "Sat, 21 Nov 2026 06:02:45 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:35:56.347262+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-ii-full-stack-remote-eligible": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-ii-full-stack-remote-eligible",
+    "source": "WeWorkRemotely",
+    "title": "Smartsheet: Software Engineer II - Full Stack (Remote Eligible)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-ii-full-stack-remote-eligible",
+    "description": "Headquarters:   -REMOTE, USA-\n \n\n For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it\u2019s what we show up for every day. As a Software Engineer II at Smartsheet, you will help build the next generation of our platform while tackling meaningful distributed systems challenges alongside a talented engineering team. You will collaborate closely with product managers and fellow engineers through code reviews and architectural discussions, and you will have the opportunity to mentor junior engineers as you grow in your own career. This role is a strong fit for someone with a couple of years of hands-on development experience who is ready to take on more ownership, sharpen their skills in cloud infrastructure, and help shape how the team uses AI tools to work smarter and faster . \n You Will: \n \n Build scalable back-end services for the next generation of applications at Smartsheet (Kotlin, Java) \n Solve challenging distributed systems problems and work with modern cloud infrastructure (AWS, Kubernetes) \n Take part in code reviews and architectural discussions as you work with other software engineers and product managers \n Mentor junior engineers on code quality and other industry best practices \n Forge a strong partnership with product management and other key areas of the business \n Actively use AI tools to improve personal and team efficiency across coding, testing, design, and troubleshooting, exploring AI integration opportunities within team processes and features, and coaching others on effective AI use \n \n You Have: \n \n 2+ years software development experience building highly scalable, highly available ap",
+    "posted": "Sat, 21 Nov 2026 06:02:26 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:35:56.713307+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/cockroach-labs-member-of-technical-staff-storage": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/cockroach-labs-member-of-technical-staff-storage",
+    "source": "WeWorkRemotely",
+    "title": "Cockroach Labs: Member of Technical Staff (Storage)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/cockroach-labs-member-of-technical-staff-storage",
+    "description": "Headquarters:  New York, NY; Remote, United States; San Mateo, CA; Toronto, Canada\n \n\n \n \u00a0 \n \n \n \u00a0 \n \u00a0 \n Category-defining tech. Career-defining work. \n For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual databases together into one fleet designed for agentic applications, where AI agents help teams provision, scale, and optimize workloads at machine speed. \u00a0 \n At Cockroach Labs, you'll solve problems that didn't exist five years ago alongside people who believe the simplest solutions often require the most sophisticated thinking. Your work will run in production at some of the most innovative companies in the world. The people who thrive here are the ones who want to own that opportunity. \u00a0 \n \n The Role \n We\u2019re looking for a Staff Software Engineer to join our Storage Team to help shape and build CockroachDB\u2019s storage systems. Storage is the foundation of CockroachDB, responsible for the safe, durable and efficient persistence and retrieval of data, on top of which the rest of the database is built. Our team develops and maintains  Pebble , an innovative Log Structured Merge (LSM) Tree storage engine purpose built for Multi Version Concurrency Control (MVCC) data, and  Plenum , the elastic, disaggregated storage layer that separates a cluster\u2019s storage from its compute and allows them to scale independently.\u00a0 \n In this role, you\u2019ll bring deep storage expertise to complex problems spanning Pebble, Plenum, encryption at rest (EAR), CockroachDB\u2019s storage interfaces, and the cloud environments in which they operate. You\u2019ll work hands-on, lead the design and delivery of significant improvements, and help the team make sound tradeoffs among durability, performance, scalability, cost, and operational simplicit",
+    "posted": "Sat, 21 Nov 2026 06:02:25 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:36:01.596821+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-engineering-manager-partner-ecosystem": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-engineering-manager-partner-ecosystem",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Engineering Manager - Partner Ecosystem",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-engineering-manager-partner-ecosystem",
+    "description": "Headquarters:  Remote - United States \n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n Airbnb is powered by our Guests & Hosts. Our teams work on everything from driving improvements for the end-to-end Host and Guest experience to launching new product verticals from the ground up. Our job is to build world-class, comprehensive platforms and features to create high quality experiences for our outstanding guest and host communities. \n Within our Guest & Host organization is the Communication and Connectivity team. This role will focus on one area in our connectivity branch, which is responsible for evolving our integration platform to connect 3rd party property management systems at scale.\u00a0 \n The Difference You Will Make: \n \n Lead the evolution of a world-class supply integration platform to take the third-party supply ecosystem to a new level \n Set the third-party supply growth strategy and technical roadmap in collaboration with the cross-functional leadership team \n Set the technical and AI strategy for the platform, staying at the forefront of technology to improve its capability, efficiency, quality, and scalability \n Build, grow, and mentor a high-performing engineering team, providing people and technical leadership across multiple projects \n Partner with cross-functional leaders as the senior technical voice, aligning priorities and driving delivery \n \n A Typical Day: \n \n As a Senior Engineering Manager, you will be highly cross functional and partner with senior leadership across Data Science, Product, and our Business Development teams to align strategies, define multi-year technical roadmaps, set and execute on it",
+    "posted": "Sat, 21 Nov 2026 06:02:15 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:36:01.945054+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-people-analytics-research": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-people-analytics-research",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Data Scientist, People Analytics & Research",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-people-analytics-research",
+    "description": "Headquarters:  Remote - USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  \n People Analytics & Research is a strong team of Data Scientists, Data Engineers, and Analysts. Our work is highly sought-after, and impacts stakeholders in our People function, and across the business. In this role, you'll take on some of the hardest questions about Airbnb's workforce - how we recruit, pay, develop, and retain our people - partnering with leaders across Recruiting, Compensation, Talent, and the wider business to turn rigorous analysis into decisions they act on. \n The Difference You Will Make: \n The People Analytics & Research team is looking for an experienced Data Scientist to lead and/or contribute to our most important research - applying causal inference and quasi-experimental methods to high-stakes people questions: how we recruit, hire, promote, and retain a best-in-class workforce; how we keep key company processes fair; and how work itself is changing. Employee listening and survey analysis are part of the mix, but the heart of the role is rigorous inferential research on observational people data. The role is highly cross-functional, and you will partner with Recruiting, Talent Leaders, Compensation, Legal, and Diversity & Belonging. We need a Data Scientist with a proven track record of translating data into insight and action. \n \u00a0 \n If you have a proven background in this field and are excited to help build Airbnb\u2019s community, we want to hear from you. \n A Typical Day:\u00a0 \n \n Collaborate with partners and stakeholders to understand people-related business problems, and gather relevant people data to analyze \n Utilize appr",
+    "posted": "Sat, 21 Nov 2026 06:02:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:36:02.263485+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/twilio-developer-success-engineer-p2": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/twilio-developer-success-engineer-p2",
+    "source": "WeWorkRemotely",
+    "title": "Twilio: Developer Success Engineer, P2",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/twilio-developer-success-engineer-p2",
+    "description": "Headquarters:  Remote - US\n \n\n Who we are\u00a0 \n At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to \u00a0hundreds of thousands of businesses\u00a0 and empower millions of developers worldwide to craft personalized customer experiences. \n Our dedication to  remote-first work , and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . \n Hiring and how we work \n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\u00a0 \n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. .   See yourself at Twilio \n Join the team as Twilio\u2019s next Developer Success Engineer. \n \u00a0 \n About the job \n This position is needed to partner directly with developers integrating Stytch, guiding them through technical implementation design, answering architecture questions, and serving as a bridge between engineering and customer success. Throughout that path you\u2019ll also be serving as the voice of the customer within Stytch and closing the feedback loop by ensuring their insights make it back to our Product, Design, and Engineering teams - or implementing improvements yourself. As the team grows, you\u2019ll have more opportunities to contribute new features to Stytch and Twilio products through code. \n \u00a0 \n Responsibilities \n In this role, you\u2019ll: \n \n Build new features and fix bugs in Stytch and Twilio products. \n Serve as a technical resource for customers when they have questions about our product. \n Improve documentation and processes for internal and extern",
+    "posted": "Sat, 21 Nov 2026 06:02:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:36:02.566161+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/elation-health-principal-key-accounts": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/elation-health-principal-key-accounts",
+    "source": "WeWorkRemotely",
+    "title": "Elation Health: Principal, Key Accounts",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/elation-health-principal-key-accounts",
+    "description": "Headquarters:  US- Remote\n \n\n At Elation, our team is committed to enhancing physician and patient quality of life. We are a SaaS cloud-based clinical platform on a mission to enable every patient to receive the highest quality of care. Since inception, we\u2019ve been focused on building a delightful, world\u2011class customer experience that empowers physicians to focus on delivering phenomenal care to patients. \n As Principal, Key Accounts, you'll own the relationships and commercial outcomes for Elation's most complex, highest-value customers. This is a senior, highly visible role for someone who thinks like a partner, acts like an owner, and knows how to turn trusted relationships into long-term growth. You'll sit at the intersection of customer success, strategic advisory, and commercial expansion, working closely with Sales, Product, Services, and Executive leadership to make Elation indispensable to the organizations we serve. \n What You'll Own \n Strategic Account Leadership \n \n Own the end-to-end success and growth of a portfolio of Elation's largest, most strategic accounts, including gross revenue retention, net revenue retention, and expansion ARR \n Develop and execute account plans that reflect each customer's business goals, organizational dynamics, and clinical priorities \n Proactively identify and manage retention risks, escalating cross-functionally and setting clear expectations externally \n \n Executive Relationship Management \n \n Build and maintain trusted relationships with C-suite and senior decision-makers across your accounts, including CMOs, CEOs, COOs, and clinical leaders \n Serve as a strategic advisor and thought partner, helping customers think through how Elation supports their long-term care delivery and business goals \n Lead executive business reviews that drive alignment, demonstrate value, and open doors to expansion \n \n Commercial Growth \n \n Identify, develop, and close upsell and cross-sell opportunities in partnership with Sales \n Translate",
+    "posted": "Sat, 21 Nov 2026 06:02:13 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:36:02.921482+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/sezzle-director-litigation-and-regulatory": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/sezzle-director-litigation-and-regulatory",
+    "source": "WeWorkRemotely",
+    "title": "Sezzle: Director, Litigation and Regulatory",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/sezzle-director-litigation-and-regulatory",
+    "description": "Headquarters:  United States, Remote\n \n\n About Sezzle: \n With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We're not just transforming payments; we're redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, we're building an innovative, dynamic team passionate about creating more than just a transaction but a truly unique shopping journey. If you're excited about pushing boundaries in tech and delivering a game-changing experience for consumers and merchants alike, come join us at Sezzle and help create the future of shopping! \n About the Role:\u00a0 \n Sezzle is a publicly traded consumer finance company (Nasdaq: SEZL) building purchase-now-pay-later products\u00a0for consumers who are underserved by traditional credit, and we are pursuing a de novo national bank charter.\u00a0That combination puts us in front of regulators, plaintiffs' counsel, and state enforcement authorities more often\u00a0than a company our size would normally be, and we handle almost all of it in-house.\u00a0 \n This role is for a lawyer who wants to own that work rather than route it. You will run litigation and pre-litigation disputes, manage regulatory inquiries and investigations from federal and state authorities, and serve as the legal owner of our privacy and data protection framework. You will have real autonomy on day one, direct access to the executive team, and the budget discipline of a lean function that brings in outside counsel deliberately rather than reflexively. \n What You'll Do: \n \n \n Litigation and disputes \n \n Manage consumer litigation, class actions, arbitrations, and commercial disputes from intake through resolution, inc",
+    "posted": "Sat, 21 Nov 2026 06:01:22 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-21T06:36:03.228076+00:00"
   }
 }
