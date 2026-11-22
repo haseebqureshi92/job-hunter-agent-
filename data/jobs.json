@@ -14132,5 +14132,229 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-22T06:01:40.051208+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform",
+    "source": "WeWorkRemotely",
+    "title": "Doximity: Senior Software Engineer, Data Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform",
+    "description": "Headquarters:  San Francisco, CA or Remote (U.S.)\n \n\n Location : This role is remote in the United States, Canada, or some countries in South America. \n Visa sponsorship is not available for this role.\u00a0 \n Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity\u2019s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients.\u00a0 \n At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you.\u00a0 \n How you\u2019ll make an impact \n You will join the Data Services team - one of three teams in a data platform group of about ten engineers, alongside infrastructure and developer productivity. \n \n Work closely with data analysts, data engineers, and machine learning engineers to understand their needs - and evolve the Doximity data stack to meet them. \n Build the foundations that make client-facing data delivery safe and repeatable - per-client data isolation, access controls, and auditability. \n Build and operate the MCP-based tooling and agentic workflows through which analysts and clients interact with the data platform - and the data it manifests - by conversation rather than tickets. \n Work in a HIPAA-regulated environment where the right people and systems reach the data they need and nothing more - masking policies, scoped roles, audit trails, and approval gates that hold up to scrutiny from auditors and clients alike. \n Understand what our data product teams are trying to achieve, and design solutions that maximize the time they spend on their goals and minimize the time lost to technical hurdles. \n Help strengthen our software engineering culture within the data organization, leading by example. \n Diagnose development, performance, and stability issues",
+    "posted": "Sun, 22 Nov 2026 18:32:04 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:17:19.691621+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-smart-contract-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-smart-contract-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: Smart Contract Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-smart-contract-engineer",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role \n We are looking for an experienced smart contract engineer to join our team to help build and maintain our open-source smart contract libraries and frameworks. Working closely with product, engineering, and research, you will play a critical role in architecting and implementing the core protocol, useful libraries and tooling, and adjacent prototypes. \n We are a lean and agile organization. The ideal candidate thrives in autonomous environments, has a mastery of smart-contract engineering, and enjoys building new products from scratch. \n \n Building and maintaining core smart contract frameworks and libraries \n Managing smart-contract release lifecycles; from architecting to audit to post-release \n Spearheading research into novel smart contract functionality beyond the EVM \n Collaborating with a cross-functional team of engineers, designers, researchers, product managers, and operations teammates to create best-in-class products \n \n About you \n \n General mastery of software engineering principles \n Strong proficiency in Solidity and at least one other non-smart-contract language \n Deep understanding of the EVM and differences across L1/L2/L3 environments \n Familiarity with network node architectures (geth, reth, op-stack, orbit, etc.) \n Experience participating in past smart contract code audits (maintainer or auditor) \n Desire to dive in at the lowest level; experience to know w",
+    "posted": "Sun, 22 Nov 2026 18:32:04 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:18:10.057114+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-compliance-international-investigations-associate": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-compliance-international-investigations-associate",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Compliance, International Investigations Associate",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-compliance-international-investigations-associate",
+    "description": "Headquarters:  Remote - Ireland\n \n\n Ready to do the most impactful work of your career? At\u00a0 Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d\u00a0 Learn more about working at Coinbase . \n As a Senior Investigator in Coinbase\u2019s Financial Intelligence Unit within Compliance (2LoD), you\u2019ll help drive Coinbase\u2019s financial crime investigations capability across multiple jurisdictions. This team leads complex reactive and proactive investigations, develops intelligence on emerging typologies and risk patterns, and translates investigative insights into high-quality SAR/STR decisions, escalations and programme improvements. You\u2019ll work on high-impact matters across Coinbase\u2019s global platform, partnering closely with MLROs, local compliance teams, operations teams and cross functional stakeholders to protect Coinbase and its customers from financial crime.\u00a0 \n What you\u2019ll do:\u00a0 \n \n Own end-to-end investigations into complex AML/CFT matters, from alert review or referral, through case development, disposition and SAR/STR submission to relevant FIUs.\u00a0 \n Conduct delegated MLRO reviews of Suspicious Transaction Reports and Suspicious Activity Reports prior to filing, ensuring accuracy, quality and regulatory defensibility. \n Lead proactive investigations, using transaction data, on-chain activity, trading behaviour and cross functional intelligence and OSINT to identify emerging typologies, threat patterns and high-risk activity. \n Develop actionable intelligence from casework and analytics to inform escalations, regulatory reporting, co",
+    "posted": "Sun, 22 Nov 2026 18:31:11 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:18:13.294063+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-complaints-analyst-iii": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-complaints-analyst-iii",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Complaints Analyst III",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-complaints-analyst-iii",
+    "description": "Headquarters:  Remote - Australia\n \n\n Ready to do the most impactful work of your career? At\u00a0 Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d\u00a0 Learn more about working at Coinbase . \n As a Complaints Analyst on the Global Complaints team within Customer Experience, you'll investigate and resolve consumer, regulatory, and litigation support complaints to deliver fair outcomes for Coinbase customers. The Global Complaints team is responsible for handling complaints end-to-end across three units, and you'll own assigned cases from intake through resolution, ensuring every customer receives a thorough, accurate, and timely response. \n What you'll do: \n \n Investigate and resolve assigned complaints by gathering account data, transaction history, and customer communications, delivering accurate responses within defined SLA timelines \n Maintain complete case records in Salesforce, including investigation notes, resolution rationale, and customer correspondence, and submit cases for QC review before closure \n Escalate complex or ambiguous cases to your Supervisor or Complaints Lead with clear documentation of the issue and your initial assessment \n Flag recurring complaint patterns or potential process gaps to leadership to support continuous improvement across the team \n Participate in calibration sessions, training, and nesting requirements to stay aligned on evolving quality standards and process updates \n \n Required Skills and Experience: \n \n 1-2 years of experience in complaints handling, customer service, or dispute res",
+    "posted": "Sun, 22 Nov 2026 18:31:11 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:18:18.495115+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-servicenow-developer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-servicenow-developer",
+    "source": "WeWorkRemotely",
+    "title": "General Dynamics Information Technology: ServiceNow Developer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-servicenow-developer",
+    "description": "Headquarters:  Virginia, United States\n     URL:   https://www.gdit.com \n \n\n Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: SSBI (T5) Job Family: Software Engineering Job Qualifications: Skills: Cloud Deployment, End User Support, IT Service Management (ITSM), ServiceNow Administration, Troubleshooting Certifications: None Experience: 2 + years of related experience US Citizenship Required: No Job Description: GDIT has been supporting the IHS mission for 20+ years; working with the agency to provide integral services to raise health access and availability to 2.6 million American Indians and Alaska Natives. You'll be part of modernizing the EHR platform to enable better data access, patient experience, and quality of care for 567 tribes, 37 states and over 600 medical facilities. \u00a0 Our work depends on a  ServiceNow Developer  joining our team to support the  Indian Health Service (IHS) Electronic Health Records Modernization (EHRM)  program. As a ServiceNow Developer   \u00a0 \u00a0 supporting the IHS EHRM program, you will be responsible for setting up and maintaining the ServiceNow instance for the program. \u00a0 This position is fully remote! \u00a0 HOW A SERVICENOW DEVELOPER WILL MAKE AN IMPACT: Develops and maintains cloud solutions, supporting cloud systems, plans and strategy Develop, configure, and maintain custom reports, dashboards (using PA/Reporting), and KPIs for ITSM (Incident, Problem, Change, Request) to visualize performance and trends Build and customize applications, workflows, Business Rules, UI Policies, and Client Scripts within ITSM modules Work with end users, stakeholders, and management to define and create reports, dashboards, and data analysis products Customize user interfaces, forms, and workflows to align with business needs Script and automate processes, data imports, and report generation to enhance efficiency Connect ServiceNow with other systems using",
+    "posted": "Sun, 22 Nov 2026 17:00:44 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:18:25.210561+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oddball-data-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oddball-data-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Oddball: Data Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oddball-data-engineer",
+    "description": "Headquarters:  \n     URL:   https://www.oddball.io \n \n\n Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. \n This position is contingent upon contract award. \n We\u2019re looking for a  Data Engineer  to join our CMS team, building the pipelines that move Medicare claims data between legacy systems and a modern platform. \n What you'll be doing: \n \n Build and maintain pipelines that move and transform claims and beneficiary data \n Map data between legacy sources and the new platform \n Reconcile source and target data to confirm accuracy and completeness \n Build data quality checks into pipelines \n Troubleshoot pipeline issues and data mismatches \n Work with integration, QA, and security teams \n \n What you\u2019ll bring: \n \n Hands-on experience building production data pipelines in cloud environments \n Strong  SQL  and  Python  skills \n Experience with  AWS  data services is a plus \n General healthcare or Medicare claims data experience is a plus \n Experience with legacy or mainframe data sources is a plus \n Thrives in a remote, collaborative  Agile  environment and genuinely enjoys working closely with data and integration teams \n Communicates clearly and openly, whether documenting a pipeline or tracking down a data issue \n Perform other related duties as assigned \n \n Requirements: \n \n Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance. \n \n Education: \n \n Bachelor's Degree \n \n Benefits: \n \n Fully remote \n Tech & Education Stipend \n Comprehensive Benefits Package \n Company Matc",
+    "posted": "Sun, 22 Nov 2026 17:00:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:18:26.595802+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oddball-senior-integration-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oddball-senior-integration-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Oddball: Senior Integration Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oddball-senior-integration-engineer",
+    "description": "Headquarters:  \n     URL:   https://www.oddball.io \n \n\n Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. \n This position is contingent upon contract award. \n We\u2019re looking for a  Senior Integration Engineer  to join our CMS team, building the connections between a modern claims platform and the legacy systems behind Medicare claims. \n What you'll be doing: \n \n Design and build integrations and APIs between the new platform and legacy systems \n Lead technical work for your pod and guide design decisions \n Build and maintain  REST  services and data exchanges in  Java  or a similar language \n Troubleshoot complex interoperability issues across systems \n Use AI-assisted development tools such as  GitHub Copilot  or  Claude Code  to speed up delivery while keeping quality high \n Review code and mentor mid and junior engineers \n Work with architects, QA, and data engineers to ship reliable releases \n \n What you\u2019ll bring: \n \n Strong experience building integrations between modern and legacy systems \n Experience with Medicare or healthcare claims systems, or commercial claims platforms \n Strong  Java  or similar backend language skills, with solid  API  design experience \n Experience with  AWS  cloud environments \n Familiarity with  COBOL  or mainframe is a plus \n Familiarity with AI-assisted development tools is a plus \n Thrives in a remote, collaborative  Agile  environment and genuinely enjoys mentoring engineers \n Communicates clearly and openly, whether in a design review or a handoff with another team \n Perform other related duties as assigned \n \n Requirements: \n \n Applicants must be authorized to work in the United States. In alignment with federal contract requirement",
+    "posted": "Sun, 22 Nov 2026 17:00:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:18:28.373329+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oddball-integration-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oddball-integration-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Oddball: Integration Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oddball-integration-engineer",
+    "description": "Headquarters:  \n     URL:   https://www.oddball.io \n \n\n Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. \n This position is contingent upon contract award. \n We\u2019re looking for an  Integration Engineer  to join our CMS team, building the connections between a modern claims platform and the legacy systems behind Medicare claims. \n What you'll be doing: \n \n Build integrations and  REST  APIs between the new platform and legacy systems \n Write clean, well-tested code in  Java  or a similar language \n Troubleshoot interoperability issues during testing and cutover \n Use AI-assisted development tools such as  GitHub Copilot  or  Claude Code  to speed up delivery while keeping quality high \n Take part in code reviews and Agile ceremonies \n Work with architects, QA, and data engineers to ship reliable releases \n \n What you\u2019ll bring: \n \n Hands-on experience building integrations or APIs in  Java  or a similar backend language \n Solid understanding of  REST  API design and how systems exchange data \n Experience with  AWS  cloud environments is a plus \n General healthcare or Medicare claims experience is a plus \n Familiarity with AI-assisted development tools is a plus \n Thrives in a remote, collaborative  Agile  environment and genuinely enjoys working closely with a cross-functional team \n Communicates clearly and openly, whether in a code review or a planning session \n Perform other related duties as assigned \n \n Requirements: \n \n Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security c",
+    "posted": "Sun, 22 Nov 2026 17:00:36 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:19:09.148800+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level",
+    "source": "WeWorkRemotely",
+    "title": "DLN Consulting Group: Data Processing Specialist-Entry Level",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level",
+    "description": "Headquarters:  Austin, Texas, United States\n     URL:   https://jobs.workable.com/company/7L2FzU15AMzMKn9txgLfbp/jobs-at-dln-consulting-group \n \n\n Data Processing Specialist \u2014 Entry Level  Company: DLN Consulting Group  Location: Remote (United States)  Job Type: Full-Time  Salary: $38,000 \u2013 $52,000/year   Description DLN Consulting Group is hiring an Entry Level Data Processing Specialist to support our data and operations team. You\u2019ll be responsible for entering, verifying, and organizing data accurately across our internal systems to keep our consulting operations running smoothly. This is an excellent opportunity for someone looking to launch their career in a professional services environment \u2014 no prior experience required. We provide full training and a clear path to grow within the organization. You\u2019ll input and update data across internal databases, review records for accuracy and correct errors or inconsistencies, organize and maintain digital files, generate basic reports and summaries as requested, and support team members with data-related tasks. All work is performed remotely with the support of a collaborative team behind you. \n High school diploma or GED required Basic computer proficiency \u2014 comfortable with Microsoft Office or Google Workspace Strong attention to detail and accuracy Ability to handle repetitive tasks with consistency and focus Good time management and ability to meet deadlines Reliable high-speed internet and a quiet dedicated workspace Self-motivated and dependable in a remote work environment Associate\u2019s degree or some college coursework preferred but not required Prior data entry or administrative experience a plus \n $38,000 \u2013 $52,000 base salary Medical, Dental & Vision coverage 401(k) with company match Generous PTO \u2014 vacation, sick days & paid holidays 12 weeks Paid Parental Leave Full paid training & onboarding \u2014 no experience needed Equipment stipend for remote setup Mentorship and on-the-job development Clear advancement pat",
+    "posted": "Sun, 22 Nov 2026 17:00:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:19:54.931484+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/celonis-applied-ai-value-consultant": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-applied-ai-value-consultant",
+    "source": "WeWorkRemotely",
+    "title": "Celonis: Applied AI Value Consultant",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-applied-ai-value-consultant",
+    "description": "Headquarters:  Remote, Canada\n \n\n Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. \n The Team:  Value Engineering is responsible for our largest Fortune 500 customers and owns their transformation journey by working on the very frontier of what\u2019s possible with data and AI on the Celons Platform. Partnering closely with the Sales team, Value Engineering is responsible for ensuring that the Celonis Platform is deployed to tackle the most strategic business challenges, fits into the right place in our customers\u2019 technology stack and most importantly,",
+    "posted": "Sun, 22 Nov 2026 06:02:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:19:57.845408+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-communications-generalist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-communications-generalist",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Communications Generalist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-communications-generalist",
+    "description": "Headquarters:  Remote - USA\n \n\n Ready to do the most impactful work of your career? At\u00a0 Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d\u00a0 Learn more about working at Coinbase . \n As a Communications Generalist on the Communications team, you'll plan and execute proactive and reactive communications across owned and earned channels to protect and grow Coinbase's reputation. This team drives media relations, crisis response, executive communications, and launch narratives across a fast-moving crypto environment. You'll own end-to-end communications planning for product launches and company announcements, manage rapid-response cycles for issues and crises, and build relationships with media that shape how the public understands Coinbase and crypto. \n \u00a0 \n What you'll do: \n \n Own proactive communications plans for company launches and announcements, from messaging development through media outreach and post-launch measurement. \n Drive media relations by responding to inbound inquiries, pitching stories, staffing interviews, and managing reporter relationships across crypto and mainstream press. \n Develop content across channels, including messaging frameworks, blog posts, social copy, and web materials that align with Coinbase's brand voice and communications strategy. \n Prepare spokespeople for media appearances by crafting briefing documents with key messages, anticipated questions, and strategic guidance. \n Lead rapid-response communications for crisis and issues management, partnering with Legal, Policy, and executive l",
+    "posted": "Sun, 22 Nov 2026 06:02:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:20:43.542886+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager",
+    "source": "WeWorkRemotely",
+    "title": "Legion: Senior Deal Desk Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager",
+    "description": "Headquarters:  Remote, United States\n \n\n JOB OVERVIEW \n The Senior Deal Desk Manager is a senior individual contributor role responsible for how Legion prices, structures, approves, and contracts global deals across every region Legion sells into. Reporting to the Head of Revenue Operations, this person will take a Deal Desk that already has a foundation and scale it into a fast, compliant, AI-native function \u2014 through better systems and automation, not more headcount. \n The ideal candidate has built Deal Desk operations from scratch at an early-stage or growth-stage SaaS company and knows what to standardize, what to automate, and what to leave flexible. They work AI-first: when a process is slow, their first move is to build an agent, a tool, or an automation. This person will serve as the connective tissue between Sales, Finance, Legal, and Client Management, helping to streamline quote-to-close workflows, enforce pricing governance, and accelerate revenue realization. \n RESPONSIBILITIES AND DUTIES \n \n Own deal structuring for complex new business, expansion, and renewal deals, partnering with sales leaders on creative structures that protect margin and policy. \n Own the approval matrix, discount guardrails, non-standard terms policy, and SLAs, with accountability for approval cycle time and quote accuracy. \n Support global deals end to end, including multi-currency pricing, multiple contracting entities, regional terms and tax considerations, and approval cycles that span time zones. \n Partner with Legal and Finance on contract standards, regional contracting requirements (data protection terms, local entity paper, currency/FX policy), revenue recognition alignment, and the order-to-cash handoff. \n Design Deal Desk workflows with AI at the core \u2014 for example, automated deal pre-screening against pricing and packaging policy, AI-generated deal summaries for approvers, and AI-assisted redline review against Legal\u2019s playbook. \n Build and iterate working tools \u2014 pri",
+    "posted": "Sun, 22 Nov 2026 06:02:43 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:22:13.739304+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/smartsheet-sr-data-scientist-ii-remote-eligible": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/smartsheet-sr-data-scientist-ii-remote-eligible",
+    "source": "WeWorkRemotely",
+    "title": "Smartsheet: Sr. Data Scientist II (Remote Eligible)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-data-scientist-ii-remote-eligible",
+    "description": "Headquarters:   -REMOTE, USA-\n \n\n For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it\u2019s what we show up for every day. Smartsheet is looking for an experienced Senior Data Scientist II to build the ML models and AI sub-agents that drive growth, monetization, efficiency, and retention across the customer lifecycle. You\u2019ll work end-to-end framing problems, building models across the modern ML and deep learning toolkit, designing sub-agents that reason and act, and shipping all of it into production for millions of users. The data is unusually rich: petabyte-scale execution data spanning two decades of how real work gets done. You are curious, technically rigorous, and can translate complex modeling and sub-agent behavior into clear recommendations for your partners. You will work primarily with Product and Engineering and will be a part of Smartsheet\u2019s Business Intelligence team. \n This full-time position will report to a Data Science & BI Leader and can be located in our Bellevue, WA office, or you may work remotely from anywhere in the US where Smartsheet is a registered employer. \n You Will: \n \n Design and ship AI sub-agents that act across the customer lifecycle, combining predictive models, retrieved context, and LLM reasoning to recommend or take action \n Build the predictive and prescriptive models that power those sub-agents\u00a0 churn risk, growth, adoption trajectories, account health scoring, and similar lifecycle problems \n Develop the data foundations and knowledge layer those sub-agents reason over, applying responsible aggregation and privacy-aware design \n Design the tools, retrieval, and groun",
+    "posted": "Sun, 22 Nov 2026 06:02:20 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 6,
+    "pitch": "I saw Smartsheet's opening for a Senior Data Scientist focused on AI sub-agents and wanted to reach out. As an AI engineer with strong full-stack foundations, I specialize in moving complex deep learning models and agentic workflows from prototype into reliable production environments. My background includes architecting autonomous agents that reason, invoke tools, and deliver quantifiable efficiency gains across customer workflows. Combining rigorous ML modeling with robust backend engineering ensures high throughput when operating over massive data sets. I would welcome the opportunity to discuss how my end-to-end AI implementation experience can help accelerate Smartsheet\u2019s agentic product roadmap.",
+    "status": "new",
+    "found_at": "2026-11-22T19:22:40.105758+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer-on-prem": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer-on-prem",
+    "source": "WeWorkRemotely",
+    "title": "CircleCI: Staff Software Engineer, On-Prem",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer-on-prem",
+    "description": "Headquarters:  Canada (Remote) or United States (Remote) or  Mexico City, Mexico (Hybrid)\n \n\n\n About CircleCI Engineering \n CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. \n At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. \n About the On-Prem Team \n The On-Prem team ships CircleCI Server, our self-hosted CI/CD platform for customers who need to run everything inside their own infrastructure: regulated industries, air-gapped environments, and teams with strict data residency and compliance requirements. Our mission is to deliver an on-premises CircleCI that is secure, highly available, and easy to install, upgrade, and support. \n Our team serves two kinds of customers: the organizations that run Server, and the CircleCI engineering teams whose services ship inside it. Beyond the product itself, we own the tooling and infrastructure that let those teams package, test, and release their services into Server and keep them current. As a Staff Engineer here, you'll care as much about the internal release experience as about making Server reliable and easy to operate for external customers. \n What You'll Do \n \n Build AI-natively.  AI is how we work. It's not a productivity layer on top of engineering, but the default starting point for how we approach and solve problems. \n Make shipping into Server easy for every team.  Own the platform strategy, setting the technical direction for the tooling, test infrastructure, and release automation that Ci",
+    "posted": "Sun, 22 Nov 2026 06:01:38 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T19:23:25.542879+00:00"
   }
 }
