@@ -14055,5 +14055,82 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-21T19:06:05.930498+00:00"
+  },
+  "remoteok-1137932": {
+    "id": "remoteok-1137932",
+    "source": "RemoteOK",
+    "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+    "company": "Reddit",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932",
+    "description": "Reddit is a community of communities. It\u00e2\u0080\u0099s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u00e2\u0080\u0099s largest sources of information. For more information, visit  www.redditinc.com . \n \n \n \n \n We are seeking a Senior Staff Machine Learning Engineer to lead the technical direction of Reddit\u00e2\u0080\u0099s Core Ads Ranking and mid-funnel modeling systems. Operating as a hands-on technical leader, you will advance user representation, graph learning, and sequence modeling across ads verticals\u00e2\u0080\u0094building foundational architectures that power downstream teams including Retrieval, Shopping, Click Prediction, Video View-Through Prediction, Conversion Prediction, and App Ads Modeling. \n In addition to driving core ranking breakthroughs, you will elevate how ML engineering is executed across the org\u00e2\u0080\u0094leveraging modern AI-assisted development workflows (such as Claude, Cursor, and comparable tools) to accelerate experimentation, deepen error analysis, and raise the bar for modeling rigor and velocity. \n Why Join Us?  This role offers a high-leverage technical platform to shape and scale Reddit\u00e2\u0080\u0099s foundational ads modeling and deep user-understanding roadmap. If you are passionate about solving complex ranking, calibration, and sequence modeling problems at scale\u00e2\u0080\u0094while utilizing cutting-edge AI workflows to multiply your team's modeling impact\u00e2\u0080\u0094we\u00e2\u0080\u0099d love to talk to you. \n What You\u00e2\u0080\u0099ll Do: \n \n Set Foundational Modeling Vision:  Define and execute the technical roadmap for Core Ads Ranking, user representation, graph learning, and sequence modeling across mid-funnel objectives (clicks, video views, and conversions), balancing long-term foundational bets with measurable production gains. \n Advance Core Ranking ",
+    "posted": "2026-11-21T02:40:04+00:00",
+    "tags": [
+      "product"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T06:01:31.379270+00:00"
+  },
+  "remoteok-1137926": {
+    "id": "remoteok-1137926",
+    "source": "RemoteOK",
+    "title": "Staff Scientist, Machine Learning (Genomics)",
+    "company": "Natera",
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926",
+    "description": "Natera is seeking a highly motivated Staff Machine Learning Scientist to join our rapidly growing company. As a member of the Data Science research team you will participate in the design and prototyping of cutting edge algorithms for analysis of genetic and clinical data. You will perform data analysis, algorithm design, contribute to our intellectual property portfolio, and interact closely with R&D and product teams to define the requirements and improve the products and processes. \n PRIMARY RESPONSIBILITIES: \n \n ML/DL Research Leadership:  Lead research on machine learning and deep learning models using NGS data. Frame the problem, choose the approach, and decide when a model has earned the next round of investment. This is an individual contributor role with Staff-level scope. You will set the technical direction of the work, not just carry out a plan someone else wrote. \n Algorithm and Model Development:  Design, build, and benchmark the models and features behind the next generation of Women Health and Organ Health products. Apply statistical learning and deep learning to high-dimensional, noisy, often small-sample sequencing data. Know when a simpler method is the right answer. \n Working with Bioinformatics Pipelines:  Work directly with the existing sequencing pipelines and their outputs without needing a bioinformatician to run, change, or interpret them for you. When results look wrong, trace the problem back through each processing step and work out whether it comes from the pipeline, the data, or the biology. Build or extend pipeline components when a project needs it.\u00c2\u00a0 \n Study Design and Experimental Partnership:  Work with molecular biology and assay development scientists to design experiments. Help decide what data to generate, how much of it, and with what controls so the analysis can answer the question. Troubleshoot experiments alongside the lab, and tell a biology problem from a data or analysis problem. \n Rigor and Documentation:  Set the stan",
+    "posted": "2026-11-21T01:40:04+00:00",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T06:01:39.513462+00:00"
+  },
+  "remoteok-1137917": {
+    "id": "remoteok-1137917",
+    "source": "RemoteOK",
+    "title": "Senior Applied AI Engineer",
+    "company": "Wemolo",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
+    "description": "Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outdoors, around the clock. As  Senior Applied AI Engineer  (all genders), you work like a forward deployed engineer, embedded with our internal teams. AI is reshaping how we work: you find where it has the highest impact, decide what is worth building, and then build it. You work closely with team leads across departments and within our Data & AI team. The role combines discovery and hands-on engineering: you split your time between working with teams and building the solutions yourself. User pain points are often vague at first, and priorities change as we learn which use cases hold up. Once a solution works, you hand it over and move on to the next problem. Pure coding, pure advisory work or polishing a single system for months are not part of the job. If turning unclear problems into working AI solutions is your thing, you\u00e2\u0080\u0099ll feel at home here. As we are looking for a hands-on engineer, a coding interview is an integral part of our interview process. What to expect Discovery:  Shadow processes and interview the people doing the work. Quantify and validate where time and quality are lost. Prioritization:  Prioritize use cases across departments by impact, not by what is easiest or needs the most advanced tooling, and say no to the ones that don\u00e2\u0080\u0099t hold up. Make or buy:  Test existing tools and new AI providers against our use cases before building. Build and ship:  Build the solution yourself: LLM based systems, traditional ML, rule based automation, or a combination, depending on the problem. Ship a first usable version within weeks, integrated into the tools people already use, and iterate based on feedback. Measure success:  Define success upfront: business outcome, adoption and metrics that measure output",
+    "posted": "2026-11-21T00:00:11+00:00",
+    "tags": [
+      "embedded",
+      "sys admin",
+      "python",
+      "technical",
+      "dev",
+      "testing",
+      "marketing",
+      "speech",
+      "senior",
+      "ops",
+      "sales",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T06:01:39.756638+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/storyblok-velocity-sales-director-usa-europe": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/storyblok-velocity-sales-director-usa-europe",
+    "source": "WeWorkRemotely",
+    "title": "Storyblok: Velocity, Sales Director - USA & Europe",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/storyblok-velocity-sales-director-usa-europe",
+    "description": "Headquarters:  Remote\n \n\n Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. \n Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. \n \u00a0 \n WHAT IS IN IT FOR YOU \n You will be joining a growing company where you can contribute to many \u201cfirsts\u201d. Plus these benefits: \n \n Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor\u2026) \n Home office equipment upgrade (furniture, ear plugs \u2026) or membership to a local co-working space after your onboarding \n Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays \n Personal development fund for courses, books, conferences, and material \n The annual international team-building trip, quarterly and monthly online get-togethers \n As a fully remote company, with work-life balance at its core, you\u2019ll enjoy flexible schedules \n An international team that loves to have fun at work and works hard together to accomplish shared goals \n JOB SUMMARY \n The Director of Sales, Velocity is a key leadership role within the Sales division. You will build, develop and lead a global team of Account Executives who close high volume SMB deals. This is a coaching-first leadership role. Your team will be early in career, and your ability to grow them into confident, consistent performers is what drives results. You will shape the Storyblok Velocity sales motion, scale revenue across regions and own the plans, processes and people strategy behind it. You will also build the talent pipeline from which Storyblok\u2019s next generation of sales leaders will emerge. \n \u00a0 \n ESSENTIAL JOB FUNCTIONS \n \n Lead, coach and scale a global team of Velocity Account Executives \n Build and run a structured coaching program co",
+    "posted": "Sun, 22 Nov 2026 06:01:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-22T06:01:40.051208+00:00"
   }
 }
