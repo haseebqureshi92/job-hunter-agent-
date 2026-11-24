@@ -14580,5 +14580,85 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-23T23:43:07.477039+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+    "source": "WeWorkRemotely",
+    "title": "Vertican: Senior Applied AI Engineer, Document Intelligence",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+    "description": "Headquarters:  New Jersey, USA\n     URL:   https://vertican.com \n \n\n About the role \n For 40 years Vertican has buildt software that runs law firms. One year ago we created a new modern AI platform for document automation (processing/extraction/redacting) which our customers have been adopting faster than any product we've ever had. Our suite of AI-enabled products save customers thousands of hours each week by processing high volumes of documents with precision and speed.The AI team is growing and we'd like you to join. \n We are hiring an engineer to own the document processing pipelines end to end: design, benchmarking, experimenting with new architectures and tools, threshold required for deploying a new pipeline, etc. \n We believe it's important to build our own tooling to help us run, improve, and measure our applications. Therefore, the ideal candidate thinks outside the box on how to not just build the product/pipeline, but also the tooling needed around it. \n You will be the first dedicated ML hire on the product taking over from the engineering manager who build the current solution and will work directly with the founding engineering team. \n This is a senior, hands-on individual-contributor role, but we are small team and you'll be involved in design, planning, roadmapping, and architectural decisions. \n What you will do \n Design the pipelines.  Own the architecture of the extraction-to-posting pipelines: page classification, field extraction, candidate retrieval, claim matching, confidence gating and the hand-off to human review, etc. Decide where rules end and models begin, and what each stage must guarantee to the next, what the separation of concerns are, etc. \n We have different pipelines for different document types and expect that at any given point in time we may have new ones emerge and may consolidate others. \n Evaluate new systems before we adopt them.  Run structured trials of candidate components and recommend what to keep. Examples include pr",
+    "posted": "Thu, 05 Nov 2026 17:12:27 +0000",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T09:20:08.592684+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/rubrik-job-board-global-professional-services-partner-leader-professional-services": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/rubrik-job-board-global-professional-services-partner-leader-professional-services",
+    "source": "WeWorkRemotely",
+    "title": "Rubrik Job Board: Global Professional Services Partner Leader, Professional Services",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-global-professional-services-partner-leader-professional-services",
+    "description": "Headquarters:  Remote, US\n \n\n \u00a0 \n About the Role \n At Rubrik, we are seeking a leader for a strategic cross-functional role responsible for developing and managing the Global Professional Services Partner Enablement program (RPSP). In this critical position, you will develop and manage the program's entire lifecycle, ensuring that our partners remain compliant with all professional requirements while facilitating deep cross-functional collaboration. You will play a vital part in building the operational foundation that allows our partner ecosystem to scale effectively alongside Rubrik\u2019s growth. \n For this role we want a strategic thinker and experienced leader with a passion for partner success and professional services excellence. The ideal candidate will possess a blend of operational rigor, relationship-building skills, and deep program management expertise.\u00a0 \n Reports To: Vice President, Global Professional Services \n Key Responsibilities \n \n Program Leadership: Build and manage the Rubrik Professional Services Partner Enablement program (RPSP), establishing it as a world-class standard for partner excellence. \n Governance & Compliance: Drive and enforce program participation requirements to ensure all partners meet Rubrik\u2019s high standards for service delivery and technical proficiency. \n Cross-Functional Collaboration: Partner closely with PS Global Practice Leaders, Rubrik University, PS Leadership, and Services Engineering Manager to align enablement goals with business objectives. \n Partner Ecosystem Enablement: Collaborate with various enablement teams, including GSI, MSP, and SI partners, to develop and scale specialized partner tracks. \n Lifecycle Management: Oversee the end-to-end lifecycle of the RPSP, including recruitment, onboarding, ongoing performance monitoring, and strategic program evolution. \n \n Qualifications & Requirements \n \n Experience: 7-10 years of direct experience in Professional Services (PS) partner program development and management.",
+    "posted": "Tue, 24 Nov 2026 06:02:28 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T09:20:19.186608+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Software Engineer Guest & Host",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
+    "description": "Headquarters:  Remote, USA \n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n Airbnb\u2019s mission is to create a world where anyone can belong anywhere. Essential to this mission is the ability to have authentic conversations with members of a global community. The Messaging Foundations team builds the platform that powers these conversations. As a Senior Software Engineer on the team, you will build innovative products, architect scalable solutions, collaborate across organizations, and help shape our roadmap - ensuring that our global community of guests and hosts can communicate seamlessly, wherever they are. \n The Difference You Will Make: \n You will build and operate the reliable, performant, and scalable infrastructure that powers all messaging experiences across Airbnb. You will build a platform that enables product teams across Airbnb to innovate new conversational experiences faster. You will support and deliver AI-powered features as part of the messaging intelligence platform, driving improvements in trip quality and reducing host effort through contextual assistance. \n A Typical Day:\u00a0 \n \n Lead multiple projects that improve the messaging experience \n Mentor, guide, advocate and support the career growth of individual contributors \n Write and review technical designs that solve large, open-ended foundational technical problems without clearly-known solutions \n Collaborate with other engineers and cross-functional partners across Messaging and other organizations across the company to align on long-term technical solutions \n Build knowledge of leading edge practices and trends \n Drive key technical deliverables for the",
+    "posted": "Tue, 24 Nov 2026 06:02:14 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T09:20:26.826748+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Mobile Software Engineer, Quality Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
+    "description": "Headquarters:  Brazil - Remote\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n The Quality Engineering team helps Airbnb build high-quality software efficiently. We enable Airbnb engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously improve product test cases, automation coverage, test automation tools, environments, frameworks. We navigate Airbnb's massive codebase identifying weak spots, and help design and implement testable fault-tolerant systems. \n The Difference You Will Make: \n \n Be a leader in Airbnb, leveraging AI to redefine and accelerate Quality Engineering. \n As a Senior Mobile Software Engineer, you will help us meet this challenge by building and evolving comprehensive automation coverage for features and releases across both native mobile stacks. You will work directly with the iOS and Android product engineering teams to develop and maintain our test tools, write and test product code, participate in design reviews to architect testable systems, and guide designs and code to enhance modularity and testability. \n You are eager to understand complex systems top to bottom and thrive working across technologies and codebases. In addition, you excel at working through ambiguity, concept validation, and implementing best-in-class solutions. \n As a global company, our mission is to develop and maintain the necessary quality engineering processes that scale to meet the needs of both our external customers and internal teams. We strive to ensure that our product and support workflows deliver a seamless experience for guests, Hosts, and support agents. \n \n A Typ",
+    "posted": "Tue, 24 Nov 2026 06:02:03 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T09:20:53.415239+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries",
+    "source": "WeWorkRemotely",
+    "title": "Affirm: Analytics Lead, Full Stack (Collections & Recoveries)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-collections-recoveries",
+    "description": "Headquarters:  Remote Canada\n \n\n At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Risk & Analytics team makes crucial decisions that direct Affirm\u2019s business strategy. Our team designs and runs experiments to decide which product features to launch and which marketing campaigns to fund. We analyze performance not just to report on it, but to determine where to invest resources for maximum impact through building tools and analytical frameworks. We take ownership of the entire analytical lifecycle, from initial question to final business decision, ensuring Affirm grows efficiently and intelligently. \n About the role \n The Collections & Recoveries Analyst will own and drive the collections and recoveries strategy for Affirm Canada, spanning the full post-delinquency lifecycle from early-stage digital and outbound collections through third-party recovery-agency placement and post-charge-off recoveries, partnering closely with Product and Compliance to ensure collections and recoveries practices meet Canadian federal and provincial consumer protection, collections, and privacy requirements. The analyst will be responsible for owning and driving the collections and recoveries roadmap for the market, quantifying the impact of new collections and recovery initiatives, and monitoring downstream performance. \n The ideal candidate will have a combination of strong analytical expertise with a deep understanding of consumer credit and collections behaviour, and the ability to improve recovery outcomes through data-driven insights, vendor management, and cross-functional stakeholder management. \n Come join us in our mission to change consumer finance through better data and technology, lower costs, and increased transparency while providing the best customer experience. \n What you\u2019ll do \n You will own the full Canadian post-delinquency lifecycle: ",
+    "posted": "Tue, 24 Nov 2026 06:01:35 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T09:20:53.617682+00:00"
   }
 }
