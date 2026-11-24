@@ -14660,5 +14660,261 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-24T09:20:53.617682+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-big-data-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-big-data-platform",
+    "source": "WeWorkRemotely",
+    "title": "Pinterest: Principal Engineer, Big Data Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-big-data-platform",
+    "description": "Headquarters:  San Francisco, CA, US; Remote, US\n \n\n About Pinterest: \n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. \n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the\u00a0 flexibility  to do your best work. Creating a career you love? It\u2019s Possible. \n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. \n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process  here . We\u2019re looking for a principal software engineer to lead the next generation of data infrastructure at Pinterest which powers mission critical big data and AI applications. You\u2019ll be working on some of the most exciting big data and AI open source technologies (Flink, Spark, Kubernetes, etc.), at the scale of exabytes of data to help Pinners discover and do what they love. \n \u00a0 \n What you\u2019ll do: \n \n Lead the strategy and technical direction of Pinterest\u2019s data infrastructure for big data and AI applications \n Build and scale data infra frameworks and infrastructure to process petabytes-scale datasets, including compute engines, job management, resource management, scheduling and remote shuffling \n Work with internal customers on critical business use cases that rely on big data\u00a0 \n Provide t",
+    "posted": "Tue, 24 Nov 2026 18:32:37 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:11:29.694127+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-ai-platform": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-ai-platform",
+    "source": "WeWorkRemotely",
+    "title": "Pinterest: Principal Engineer, AI Platform",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-ai-platform",
+    "description": "Headquarters:  San Francisco, CA, US; Remote, US\n \n\n About Pinterest: \n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. \n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the\u00a0 flexibility  to do your best work. Creating a career you love? It\u2019s Possible. \n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. \n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process  here . Millions of people across the world come to Pinterest to find new ideas every day. It\u2019s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. As a Pinterest employee, you\u2019ll be challenged to take on work that upholds this mission and pushes Pinterest forward. \n As a Principal Engineer on the AI Platform team, you'll help architect the infrastructure that powers both Generative AI and Recommender Systems across Pinterest's entire product suite. Our team builds the end-to-end engines for petabyte-scale data orchestration, model training and fine-tuning, and high-performance inference, ensuring our models scale seamlessly to hundreds of millions of inferences per second",
+    "posted": "Tue, 24 Nov 2026 18:32:37 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:12:15.814449+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-member-services-senior-associate": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-member-services-senior-associate",
+    "source": "WeWorkRemotely",
+    "title": "Maven Clinic: Member Services Senior Associate",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-member-services-senior-associate",
+    "description": "Headquarters:  Remote\n \n\n Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife \u2014 improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com \n An award-winning culture working towards an important mission \u2013\u00a0 Maven Clinic is a recipient of over 30 workplace and innovation awards, including:\u00a0 \n \n TIME 100 Most Influential Companies (2023, 2026) \n Fortune Change the World (2024) \n CNBC Disruptor 50 List (2022, 2023, 2024) \n Fortune Best Workplaces for Millennials (2024) \n Fortune Best Workplaces in Health Care (2024) \n Fast Company Most Innovative Companies (2020, 2023) \n Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) \n About the Role:\u00a0 \n Maven is seeking a Member Services Senior Associate who brings strong customer judgment, operational rigor, and the ability to navigate complex benefits and payment workflows with confidence and care. In this role, you will serve as a trusted point of contact for membe",
+    "posted": "Tue, 24 Nov 2026 18:32:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:12:21.638692+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-tee-specialist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-tee-specialist",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: TEE Specialist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-tee-specialist",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role \n We're seeking a TEE Specialist to pioneer the next generation of on-chain compute verifiability solutions. You'll be at the forefront of integrating TEE technology with GPU compute for AI workloads, working on immediate, high-impact initiatives that are crucial for making fully onchain AI practical. \n \n Design and implement TEE - based solutions for secure AI model execution \n Develop and optimize TEE + GPU integration patterns for high-performance AI workloads \n Build verification mechanisms for computational integrity using TEE capabilities \n Design and implement secure network traffic attestation systems for bridging off-chain data \n Utilize secure enclaves for sensitive operations within our distributed network \n Work with our core team to implement practical, market-ready TEE solutions \n Collaborate on architecture decisions balancing security, performance, and time-to-market \n Maintain and optimize TEE environments in production systems \n \n About you \n \n Deep expertise in TEE technologies (SGX, TDX, SEV-SNP), with practical implementation experience \n Strong background in systems programming (C++, Rust), with focus on secure enclave development \n Experience with GPU integration in TEE environments \n Solid understanding of Linux systems and kernel-level programming \n Expertise in network security protocols and traffic attestation mechanisms \n Familiarity with EVM-based bloc",
+    "posted": "Tue, 24 Nov 2026 18:32:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:12:26.252757+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern",
+    "source": "WeWorkRemotely",
+    "title": "Ritual: Software Engineer Intern",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern",
+    "description": "Headquarters:  Remote\n \n\n About Ritual\u00a0 \n Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role\u00a0\u00a0 \n \n Prototype rapidly, iterate and execute quickly based on technical guidance\u00a0 \n Work at the frontier of modern cryptographic schemes and open-source AI \n Release your work into the open-source world and build alongside the Ritual community \n \n About you \n \n Intellectually curious around intersections of interdisciplinary fields ranging from game theory to cryptography to machine learning \n Quick iteration and development cycles on writing and/or proof-of-concept \n \n Extras \n \n Experience in cryptography,\u00a0 machine learning software projects, ideally in open-source land \n \n Why join us\u00a0 \n \n Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure hardened by cryptographic schemes \n We work completely in open-source and ship weekly \n Maximize your knowledge gradient around fields that typically would not intersect \n \n We\u2019re open to exceptional people of all backgrounds for research (e.g. high school, undergraduate and postgraduate degree). \n\n To apply:   https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern",
+    "posted": "Tue, 24 Nov 2026 18:32:09 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:12:46.903892+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/twilio-devops-engineer-observability": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/twilio-devops-engineer-observability",
+    "source": "WeWorkRemotely",
+    "title": "Twilio: DevOps Engineer (Observability)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/twilio-devops-engineer-observability",
+    "description": "Headquarters:  Remote - Ireland\n \n\n Who we are\u00a0 \n At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to \u00a0hundreds of thousands of businesses\u00a0 and empower millions of developers worldwide to craft personalized customer experiences. \n Our dedication to  remote-first work , and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . \n Hiring and how we work \n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\u00a0 \n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. .   See yourself at Twilio\u00a0 \n Join the team as our next Software Engineer on Twilio\u2019s platform engineering observability team. \n About the job \n This position is needed to help our platform engineering observability team. Twilio is undergoing a large-scale observability transformation\u2014and you can help shape the foundation. Observability is a strategic pillar and a key enabler for faster incident response, deeper customer-centric insights, and more cost-effective platform operations. \n As a Software Engineer on the Platform Observability team, you\u2019ll play a critical role in re-architecting how telemetry flows and is utilized through Twilio\u2014making it structured, accessible, affordable, and actionable. Over the next 3 years, Twilio is rebuilding nearly every component of our observability platform, from data collection to real-time analytics. You will drive core initiatives that shift Twilio from fragmented tooling and wasteful data sprawl to a unified, Open",
+    "posted": "Tue, 24 Nov 2026 18:32:02 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:12:49.236442+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-ai-accounts": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-ai-accounts",
+    "source": "WeWorkRemotely",
+    "title": "Datadog: Senior Sales Engineer - AI Accounts",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-ai-accounts",
+    "description": "Headquarters:  California, USA, Remote\n \n\n As a Senior Sales Engineer on Datadog's AI Accounts team, you'll serve as the technical lead for a small portfolio of the world's leading AI labs \u2014 accounts that today represent a meaningful share of Datadog's revenue and are growing faster than any cohort in our business. You'll own the technical relationship end to end, work shoulder-to-shoulder with customer engineering teams in production, and help define how Datadog shows up for a cohort whose buying behavior looks nothing like traditional enterprise. \n This team was piloted earlier this year and is now being formalized. You'll be joining early enough to shape the playbook rather than inherit one. \n What You'll Do \n \n Own the technical relationship across a small portfolio of AI labs, go deep on how each customer trains, serves, and scales their models (and/or the downstream products and platforms), and become the person their engineers call first \n Partner with your AE to drive expansion inside accounts that grow unpredictably and fast: identify new workloads and teams as they spin up, and get in front of them before a need becomes a ticket \n Lead discovery inside flat, engineering-led organizations where influence sits with individual contributors rather than titles, and where there are no formal scoping calls to rely on \n Run full-scale POVs in production rather than controlled pilots: instrument real workloads at real scale, prove value against the customer's own success criteria, and work through the operational realities of doing that safely \n Act as an extension of the customer\u2019s engineering/observability team rather than an external operator - this requires judgment about which standard gates serve the customer and which to break \n Work Slack-native and asynchronously as the default, with the responsiveness and proactive posture these accounts expect: flag new features, bugs, and incidents before they ask \n Bring product and engineering in early and often, and ",
+    "posted": "Tue, 24 Nov 2026 18:31:42 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:18.495218+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-employment-counsel": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-employment-counsel",
+    "source": "WeWorkRemotely",
+    "title": "ZoomInfo Technologies LLC: Senior Employment Counsel",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-employment-counsel",
+    "description": "Headquarters:  Remote\n \n\n ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen fast. \u00a0 \n ZoomInfo  is looking for an experienced, pragmatic, and business-minded  Senior Counsel, Labor & Employment  to join our growing in-house legal team in a dynamic, fast-paced environment. \n In this role, you will own the full spectrum of employment matters across the company\u2014from high-impact strategic advisory and executive consultation to the day-to-day, tactical support of our HR team. You will be responsible for providing practical advice across our U.S. workforce, as well as coordinating international employment matters across key regions (most notably the UK and India) in close partnership with the Human Resources team, business leaders, and executive stakeholders. \n While you will partner with senior leadership, you must also be ready and willing to roll up your sleeves on routine matters. Whether you are advising an experienced HR leader on a complex organizational issue or answering a granular, day-to-day question from an HRBP, you approach every issue with equal dedication and practical judgment. We need a trusted advisor who can communicate effectively with executive stakeholders, offer clear recommendations with appropriate guardrails, build repeatable structure, and help our business achieve its goals in a performance-first environment. \n \u00a0 \n What You'll Do: \n Comprehensive Employment Support (From Tactical to Strategic) \n \n End-to-End Ownership: Own all employment matters across the company\u2014no matter how small or routine. Provide reliable, day-to-day counseling and tactical execution on performance management, employee discipline, accommodations, leave, and terminations. \n Support Across",
+    "posted": "Tue, 24 Nov 2026 18:31:18 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:19.300720+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-staff-data-scientist-guest-host-marketplace-ai": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-staff-data-scientist-guest-host-marketplace-ai",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Staff Data Scientist, Guest & Host Marketplace AI",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-staff-data-scientist-guest-host-marketplace-ai",
+    "description": "Headquarters:  Remote\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n Guest Experience is responsible for Search and Discovery, Merchandising, and end-to-end online software experience worldwide from top-of-funnel discovery through post-booking engagement. We are looking for a talented Data Scientist to join the Guest Data Science team. This tech lead will be at the core of using AI and casual inference to understand user behavior in our app, detect underlying intent, and to build data products needed to provide a compelling and personalized experience of our app. We build products that help guests find the inventory most relevant to them in our marketplace. \n The Difference You Will Make: \n As a Senior Staff Data Scientist, you will lead innovation efforts to build methodologies to identify and evaluate the preferences important to every guest, at every step of their online discovery funnel. You will be instrumental in shaping our data strategy to drive guest conversion and regular engagement with the Airbnb platform across our Homes, Experiences and Services business verticals.\u00a0 \n This role emphasizes technical excellence and driving business impact with cutting-edge science. Your role will involve close collaboration with Product to identify in-product optimizations and shape UX design architecture to path how guests navigate from surface-to-surface in our app. \n The ideal candidate will demonstrate to be a domain expert with granular user behavior and sequence datasets in a marketplace setting. You will hold a high bar for our customer experience and balance a passion for AI with a strong desire to accurately understand",
+    "posted": "Tue, 24 Nov 2026 18:31:10 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:19.500156+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-partner-integrations": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-partner-integrations",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Software Engineer, Partner Integrations",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-partner-integrations",
+    "description": "Headquarters:  Remote, USA \n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  \n The Partner Integration team is responsible for integrating new business partners and functionality into Airbnb\u2019s product. We work to improve both the supply and demand side of Airbnb\u2019s Stays, Experiences and Services businesses through thoughtfully designed product experiences for Guest and Hosts. \n We recently launched exciting new features such as grocery delivery and airport transfers, as well as integrations with smart lock providers, rewards programs and more. We are looking to rapidly expand our offerings. \n You will be working closely with a strong, fast-moving team integrating new product functionality into the Guest experience of Airbnb\u2019s core product. This role also interacts with a large cross-functional team of partners across product and design, business and partnerships, customer support and more \n The Difference You Will Make: \n As an Engineer on the Partner Integrations team, you will: \n \n Contribute directly to company growth in new areas as we explore partnerships outside of Airbnb. \n Lead projects end-to-end \u2013 from working with partners directly, to clicking that launch button. \n Identify patterns that allow us to scale new partnerships quickly in the future. \n Have attention to detail about the user experience. \n \n A Typical Day:\u00a0 \n \n Design, write and test new APIs and integrations with partners. \n Write documents to propose, align and document changes to the system. \n Debug external integrations and join the team on-call rotation. \n Collaborate with cross-functional partners such as Product, Program, Design and Engineers, and",
+    "posted": "Tue, 24 Nov 2026 18:31:09 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:24.655400+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/databricks-gtm-strategy-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/databricks-gtm-strategy-manager",
+    "source": "WeWorkRemotely",
+    "title": "Databricks: GTM Strategy Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/databricks-gtm-strategy-manager",
+    "description": "Headquarters:  Remote - California; San Francisco, California; USCA\n \n\n SLSQ227R805 \n While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. Candidates in the listed location(s) are encouraged for this role \n \n San Francisco \n \n The Partner Strategy team works directly with Databricks' Partnerships leaders to drive operational scale across our Consulting and Systems Integrator ecosystem, in an extremely high-growth environment. We give our stakeholders and senior leadership the insights, tools, and decision criteria to shape proactive, effective, data-driven programmatic strategies. \n We're looking for a Strategy Manager to be the business partner to the VP of Global Systems Integrators. It's a critical, high-visibility role built on two elements: \n \n Strategic business partner to GSI leadership. You partner with the VP of Global Systems Integrators to set the strategy and medium- to long-term goals for the business. Then you lead the execution: building scalable processes, building consensus, and running programs end to end. You're the connective tissue across Partnerships, Sales, Product, Finance, Data, Legal, Commercial, and the broader GTM org. You invest the time to know the SI landscape, our GSI partners, and the SI operating model. \n A highly technical, analytical operator. You love working with data. You're AI-fluent, and you use cutting-edge AI and data tools for analysis, problem solving, visualization, and automation. You'll own the executive analyses and deep dives that turn SI performance trends into action. \n \n You must be able to run the day-to-day operating cadence with rigor, while also stepping back to bring a strategic point of view the leader hasn't asked for yet. You will report to the Director of Partner Strategy & Operations. \n \u00a0 \n This is a unique opportunity to help shape and scale the strategy behind one of Databricks' most important growth engines: our Global Systems Integ",
+    "posted": "Tue, 24 Nov 2026 18:31:03 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:32.331985+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/fixd-automotive-vehicle-condition-inspector-remote": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/fixd-automotive-vehicle-condition-inspector-remote",
+    "source": "WeWorkRemotely",
+    "title": "FIXD Automotive: Vehicle Condition Inspector - Remote",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/fixd-automotive-vehicle-condition-inspector-remote",
+    "description": "Headquarters:  Atlanta, Georgia, United States\n     URL:   https://jobs.workable.com/company/p33WSu8nDxqqazwsZzRc7L/jobs-at-fixd-automotive \n \n\n About FIXD & AppraisalPRO AppraisalPRO is FIXD's B2B product that helps dealerships during the vehicle appraisal process. We detect any problems with trade-in vehicles, provide estimated reconditioning costs for a vehicle, and a consumer-facing condition report for use in negotiations. The role Dealers use AppraisalPRO's Inspect feature to take pictures of the vehicle and find cosmetic damage and estimate reconditioning costs in about two minutes. We need an experienced inspector to be the human standard for grading and providing feedback on the system's results. Your work will directly shape the future of the product. In this role, you will: Verify damage, missing parts, and cosmetic problems by inspecting photos of customer vehicles, noting any damage or repair to body, paint, tire condition, dash lights, etc Grade system-generated cosmetic damage deductions on Inspection Quality, Cost Accuracy, and False Positives Prepare and complete all necessary documentation. Deliver feedback to Product and Engineering teams on how to improve the system Perform other duties as assigned by management. Compensation:  Type: This role is part-time/contract Hours: up to 20 hours per week and can be done remotely at any time of the day. Pay: $20/hr to $30/hr, depending on seniority \n 3 years of experience doing inspections at a wholesale auction, dealership, or lease-return inspection company A sharp eye for paint, dents, scratches, wheels, glass and interior wear, including prior repairs. Understanding of Baseline Inspections (Electronic Condition Report) & vehicle grading. Body and paint knowledge preferred. Comfort with spreadsheets and photo review on a laptop. \n Flexible hours: work on your own time Work from home Control what you earn: work as much or as little as you want \n\n To apply:   https://weworkremotely.com/remote-jobs/fixd-au",
+    "posted": "Tue, 24 Nov 2026 17:00:57 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:33.693871+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-cybersecurity-ctu-online": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-cybersecurity-ctu-online",
+    "source": "WeWorkRemotely",
+    "title": "Perdoceo Education Corporation: Adjunct Instructor- Cybersecurity- CTU Online",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-cybersecurity-ctu-online",
+    "description": "Headquarters:  United States\n     URL:   https://myjobs.adp.com/pec/cx/job-listing \n \n\n Consistent with and supportive of CTU's mission (to provide industry-relevant higher education to a diverse student population through innovative technology and experienced faculty, enabling the pursuit of personal and professional goals), Adjunct Faculty members provide quality and innovative instruction and meaningful engagement with our students to successfully achieve the relevant course, program, and degree level outcomes and support their academic success. \n Responsibilities \n \n Prepare relevant, insightful, and engaging instructional materials and utilize existing course materials that support learning by CTU's student population. \n Provide instruction in assigned courses (including applicable laboratory or work that is integral to the courses) that aligns with CTU's curricula and outcomes, instructional modalities, course technologies, and faculty expectations. \n Engage and communicate with students to encourage their course participation and learning while maintaining mutual respect and professionalism. \n Relate professional/industry experience to CTU's Professional Learning Model by the continuation of professional/technical skills development, introduction of professional/industry perspectives into courses, and active awareness of professional/industry trends and opportunities. \n Maintain accessibility for and provide timely responsiveness to students, academic/faculty leadership, and University staff by telephone, CTU e-mail, and other appropriate means of communication. \n Establish and maintain weekly office hours for student questions/support. \n Assess student performance on course assignments and provide assignment feedback to support continued student growth and development. \n Maintain appropriate documentation of student course activities. \n Work with appropriate CTU teams (e.g., advising, academic/faculty leadership, and University staff) and leverage appropriat",
+    "posted": "Tue, 24 Nov 2026 17:00:54 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:33.893149+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-artificial-intelligence-ctu-online": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-artificial-intelligence-ctu-online",
+    "source": "WeWorkRemotely",
+    "title": "Perdoceo Education Corporation: Adjunct Instructor- Artificial Intelligence- CTU Online",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-artificial-intelligence-ctu-online",
+    "description": "Headquarters:  United States\n     URL:   https://myjobs.adp.com/pec/cx/job-listing \n \n\n Position Description \n Consistent with and supportive of CTU's mission (to provide industry-relevant higher education to a diverse student population through innovative technology and experienced faculty, enabling the pursuit of personal and professional goals), Adjunct Faculty members provide quality and innovative instruction and meaningful engagement with our students to successfully achieve the relevant course, program, and degree level outcomes and support their academic success. \n Responsibilities \n \n Prepare relevant, insightful, and engaging instructional materials and utilize existing course materials that support learning by CTU's student population. \n Provide instruction in assigned courses (including applicable laboratory or work that is integral to the courses) that aligns with CTU's curricula and outcomes, instructional modalities, course technologies, and faculty expectations. \n Engage and communicate with students to encourage their course participation and learning while maintaining mutual respect and professionalism. \n Relate professional/industry experience to CTU's Professional Learning Model by the continuation of professional/technical skills development, introduction of professional/industry perspectives into courses, and active awareness of professional/industry trends and opportunities. \n Maintain accessibility for and provide timely responsiveness to students, academic/faculty leadership, and University staff by telephone, CTU e-mail, and other appropriate means of communication. \n Establish and maintain weekly office hours for student questions/support. \n Assess student performance on course assignments and provide assignment feedback to support continued student growth and development. \n Maintain appropriate documentation of student course activities. \n Work with appropriate CTU teams (e.g., advising, academic/faculty leadership, and University staff) ",
+    "posted": "Tue, 24 Nov 2026 17:00:52 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:46.809538+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-healthcare-information-technology-ctu-online": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-healthcare-information-technology-ctu-online",
+    "source": "WeWorkRemotely",
+    "title": "Perdoceo Education Corporation: Adjunct Instructor - Healthcare Information Technology - CTU Online",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/perdoceo-education-corporation-adjunct-instructor-healthcare-information-technology-ctu-online",
+    "description": "Headquarters:  United States\n     URL:   https://myjobs.adp.com/pec/cx/job-listing \n \n\n \n Position Description \n Consistent with and supportive of CTU's mission (to provide industry-relevant higher education to a diverse student population through innovative technology and experienced faculty, enabling the pursuit of personal and professional goals), Adjunct Faculty members provide quality and innovative instruction and meaningful engagement with our students to successfully achieve the relevant course, program, and degree level outcomes and support their academic success. \n Responsibilities \n \n Prepare relevant, insightful, and engaging instructional materials and utilize existing course materials that support learning by CTU's student population. \n Provide instruction in assigned courses (including applicable laboratory or work that is integral to the courses) that aligns with CTU's curricula and outcomes, instructional modalities, course technologies, and faculty expectations. \n Engage and communicate with students to encourage their course participation and learning while maintaining mutual respect and professionalism. \n Relate professional/industry experience to CTU's Professional Learning Model by the continuation of professional/technical skills development, introduction of professional/industry perspectives into courses, and active awareness of professional/industry trends and opportunities. \n Maintain accessibility for and provide timely responsiveness to students, academic/faculty leadership, and University staff by telephone, CTU e-mail, and other appropriate means of communication. \n Establish and maintain weekly office hours for student questions/support. \n Assess student performance on course assignments and provide assignment feedback to support continued student growth and development. \n Maintain appropriate documentation of student course activities. \n Work with appropriate CTU teams (e.g., advising, academic/faculty leadership, and University staff",
+    "posted": "Tue, 24 Nov 2026 17:00:50 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:47.024757+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/transperfect-plumeria-voice-message-collection-project-india": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/transperfect-plumeria-voice-message-collection-project-india",
+    "source": "WeWorkRemotely",
+    "title": "TransPerfect: Plumeria - Voice Message Collection Project - India",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/transperfect-plumeria-voice-message-collection-project-india",
+    "description": "Headquarters:  India\n     URL:   https://community.transperfect.com \n \n\n DataForce by TransPerfect is looking for people living in India to share existing WhatsApp voice messages for a short, remote project. If you use voice messages to chat in Hindi, Tamil, Telugu, Kannada, Gujarati, Marathi, Bengali, or Urdu, this could be a good fit for you. You don\u2019t need to record anything new! Who is this for? You may qualify if you\u2019re a native speaker of one of these languages and have  12\u201315 minutes of voice messages you personally recorded and sent in a single WhatsApp conversation before November 12, 2026 . What will you do? You will select one WhatsApp chat containing approximately 12\u201315 minutes of voice messages in your selected project language(s) that you personally recorded and sent, export it, and submit it through our DataForce Contribute app following the guidelines shared by our team. Only existing voice messages sent  before November 12, 2026  are eligible. Newly recorded or scripted messages will not be accepted. Only your own voice messages count toward the required audio. Messages containing personal information, unintelligible speech, or explicit content will not be accepted. Who can participate? To qualify, you must: Be a native speaker of Hindi, Tamil, Telugu, Kannada, Gujarati, Marathi, Bengali, or Urdu. Currently live in India. Have approximately 12\u201315 minutes of your own existing WhatsApp voice messages in one conversation in your selected project language. Sign the participation consent form before submitting your messages. If you are a native speaker of more than one project language and have suitable voice messages in each, you can indicate this in a single application. Where is the project taking place? This is a fully  remote  project. You can participate from the comfort of your home. Workload The task is estimated to take approximately 30 minutes per language submission, including reviewing the guidelines, exporting the conversation, and uploading",
+    "posted": "Tue, 24 Nov 2026 17:00:44 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-24T22:13:47.220554+00:00"
   }
 }
