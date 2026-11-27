@@ -15575,5 +15575,149 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-26T21:19:30.012312+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/instacart-director-it-internal-audit": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/instacart-director-it-internal-audit",
+    "source": "WeWorkRemotely",
+    "title": "Instacart: Director IT, Internal Audit",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/instacart-director-it-internal-audit",
+    "description": "Headquarters:  United States - Remote\n \n\n We're transforming the grocery industry \n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. \n Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. \n Instacart is a Flex First team  \n There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events.  Learn more about our flexible approach to where we work. Why this role is on the menu \n Instacart is building a best-in-class Internal Audit function from the ground up, and this role is central to it. This leader would add the structure, rigor, and technical depth required to deliver risk-based IT audit engagements at executive-quality standards. \n Reporting directly to the Head of Internal Audit, this Director will own end-to-end IT audit delivery while building the function's technology capability and strategic priorities.\u00a0 \n This role is for a seasoned Internal Audit professional who combines deep technical judgment with strong business acumen, excellent communication skills, a collaborative approach, and the drive to build something meaningful. \n \u00a0 \n What you'll cook up in your first year \n Audit Delivery & Reporting \n \n IT audit and advisory engagements are delive",
+    "posted": "Fri, 27 Nov 2026 06:03:42 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:44:18.254832+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/lithic-engineering-manager-analytics": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/lithic-engineering-manager-analytics",
+    "source": "WeWorkRemotely",
+    "title": "Lithic: Engineering Manager, Analytics",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-engineering-manager-analytics",
+    "description": "Headquarters:  Remote \n \n\n Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.\u00a0 \n We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.\u00a0 We are hiring an  Engineering Manager  to lead Lithic's Analytics team. The team owns the data that our sponsor banks, customers, and internal teams run on: the daily reporting suite our partner banks use to reconcile and oversee their card programs, the ledger and balance data behind Treasury, network reporting, and the analytics that drive product and business decisions. Much of this work ships to external parties on a schedule, so correctness and predictability matter as much as speed. \n This is a role for an experienced manager who is ready to lead from day one, not a stepping stone into management. It is also a player-coach role: we expect roughly 20% to 30% of your time to be hands-on, reviewing models and pull requests, unblocking the team, and shipping when it counts. The stack is dbt, Snowflake, Airflow, and Omni, with SQL and Python throughout. \n What You'll Do: \n \n Lead and grow a team of six analytics engineers, owning performance, development, and overall team health \n Own th",
+    "posted": "Fri, 27 Nov 2026 06:03:06 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:44:20.577719+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/bitwarden-senior-database-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/bitwarden-senior-database-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Bitwarden: Senior Database Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/bitwarden-senior-database-engineer",
+    "description": "Headquarters:  US Remote\n \n\n \u00a0 \n Bitwarden is the trusted identity security leader for millions of users worldwide, empowering enterprises, developers, and individuals to securely manage and share sensitive information anywhere. Bitwarden makes it easy for all users to extend robust security across their devices with password management, secrets management, and passwordless and passkey innovations. The company is headquartered in Santa Barbara, California. Learn more at\u00a0 bitwarden.com .\u00a0 \n As a Senior Database Engineer at Bitwarden you will work with our Engineering teams to lead the design, development, and continual tuning and maintenance of our database systems.\u00a0 You will serve as a technical leader for database query design and the optimization of our existing queries, scripts, and programs.\u00a0 You will support the software development process and contribute directly to the culture of quality within Bitwarden through process improvements, team outreach, and mentoring. To ensure success as a Senior Database Engineer, you should exhibit knowledge of best practices in database management and experience in a similar role. A top-notch Senior Database Engineer will be someone whose database management skills translate into the efficient flow of information throughout an organization. \n This is an all-remote team and we are looking for someone located in the U.S. We do not offer visa sponsorship at this time. \n RESPONSIBILITIES \n \n Maintain and enhance the performance of existing database scripts, queries, and other database objects \n Assist engineering teams in designing new database implementations that meet the organization's data security, storage, and performance needs \n Tune existing database scripts and queries for optimal performance and data security \n Establish database observability practices and monitor databases and related systems to ensure optimized performance alongside operations staff \n Partner with other engineers to develop new scripts and queries tha",
+    "posted": "Fri, 27 Nov 2026 06:02:22 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:45:07.293697+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-staff-software-engineer-payments": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-staff-software-engineer-payments",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Staff Software Engineer, Payments",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-staff-software-engineer-payments",
+    "description": "Headquarters:  Remote - Bengaluru, India\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n Payments  is key for any healthy marketplace, and is just as central to our product at Airbnb. The Payments organization at Airbnb is responsible for everything related to settling money in Airbnb\u2019s global marketplace and makes the Payment experience as delightful, magical, intuitive, and easy as possible. At the Payments team, our goal is to build and operate scalable systems that power payments ecosystems, host/guest protections as well as community partner\u00a0 experiences applying core engineering principles that leverage both time-tested and cutting edge technology. \n The Difference You Will Make: \n As a Senior Staff Engineering for Payments, you will provide overarching guardrails on evolution of the architecture with special focus on Community Partner experiences, catering evolving business needs and coaching other engineers on the team. You will envision and design decision support systems, knowledge management systems as well as workflow orchestration systems that can harness various AI advancements. You will define and drive the architecture strategy, work on cross-functional teams to align on organizational initiatives, set standards and help in governance. You will be a player-coach; in that you will be hands-on when a situation arises (player mode) and hands-off where there is opportunity for other engineers to grow and gain experience (coach mode). \n A Typical Day:  \n As a Senior Staff Software Engineer, Payments you will:\u00a0 \n \n Collaborate with other senior leaders to define and drive long-term technical strategy and architect",
+    "posted": "Fri, 27 Nov 2026 06:02:03 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:45:55.077661+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-staff-software-engineer-marketing-technology": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/airbnb-senior-staff-software-engineer-marketing-technology",
+    "source": "WeWorkRemotely",
+    "title": "Airbnb: Senior Staff Software Engineer, Marketing Technology",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-staff-software-engineer-marketing-technology",
+    "description": "Headquarters:  Remote, USA\n \n\n Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: \n Our mission at Marketing Technology is to provide a state-of-the-art platform and measurement capabilities to enable marketing and product teams to engage with our customers effectively. Every day, millions of Airbnb customers are reached via our streamlined platform over comprehensive marketing channels such as Email, Push, SMS, Google Ads, Facebook Ads etc. We deliver substantial business impact by enabling numerous stakeholders across the company, including Marketing (Brand and Performance), Guest, Host, Airbnb Org, Policy, and more. \n \u00a0 \n The Difference You Will Make: \n As a Senior Staff Software Engineer on the Content Platform team, you'll set the technical direction for the org's transformation into an AI-driven system that turns a marketing brief into a fully realized campaign in minutes, not months. You'll own the technical strategy across a complex, multi-team surface area spanning a CMS platform, no-code authoring tools, rendering infrastructure, and an emerging agentic layer, all operating at a scale where the content produced is consumed by millions of Airbnb users daily. You will partner with engineering leadership, product, design, and marketing stakeholders across the company to define multi-year technical strategy, resolve the org's hardest cross-team technical challenges, and raise the bar for engineering excellence across Marketing Technology. \n \u00a0 \n A Typical Day: \n As a Senior Staff Software Engineer on Content Platform, you will: \n \n Define and drive technical vision and strategy for the Content Platform org, ensuring architectur",
+    "posted": "Fri, 27 Nov 2026 06:02:03 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:45:58.589023+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-senior-associate-network-operations": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-senior-associate-network-operations",
+    "source": "WeWorkRemotely",
+    "title": "Maven Clinic: Senior Associate, Network Operations",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-senior-associate-network-operations",
+    "description": "Headquarters:  New York, NY; Remote, US (Hub cities)\n \n\n Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife \u2014 improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com \n An award-winning culture working towards an important mission \u2013\u00a0 Maven Clinic is a recipient of over 30 workplace and innovation awards, including:\u00a0 \n \n TIME 100 Most Influential Companies (2023, 2026) \n Fortune Change the World (2024) \n CNBC Disruptor 50 List (2022, 2023, 2024) \n Fortune Best Workplaces for Millennials (2024) \n Fortune Best Workplaces in Health Care (2024) \n Fast Company Most Innovative Companies (2020, 2023) \n Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) \n Maven is looking for a Network Operations Senior Associate to manage the day-to-day operations of the Maven Performance Network. \n As a key member of the Network Operations team, you will play a critical role in helping to manage and support Maven\u2019s network",
+    "posted": "Fri, 27 Nov 2026 06:01:41 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:45:58.779380+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/stripe-deal-strategist": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/stripe-deal-strategist",
+    "source": "WeWorkRemotely",
+    "title": "Stripe: Deal Strategist",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/stripe-deal-strategist",
+    "description": "Headquarters:  US-Remote\n \n\n Who we are  \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. \n About the team \n GBS's primary goal is to ensure operational excellence across deal cycles, increase revenue through the development of transformative commercial constructs, and drive closure of Stripe's deal portfolio. The team's reach is widespread across Stripe, not exclusive to one sales segment or geographical region; GBS drives change across go-to-market, positively impacting Stripe users and cross-functional teams. GBS's priorities are set through the direction of Stripe leadership and executive vision, partnership with sales and cross-functional organizations, as well as user feedback and market insights. \n What you\u2019ll do \n Stripe's Global Business Services (GBS) team is looking for a Deal Strategist to focus on the closure of custom and standard commercial deals. You will be responsible for deal lifecycle management and supporting cross-organizational alignment. This role requires a background in driving custom deals to closure, a strong understanding of pricing frameworks, and experience supporting sales through negotiations. \n The candidate will have experience with SaaS products, pricing strategies, and supporting selling motions, along with strong communication skills. You will love this job if you are a natural relationship builder and process architect. \n Responsibilities \n \n Manage end-to-end customer deals\u2014drafting, editing, and reviewing agreements\u2014while supporting the sales cycle to ensure deal ter",
+    "posted": "Fri, 27 Nov 2026 06:01:29 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:45:58.958317+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-senior-associate-client-success": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-senior-associate-client-success",
+    "source": "WeWorkRemotely",
+    "title": "Maven Clinic: Senior Associate, Client Success",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-senior-associate-client-success",
+    "description": "Headquarters:  New York, NY; Remote, US (Hub cities)\n \n\n Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife \u2014 improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com \n An award-winning culture working towards an important mission \u2013\u00a0 Maven Clinic is a recipient of over 30 workplace and innovation awards, including:\u00a0 \n \n TIME 100 Most Influential Companies (2023, 2026) \n Fortune Change the World (2024) \n CNBC Disruptor 50 List (2022, 2023, 2024) \n Fortune Best Workplaces for Millennials (2024) \n Fortune Best Workplaces in Health Care (2024) \n Fast Company Most Innovative Companies (2020, 2023) \n Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) \n Maven is looking for a high-energy, passionate, and detail-oriented Senior Associate to join our Client Success Team. As part of Maven\u2019s Client Resources Team, you will play a critical role in supporting Maven\u2019s rapidly growing SMB segment, a high-volume bo",
+    "posted": "Fri, 27 Nov 2026 06:01:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:46:06.631362+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-executive-assistant": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-executive-assistant",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Executive Assistant",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-executive-assistant",
+    "description": "Headquarters:  Remote - USA\n \n\n Ready to do the most impactful work of your career?  Coinbase  is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions As an Executive Assistant, you'll serve as a strategic thought partner and operational right hand to senior leaders at Coinbase. You'll go beyond traditional admin support to deeply understand the priorities of the organizations you support, anticipate needs, and accelerate execution. This high-trust role requires discretion, agility, and strong business intuition while helping leaders stay focused on their highest-leverage work. \n \u00a0 \n What you'll do: \n \n Own complex scheduling, travel, and communications with precision and foresight, ensuring leadership's time is optimized \n Drive alignment across teams by attending key meetings, capturing outcomes, managing follow-ups, and keeping cross-functional workflows on track \n Lead end-to-end planning for offsites and events, raising the bar on structure, clarity, and outcomes \n Support decision-making by surfacing risks, identifying blockers, and providing relevant context to accelerate resolution \n Partner with the broader EA community to share best practices, provide mentorship, and elevate operational standards \n Execute special projects and planning cycles as priorities emerge, adapting quickly to shifting needs \n \n \u00a0 \n Required Skills and Experience: \n \n 5+ years supporting VP+ l",
+    "posted": "Fri, 27 Nov 2026 06:01:27 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T07:46:06.825925+00:00"
   }
 }
