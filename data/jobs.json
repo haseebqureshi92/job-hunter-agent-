@@ -15719,5 +15719,309 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-27T07:46:06.825925+00:00"
+  },
+  "remoteok-1138180": {
+    "id": "remoteok-1138180",
+    "source": "RemoteOK",
+    "title": "Senior iOS Engineer, Foundations",
+    "company": "Raya",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-ios-engineer-foundations-raya-1138180",
+    "description": "We are seeking a Senior iOS Engineer to join Raya Foundations, the platform team that owns the shared foundation every other Raya engineering team builds on. On the client side that means the architecture of our iOS codebase, its modularization and build system, shared libraries and design-system components, CI and release tooling, crash and performance infrastructure, and the AI-collaborative development tooling our iOS engineers use every day. \n This is a senior client engineering role with deep technical impact across a large, long-lived swift iOS codebase. The ideal candidate has built and operated high-scale consumer iOS applications end to end, has been the engineer other iOS engineers come to for architecture and tooling, and is excited about modernizing a mature Swift codebase while keeping it shipping every week. Rather than owning one feature surface, you will partner with the product client teams, server engineering, and design to raise the engineering bar across the whole app. \n We offer comprehensive medical and dental coverage, $50 a day food delivery budget, equity based employment, a great culture, learning opportunities, unlimited vacation, 12 weeks paid parental leave, and we pay all employees $1,000 a year to go somewhere in the world that they've never been because of our values of human connection, empathy, and curiosity. \n Responsibilities \n\n\n Own the architecture of Raya's iOS codebase: set the patterns and best practices for state management, SwiftUI adoption, navigation, networking, and concurrency, and solve the hard client-side lifecycle problems that span teams. \n\n\n Drive modernization of a large, long-lived Swift codebase: modularization, SwiftUI alongside UIKit, Swift concurrency, and deliberate management of tech debt. Write the tech specs, make the trade-offs explicit, and sequence the work so it ships incrementally. \n\n\n Build the shared foundation other iOS engineers build on: design-system components, shared libraries, networking an",
+    "posted": "2026-11-26T10:00:26+00:00",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T20:57:35.855794+00:00"
+  },
+  "remoteok-1138176": {
+    "id": "remoteok-1138176",
+    "source": "RemoteOK",
+    "title": "Android Developer",
+    "company": "Airalo",
+    "url": "https://remoteOK.com/remote-jobs/remote-android-developer-airalo-1138176",
+    "description": "Help Us Build The Future of Travel \n At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world. \n Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy. \n We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone. \n Your Next Destination \n \n Location:  Remote, anywhere in Spain or the UK. \n Contract: \n \n Spain: Full-time, permanent  contrato indefinido  via Deel (our employer of record in Spain) \n UK: Full-time, permanent \n \n \n Benefits:  Learn more about our benefits here in this link -  https://airalo-public.notion.site/Benefits-25396a97ffca81fb9bc1f0be479f1be3?pvs=74 \u00c2\u00a0 \n Languages:  English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async. \n \n \n Curious what it's actually like to work at Airalo? We've put together a guide for each of the hubs we hire from most, covering our benefits, remote culture, employment setup, and what our team values most: \n \n Life at Airalo \u00c2\u00b7 Espa\u00c3\u00b1a :  https://airalo-public.notion.site/life-at-airalo-espana \n Life at Airalo \u00c2\u00b7 United Kingdom :  https://airalo-public.notion.site/life-at-airalo-united-kingdom \n \n \n You are someone who cares deeply about the quality of your work, the people who use it, and the team you build it with. \n You take ownership of what you ship, from understanding why it matters to how it behaves once it's in people's hands, and you care whether it made a difference. You enjoy working closely with product managers, designers, QA and backend engineers: you ask questions early, share your ideas, and keep pe",
+    "posted": "2026-11-26T08:40:14+00:00",
+    "tags": [
+      "programming"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T20:58:24.137486+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend",
+    "source": "WeWorkRemotely",
+    "title": "Customer.io: Staff Software Engineer, Backend",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend",
+    "description": "Headquarters:  Americas Remote\n \n\n Hi, I'm Paul, VP of Engineering at  Customer.io . We're looking for a staff engineer to set technical direction for the systems that move billions of messages a day. This isn't a role about shipping more, faster. It's about deciding what gets built, where the architecture needs to go next, and raising the ceiling for the engineers around you. \n About  Customer.io \n Over 9,000 companies \u2014 from scrappy startups to global brands \u2014 use our platform to send billions of emails, push notifications, in-app messages, and SMS every day.  Customer.io  powers automated communication that people actually want to receive. \n We help teams send smarter, more relevant messages using real-time behavioral data. Under the hood: Go, React, Ember and AI help us ship fast and scale with confidence. \n What We Value \n Ownership at company scale \n You take on the problems nobody has claimed yet \u2014 the ones that span squads, have no obvious owner, and would quietly cost us a year if left alone. You either solve them or get leadership aligned to. \n Engineers with product taste \n You think like a user, not just an engineer. You connect architectural decisions to what customers actually experience, and you can explain that connection to people who don't write Go. \n A healthy skepticism for \"the way things are done\" \n You retire practices that have outlived their usefulness, including ones you helped build. Best practices matter \u2014 but never more than forward motion. \n Force multiplication \n Your best quarter isn't measured by what you shipped. It's measured by what the department can now do that it couldn't before. \n What You'll Do \n \n Shape the technical direction of our distributed messaging systems in Go \u2014 making the high-level architectural calls on mission-critical services where scale, cost, and reliability are all in tension \n Take on ambiguous, high-stakes problems that cross squad and function boundaries, and drive them to a decision when the right answe",
+    "posted": "Fri, 27 Nov 2026 18:32:38 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T20:59:54.313399+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-sr-director-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-sr-director-engineering",
+    "source": "WeWorkRemotely",
+    "title": "BeyondTrust: Sr Director, Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-sr-director-engineering",
+    "description": "Headquarters:  Remote Eastern Canada | Remote Eastern United States\n \n\n BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. \n Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. \n The Role \n BeyondTrust is looking for a Senior Director of Engineering to lead one of our core enterprise security product portfolios. You will own engineering for the portfolio end to end: technical direction, delivery, quality, and the people and leaders who make it happen. \n Our products protect privileged access for enterprises around the world and are deployed on-premises, as appliances, and as SaaS. We are looking for a leader who can serve a demanding enterprise customer base today while moving the portfolio forward on modern cloud architecture and AI-driven engineering. \n This is a senior, high-autonomy role. You will be expected to set direction, make and own significant technical and business decisions, and represent engineering with executives, product leadership, and customers. \n What You\u2019ll Do \n Lead the Portfolio: \n \n Set the engineering strategy and technical vision for a portfolio of enterprise security products \n Guide cloud architecture for the portfolio's SaaS offerings on AWS, with security, reliability, and scale built in \n Balance investment across deployment models so every customer segment is well served \n Partner with peer engineering leaders on shared services and common architecture \n \n Make Engineering AI-Native: \n \n Lead the adoption of AI-assisted and agentic development across the organization, from design and coding through testing and release \n Set the standards, tooling, and expectations that make AI a normal part of how teams work, and measure the i",
+    "posted": "Fri, 27 Nov 2026 18:32:32 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:01:24.425389+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-senior-client-success-manager": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-senior-client-success-manager",
+    "source": "WeWorkRemotely",
+    "title": "Maven Clinic: Senior Client Success Manager",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-senior-client-success-manager",
+    "description": "Headquarters:  Remote\n \n\n Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife \u2014 improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com \n An award-winning culture working towards an important mission \u2013\u00a0 Maven Clinic is a recipient of over 30 workplace and innovation awards, including:\u00a0 \n \n TIME 100 Most Influential Companies (2023, 2026) \n Fortune Change the World (2024) \n CNBC Disruptor 50 List (2022, 2023, 2024) \n Fortune Best Workplaces for Millennials (2024) \n Fortune Best Workplaces in Health Care (2024) \n Fast Company Most Innovative Companies (2020, 2023) \n Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) \n Maven is looking for a commercially-minded and strategic Senior Client Success Manager to join our Client Success team, to own relationships with our highest-value employer accounts. In this role, you will manage relationships with large employer clients introduced through Maven\u2019s health",
+    "posted": "Fri, 27 Nov 2026 18:31:59 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:02:12.315165+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-pharma-ai-process-optimization": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-pharma-ai-process-optimization",
+    "source": "WeWorkRemotely",
+    "title": "Celonis: Senior Value Engineer (Pharma) - AI & Process Optimization",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-pharma-ai-process-optimization",
+    "description": "Headquarters:  Remote, Finland\n \n\n Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Team:  Value Engineering is responsible for our largest Fortune 500 customers and owns their transformation journey by working on the very frontier of what\u2019s possible with data and AI on the Celons Platform. Partnering closely with the Sales team, Value Engineering is responsible for ensuring that the Celonis Platform is deployed to tackle the most strategic business challenges, fits into the right place in our customers\u2019 technology stack and most importantly generates strong ROI through deep and broad deployments. \n The Role:  this is an excellent career step if you\u2019re looking for a relocation opportunity to  Copenhagen . Right to work in the region will be required.\u00a0 \n As a Senior Value Engineer, you will spearhead AI and data-driven business transformation within the Pharmaceutical sector by contributing to your customer\u2019s end-to-end value journey using the Celonis Context Model. Working alongside Lead and Principal VEs, you will combine technical execution with consulting and project management. As an AI-fluent operator, your core mandate is to orchestrate complex roadmaps and execute targeted transformation initiatives that improve how these businesses operate across their ecosystems. \n Th",
+    "posted": "Fri, 27 Nov 2026 18:31:37 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:03:42.473355+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oscilar-vp-of-engineering": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oscilar-vp-of-engineering",
+    "source": "WeWorkRemotely",
+    "title": "Oscilar: VP of Engineering",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oscilar-vp-of-engineering",
+    "description": "Headquarters:  Remote\n \n\n Vice President of Engineering Shape the future of trust in the age of AI At Oscilar, we're building the most advanced AI Risk Decisioning\u2122 Platform. Banks, fintechs, and digitally native organizations rely on us to manage their fraud, credit, and compliance risk with the power of AI. If you're passionate about solving complex problems and making the internet safer for everyone,  this is your place . Why join us: Mission-driven teams:  Work alongside industry veterans from Meta, Uber, Citi, and Confluent, all united by a shared goal to make the digital world safer. Ownership and impact:  We believe in extreme ownership. You'll be empowered to take responsibility, move fast, and make decisions that drive our mission forward. Innovate at the cutting edge:  Your work will shape how modern finance detects fraud and manages risk. Background Oscilar is seeking a US-based Vice President of Engineering to lead and scale our international engineering organization. In this role, you will own the technical strategy, execution, and organizational design of the engineering team, partnering closely with product, go-to-market, and executive leadership to deliver the Agentic Risk\u2122 Platform. This is a senior leadership role for someone who has built and led high-performing software engineering organizations in fast-moving technical environments, ideally in fintech, risk, or other regulated domains. Entrepreneurial instincts are important. The right person should be energized by setting technical direction, developing leaders, creating scalable operating systems, and driving predictable high-quality delivery as the company grows. Responsibilities Engineering leadership : Serve as the senior leader of Oscilar\u2019s engineering organization, setting technical direction, organizational structure, and the standard for excellence across backend, frontend, AI, infrastructure, and related teams. Team leadership and scaling : Lead engineering managers and senior individu",
+    "posted": "Fri, 27 Nov 2026 15:44:08 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 3,
+    "pitch": "While Oscilar is searching for an executive VP of Engineering to lead the organization, I can offer high-impact technical execution if your team needs specialized firepower during this transition. As an engineer with deep expertise across full-stack distributed systems and production AI/ML architectures, I build resilient, low-latency pipelines tailored for high-stakes environments like fraud detection and risk decisioning. Whether accelerating the core Agentic Risk Platform or prototyping real-time decisioning engines alongside your current team, I provide immediate, hands-on engineering velocity. If you need senior contract bandwidth to execute critical AI product milestones while filling the VP seat, let's connect.",
+    "status": "new",
+    "found_at": "2026-11-27T21:04:49.992733+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/tilt-senior-ios-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/tilt-senior-ios-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Tilt: Senior iOS Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/tilt-senior-ios-engineer",
+    "description": "Headquarters:  Remote - US\n \n\n Join the Tilt team At Tilt, we see a side of people that traditional lenders miss. Our mobile-first products and machine learning-powered credit models look beyond credit scores, using over 250 real-time financial signals to recognize real potential. With millions of customers worldwide ,  we're not just changing how people access financial products \u2014 we're creating a new credit system that backs the working, whatever they're working toward. The Opportunity: Senior Mobile Engineer (iOS focus) The Cash Advance team owns Tilt\u2019s flagship product, which helps users cover the gap between paychecks. Users get an advance based on their cash flow, pay no interest and no mandatory fees, and repay automatically on their next payday. Cash Advance is often the first thing a new subscriber does with Tilt, so it shapes whether they stay. It\u2019s a live product at scale, with real users, real regulatory obligations and plenty of room to grow. Our next chapter is making Cash Advance more useful in people\u2019s everyday financial lives. That means getting users to their first advance faster, helping them come back with confidence, and building the foundation for what they graduate to next. Getting there requires validating ideas through focused experimentation before committing to full implementation. You\u2019ll help lead that work on mobile. The team is lean and high-ownership. You\u2019ll work closely with our product managers and backend engineers as you take on the mobile experience for these products. Travel for company offsites is expected at a minimum 2 times a year.  How You'll Make an Impact Drive the growth of Cash Advance:  Own the mobile experience from sign-up to first advance to repeat use. You\u2019ll optimize onboarding, conversion and repeat usage, and keep raising the bar on how users move from subscribing to taking their first advance and coming back. Run experiments that shape what Cash Advance becomes:  Test different product constructs and UX approach",
+    "posted": "Fri, 27 Nov 2026 14:20:38 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:06:20.092263+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/trm-labs-account-director-public-sector-dach": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/trm-labs-account-director-public-sector-dach",
+    "source": "WeWorkRemotely",
+    "title": "TRM Labs: Account Director, Public Sector (DACH)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/trm-labs-account-director-public-sector-dach",
+    "description": "Headquarters:  EMEA\n \n\n Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. The  Account Director  will join a team driving TRM's crypto go-to-market strategy for Public Sector customers in the DACH region. Your goal will be to increase and strengthen our foothold in the space. We're looking for a  customer-focused , consultative salesperson to own the entire sales process with new and existing customers. This person will be knowledgeable about the cryptocurrency ecosystem and feel comfortable navigating complex processes to close six and seven figure deals. The impact you will have here: Account Mapping  \u2014 Connect with all the current key stakeholders within your territory Prospecting  \u2014 Discover new stakeholders within your territory Nurturing  \u2014 Own, plan, execute, and/or quarterback activities to nurture client relationships, feedback loops, referrals, renewals, upsells, cross-sells, expansions Account Planning  \u2014 Create and execute strategic plans for your territory Product and Subject Matter Expertise  \u2014 Hone TRM product and customer vertical subject matter expertise Customer Advocacy  \u2014 Proactively gather and prioritize customer feedback and champion it within TRM Loyalty  \u2014 Develop a roster of happy customers that will refer new prospects, champion TRM, and provide crucial feedback What we're looking for: At least 5+ years of experience selling SaaS products into Public Sector accounts in the DACH region Strong customer-facing presentation/listening skills with the ability to establish credibility with senior executives A knack for storytelling \u2014 ability to understand customer needs and build compelling value propositions Adaptable. Goals can",
+    "posted": "Fri, 27 Nov 2026 14:00:43 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 1,
+    "pitch": "While my background is in full-stack engineering, mobile systems, and AI/ML development, I recognize that this Account Director role requires enterprise sales leadership and account mapping across the DACH public sector. Although I am not a direct candidate for a pure sales quota role, I build production-grade AI intelligence tools and data visualization platforms tailored for complex analytics. If your team requires technical enablement, specialized customer demos, or custom integration engineering to support closing high-value public sector deals and demonstrating TRM's platform capabilities to technical stakeholders in DACH, I can provide high-impact technical consulting.",
+    "status": "new",
+    "found_at": "2026-11-27T21:07:15.223717+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vultr-senior-technical-program-manager-physical-security": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vultr-senior-technical-program-manager-physical-security",
+    "source": "WeWorkRemotely",
+    "title": "Vultr: Senior Technical Program Manager, Physical Security",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vultr-senior-technical-program-manager-physical-security",
+    "description": "Headquarters:  Remote - United States\n \n\n Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world\u2019s largest privately-held cloud infrastructure company. Vultr Cares 100% company-paid insurance premiums for employee medical, dental and vision plans. 401(k) plan that matches 100% up to 4%, with immediate vesting Professional Development Reimbursement of $2,500 each year 11 Holidays + Paid Time Off Accrual + Rollover Plan Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year $500 stipend for remote office setup in first year + $400 each following year Internet reimbursement up to $75 per month Gym membership reimbursement up to $50 per month Company paid Wellable subscription Join Vultr Vultr is seeking a skilled Senior Technical Program Manager to drive program-level initiatives across our Physical Security organization. You'll partner with security, data center operations, facilities, engineering, and vendors to deliver programs that protect our global infrastructure. This role is hands-on in conversations: you'll join calls, facilitate decisions, and keep cross-functional work moving. Key Responsibilities Own end-to-end delivery of physical security programs, such as access control, surveillance, and perimeter security rollouts across data center sites Lead working sessions, vendor calls, and stakeholder reviews, driving conversations to clear decisions",
+    "posted": "Fri, 27 Nov 2026 13:40:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 2,
+    "pitch": "I saw your opening for Senior Technical Program Manager, Physical Security at Vultr. While primarily a program management role, physical security operations across global data centers often face tooling bottlenecks, legacy integration hurdles, and manual compliance tracking. As an engineer specializing in full-stack platforms and automated workflows, I build custom web dashboards, real-time monitoring tools, and mobile reporting apps that streamline physical security operations, access-control audits, and incident tracking. If you need technical systems or integrations built alongside your program initiatives to give your team automated visibility into facility security, let\u2019s connect to discuss how I can support your roadmap.",
+    "status": "new",
+    "found_at": "2026-11-27T21:07:57.525704+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/duckduckgo-senior-product-partnerships-manager-remote-within-usa-or-canada": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/duckduckgo-senior-product-partnerships-manager-remote-within-usa-or-canada",
+    "source": "WeWorkRemotely",
+    "title": "DuckDuckGo: Senior Product Partnerships Manager (Remote within USA or Canada)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-product-partnerships-manager-remote-within-usa-or-canada",
+    "description": "Headquarters:  USA (Remote)\n \n\n Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on  Mac ,  Windows ,  iOS , and  Android , our  search engine , and the  DuckDuckGo subscription . We also offer private, useful, and optional AI, including  Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place.  \u00a0 Our  culture  of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place! Your Team and Role As a  Senior Product Partnerships Manager  on the Partnerships team, you\u2019ll lead DuckDuckGo\u2019s most complex Product partnerships and drive strategy \u2014 sourcing, negotiating, and scaling high-impact deals with partners that can materially enhance our entire portfolio of products (search, Duck.ai, Privacy Pro subscriptions, etc) and work on related projects. Many of these partnerships will be the first-of-their-kind where you will have to create playbooks from 0-to-1 \u2014 you'll be structuring deals where the product, economics, and strategic value need to be figured out together, and you\u2019ll be working cross-functionally with Product, Engineering, and Finance to make them real.  \u00a0 You'll manage a portfolio of competing and complementary partner relationships, forging partnerships with leading organizations while, in the case of AI, navigating the strategic tradeoffs of a market where pricing, capabilities, and competitive dynamics shift quarterly. Your work will directly shape how our products evolve, including Duck.ai and Assist, and reach millions of users. \u00a0 What Projects Might Look Like  Figuring out further partnership",
+    "posted": "Fri, 27 Nov 2026 13:20:42 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:09:27.722809+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/3y-health-ai-product-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/3y-health-ai-product-engineer",
+    "source": "WeWorkRemotely",
+    "title": "3Y Health: AI Product Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/3y-health-ai-product-engineer",
+    "description": "Headquarters:  Remote - Brazil\n \n\n About 3Y Health 3Y Health is building the operating system for healthcare practices, an AI-native platform that helps clinicians start, run and grow their practice. We work as a managed services organization (MSO): along with the software, our operations team runs the back office for the clinics we partner with, including billing, insurance and compliance. We currently serve applied behavior analysis (ABA) therapy practices and are expanding into speech, occupational and physical therapy, and psychiatry. About the role Members of Technical Staff own features end to end. You'll work with the clinicians and operators who use what we build, scope the problem, design and build the solution across the stack, deploy it and follow how it performs in production. Our engineering team is flat, with no sub-teams, so you'll work across the whole platform. We build with AI coding agents every day and expect you to do the same. What you'll do Design and build AI agents and automated workflows for clinic operations, such as insurance benefits verification, prior authorizations, patient intake, claims and clinical documentation Build features for clinicians, patients and families, and our internal operations team, on web and mobile Take ambiguous problems from 0 to 1, working with operators and clinicians to define the problem, write the spec and ship a first version Design the services, data models and APIs behind your features and manage the infrastructure as code Own your services in production: deployments, monitoring and incident response Write evals for model-facing features and track the metrics of the workflows you ship Work with protected health information (PHI) safely, with least-privilege access, no PHI in logs and auditable changes Build and maintain the skills, plugins, MCP integrations and review bots our engineers use with Claude Code and Codex Our stack Backend: Python (our primary language for new services), Kotlin with Hasura (G",
+    "posted": "Fri, 27 Nov 2026 13:00:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:10:12.959169+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oscilar-engineering-manager-ai-agents-agent-platform-llms-evals": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oscilar-engineering-manager-ai-agents-agent-platform-llms-evals",
+    "source": "WeWorkRemotely",
+    "title": "Oscilar: Engineering Manager - AI Agents (Agent Platform, LLMs, Evals)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oscilar-engineering-manager-ai-agents-agent-platform-llms-evals",
+    "description": "Headquarters:  Remote\n \n\n Engineering Manager - AI Agents (Agent Platform, LLMs, Evals) Shape the future of trust in the age of AI At Oscilar, we're building the most advanced AI Risk Decisioning\u2122 Platform. Banks, fintechs, and digitally native organizations rely on us to manage their fraud, credit, and compliance risk with the power of AI. If you're passionate about solving complex problems and making the internet safer for everyone,  this is your place . Why join us: Mission-driven teams:  Work alongside industry veterans from Meta, Uber, Citi, and Confluent, all united by a shared goal to make the digital world safer. Ownership and impact:  We believe in extreme ownership. You'll be empowered to take responsibility, move fast, and make decisions that drive our mission forward. Innovate at the cutting edge:  Your work will shape how modern finance detects fraud and manages risk. Background Oscilar is seeking a  US-based Manager of AI Agents  to lead a team of engineers building and operating the production agent systems at the heart of our Agentic Risk Platform. In this role, you will own the technical and people leadership for a team focused on agent orchestration, tool-calling, evaluation frameworks, reliability, and observability. You will partner closely with product, FDE and core platform engineering to raise the bar on what production-grade agents can deliver for fraud, AML, credit, and onboarding use cases. This is a hands-on leadership role for someone who has been a software engineer, has shipped real agent systems in production, and has successfully built and managed engineering teams at a growing start-up or scale-up. The right person is energized by technical depth, operational excellence, and turning ambitious agent ideas into reliable, customer-facing systems. Responsibilities Team leadership : Build, lead, and grow a high-performing team of engineers focused on AI agent systems. Hire, coach, and develop talent while establishing strong technical and",
+    "posted": "Fri, 27 Nov 2026 12:40:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:10:13.187824+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/trm-labs-global-investigator-asset-recovery": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/trm-labs-global-investigator-asset-recovery",
+    "source": "WeWorkRemotely",
+    "title": "TRM Labs: Global Investigator, Asset Recovery",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/trm-labs-global-investigator-asset-recovery",
+    "description": "Headquarters:  United States\n \n\n Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. The Scam Investigations team is TRM\u2019s tip of the spear against pig butchering syndicates, romance fraud networks, and investment scam operations that steal billions from victims each year. The team operates an integrated workflow \u2014 from AI-supported complaint triage to time-sensitive investigation, escalation, and recovery support for victims. As a Global Investigator, you will work at the recovery-focused layer of scam investigation. You will validate high-priority blockchain leads, conduct forward and backward tracing, assess whether funds touch regulated platforms or other actionable endpoints, and produce clear investigative documentation that supports time-sensitive escalation and victim-centered recovery outcomes. The impact you will have here: Support time-sensitive asset-preservation  workflows with regulated platforms and ecosystem partners. Own the recovery side . After a freeze, run the backtrace that ties frozen funds to specific victims and produce the documentation that drives restitution. The freeze is the start. Victim recovery is the goal. Trace victim funds end-to-end  \u2014 forward to the wallets that consolidate them, backward to the platforms they came from. Your work feeds directly into the legal packages that recover them. Validate time-sensitive blockchain signals  and move high-confidence matters through the appropriate escalation workflow. Speed and accuracy both matter. Continuously learn  new issues in crypto Support other teams  on time sensitive issues that might be unforeseen React timely  to the movement of funds during an ongoing investig",
+    "posted": "Fri, 27 Nov 2026 12:20:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:10:13.440510+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-security": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-security",
+    "source": "WeWorkRemotely",
+    "title": "Vultr: Principal Engineer, Network Security",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-security",
+    "description": "Headquarters:  Remote - United States\n \n\n Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world\u2019s largest privately-held cloud infrastructure company. Vultr Cares 100% company-paid insurance premiums for employee medical, dental and vision plans. 401(k) plan that matches 100% up to 4%, with immediate vesting Professional Development Reimbursement of $2,500 each year 11 Holidays + Paid Time Off Accrual + Rollover Plan  Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year $500 stipend for remote office setup in first year + $400 each following year Internet reimbursement up to $75 per month Gym membership reimbursement up to $50 per month Company paid Wellable subscription Join Vultr Vultr is seeking a Principal Engineer, Network Security to build the infrastructure and policy framework that detects and stops abuse on the Vultr network. This is a key role which sits at the intersection between network engineering, security, and distributed systems, working cross-functionally to drive successful outcomes for the business.  You will design and lead systems that find intrusion activity, botnet command-and-contro, spam, and proxy farming across our global footprint, using our flow platform and AI/ML-based analytics. You will also strengthen our DDoS defenses by developing sensors, detection analytics, and backbone best practices that work with our scrubbin",
+    "posted": "Fri, 27 Nov 2026 12:00:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:10:13.644592+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-software-traffic-modeling": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-software-traffic-modeling",
+    "source": "WeWorkRemotely",
+    "title": "Vultr: Principal Engineer, Network Software (Traffic & Modeling)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-software-traffic-modeling",
+    "description": "Headquarters:  Remote - United States\n \n\n Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world\u2019s largest privately-held cloud infrastructure company. Vultr Cares 100% company-paid insurance premiums for employee medical, dental and vision plans. 401(k) plan that matches 100% up to 4%, with immediate vesting Professional Development Reimbursement of $2,500 each year 11 Holidays + Paid Time Off Accrual + Rollover Plan  Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year $500 stipend for remote office setup in first year + $400 each following year Internet reimbursement up to $75 per month Gym membership reimbursement up to $50 per month Company paid Wellable subscription Join Vultr Vultr is seeking a Principal Engineer, Network Software (Network Traffic & Modeling) to architect and build the platforms that tell us, and our customers, what is happening on the Vultr network. You will own the end-to-end architecture of our network modeling/source of truth (SOT) and traffic analytics platforms. You will enable revenue-generating features, such as traffic analytics and differentiated billing, as well as build distributed systems for key platform abilities. You will also build data-driven tooling for backbone, peering, and transit capacity planning and vendor engagement, and model network resilience against defined SLOs as we bring new sites online around ",
+    "posted": "Fri, 27 Nov 2026 11:40:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:10:58.836444+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/sardine-qa-automation-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/sardine-qa-automation-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Sardine: QA Automation Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/sardine-qa-automation-engineer",
+    "description": "Headquarters:  Japan\n \n\n Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine\u2019s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, ZoomInfo, and Checkout.com rely on Sardine to secure and grow trust in their products. Our culture: We hire talented, self-motivated individuals with extreme ownership and high growth orientation.  We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule. We're a remote-first team spread across time zones, so no office to report to - work from wherever helps you do your best work. Just a couple of things to keep in mind: pay is based on where you're located, and you'll need to keep a home base in the country you're hired in. So while we love the \"coffee shop today, mountains tomorrow\" life, this isn't a passport-optional, work-from-anywhere-on-Earth kind of remote - think flexible  within  your country, not borderless. Location: Remote -  Japan About the role As we expand globally, we\u2019re looking for passionate QA automation engineer. You\u2019ll be part of global QA team, working closely with both global team and client-facing team in APAC region. This role requires business-level English and Japanese skills. You will design a clear set of test scenarios, decide what to automate and what to keep manual, and work with stakeholders across Engineering, Product, Professional Services, and our clients, including banks. What you'll be doing Own automated coverage for APIs ",
+    "posted": "Fri, 27 Nov 2026 11:20:51 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:11:44.049439+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer",
+    "source": "WeWorkRemotely",
+    "title": "Paxos: Senior Application Security Engineer",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer",
+    "description": "Headquarters:  Remote - United States\n \n\n Applying to Paxos? Our only careers site is  paxos.com/careers , and we only recruit via @ paxos.com  email. Details below. ___ About Paxos Today\u2019s financial infrastructure is archaic, expensive, inefficient and risky \u2014 supporting a system that leaves out more people than it lets in. So we\u2019re rebuilding it. We\u2019re on a mission to open the world\u2019s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we\u2019ve built blockchain infrastructure that tokenizes, custodies, trades and settles assets for the world's leading financial institutions, like PayPal, Venmo, Mastercard, Interactive Brokers and Charles Schwab. About the team Product Security works across engineering to secure our applications and services. Partnering closely with engineering, we integrate security into every stage of development, from design documents to code reviews and CI/CD deployment pipelines. Our focus centers on secure defaults, intelligent automation, and pragmatic solutions rather than bureaucracy. We integrate AI tooling into our everyday testing, code review, and workflow automation. Operating within a highly regulated environment, our work safeguards customer trust and regulatory standing, requiring an exceptionally high standard of execution. About the role As a Senior Application Security Engineer, you will act as a key security partner across product and engineering teams, taking ownership of threat modeling, architecture reviews, and application code assessments, and supporting smart contract reviews. You will maintain and advance our automated security tooling to detect vulnerabilities early in the development lifecycle. Given our cloud-native infrastructure, you will continuously evaluate application and infrastructure security in tandem, analyzing deployment pipelines, service boundaries, access controls, and identity management. Rather than addressing vulnerabilities indi",
+    "posted": "Fri, 27 Nov 2026 10:40:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:12:29.222374+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/one-applied-scientist-foundation-models": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/one-applied-scientist-foundation-models",
+    "source": "WeWorkRemotely",
+    "title": "ONE: Applied Scientist, Foundation Models",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/one-applied-scientist-foundation-models",
+    "description": "Headquarters:  United States (Remote)\n \n\n About OnePay OnePay is the consumer fintech trusted by millions of Americans to make money better. Our financial system is broken. High fees, low rates, and too few ways to actually grow your money. We\u2019re fixing it. And we\u2019re moving fast. We\u2019re an all-in-one financial services platform that brings together banking, high-yield savings, credit cards, point-of-sale lending, investing, and crypto in one place. We also partner with employers, HCM providers, gig platforms, and others to deliver embedded financial services to millions of employees and frontline workers. We\u2019re backed by Walmart, the world\u2019s largest retailer, and Ribbit Capital, one of fintech\u2019s most respected investors, giving us rare scale, distribution, and the opportunity to build something truly category-defining. But what really sets OnePay apart is how we move. Our customers don\u2019t have time to wait\u2026 and neither do we. This place moves fast, and we\u2019re looking for people who are: Ready to run Hungry and driven by urgency Exceptional at what they do, with low ego Comfortable operating in motion The Role As an Applied Scientist, Foundation Models at OnePay, you'll be a founding member of our foundation model effort, building it from the ground up. You will: \u00a0 Design, train, and evaluate OnePay\u2019s foundation models, including models built from scratch on our proprietary data and adaptations of existing open or commercial models to our domain. Fine-tune and deploy these models into production applications across the business, partnering closely with product, engineering, and analytics. Identify and mitigate risks like model bias and unreliable outputs to run foundation models reliably in a regulated financial product. Design and optimize search and retrieval systems to improve discoverability, relevance, and user satisfaction. \u00a0 You Bring 5+ years of experience building and productionizing ML/AI models that deliver measurable business impact. Hands-on experience eith",
+    "posted": "Fri, 27 Nov 2026 10:20:39 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-27T21:12:29.508863+00:00"
   }
 }
