@@ -16023,5 +16023,136 @@
     "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
     "status": "new",
     "found_at": "2026-11-27T21:12:29.508863+00:00"
+  },
+  "remoteok-1138202": {
+    "id": "remoteok-1138202",
+    "source": "RemoteOK",
+    "title": "Senior Software Developer",
+    "company": "Loopio Inc.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+    "description": "Take your career to new heights with Loopio! \u00f0\u009f\u009a\u0080\u00e2\u009c\u00a8 Loopio is a workplace that unleashes learning & growth opportunities for our Loopers. We provide autonomous, challenging work that allows each employee to master their craft. We attract and retain people who are naturally curious, have grit and are eager to grow and build their careers. At Loopio, we genuinely support each other, because true success comes from working as #oneteam. Loopio is on the hunt for a  Senior Software Developer  with an AI engineering background who thrives on solving complex problems and is driven by curiosity. If you have taken LLM-based systems from idea to production and want your work to help leading organizations respond to RFPs faster and with more confidence, this is the role for you. You\u00e2\u0080\u0099ll join a team of Engineers, ML practitioners, Product Managers, and Designers to design and ship AI-powered features, from agentic workflows that reason over long and messy documents to the evaluation and monitoring that keep them reliable in production. At Loopio, we value clean code, evidence-driven decisions, continuous improvement, and knowledge sharing. From shaping technical direction to mentoring teammates, you\u00e2\u0080\u0099ll play a key role in scaling our systems and evolving our product. We\u00e2\u0080\u0099re deeply collaborative. Whether it\u00e2\u0080\u0099s pair programming, technical design reviews, error-analysis sessions, or whiteboarding ideas, we believe the best solutions are built together. If you\u00e2\u0080\u0099re excited by owning problems from zero, letting evidence drive your decisions, and leaving things better than you found them, let\u00e2\u0080\u0099s build the future together. Note: This is an existing vacancy on the team What You\u00e2\u0080\u0099ll Be Doing: Owning problems end to end, from zero. You take an idea or problem through framing, a research plan, build, validation, shipping, and monitoring, and you make fast, honest pursue-or-kill calls along the way. Designing, building, and shipping LLM-based and agentic systems (tool use, multi-ste",
+    "posted": "2026-11-27T00:00:03+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "amazon",
+      "react",
+      "hr",
+      "python",
+      "education",
+      "docker",
+      "technical",
+      "customer support",
+      "transcribing",
+      "testing",
+      "marketing",
+      "web dev",
+      "exec",
+      "virtual assistant",
+      "javascript",
+      "elasticsearch",
+      "java",
+      "serverless",
+      "cloud",
+      "php",
+      "sql",
+      "typescript",
+      "node",
+      "ads",
+      "api",
+      "content writing",
+      "senior",
+      "ops",
+      "legal",
+      "medical",
+      "engineer",
+      "recruiter",
+      "backend",
+      "digital nomad"
+    ],
+    "score": 9,
+    "pitch": "I saw Loopio's search for a Senior Software Developer with an AI engineering background and immediately resonated with your focus on production-grade LLM systems. As a full-stack engineer specializing in applied AI, I build robust end-to-end architectures that power agentic workflows, complex document extraction, and semantic retrieval over messy, unstructured data. I focus heavily on reliability, combining clean code and automated evaluation frameworks with real-time monitoring to eliminate hallucinations and latency. Whether designing scalable backend services, seamless web interfaces, or orchestrating multi-step LLM pipelines, I deliver dependable solutions that solve real business problems. Let's connect to discuss how I can help streamline your RFP automation features.",
+    "status": "new",
+    "found_at": "2026-11-28T07:13:08.881931+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/bitwarden-senior-site-reliability-engineer-fedramp": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/bitwarden-senior-site-reliability-engineer-fedramp",
+    "source": "WeWorkRemotely",
+    "title": "Bitwarden: Senior Site Reliability Engineer - FedRAMP",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/bitwarden-senior-site-reliability-engineer-fedramp",
+    "description": "Headquarters:  Remote, U.S.\n \n\n Bitwarden empowers enterprises, developers, and individuals to securely store and share\u00a0sensitive data. With a transparent, open-source approach to password management, secrets\u00a0management, and passwordless and passkey innovations, Bitwarden makes it easy for users to\u00a0extend robust security practices across all online activities. Founded in 2016 with headquarters\u00a0in Santa Barbara, California, Bitwarden is supported by a passionate global community of\u00a0security experts and enthusiasts. \n As a Senior Site Reliability Engineer - FedRAMP at Bitwarden, you will be responsible for operating and building Bitwarden Gov. You will be responsible for every element of the infrastructure and operations within the new region, including availability, performance, change management, monitoring, incident response, and capacity planning, all while maintaining a strong emphasis on security/compliance/governance. \n We\u2019re looking for team members who can own the current and future state of our Gov cloud\u00a0infrastructure distributed across multiple cloud providers, design and build out new\u00a0infrastructure, as well as operationalize tools and technologies that enable our team and\u00a0application to scale. \n In this role, you will be managing services in a FedRAMP compliant environment, which  requires you to be a U.S. citizen. Additionally, this position may include work specified by the U.S. government that is restricted to U.S. citizens and must be conducted on U.S. territory. \n RESPONSIBILITIES \n \n Take ownership of the Bitwarden Gov cloud infrastructure, with emphasis on security, reliability and quality \n Evaluate current infrastructure and, on a regular basis, make recommendations for reliability, security, availability, scalability and cost management \n Implement site reliability tools, monitoring, early warning and alert systems, and observability across Bitwarden Gov cloud environments \n Respond to infrastructure based outages; participate and contribute to",
+    "posted": "Sat, 28 Nov 2026 06:02:53 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-28T07:13:11.868308+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/oportun-staff-technical-program-manager-r14286": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-staff-technical-program-manager-r14286",
+    "source": "WeWorkRemotely",
+    "title": "Oportun: Staff Technical Program Manager (R14286)",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-staff-technical-program-manager-r14286",
+    "description": "Headquarters:  Remote - US\n \n\n Who We Are \n Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity \n The Staff Technical Program Manager exists to drive complex technical programs that help the Engineering Ecosystem Org deliver member value with high speed and high quality. In year one, success means establishing clear program plans and roadmaps, improving information flow through thoughtful automation, and delivering high-impact initiatives in close partnership with engineering and cross-functional teams. \n At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in. \n What You'll Do \n Your day-to-day \n \n You'll drive continuous improvement in program management processes and practices, fostering innovation, operational excellence, and predictable execution. \n You'll lead and manage multiple complex technical programs from inception through delivery, ensuring clear scope, milestones, dependencies, and outcomes. \n You'll partner with engineering, product management, marketing, legal, compliance, security, risk, and operations to define program goals, deliverables, and execution plans. \n You'll develop detailed program plans, schedules, and roadmaps that align technical work with business objectives and priorities. \n You'll own and improve information-flow pipelines that reduce friction, surface the right level of detail to stakeholders, and reduce manual toil through automation. \n You'll identify a",
+    "posted": "Sat, 28 Nov 2026 06:02:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-28T07:13:12.096958+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/coinbase-finance-strategy-analyst-product": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-finance-strategy-analyst-product",
+    "source": "WeWorkRemotely",
+    "title": "Coinbase: Finance & Strategy Analyst, Product",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-finance-strategy-analyst-product",
+    "description": "Headquarters:  Remote - USA\n \n\n Ready to do the most impactful work of your career?  Coinbase  is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions We're hiring a Finance & Strategy Analyst to join the Product Finance FP&A team and own the financial story behind some of Coinbase's most dynamic revenue lines, including Consumer Trading, Developer, and Stablecoin products. This team provides forecasting, variance analysis, and strategic insights across all revenue and expense lines for the product groups, partnering cross-functionally with Business Operations, Data, Accounting, Treasury, Investor Relations, and HR. You'll build the models and deliver the analysis that help leadership understand what's driving performance, where the risks and opportunities are, and where to focus next. \n What you'll do: \n \n Own Consumer Trading revenue forecasting and variance analysis, reconciling actuals against forecast on a monthly cadence \n Manage end-to-end financial deliverables for Developer and Stablecoin products, covering both revenue forecasting and OpEx budget tracking \n Build and maintain the driver-based financial models that power analysis across Trading, Developer, and Stablecoin revenue and expense lines \n Investigate financial and operational data proactively to surface trends, anomalies, and opportunities before they're asked for \n Lead the month-end close process for your ",
+    "posted": "Sat, 28 Nov 2026 06:02:40 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-28T07:13:15.787626+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/rubrik-job-board-senior-commercial-compliance-analyst": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/rubrik-job-board-senior-commercial-compliance-analyst",
+    "source": "WeWorkRemotely",
+    "title": "Rubrik Job Board: Senior Commercial Compliance Analyst",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-senior-commercial-compliance-analyst",
+    "description": "Headquarters:  Remote\n \n\n About the team: \n The Information Security organization advances the overall state of security at Rubrik through critical initiatives and coordination of large security projects. Information Security builds technologies, tools, and processes to better enable teams at Rubrik to develop secure software and protect data and systems with appropriate security controls. Information Security also develops systems to monitor and respond to attacks against our assets, provides awareness education to teams on security best practices for data protection, and ensures data governance and data sharing relationships with third parties in order to securely protect Rubrik information.\u00a0 \n About the role: \n Rubrik is seeking a Senior Commercial Compliance Analyst to lead Commercial Audit and Certification Management. In this role, you will own Rubrik's portfolio of security certifications and coordinated audits end-to-end, from evidence collection through auditor management to final report delivery, ensuring audit readiness is continuous and audit findings are tracked to closure. \n What you'll do: \n \n Own the audit and certification calendar across Rubrik's active portfolio: SOC 1, SOC 2, ISO 27001, ISO 27017, ISO 27018, ISO 27701, ISO 42001, CSA STAR Level 1 and Level 2, TISAX Level 1 and Level 2, HITRUST, HIPAA. \n Serve as the primary point of contact for external auditors and certification bodies, managing scoping, fieldwork, evidence requests, and remediation of findings through to closure. \n Maintain the mapping between compliance controls and underlying evidence sources so audit readiness is continuous rather than a point-in-time scramble. \n Drive coordinated audit strategy, consolidating overlapping evidence requests across frameworks to reduce duplicate work for control owners. \n Lead evaluation and scoping of emerging and planned certifications to support Rubrik's international and AI governance expansion. \n Manage the lifecycle of certifications end",
+    "posted": "Sat, 28 Nov 2026 06:01:46 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-28T07:13:16.637471+00:00"
+  },
+  "wwr-https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-public-sector": {
+    "id": "wwr-https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-public-sector",
+    "source": "WeWorkRemotely",
+    "title": "Celonis: Senior Value Engineer - Public Sector",
+    "company": "",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-public-sector",
+    "description": "Headquarters:  Remote, US, Virginia\n \n\n Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. Senior Value Engineer\u00a0 \n The Team:  Value Engineering is responsible for our largest Fortune 500 customers and owns their transformation journey by working on the very frontier of what\u2019s possible with data and AI on the Celons Platform. Partnering closely with the Sales team, Value Engineering is responsible for ensuring that the Celonis Platform is deployed to tackle the most strategic business challenges, fits into the right place in our customers\u2019 technology stack and most importantly generates strong ROI through deep and broad deployments. \n The Role:  As a Senior Value Engineer, you will spearhead AI and data-driven business transformation within the public sector by contributing to your customer\u2019s end-to-end value journey using the Celonis Context Model. Working alongside Lead and Principal VEs, you will combine technical execution with consulting and project management. As an AI-fluent operator, your core mandate is to orchestrate complex roadmaps and execute targeted transformation initiatives that improve how these businesses operate across their ecosystems. \n The work you\u2019ll do: \n \n Value Selling & Realization:  Uncover the real issues by peeling back layers of organizational complex",
+    "posted": "Sat, 28 Nov 2026 06:01:15 +0000",
+    "tags": [
+      "full-stack"
+    ],
+    "score": 5,
+    "pitch": "(AI drafting failed this run \u2014 check GEMINI_API_KEY / rate limits.)",
+    "status": "new",
+    "found_at": "2026-11-28T07:13:28.140564+00:00"
   }
 }
